@@ -5,13 +5,13 @@
   "keywords": [
     "lobehub"
   ],
-  "homepage": "https://github.com/lobehub/lobehub/lobe-chat-plugins",
+  "homepage": "https://github.com/lobehub/lobe-chat-plugins",
   "bugs": {
-    "url": "https://github.com/lobehub/lobehub/lobe-chat-plugins/issues/new"
+    "url": "https://github.com/lobehub/lobe-chat-plugins/issues/new"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lobehub/lobehub/lobe-chat-plugins.git"
+    "url": "https://github.com/lobehub/lobe-chat-plugins.git"
   },
   "license": "MIT",
   "author": "LobeHub <i@lobehub.com>",
