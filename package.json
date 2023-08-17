@@ -17,8 +17,10 @@
   "author": "LobeHub <i@lobehub.com>",
   "sideEffects": false,
   "main": "index.json",
+  "types": "index.d.ts",
   "files": [
-    "index.json"
+    "index.json",
+    "index.d.ts"
   ],
   "scripts": {
     "build": "node ./scripts/buildIndex.mjs",
