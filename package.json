@@ -21,7 +21,8 @@
     "index.json"
   ],
   "scripts": {
-    "build": "node ./scripts/buildIndex.mjs"
+    "build": "node ./scripts/buildIndex.mjs",
+    "release": "semantic-release"
   },
   "lint-staged": {
     "*.md": [
