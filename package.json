@@ -1,0 +1,49 @@
+{
+  "name": "lobe-chat-plugin-index",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [
+    "lobehub"
+  ],
+  "homepage": "https://github.com/lobehub/lobe-chat-plugin-index",
+  "bugs": {
+    "url": "https://github.com/lobehub/lobe-chat-plugin-index/issues/new"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lobehub/lobe-chat-plugin-index.git"
+  },
+  "license": "MIT",
+  "author": "LobeHub <i@lobehub.com>",
+  "sideEffects": false,
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ],
+  "scripts": {
+    "build": "node ./scripts/buildIndex.mjs"
+  },
+  "lint-staged": {
+    "*.md": [
+      "remark --quiet --output --",
+      "prettier --write --no-error-on-unmatched-pattern"
+    ],
+    "*.json": [
+      "prettier --write --no-error-on-unmatched-pattern"
+    ]
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17",
+    "@lobehub/lint": "latest",
+    "commitlint": "^17",
+    "eslint": "^8",
+    "husky": "^8",
+    "prettier": "^3",
+    "semantic-release": "^21",
+    "typescript": "^5"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  }
+}

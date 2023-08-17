@@ -1,0 +1,27 @@
+{
+  "createAt": "2023-08-12",
+  "homePage": "https://github.com/DingoBite/weight_gradient",
+  "meta": {
+    "avatar": "☂️",
+    "tags": ["weather"]
+  },
+  "name": "realtimeWeather",
+  "runtime": {
+    "runner": "/",
+    "render": ""
+  },
+  "schema": {
+    "description": "获取当前天气情况",
+    "name": "realtimeWeather",
+    "parameters": {
+      "properties": {
+        "city": {
+          "description": "城市名称",
+          "type": "string"
+        }
+      },
+      "required": ["city"],
+      "type": "object"
+    }
+  }
+}
