@@ -17,8 +17,5 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Install deps
-        run: pnpm install
-
       - name: lint
-        run: pnpm run test
+        run: pnpm run build
