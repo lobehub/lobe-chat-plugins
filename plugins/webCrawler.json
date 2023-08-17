@@ -7,7 +7,7 @@
   },
   "name": "websiteCrawler",
   "runtime": {
-    "endpoint": "/",
+    "endpoint": "https://web-crawler.chat-plugin.lobehub.com/api/v1",
     "render": ""
   },
   "schema": {
