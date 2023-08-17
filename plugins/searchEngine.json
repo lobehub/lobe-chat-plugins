@@ -7,7 +7,7 @@
   },
   "name": "searchEngine",
   "runtime": {
-    "runner": "/",
+    "endpoint": "/",
     "render": ""
   },
   "schema": {

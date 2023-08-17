@@ -7,7 +7,7 @@
   },
   "name": "realtimeWeather",
   "runtime": {
-    "runner": "/",
+    "endpoint": "https://realtime-weather.chat-plugin.lobehub.com/api/v1/runner",
     "render": ""
   },
   "schema": {

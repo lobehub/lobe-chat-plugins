@@ -13,7 +13,7 @@ export interface Meta {
 }
 
 export interface Runtime {
-  runner: string;
+  endpoint: string;
   render?: string;
 }
 

@@ -7,7 +7,7 @@
   },
   "name": "websiteCrawler",
   "runtime": {
-    "runner": "/",
+    "endpoint": "/",
     "render": ""
   },
   "schema": {
