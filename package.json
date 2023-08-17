@@ -1,17 +1,17 @@
 {
-  "name": "lobe-chat-plugin-index",
+  "name": "lobehub/lobe-chat-plugins",
   "version": "0.1.0",
   "description": "",
   "keywords": [
     "lobehub"
   ],
-  "homepage": "https://github.com/lobehub/lobe-chat-plugin-index",
+  "homepage": "https://github.com/lobehub/lobehub/lobe-chat-plugins",
   "bugs": {
-    "url": "https://github.com/lobehub/lobe-chat-plugin-index/issues/new"
+    "url": "https://github.com/lobehub/lobehub/lobe-chat-plugins/issues/new"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lobehub/lobe-chat-plugin-index.git"
+    "url": "https://github.com/lobehub/lobehub/lobe-chat-plugins.git"
   },
   "license": "MIT",
   "author": "LobeHub <i@lobehub.com>",
