@@ -2,6 +2,37 @@
 
 # Changelog
 
+### [Version&nbsp;1.1.2](https://github.com/lobehub/lobe-chat-plugins/compare/v1.1.1...v1.1.2)
+<sup>Released on **2023-08-17**</sup>
+
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix realtimeWeather plugin endpoint url.
+
+
+<br/>
+
+
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+
+
+#### What's fixed
+
+* **misc**: Fix realtimeWeather plugin endpoint url ([28c6608](https://github.com/lobehub/lobe-chat-plugins/commit/28c6608))
+
+</details>
+
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version&nbsp;1.1.1](https://github.com/lobehub/lobe-chat-plugins/compare/v1.1.0...v1.1.1)
 <sup>Released on **2023-08-17**</sup>
 
