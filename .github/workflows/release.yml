@@ -12,7 +12,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-
       - name: Setup Node.js environment
         uses: actions/setup-node@v3
         with:
@@ -25,9 +24,7 @@ jobs:
         uses: cycjimmy/semantic-release-action@v3
         with:
           semantic_version: 19.0.5
-          extra_plugins: |
-            @semantic-release/git
-            @semantic-release/changelog
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
