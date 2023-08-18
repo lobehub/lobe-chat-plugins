@@ -21,7 +21,7 @@
     "index.json"
   ],
   "scripts": {
-    "build": "node ./scripts/buildIndex.mjs"
+    "build": "node .github/scripts/buildIndex.mjs"
   },
   "publishConfig": {
     "access": "public",
