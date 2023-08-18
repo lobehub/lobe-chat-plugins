@@ -18,11 +18,8 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Build
+      - name: Build Index file
         run: npm run build
-
-      - name: Install semantic release deps
-        run: npm i -S @semantic-release/git @semantic-release/changelog
 
       - name: Release
         uses: cycjimmy/semantic-release-action@v3
