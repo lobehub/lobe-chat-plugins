@@ -21,7 +21,7 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Install semantic-release Deps
+      - name: Install semantic release deps
         run: npm i -S @semantic-release/git @semantic-release/changelog
 
       - name: Release
