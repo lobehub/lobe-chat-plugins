@@ -23,27 +23,7 @@
     "index.d.ts"
   ],
   "scripts": {
-    "build": "node ./scripts/buildIndex.mjs",
-    "release": "semantic-release"
-  },
-  "lint-staged": {
-    "*.md": [
-      "remark --quiet --output --",
-      "prettier --write --no-error-on-unmatched-pattern"
-    ],
-    "*.json": [
-      "prettier --write --no-error-on-unmatched-pattern"
-    ]
-  },
-  "devDependencies": {
-    "@commitlint/cli": "^17",
-    "@lobehub/lint": "latest",
-    "commitlint": "^17",
-    "eslint": "^8",
-    "husky": "^8",
-    "prettier": "^3",
-    "semantic-release": "^21",
-    "typescript": "^5"
+    "build": "node ./scripts/buildIndex.mjs"
   },
   "publishConfig": {
     "access": "public",
