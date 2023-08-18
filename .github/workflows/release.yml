@@ -22,15 +22,13 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Install deps
-        run: pnpm install
-
       - name: Build
         run: pnpm run build
 
       - name: Release
-        id: release
-        run: pnpm run release
+        uses: cycjimmy/semantic-release-action@v3
+        with:
+          semantic_version: 19.0.5
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
