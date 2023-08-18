@@ -7,7 +7,7 @@
   },
   "name": "searchEngine",
   "runtime": {
-    "endpoint": "https://search-engine.chat-plugin.lobehub.com /api/v1",
+    "endpoint": "https://search-engine.chat-plugin.lobehub.com/api/v1",
     "render": ""
   },
   "schema": {
