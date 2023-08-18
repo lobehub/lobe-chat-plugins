@@ -10,7 +10,7 @@ const pluginsDir = join(__dirname, "../plugins");
 const plugins = readdirSync(pluginsDir, { withFileTypes: true });
 
 const pluginsIndex = {
-  version: 1,
+  version: 0,
   plugins: [],
 };
 
