@@ -2,6 +2,37 @@
 
 # Changelog
 
+### [Version&nbsp;1.3.1](https://github.com/lobehub/lobe-chat-plugins/compare/v1.3.0...v1.3.1)
+<sup>Released on **2023-08-18**</sup>
+
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix search Engine endpoint.
+
+
+<br/>
+
+
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+
+
+#### What's fixed
+
+* **misc**: Fix search Engine endpoint ([304955c](https://github.com/lobehub/lobe-chat-plugins/commit/304955c))
+
+</details>
+
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version&nbsp;1.3.0](https://github.com/lobehub/lobe-chat-plugins/compare/v1.2.0...v1.3.0)
 <sup>Released on **2023-08-18**</sup>
 
