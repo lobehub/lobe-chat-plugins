@@ -21,8 +21,8 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Install deps
-        run: npm install -g @semantic-release/git @semantic-release/changelog
+      - name: Install semantic-release Deps
+        run: npm i -S @semantic-release/git @semantic-release/changelog
 
       - name: Release
         uses: cycjimmy/semantic-release-action@v3
