@@ -6,8 +6,8 @@ on:
       - master
 
 jobs:
-  build:
-    name: Build
+  release:
+    name: Release
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -29,6 +29,15 @@ jobs:
         uses: cycjimmy/semantic-release-action@v3
         with:
           semantic_version: 19.0.5
+          extra_plugins: |
+            @semantic-release/changelog@6.0.0
+            @semantic-release/git
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+      - name: Install cnpm
+        run: pnpm install cnpm
+
+      - name: Sync to npmmirror
+        run: cnpm sync @lobehub/lobe-chat-plugins
