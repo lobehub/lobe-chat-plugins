@@ -1,27 +1,14 @@
 {
+  "schemaVersion": "v1",
+  "name": "realtimeWeather",
   "createAt": "2023-08-12",
-  "homepage": "https://github.com/DingoBite/weight_gradient",
+  "homepage": "https://github.com/lobehub/chat-plugin-real-time-weather",
   "meta": {
     "avatar": "☂️",
-    "tags": ["weather"]
+    "tags": [
+      "weather",
+      "realtime"
+    ]
   },
-  "name": "realtimeWeather",
-  "runtime": {
-    "endpoint": "https://realtime-weather.chat-plugin.lobehub.com/api/v1",
-    "render": ""
-  },
-  "schema": {
-    "description": "获取当前天气情况",
-    "name": "realtimeWeather",
-    "parameters": {
-      "properties": {
-        "city": {
-          "description": "城市名称",
-          "type": "string"
-        }
-      },
-      "required": ["city"],
-      "type": "object"
-    }
-  }
+  "manifest": "https://realtime-weather.chat-plugin.lobehub.com/manifest.json"
 }
