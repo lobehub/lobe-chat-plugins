@@ -1,27 +1,14 @@
 {
+  "schemaVersion": "v1",
+  "name": "searchEngine",
   "createAt": "2023-08-15",
-  "homepage": "https://github.com/DingoBite/weight_gradient",
+  "homepage": "https://github.com/lobehub/chat-plugin-search-engine",
   "meta": {
     "avatar": "🔍",
-    "tags": ["web", "search"]
+    "tags": [
+      "web",
+      "search"
+    ]
   },
-  "name": "searchEngine",
-  "runtime": {
-    "endpoint": "https://search-engine.chat-plugin.lobehub.com/api/v1",
-    "render": ""
-  },
-  "schema": {
-    "description": "查询搜索引擎获取信息",
-    "name": "searchEngine",
-    "parameters": {
-      "properties": {
-        "keywords": {
-          "description": "关键词",
-          "type": "string"
-        }
-      },
-      "required": ["keywords"],
-      "type": "object"
-    }
-  }
+  "manifest": "https://search-engine.chat-plugin.lobehub.com/manifest.json"
 }

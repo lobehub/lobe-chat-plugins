@@ -1,27 +1,11 @@
 {
+  "schemaVersion": "v1",
+  "name": "websiteCrawler",
   "createAt": "2023-08-17",
-  "homepage": "https://github.com/DingoBite/weight_gradient",
+  "homepage": "https://github.com/lobehub/chat-plugin-web-crawler",
   "meta": {
     "avatar": "🕸",
-    "tags": ["web"]
+    "tags": ["web","content-crawler"]
   },
-  "name": "websiteCrawler",
-  "runtime": {
-    "endpoint": "https://web-crawler.chat-plugin.lobehub.com/api/v1",
-    "render": ""
-  },
-  "schema": {
-    "description": "提取网页内容并总结",
-    "name": "websiteCrawler",
-    "parameters": {
-      "properties": {
-        "url": {
-          "description": "网页内容",
-          "type": "string"
-        }
-      },
-      "required": ["url"],
-      "type": "object"
-    }
-  }
+  "manifest": "https://web-crawler.chat-plugin.lobehub.com/manifest.json"
 }
