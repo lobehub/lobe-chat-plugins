@@ -5,7 +5,11 @@
   "homepage": "https://github.com/lobehub/chat-plugin-web-crawler",
   "meta": {
     "avatar": "🕸",
-    "tags": ["web","content-crawler"]
+    "tags": [
+      "web",
+      "content-crawler"
+    ],
+    "description": "查询搜索引擎获取信息"
   },
   "manifest": "https://web-crawler.chat-plugin.lobehub.com/manifest.json"
 }
