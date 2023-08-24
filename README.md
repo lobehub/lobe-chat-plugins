@@ -63,7 +63,7 @@ If you want to deploy this service by yourself, you can follow the steps below.
 
 ### Deploy to Vercel
 
-Click button below to deploy your private plugins' gateway.
+Click button below to deploy your private plugins index.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flobehub%2Flobe-chat-plugins&project-name=lobe-chat-plugins&repository-name=lobe-chat-plugins)
 
