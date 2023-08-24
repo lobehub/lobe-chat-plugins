@@ -12,9 +12,7 @@
       "content-crawler"
     ],
     "title": "网页内容提取",
-    "description": {
-      "zh-CN": "查询搜索引擎获取信息"
-    }
+    "description": "查询搜索引擎获取信息"
   },
   "manifest": "https://web-crawler.chat-plugin.lobehub.com/manifest.json"
 }
