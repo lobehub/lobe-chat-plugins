@@ -11,7 +11,7 @@
       "content-crawler"
     ],
     "title": "网页内容提取",
-    "description": "查询搜索引擎获取信息"
+    "description": "从网页链接中提取内容"
   },
   "manifest": "https://web-crawler.chat-plugin.lobehub.com/manifest.json"
 }

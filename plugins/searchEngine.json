@@ -10,8 +10,8 @@
       "web",
       "search"
     ],
+    "title": "搜索引擎",
     "description": "查询搜索引擎获取信息"
-
   },
   "manifest": "https://search-engine.chat-plugin.lobehub.com/manifest.json"
 }

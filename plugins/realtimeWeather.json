@@ -10,6 +10,7 @@
       "weather",
       "realtime"
     ],
+    "title": "实时天气预报",
     "description": "获取当前天气情况"
   },
   "manifest": "https://realtime-weather.chat-plugin.lobehub.com/manifest.json"
