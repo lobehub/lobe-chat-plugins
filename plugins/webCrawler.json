@@ -8,12 +8,12 @@
     "avatar": "🕸",
     "tags": ["web", "content-crawler"],
     "title": {
-      "en-US": "Search Engine",
-      "zh-CN": "搜索引擎"
+      "en-US": "Website Crawler",
+      "zh-CN": "网页内容提取"
     },
     "description": {
-      "en-US": "Query search engine to get information",
-      "zh-CN": "查询搜索引擎获取信息"
+      "en-US": "Extract content from web links",
+      "zh-CN": "从网页链接中提取内容"
     }
   },
   "schemaVersion": 1
