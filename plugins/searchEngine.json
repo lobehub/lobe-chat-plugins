@@ -1,17 +1,20 @@
 {
-  "schemaVersion": 1,
-  "identifier": "searchEngine",
-  "createAt": "2023-08-15",
   "author": "LobeHub",
+  "createAt": "2023-08-15",
   "homepage": "https://github.com/lobehub/chat-plugin-search-engine",
+  "identifier": "searchEngine",
+  "manifest": "https://search-engine.chat-plugin.lobehub.com/manifest.json",
   "meta": {
     "avatar": "🔍",
-    "tags": [
-      "web",
-      "search"
-    ],
-    "title": "搜索引擎",
-    "description": "查询搜索引擎获取信息"
+    "tags": ["web", "search"],
+    "title": {
+      "en-US": "Website Crawler",
+      "zh-CN": "网页内容提取"
+    },
+    "description": {
+      "en-US": "Extract content from web links",
+      "zh-CN": "从网页链接中提取内容"
+    }
   },
-  "manifest": "https://search-engine.chat-plugin.lobehub.com/manifest.json"
+  "schemaVersion": 1
 }

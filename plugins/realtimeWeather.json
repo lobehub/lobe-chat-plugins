@@ -1,17 +1,20 @@
 {
-  "schemaVersion": 1,
-  "identifier": "realtimeWeather",
-  "createAt": "2023-08-12",
   "author": "LobeHub",
+  "createAt": "2023-08-12",
   "homepage": "https://github.com/lobehub/chat-plugin-realtime-weather",
+  "identifier": "realtimeWeather",
+  "manifest": "https://realtime-weather.chat-plugin.lobehub.com/manifest.json",
   "meta": {
     "avatar": "🌈",
-    "tags": [
-      "weather",
-      "realtime"
-    ],
-    "title": "实时天气预报",
-    "description": "获取当前天气情况"
+    "tags": ["weather", "realtime"],
+    "title": {
+      "en-US": "Realtime Weather",
+      "zh-CN": "实时天气"
+    },
+    "description": {
+      "en-US": "Get realtime weather information",
+      "zh-CN": "获取当前天气情况"
+    }
   },
-  "manifest": "https://realtime-weather.chat-plugin.lobehub.com/manifest.json"
+  "schemaVersion": 1
 }
