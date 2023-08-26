@@ -8,7 +8,7 @@
 
 <h1>LobeChat Plugins Index</h1>
 
-[Lobe Chat](https://github.com/lobehub/lobe-chat) accesses [`index.json`](https://registry.npmmirror.com/@lobehub/lobe-chat-plugins/latest/files) from this repo to show user the list of available plugins.
+[Lobe Chat](https://github.com/lobehub/lobe-chat) accesses [`index.json`](https://registry.npmmirror.com/@lobehub/lobe-chat-plugins/latest/files) from this repo to show user the list of available plugins for LobeChat.
 
 </div>
 
