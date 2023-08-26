@@ -5,7 +5,7 @@ import {fileURLToPath} from "node:url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const root = join(__dirname, "../..");
+const root = join(__dirname, ".");
 const pluginsDir = join(root, "./plugins");
 
 
@@ -32,6 +32,6 @@ plugins.forEach((file) => {
 
 pluginsIndex.plugins = list.sort((a, b) => new Date(b.createAt) - new Date(a.createAt));
 
-writeFileSync(join(root, "./index.json"), JSON.stringify(pluginsIndex, null, 2), {
+writeFileSync(join(root, "index.json"), JSON.stringify(pluginsIndex, null, 2), {
     encoding: "utf8",
 });
