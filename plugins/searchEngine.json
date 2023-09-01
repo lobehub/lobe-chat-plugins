@@ -7,8 +7,14 @@
   "meta": {
     "avatar": "🔍",
     "tags": ["web", "search"],
-    "title": "搜索引擎",
-    "description": "查询搜索引擎获取信息"
+    "title": {
+      "en-US": "Search Engine",
+      "zh-CN": "搜索引擎"
+    },
+    "description": {
+      "en-US": "Query search engine to get information",
+      "zh-CN": "查询搜索引擎获取信息"
+    }
   },
   "schemaVersion": 1
 }
