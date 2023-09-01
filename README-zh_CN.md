@@ -11,6 +11,7 @@
 [**提交您的插件 >>**](https://github.com/lobehub/lobe-chat-plugins/pulls)
 
 [Lobe Chat](https://github.com/lobehub/lobe-chat) 从该存储库访问 [`index.json`](https://registry.npmmirror.com/@lobehub/lobe-chat-plugins/latest/files) 来为用户展示可用的 LobeChat 插件列表。
+
 [English](./README.md) · **简体中文**
 
 <!-- SHIELD GROUP -->
@@ -28,7 +29,7 @@
 </div>
 
 <details>
-<summary><kbd>Table of contents</kbd></summary>
+<summary><kbd>目录</kbd></summary>
 
 #### TOC
 
