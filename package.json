@@ -11,6 +11,17 @@
   "license": "MIT",
   "author": "LobeHub <i@lobehub.com>",
   "scripts": {
-    "build": "node .build-index.mjs"
+    "test": "npm run format && npm run build",
+    "build": "node scripts/build.mjs",
+    "format": "node scripts/format.mjs",
+    "prettier": "prettier -c --write \"**/*.{json,mjs,md}\""
+  },
+  "devDependencies": {
+    "@lobehub/chat-plugin-sdk": "latest",
+    "@lobehub/lint": "latest",
+    "@types/node": "^20",
+    "consola": "^3",
+    "dayjs": "^1",
+    "prettier": "^3"
   }
 }
