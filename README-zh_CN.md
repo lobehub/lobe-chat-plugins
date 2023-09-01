@@ -6,13 +6,12 @@
 <img height="120" src="https://gw.alipayobjects.com/zos/kitchen/qJ3l3EPsdW/split.svg">
 <img height="120" src="https://registry.npmmirror.com/@lobehub/assets-emoji/1.3.0/files/assets/convenience-store.webp">
 
-<h1>Lobe Chat Plugins Index</h1>
+<h1>Lobe Chat 插件索引</h1>
 
-[**Submit Your Plugin >>**](https://github.com/lobehub/lobe-chat-plugins/pulls)
+[**提交您的插件 >>**](https://github.com/lobehub/lobe-chat-plugins/pulls)
 
-[Lobe Chat](https://github.com/lobehub/lobe-chat) accesses [`index.json`](https://registry.npmmirror.com/@lobehub/lobe-chat-plugins/latest/files) from this repo to show user the list of available plugins for LobeChat.
-
-**English** · [简体中文](./README-zh_CN.md)
+[Lobe Chat](https://github.com/lobehub/lobe-chat) 从该存储库访问 [`index.json`](https://registry.npmmirror.com/@lobehub/lobe-chat-plugins/latest/files) 来为用户展示可用的 LobeChat 插件列表。
+[English](./README.md) · **简体中文**
 
 <!-- SHIELD GROUP -->
 
@@ -33,49 +32,35 @@
 
 #### TOC
 
-- [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
+- [🚀 如何提交您的插件](#-how-to-submit-your-plugin)
 
-  - [Step-by-step Instructions](#step-by-step-instructions)
+  - [提交步骤](#step-by-step-instructions)
 
-- [👀 Notes](#-notes)
+- [👀 注意事项](#-notes)
 
-- [🛳 Self Hosting](#-self-hosting)
+- [🛳 自主托管](#-self-hosting)
 
-  - [Deploy to Vercel](#deploy-to-vercel)
+  - [部署到 Vercel](#deploy-to-vercel)
 
-- [🤝 Contributing](#-contributing)
+- [🤝 参与贡献](#-contributing)
 
 ####
 
 </details>
 
-## 🚀 How to Submit your Plugin
+## 🚀 如何提交您的插件
 
-If you wish to add a plugin onto the index, make an entry in `plugins` directory using `plugin_template.json`, write a short description and tag it appropriately then open as a pull request ty!
+如果您想将插件添加到索引中，请使用 `plugin_template.json` 在 `plugins` 目录中创建一个条目，编写简短的描述并适当标记，然后创建一个拉取请求。
 
-### Step-by-step Instructions
+### 提交步骤
 
-1. <kbd>Fork</kbd> of this repository.
-2. Make a copy of `plugin_template.json`
-3. Fill in the copy and rename it appropriately
-4. Move it into `plugins` directory
-5. Submit a pull request and wait for review.
+1. <kbd>Fork</kbd> 这个存储库
+2. 复制 `plugin_template.json`
+3. 填写副本并适当重命名
+4. 将其移动到 `plugins` 目录中
+5. 提交一个拉取请求并等待审核
 
-> 👉 **Note:** The `createAt` date will be automatically populated after merge.
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
-## 👀 Notes
-
-- An plugin will need to be functioning for it to be included.
-- If plugin is no longer functional and or not maintained, we might redirect it to a fork or remove it form the index.
-- Not all plugins will be accepted, we will review the plugin and make an assessment.
-- You can submit plugins even if you are not the author, but it is preferred that the author do it themselves.
-- If you wish to have your plugin removed, or believes the description does not properly describe your plugin, please open the issue or pull request.
+> 👉 **注意：** `createAt` 日期将在合并后自动填充。
 
 <div align="right">
 
@@ -83,15 +68,13 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 </div>
 
-## 🛳 Self Hosting
+## 👀 注意事项
 
-If you want to deploy this service by yourself, you can follow the steps below.
-
-### Deploy to Vercel
-
-Click button below to deploy your private plugins index.
-
-[![Deploy with Vercel][deploy-shield]][deploy-url]
+- 插件必须是可用的才能包含在内
+- 如果插件不再可用或者没有维护，我们可能会将其重定向到一个分支或从索引中删除
+- 并非所有的插件都会被接受，我们将审核插件并进行评估
+- 即使您不是作者，也可以提交插件，但最好是由作者自己提交
+- 如果您希望删除您的插件，或者认为描述不正确，请提交问题或拉取请求
 
 <div align="right">
 
@@ -99,7 +82,23 @@ Click button below to deploy your private plugins index.
 
 </div>
 
-## 🤝 Contributing
+## 🛳 自主托管
+
+如果您想自己部署此服务，可以按照以下步骤操作
+
+### 部署到 Vercel
+
+单击下面的按钮以部署您的私有插件索引
+
+[![Vercel][deploy-shield]][deploy-url]
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+## 🤝 参与贡献
 
 <!-- CONTRIBUTION GROUP -->
 

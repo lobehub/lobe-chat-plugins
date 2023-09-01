@@ -6,10 +6,7 @@
   "meta": {
     "avatar": "☂️ emoji or logo url",
     "tags": ["tag1", "tag2"],
-    "title": {
-      "en-US": "English Title / if you don't need i18n ,just use title : string",
-      "zh-CN": "中文标题 / 如果不需要多语言，直接使用 title : string"
-    },
-    "description": "plugin_Description / you can use same format as title if you need i18n"
+    "title": "plugin_Title / will auto generate i18n in workflow",
+    "description": "plugin_Description / will auto generate i18n in workflow"
   }
 }
