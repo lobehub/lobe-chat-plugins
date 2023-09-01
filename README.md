@@ -59,6 +59,12 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 > 👉 **Note:** The `createAt` date will be automatically populated after merge.
 
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
 ## 👀 Notes
 
 - An plugin will need to be functioning for it to be included.
