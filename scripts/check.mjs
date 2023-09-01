@@ -14,6 +14,7 @@ export const formatAndCheckSchema = (plugin) => {
     consola.success(`schema check pass`);
   } else {
     consola.error(`schema check fail`);
+    throw new Error(result.error);
   }
   return plugin;
 };
