@@ -6,7 +6,7 @@
 <img height="120" src="https://gw.alipayobjects.com/zos/kitchen/qJ3l3EPsdW/split.svg">
 <img height="120" src="https://registry.npmmirror.com/@lobehub/assets-emoji/1.3.0/files/assets/convenience-store.webp">
 
-<h1>LobeChat Plugins Index</h1>
+<h1>Lobe Chat Plugins Index</h1>
 
 [**Submit Your Plugin >>**](https://github.com/lobehub/lobe-chat-plugins/pulls)
 
