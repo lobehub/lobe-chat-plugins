@@ -2,7 +2,7 @@
   "author": "LobeHub",
   "createAt": "2023-08-12",
   "homepage": "https://github.com/lobehub/chat-plugin-realtime-weather",
-  "identifier": "realtimeWeather",
+  "identifier": "realtime-weather",
   "manifest": "https://realtime-weather.chat-plugin.lobehub.com/manifest.json",
   "meta": {
     "avatar": "🌈",

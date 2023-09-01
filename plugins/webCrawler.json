@@ -2,7 +2,7 @@
   "author": "LobeHub",
   "createAt": "2023-08-17",
   "homepage": "https://github.com/lobehub/chat-plugin-web-crawler",
-  "identifier": "websiteCrawler",
+  "identifier": "website-crawler",
   "manifest": "https://web-crawler.chat-plugin.lobehub.com/manifest.json",
   "meta": {
     "avatar": "🕸",

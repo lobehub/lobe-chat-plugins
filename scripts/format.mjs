@@ -1,4 +1,5 @@
 import { consola } from 'consola';
+import { kebabCase } from 'lodash-es';
 import { readFileSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 
@@ -17,6 +18,10 @@ const formatJSON = async (filePath, checkType) => {
 
   if (checkType) {
     plugin = formatAndCheckSchema(plugin);
+    plugin.identifier = kebabCase(plugin.identifier);
+    if (plugin?.meta?.tags?.length > 0) {
+      plugin.meta.tags = plugin.meta.tags.map((tag) => tag.toLowerCase().replaceAll(' ', '-'));
+    }
 
     // i18n workflow
     if (typeof plugin.meta.title === 'string' && typeof plugin.meta.description === 'string') {
