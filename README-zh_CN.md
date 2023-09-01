@@ -16,6 +16,7 @@
 
 <!-- SHIELD GROUP -->
 
+![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 [![website][website-shield]][website-url]
 [![ciTest][ci-test-shield]][ci-test-url]
 [![ciRelease][ci-release-shield]][ci-release-url] <br/>
