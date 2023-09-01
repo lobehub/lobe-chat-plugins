@@ -43,3 +43,4 @@ test-output
 public
 .prettierrc.js
 .eslintrc.js
+.env

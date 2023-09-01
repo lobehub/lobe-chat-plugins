@@ -1,10 +1,10 @@
-import { pluginMetaSchema } from '@lobehub/chat-plugin-sdk';
 import { consola } from 'consola';
-import dayjs from 'dayjs';
 import { readFileSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 
-import { meta, metaPath, plugins, pluginsDir, root, templatePath } from './const.mjs';
+import { formatAndCheckSchema } from './check.mjs';
+import { metaPath, plugins, pluginsDir, root, templatePath } from './const.mjs';
+import { translateJSON } from './i18n.mjs';
 
 const formatJSON = async (filePath, checkType) => {
   consola.start(filePath.replace(root, ''));
@@ -13,18 +13,20 @@ const formatJSON = async (filePath, checkType) => {
     encoding: 'utf8',
   });
 
-  const plugin = JSON.parse(data);
+  let plugin = JSON.parse(data);
 
   if (checkType) {
-    if (!plugin.schemaVersion) plugin.schemaVersion = meta.schemaVersion;
-    if (!plugin.createAt) plugin.createAt = dayjs().format('YYYY-MM-DD');
+    plugin = formatAndCheckSchema(plugin);
 
-    const result = pluginMetaSchema.safeParse(plugin);
-
-    if (result.success) {
-      consola.success(`schema check pass`);
-    } else {
-      consola.error(`schema check fail`);
+    // i18n workflow
+    if (typeof plugin.meta.title === 'string' && typeof plugin.meta.description === 'string') {
+      const { title, description } = plugin.meta;
+      const translateResult = await translateJSON({ description, title });
+      if (translateResult) {
+        plugin.meta.title = translateResult.title;
+        plugin.meta.description = translateResult.description;
+        consola.success(`i18n generated`);
+      }
     }
   }
 

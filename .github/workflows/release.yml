@@ -50,7 +50,7 @@ jobs:
       - name: Format
         run: pnpm run format
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          OPENAI_TOKEN: ${{ secrets.OPENAI_TOKEN }}
 
       - name: Prettier
         run: |

@@ -1,8 +1,8 @@
-import { pluginMetaSchema } from '@lobehub/chat-plugin-sdk';
 import { consola } from 'consola';
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 
+import { formatAndCheckSchema } from './check.mjs';
 import { meta, plugins, pluginsDir, root } from './const.mjs';
 
 const build = async () => {
@@ -18,14 +18,7 @@ const build = async () => {
         encoding: 'utf8',
       });
       const plugin = JSON.parse(data);
-
-      const result = pluginMetaSchema.safeParse(plugin);
-
-      if (result.success) {
-        list.push(plugin);
-      } else {
-        consola.error(`schema check fail`);
-      }
+      list.push(formatAndCheckSchema(plugin));
     }
   }
 
