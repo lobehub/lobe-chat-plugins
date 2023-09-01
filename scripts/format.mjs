@@ -1,10 +1,8 @@
 import { pluginMetaSchema } from '@lobehub/chat-plugin-sdk';
-import { prettier } from '@lobehub/lint';
 import { consola } from 'consola';
 import dayjs from 'dayjs';
 import { readFileSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
-import { format } from 'prettier';
 
 import { meta, metaPath, plugins, pluginsDir, root, templatePath } from './const.mjs';
 
@@ -30,12 +28,7 @@ const formatJSON = async (filePath, checkType) => {
     }
   }
 
-  const prettierPlugin = await format(JSON.stringify(plugin), {
-    parser: 'json-stringify',
-    plugins: prettier.plugins,
-  });
-
-  writeFileSync(filePath, prettierPlugin, {
+  writeFileSync(filePath, JSON.stringify(plugin, null, 2), {
     encoding: 'utf8',
   });
   consola.success(`format success`);

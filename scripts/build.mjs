@@ -1,9 +1,7 @@
 import { pluginMetaSchema } from '@lobehub/chat-plugin-sdk';
-import { prettier } from '@lobehub/lint';
 import { consola } from 'consola';
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
-import { format } from 'prettier';
 
 import { meta, plugins, pluginsDir, root } from './const.mjs';
 
@@ -37,14 +35,9 @@ const build = async () => {
 
   if (!existsSync(publicPath)) mkdirSync(publicPath);
 
-  const prettierPluginsIndex = await format(JSON.stringify(pluginsIndex), {
-    parser: 'json-stringify',
-    ...prettier,
-  });
-
   writeFileSync(
     resolve(root, './public/index.json'),
-    JSON.stringify(JSON.parse(prettierPluginsIndex)),
+    JSON.stringify(pluginsIndex, null, 2),
     {
       encoding: 'utf8',
     },
