@@ -11,10 +11,10 @@
   "license": "MIT",
   "author": "LobeHub <i@lobehub.com>",
   "scripts": {
-    "test": "npm run format && npm run build",
     "build": "node scripts/build.mjs",
     "format": "node scripts/format.mjs",
-    "prettier": "prettier -c --write \"**/*.{json,mjs,md}\""
+    "prettier": "prettier -c --write \"**/*.{json,mjs,md}\"",
+    "test": "npm run format && npm run build"
   },
   "devDependencies": {
     "@lobehub/chat-plugin-sdk": "latest",

@@ -35,13 +35,9 @@ const build = async () => {
 
   if (!existsSync(publicPath)) mkdirSync(publicPath);
 
-  writeFileSync(
-    resolve(root, './public/index.json'),
-    JSON.stringify(pluginsIndex, null, 2),
-    {
-      encoding: 'utf8',
-    },
-  );
+  writeFileSync(resolve(root, './public/index.json'), JSON.stringify(pluginsIndex, null, 2), {
+    encoding: 'utf8',
+  });
 
   consola.success('build index.json');
 };
