@@ -33,17 +33,17 @@
 
 #### TOC
 
-- [🚀 如何提交您的插件](#-how-to-submit-your-plugin)
+- [🚀 如何提交您的插件](#-如何提交您的插件)
 
-  - [提交步骤](#step-by-step-instructions)
+  - [提交步骤](#提交步骤)
 
-- [👀 注意事项](#-notes)
+- [👀 注意事项](#-注意事项)
 
-- [🛳 自主托管](#-self-hosting)
+- [🛳 自主托管](#-自主托管)
 
-  - [部署到 Vercel](#deploy-to-vercel)
+  - [部署到 Vercel](#部署到-vercel)
 
-- [🤝 参与贡献](#-contributing)
+- [🤝 参与贡献](#-参与贡献)
 
 ####
 

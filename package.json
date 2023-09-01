@@ -14,6 +14,7 @@
     "build": "node scripts/build.mjs",
     "format": "node scripts/format.mjs",
     "lint": "eslint \"scripts/**/*.mjs\" --fix",
+    "lint:md": "remark . --quiet --frail --output",
     "prettier": "prettier -c --write \"**/*.{json,mjs,md}\"",
     "test": "node scripts/test.mjs"
   },
@@ -27,6 +28,8 @@
     "eslint": "^8",
     "langchain": "latest",
     "prettier": "^3",
+    "remark": "^14",
+    "remark-cli": "^11",
     "typescript": "^5"
   }
 }
