@@ -30,9 +30,9 @@
     "langchain": "latest",
     "lodash-es": "^4",
     "prettier": "^3",
+    "react": "^18",
     "remark": "^14",
     "remark-cli": "^11",
-    "typescript": "^5",
-    "react": "^18"
+    "typescript": "^5"
   }
 }
