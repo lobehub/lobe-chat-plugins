@@ -1,5 +1,5 @@
 import { consola } from 'consola';
-import { merge } from 'lodash-es';
+import { cloneDeep, merge } from 'lodash-es';
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 
@@ -29,35 +29,22 @@ const build = async () => {
         const localeData = readFileSync(localeFilePath, {
           encoding: 'utf8',
         });
-        list[locale].push(merge(plugin, JSON.parse(localeData)));
+        list[locale].push(merge(cloneDeep(plugin), JSON.parse(localeData)));
       }
     }
   }
-
-  pluginsIndex.plugins = list[config.entryLocale].sort(
-    (a, b) => new Date(b.createAt) - new Date(a.createAt),
-  );
 
   const publicPath = resolve(root, 'public');
 
   if (!existsSync(publicPath)) mkdirSync(publicPath);
 
-  writeFileSync(resolve(root, './public/index.json'), JSON.stringify(pluginsIndex, null, 2), {
-    encoding: 'utf8',
-  });
-
-  consola.success('build index.json');
-
-  for (const locale of config.outputLocales) {
+  for (const locale of [config.entryLocale, ...config.outputLocales]) {
     pluginsIndex.plugins = list[locale].sort((a, b) => new Date(b.createAt) - new Date(a.createAt));
-    writeFileSync(
-      resolve(root, `./public/index.${locale}.json`),
-      JSON.stringify(pluginsIndex, null, 2),
-      {
-        encoding: 'utf8',
-      },
-    );
-    consola.success(`build index.${locale}.json`);
+    const name = locale === config.entryLocale ? `index.json` : `index.${locale}.json`;
+    writeFileSync(resolve(root, `./public`, name), JSON.stringify(pluginsIndex, null, 2), {
+      encoding: 'utf8',
+    });
+    consola.success(`build ${name}`);
   }
 };
 
