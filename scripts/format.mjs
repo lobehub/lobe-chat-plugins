@@ -1,14 +1,17 @@
 import { consola } from 'consola';
-import { kebabCase } from 'lodash-es';
-import { readFileSync, writeFileSync } from 'node:fs';
+import { get, kebabCase, set } from 'lodash-es';
+import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 
+import config from '../.i18nrc.js';
 import { formatAndCheckSchema } from './check.mjs';
-import { metaPath, plugins, pluginsDir, root, templatePath } from './const.mjs';
+import { localesDir, metaPath, plugins, pluginsDir, templatePath } from './const.mjs';
 import { translateJSON } from './i18n.mjs';
 
-const formatJSON = async (filePath, checkType) => {
-  consola.start(filePath.replace(root, ''));
+const formatJSON = async (fileName, checkType) => {
+  consola.start(fileName);
+
+  const filePath = resolve(pluginsDir, fileName);
 
   const data = readFileSync(filePath, {
     encoding: 'utf8',
@@ -25,12 +28,20 @@ const formatJSON = async (filePath, checkType) => {
 
     // i18n workflow
     if (typeof plugin.meta.title === 'string' && typeof plugin.meta.description === 'string') {
-      const { title, description } = plugin.meta;
-      const translateResult = await translateJSON({ description, title });
-      if (translateResult) {
-        plugin.meta.title = translateResult.title;
-        plugin.meta.description = translateResult.description;
-        consola.success(`i18n generated`);
+      const rawData = {};
+
+      config.selectors.forEach((key) => {
+        set(rawData, key, get(plugin, key));
+      });
+
+      for (const locale of config.outputLocales) {
+        const localeFilePath = resolve(localesDir, fileName.replace('.json', `.${locale}.json`));
+        if (existsSync(localeFilePath)) continue;
+        const translateResult = await translateJSON(rawData, locale);
+        if (translateResult) {
+          writeFileSync(localeFilePath, JSON.stringify(translateResult, null, 2));
+          consola.success(`${locale} generated`);
+        }
       }
     }
   }
@@ -46,8 +57,7 @@ const runFormat = async () => {
   await formatJSON(templatePath);
   for (const file of plugins) {
     if (file.isFile()) {
-      const filePath = resolve(pluginsDir, file.name);
-      await formatJSON(filePath, true);
+      await formatJSON(file.name, true);
     }
   }
 };

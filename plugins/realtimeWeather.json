@@ -6,15 +6,12 @@
   "manifest": "https://realtime-weather.chat-plugin.lobehub.com/manifest.json",
   "meta": {
     "avatar": "🌈",
-    "tags": ["weather", "realtime"],
-    "title": {
-      "en-US": "Realtime Weather",
-      "zh-CN": "实时天气"
-    },
-    "description": {
-      "en-US": "Get realtime weather information",
-      "zh-CN": "获取当前天气情况"
-    }
+    "tags": [
+      "weather",
+      "realtime"
+    ],
+    "title": "Realtime Weather",
+    "description": "Get realtime weather information"
   },
   "schemaVersion": 1
 }

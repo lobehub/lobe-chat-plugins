@@ -6,15 +6,12 @@
   "manifest": "https://web-crawler.chat-plugin.lobehub.com/manifest.json",
   "meta": {
     "avatar": "🕸",
-    "tags": ["web", "content-crawler"],
-    "title": {
-      "en-US": "Website Crawler",
-      "zh-CN": "网页内容提取"
-    },
-    "description": {
-      "en-US": "Extract content from web links",
-      "zh-CN": "从网页链接中提取内容"
-    }
+    "tags": [
+      "web",
+      "content-crawler"
+    ],
+    "title": "Website Crawler",
+    "description": "Extract content from web links"
   },
   "schemaVersion": 1
 }
