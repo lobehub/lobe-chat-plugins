@@ -27,13 +27,14 @@ const formatJSON = async (fileName, checkType) => {
     }
 
     // i18n workflow
-    if (typeof plugin.meta.title === 'string' && typeof plugin.meta.description === 'string') {
-      let rawData = {};
+    let rawData = {};
 
-      for (const key of config.selectors) {
-        set(rawData, key, get(plugin, key));
-      }
+    for (const key of config.selectors) {
+      const rawValue = get(plugin, key);
+      if (rawValue) set(rawData, key, rawValue);
+    }
 
+    if (rawData) {
       if (plugin.locale && plugin.locale !== config.entryLocale) {
         if (config.outputLocales.includes(plugin.locale)) {
           writeFileSync(
