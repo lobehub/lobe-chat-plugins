@@ -32,6 +32,7 @@
     "prettier": "^3",
     "remark": "^14",
     "remark-cli": "^11",
-    "typescript": "^5"
+    "typescript": "^5",
+    "react": "^18"
   }
 }
