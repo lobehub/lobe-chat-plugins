@@ -14,12 +14,12 @@ const model = new ChatOpenAI({
   temperature: 0,
 });
 
-export const translateJSON = async (json, outputLocale) => {
+export const translateJSON = async (json, outputLocale, entryLocale = config.entryLocale) => {
   consola.info('i18n generating...');
   const res = await model.call([
     new SystemMessage(
       [
-        `Translate the i18n JSON file from ${config.entryLocale} to ${outputLocale} according to the BCP 47 standard`,
+        `Translate the i18n JSON file from ${entryLocale} to ${outputLocale} according to the BCP 47 standard`,
         `Keep the keys the same as the original file and make sure the output remains a valid i18n JSON file.`,
       ].join('\n'),
     ),

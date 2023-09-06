@@ -1,5 +1,5 @@
 import { consola } from 'consola';
-import { get, kebabCase, set } from 'lodash-es';
+import { get, kebabCase, merge, set } from 'lodash-es';
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 
@@ -28,11 +28,23 @@ const formatJSON = async (fileName, checkType) => {
 
     // i18n workflow
     if (typeof plugin.meta.title === 'string' && typeof plugin.meta.description === 'string') {
-      const rawData = {};
+      let rawData = {};
 
       config.selectors.forEach((key) => {
         set(rawData, key, get(plugin, key));
       });
+
+      if (plugin.locale && plugin.locale !== config.entryLocale) {
+        if (config.outputLocales.includes(plugin.locale)) {
+          writeFileSync(
+            resolve(localesDir, fileName.replace('.json', `.${plugin.locale}.json`)),
+            JSON.stringify(rawData, null, 2),
+          );
+        }
+        rawData = await translateJSON(rawData, config.entryLocale, plugin.locale);
+        plugin = merge(plugin, rawData);
+        delete plugin.locale;
+      }
 
       for (const locale of config.outputLocales) {
         const localeFilePath = resolve(localesDir, fileName.replace('.json', `.${locale}.json`));
