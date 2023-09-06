@@ -23,14 +23,14 @@ const build = async () => {
       const plugin = formatAndCheckSchema(JSON.parse(data));
       if (!list[config.entryLocale]) list[config.entryLocale] = [];
       list[config.entryLocale].push(plugin);
-      config.outputLocales.forEach((locale) => {
+      for (const locale of config.outputLocales) {
         if (!list[locale]) list[locale] = [];
         const localeFilePath = resolve(localesDir, file.name.replace('.json', `.${locale}.json`));
         const localeData = readFileSync(localeFilePath, {
           encoding: 'utf8',
         });
         list[locale].push(merge(plugin, JSON.parse(localeData)));
-      });
+      }
     }
   }
 
@@ -48,7 +48,7 @@ const build = async () => {
 
   consola.success('build index.json');
 
-  config.outputLocales.forEach((locale) => {
+  for (const locale of config.outputLocales) {
     pluginsIndex.plugins = list[locale].sort((a, b) => new Date(b.createAt) - new Date(a.createAt));
     writeFileSync(
       resolve(root, `./public/index.${locale}.json`),
@@ -58,7 +58,7 @@ const build = async () => {
       },
     );
     consola.success(`build index.${locale}.json`);
-  });
+  }
 };
 
 await build();
