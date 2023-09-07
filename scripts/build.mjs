@@ -11,7 +11,7 @@ const build = async () => {
   const publicPath = resolve(root, 'public');
 
   if (!existsSync(publicPath)) mkdirSync(publicPath);
-  
+
   const pluginsIndex = {
     ...meta,
     plugins: [],
