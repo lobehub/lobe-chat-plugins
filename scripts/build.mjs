@@ -8,6 +8,10 @@ import { formatAndCheckSchema } from './check.mjs';
 import { localesDir, meta, plugins, pluginsDir, root } from './const.mjs';
 
 const build = async () => {
+  const publicPath = resolve(root, 'public');
+
+  if (!existsSync(publicPath)) mkdirSync(publicPath);
+  
   const pluginsIndex = {
     ...meta,
     plugins: [],
@@ -34,14 +38,10 @@ const build = async () => {
     }
   }
 
-  const publicPath = resolve(root, 'public');
-
-  if (!existsSync(publicPath)) mkdirSync(publicPath);
-
   for (const locale of [config.entryLocale, ...config.outputLocales]) {
     pluginsIndex.plugins = list[locale].sort((a, b) => new Date(b.createAt) - new Date(a.createAt));
     const name = locale === config.entryLocale ? `index.json` : `index.${locale}.json`;
-    writeFileSync(resolve(root, `./public`, name), JSON.stringify(pluginsIndex, null, 2), {
+    writeFileSync(resolve(root, `./public`, name), JSON.stringify(pluginsIndex), {
       encoding: 'utf8',
     });
     consola.success(`build ${name}`);
