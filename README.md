@@ -104,7 +104,7 @@ Click button below to deploy your private plugins index.
 
 <!-- CONTRIBUTION GROUP -->
 
-> 📊 Total: <kbd>**4**</kbd>
+> 📊 Total: <kbd>**5**</kbd>
 
 <a href="https://github.com/arvinxx" title="arvinxx">
   <img src="https://avatars.githubusercontent.com/u/28616219?v=4" width="50" />
@@ -112,11 +112,14 @@ Click button below to deploy your private plugins index.
 <a href="https://github.com/canisminor1990" title="canisminor1990">
   <img src="https://avatars.githubusercontent.com/u/17870709?v=4" width="50" />
 </a>
+<a href="https://github.com/lobehubbot" title="lobehubbot">
+  <img src="https://avatars.githubusercontent.com/u/134299653?v=4" width="50" />
+</a>
 <a href="https://github.com/actions-user" title="actions-user">
   <img src="https://avatars.githubusercontent.com/u/65916846?v=4" width="50" />
 </a>
-<a href="https://github.com/lobehubbot" title="lobehubbot">
-  <img src="https://avatars.githubusercontent.com/u/134299653?v=4" width="50" />
+<a href="https://github.com/leeyiding" title="leeyiding">
+  <img src="https://avatars.githubusercontent.com/u/49098278?v=4" width="50" />
 </a>
 
 <!-- CONTRIBUTION END -->
