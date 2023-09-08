@@ -18,3 +18,23 @@ export const formatAndCheckSchema = (plugin) => {
   }
   return plugin;
 };
+
+export const checkUniqueIdentifier = (arr) => {
+  let duplicates = [];
+  let set = new Set();
+
+  for (let i = 0; i < arr.length; i++) {
+    if (set.has(arr[i])) {
+      duplicates.push(arr[i]);
+    } else {
+      set.add(arr[i]);
+    }
+  }
+
+  if (duplicates.length > 0) {
+    consola.error('Duplicates identifier:', JSON.stringify(duplicates));
+    process.exit(1);
+  } else {
+    consola.success('Unique identifier check pass');
+  }
+};
