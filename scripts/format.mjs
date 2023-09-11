@@ -1,29 +1,26 @@
 import { consola } from 'consola';
 import { get, kebabCase, merge, set } from 'lodash-es';
-import { existsSync, readFileSync, writeFileSync } from 'node:fs';
+import { existsSync } from 'node:fs';
 import { resolve } from 'node:path';
 
-import config from '../.i18nrc.js';
 import { formatAndCheckSchema } from './check.mjs';
-import { localesDir, metaPath, plugins, pluginsDir, templatePath } from './const.mjs';
+import { config, localesDir, metaPath, plugins, pluginsDir, templatePath } from './const.mjs';
+import { formatFilenames } from './formatFilename.mjs';
 import { translateJSON } from './i18n.mjs';
+import { checkJSON, readJSON, split, writeJSON } from './utils.mjs';
 
 const formatJSON = async (fileName, checkType) => {
   consola.start(fileName);
 
   const filePath = resolve(pluginsDir, fileName);
 
-  const data = readFileSync(filePath, {
-    encoding: 'utf8',
-  });
-
-  let plugin = JSON.parse(data);
+  let plugin = readJSON(filePath);
 
   if (checkType) {
     plugin = formatAndCheckSchema(plugin);
     plugin.identifier = kebabCase(plugin.identifier);
     if (plugin?.meta?.tags?.length > 0) {
-      plugin.meta.tags = plugin.meta.tags.map((tag) => tag.toLowerCase().replaceAll(' ', '-'));
+      plugin.meta.tags = plugin.meta.tags.map((tag) => kebabCase(tag));
     }
 
     // i18n workflow
@@ -37,9 +34,9 @@ const formatJSON = async (fileName, checkType) => {
     if (rawData) {
       if (plugin.locale && plugin.locale !== config.entryLocale) {
         if (config.outputLocales.includes(plugin.locale)) {
-          writeFileSync(
+          writeJSON(
             resolve(localesDir, fileName.replace('.json', `.${plugin.locale}.json`)),
-            JSON.stringify(rawData, null, 2),
+            rawData,
           );
         }
         rawData = await translateJSON(rawData, config.entryLocale, plugin.locale);
@@ -52,27 +49,30 @@ const formatJSON = async (fileName, checkType) => {
         if (existsSync(localeFilePath)) continue;
         const translateResult = await translateJSON(rawData, locale);
         if (translateResult) {
-          writeFileSync(localeFilePath, JSON.stringify(translateResult, null, 2));
+          writeJSON(localeFilePath, translateResult);
           consola.success(`${locale} generated`);
         }
       }
     }
   }
 
-  writeFileSync(filePath, JSON.stringify(plugin, null, 2), {
-    encoding: 'utf8',
-  });
+  writeJSON(filePath, plugin);
   consola.success(`format success`);
 };
 
 const runFormat = async () => {
+  consola.start('Start format json content...');
   await formatJSON(metaPath);
   await formatJSON(templatePath);
   for (const file of plugins) {
-    if (file.isFile()) {
+    if (checkJSON(file)) {
       await formatJSON(file.name, true);
     }
   }
 };
 
+// run format
+split('FORMAT JSON CONTENT');
 await runFormat();
+split('FORMAT FILENAME');
+formatFilenames();

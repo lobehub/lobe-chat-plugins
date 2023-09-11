@@ -52,12 +52,12 @@
 
 ## 🚀 How to Submit your Plugin
 
-If you wish to add a plugin onto the index, make an entry in `plugins` directory using `plugin_template.json`, write a short description and tag it appropriately then open as a pull request ty!
+If you wish to add a plugin onto the index, make an entry in `plugins` directory using `plugin-template.json`, write a short description and tag it appropriately then open as a pull request ty!
 
 ### Step-by-step Instructions
 
 1. <kbd>Fork</kbd> of this repository.
-2. Make a copy of `plugin_template.json`
+2. Make a copy of `plugin-template.json`
 3. Fill in the copy and rename it appropriately
 4. Move it into `plugins` directory
 5. Submit a pull request and wait for review.
@@ -137,47 +137,23 @@ Click button below to deploy your private plugins index.
 Copyright © 2023 [LobeHub][profile-url]. <br />
 This project is [MIT](./LICENSE) licensed.
 
-<!-- PLUGIN GROUP -->
-
-[website-shield]: https://img.shields.io/website?down_message=offline&label=🤯%20chat-plugins.lobehub.com&up_message=online&url=https%3A%2F%2Fchat-plugins.lobehub.com&style=flat
-[website-url]: https://chat-plugins.lobehub.com
-
 <!-- LINK GROUP -->
 
-[profile-url]: https://github.com/lobehub
-[deploy-shield]: https://vercel.com/button
-[deploy-url]: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flobehub%2Flobe-chat-plugins&project-name=lobe-chat-plugins&repository-name=lobe-chat-plugins
-
-<!-- SHIELD LINK GROUP -->
-
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
-
-<!-- ciTest -->
-
-[ci-test-shield]: https://github.com/lobehub/lobe-chat-plugins/actions/workflows/test.yml/badge.svg
-[ci-test-url]: https://github.com/lobehub/lobe-chat-plugins/actions/workflows/test.yml
-
-<!-- ciRelease -->
-
 [ci-release-shield]: https://github.com/lobehub/lobe-chat-plugins/actions/workflows/release.yml/badge.svg
 [ci-release-url]: https://github.com/lobehub/lobe-chat-plugins/actions/workflows/release.yml
-
-<!-- contributors -->
-
+[ci-test-shield]: https://github.com/lobehub/lobe-chat-plugins/actions/workflows/test.yml/badge.svg
+[ci-test-url]: https://github.com/lobehub/lobe-chat-plugins/actions/workflows/test.yml
 [contributors-shield]: https://img.shields.io/github/contributors/lobehub/lobe-chat-plugins.svg?style=flat
 [contributors-url]: https://github.com/lobehub/lobe-chat-plugins/graphs/contributors
-
-<!-- forks -->
-
+[deploy-shield]: https://vercel.com/button
+[deploy-url]: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flobehub%2Flobe-chat-plugins&project-name=lobe-chat-plugins&repository-name=lobe-chat-plugins
 [forks-shield]: https://img.shields.io/github/forks/lobehub/lobe-chat-plugins.svg?style=flat
 [forks-url]: https://github.com/lobehub/lobe-chat-plugins/network/members
-
-<!-- stargazers -->
-
-[stargazers-shield]: https://img.shields.io/github/stars/lobehub/lobe-chat-plugins.svg?style=flat
-[stargazers-url]: https://github.com/lobehub/lobe-chat-plugins/stargazers
-
-<!-- issues -->
-
 [issues-shield]: https://img.shields.io/github/issues/lobehub/lobe-chat-plugins.svg?style=flat
 [issues-url]: https://github.com/lobehub/lobe-chat-plugins/issues/new/choose
+[profile-url]: https://github.com/lobehub
+[stargazers-shield]: https://img.shields.io/github/stars/lobehub/lobe-chat-plugins.svg?style=flat
+[stargazers-url]: https://github.com/lobehub/lobe-chat-plugins/stargazers
+[website-shield]: https://img.shields.io/website?down_message=offline&label=🤯%20chat-plugins.lobehub.com&up_message=online&url=https%3A%2F%2Fchat-plugins.lobehub.com&style=flat
+[website-url]: https://chat-plugins.lobehub.com
