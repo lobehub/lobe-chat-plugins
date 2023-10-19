@@ -128,12 +128,6 @@ Get realtime weather information
 
  <!-- AWESOME PLUGINS -->
 
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
 ## 🛳 Self Hosting
 
 If you want to deploy this service by yourself, you can follow the steps below.
