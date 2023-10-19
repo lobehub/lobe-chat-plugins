@@ -72,6 +72,64 @@
 
 </div>
 
+## 🕶 Awesome Plugins
+
+<!-- AWESOME PLUGINS --> 
+
+### 网站爬虫
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
+
+从网页链接中提取内容
+
+`网页` `内容爬取器`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 搜索引擎
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **2023-08-15**</sup>
+
+查询搜索引擎以获取信息
+
+`网络` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 实时天气
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **2023-08-12**</sup>
+
+获取实时天气信息
+
+`天气` `实时`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+ <!-- AWESOME PLUGINS -->
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
 ## 🛳 自主托管
 
 如果您想自己部署此服务，可以按照以下步骤操作

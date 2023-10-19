@@ -1,9 +1,9 @@
 import { consola } from 'consola';
 import { resolve } from 'node:path';
 
-import { checkUniqueIdentifier, formatAndCheckSchema } from './check.mjs';
-import { plugins, pluginsDir, root } from './const.mjs';
-import { readJSON } from './utils.mjs';
+import { checkUniqueIdentifier, formatAndCheckSchema } from './check';
+import { plugins, pluginsDir, root } from './const';
+import { readJSON } from './utils';
 
 const runTest = () => {
   const identifiers = [];

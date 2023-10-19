@@ -3,11 +3,11 @@ import { get, kebabCase, merge, set } from 'lodash-es';
 import { existsSync } from 'node:fs';
 import { resolve } from 'node:path';
 
-import { formatAndCheckSchema } from './check.mjs';
-import { config, localesDir, metaPath, plugins, pluginsDir, templatePath } from './const.mjs';
-import { formatFilenames } from './formatFilename.mjs';
-import { translateJSON } from './i18n.mjs';
-import { checkJSON, readJSON, split, writeJSON } from './utils.mjs';
+import { formatAndCheckSchema } from './check';
+import { config, localesDir, metaPath, plugins, pluginsDir, templatePath } from './const';
+import { formatFilenames } from './formatFilename';
+import { translateJSON } from './i18n';
+import { checkJSON, readJSON, split, writeJSON } from './utils';
 
 const formatJSON = async (fileName, checkType) => {
   consola.start(fileName);

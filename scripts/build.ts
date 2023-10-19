@@ -2,9 +2,9 @@ import { consola } from 'consola';
 import { cloneDeep, merge } from 'lodash-es';
 import { resolve } from 'node:path';
 
-import { formatAndCheckSchema } from './check.mjs';
-import { config, localesDir, meta, plugins, pluginsDir, publicDir } from './const.mjs';
-import { checkDir, readJSON, writeJSON } from './utils.mjs';
+import { formatAndCheckSchema } from './check';
+import { config, localesDir, meta, plugins, pluginsDir, publicDir } from './const';
+import { checkDir, readJSON, writeJSON, findDuplicates } from './utils';
 
 const build = async () => {
   checkDir(publicDir);
@@ -32,7 +32,19 @@ const build = async () => {
   }
 
   for (const locale of [config.entryLocale, ...config.outputLocales]) {
+    // @ts-ignore
     pluginsIndex.plugins = list[locale].sort((a, b) => new Date(b.createAt) - new Date(a.createAt));
+
+    let tags: string[] = [];
+
+    pluginsIndex.plugins.forEach((plugin) => {
+        tags = [...tags, ...plugin.meta.tags];
+      });
+
+    tags = findDuplicates(tags);
+
+    pluginsIndex.tags = tags
+
     const name = locale === config.entryLocale ? `index.json` : `index.${locale}.json`;
     writeJSON(resolve(publicDir, name), pluginsIndex, false);
     consola.success(`build ${name}`);

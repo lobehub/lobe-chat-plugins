@@ -2,7 +2,7 @@ import { pluginMetaSchema } from '@lobehub/chat-plugin-sdk';
 import { consola } from 'consola';
 import dayjs from 'dayjs';
 
-import { meta } from './const.mjs';
+import { meta } from './const';
 
 export const formatAndCheckSchema = (plugin) => {
   if (!plugin.schemaVersion) plugin.schemaVersion = meta.schemaVersion;

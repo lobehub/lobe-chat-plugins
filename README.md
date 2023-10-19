@@ -72,6 +72,65 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 </div>
 
+
+## 🕶 Awesome Plugins
+
+<!-- AWESOME PLUGINS --> 
+
+### Website Crawler
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
+
+Extract content from web links
+
+`web` `content-crawler`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Search Engine
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **2023-08-15**</sup>
+
+Query search engine to get information
+
+`web` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Realtime Weather
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **2023-08-12**</sup>
+
+Get realtime weather information
+
+`weather` `realtime`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+ <!-- AWESOME PLUGINS -->
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
 ## 🛳 Self Hosting
 
 If you want to deploy this service by yourself, you can follow the steps below.

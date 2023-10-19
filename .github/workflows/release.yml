@@ -25,10 +25,15 @@ jobs:
         run: bun run format
         env:
           OPENAI_TOKEN: ${{ secrets.OPENAI_TOKEN }}
+          
+      - name: Awesome
+        run: bun run awesome
 
       - name: Prettier
         run: |
-          echo "module.exports = require('@lobehub/lint').prettier;" >> .prettierrc.js
+          echo "module.exports = require('@lobehub/lint').remarklint;" >> .remarkrc.cjs
+          bun run lint:md
+          echo "module.exports = require('@lobehub/lint').prettier;" >> .prettierrc.cjs
           bun run prettier
 
       - name: Commit changes

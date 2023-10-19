@@ -2,8 +2,8 @@ import { consola } from 'consola';
 import { renameSync } from 'node:fs';
 import { resolve } from 'node:path';
 
-import { localesDir, pluginLocales, plugins, pluginsDir } from './const.mjs';
-import { checkJSON, readJSON } from './utils.mjs';
+import { localesDir, pluginLocales, plugins, pluginsDir } from './const';
+import { checkJSON, readJSON } from './utils';
 
 const formatFilenameById = (fileName) => {
   const filePath = resolve(pluginsDir, fileName);
