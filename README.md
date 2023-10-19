@@ -34,6 +34,10 @@
 
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
+- [🕶 Awesome Plugins](#-awesome-plugins)
+  - [Website Crawler](#website-crawler)
+  - [Search Engine](#search-engine)
+  - [Realtime Weather](#realtime-weather)
 - [🛳 Self Hosting](#-self-hosting)
   - [Deploy to Vercel](#deploy-to-vercel)
 - [🤝 Contributing](#-contributing)
@@ -72,10 +76,9 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 </div>
 
-
 ## 🕶 Awesome Plugins
 
-<!-- AWESOME PLUGINS --> 
+<!-- AWESOME PLUGINS -->
 
 ### Website Crawler
 

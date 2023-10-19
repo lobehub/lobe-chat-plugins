@@ -2,7 +2,7 @@ import { consola } from 'consola';
 import { colors } from 'consola/utils';
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 
-import { readmeSplit } from "./const"
+import { readmeSplit } from './const';
 
 export const readJSON = (filePath) => {
   const data = readFileSync(filePath, 'utf8');

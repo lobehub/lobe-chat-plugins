@@ -4,7 +4,7 @@ import { resolve } from 'node:path';
 
 import { formatAndCheckSchema } from './check';
 import { config, localesDir, meta, plugins, pluginsDir, publicDir } from './const';
-import { checkDir, readJSON, writeJSON, findDuplicates } from './utils';
+import { checkDir, findDuplicates, readJSON, writeJSON } from './utils';
 
 const build = async () => {
   checkDir(publicDir);
@@ -38,12 +38,12 @@ const build = async () => {
     let tags: string[] = [];
 
     pluginsIndex.plugins.forEach((plugin) => {
-        tags = [...tags, ...plugin.meta.tags];
-      });
+      tags = [...tags, ...plugin.meta.tags];
+    });
 
     tags = findDuplicates(tags);
 
-    pluginsIndex.tags = tags
+    pluginsIndex.tags = tags;
 
     const name = locale === config.entryLocale ? `index.json` : `index.${locale}.json`;
     writeJSON(resolve(publicDir, name), pluginsIndex, false);

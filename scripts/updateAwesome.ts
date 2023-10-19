@@ -2,10 +2,10 @@ import { readFileSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 
 import { indexCnPath, indexPath, publicDir, readmeCnPath, readmePath } from './const';
-import { updateAwesomeReadme, readJSON } from './utils';
+import { readJSON, updateAwesomeReadme } from './utils';
 
 const updateAwesome = (filePath: string, md: string, plugins, locale?: string) => {
-  const data:string[] = [];
+  const data: string[] = [];
 
   plugins.forEach(({ identifier, author, createAt, homepage, meta }, i) => {
     const pluginConfigPath = resolve(
@@ -22,7 +22,7 @@ const updateAwesome = (filePath: string, md: string, plugins, locale?: string) =
         .join(' ')}`,
     ].join('\n\n');
 
-    const body:string = [
+    const body: string = [
       i !== 0 ? '---' : false,
       header,
       subHeader,
