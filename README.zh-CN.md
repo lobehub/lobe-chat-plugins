@@ -128,12 +128,6 @@
 
  <!-- AWESOME PLUGINS -->
 
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
 ## 🛳 自主托管
 
 如果您想自己部署此服务，可以按照以下步骤操作
