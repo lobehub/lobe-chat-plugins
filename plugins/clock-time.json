@@ -1,0 +1,14 @@
+{
+  "author": "LobeHub",
+  "createAt": "2023-11-01",
+  "homepage": "https://github.com/lobehub/chat-plugin-clock-time",
+  "identifier": "clock-time",
+  "manifest": "https://clock-time.chat-plugin.lobehub.com/manifest.json",
+  "meta": {
+    "avatar": "🕐",
+    "tags": ["clock", "time"],
+    "title": "Clock Time",
+    "description": "display a clock to show current time"
+  },
+  "schemaVersion": 1
+}

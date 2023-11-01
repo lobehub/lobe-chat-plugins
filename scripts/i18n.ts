@@ -5,14 +5,7 @@ import { HumanMessage, SystemMessage } from 'langchain/schema';
 
 import { config } from './const';
 
-if (!process.env.OPENAI_TOKEN) {
-  consola.error('cannot find OPENAI_TOKEN in env');
-}
-
-const model = new ChatOpenAI({
-  openAIApiKey: process.env.OPENAI_TOKEN,
-  temperature: 0,
-});
+const model = new ChatOpenAI({ temperature: 0 }, { baseURL: process.env.OPENAI_PROXY_URL });
 
 export const translateJSON = async (json, outputLocale, entryLocale = config.entryLocale) => {
   consola.info('i18n generating...');
