@@ -35,6 +35,7 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [时钟时间](#时钟时间)
   - [网站爬虫](#网站爬虫)
   - [搜索引擎](#搜索引擎)
   - [实时天气](#实时天气)
@@ -79,6 +80,22 @@
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### 时钟时间
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-clock-time)** on **2023-11-01**</sup>
+
+显示一个时钟来展示当前时间
+
+`时钟` `时间`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### 网站爬虫
 
