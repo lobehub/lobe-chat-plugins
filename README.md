@@ -85,7 +85,7 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-clock-time)** on **2023-11-01**</sup>
 
-display a clock to show current time
+Display a clock to show current time
 
 `clock` `time`
 
