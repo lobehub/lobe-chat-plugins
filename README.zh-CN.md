@@ -161,6 +161,35 @@
 
 </div>
 
+## ⌨️ 本地开发
+
+可以使用 GitHub Codespaces 进行在线开发：
+
+[![][github-codespace-shield]][github-codespace-link]
+
+或者使用以下命令进行本地开发：
+
+[![][bun-shield]][bun-link]
+
+```bash
+$ git clone https://github.com/lobehub/lobe-chat-plugins.git
+$ cd lobe-chat-plugins
+$ bun install
+```
+
+如果需要在本地运行 `format` 脚本，需要配置相应的环境变量：
+
+| 环境变量           | 类型 | 示例                 |
+| ------------------ | ---- | -------------------- |
+| `OPENAI_API_KEY`   | 必选 | `sk-xxxxxx...xxxxxx` |
+| `OPENAI_PROXY_URL` | 可选 | `-`                  |
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
 ## 🤝 参与贡献
 
 我们非常欢迎各种形式的贡献。如果你对贡献插件感兴趣，可以大展身手，向我们展示你的奇思妙想。
@@ -196,6 +225,10 @@ This project is [MIT](./LICENSE) licensed.
 <!-- LINK GROUP -->
 
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
+[github-codespace-shield]: https://github.com/codespaces/badge.svg
+[github-codespace-link]: https://codespaces.new/lobehub/lobe-chat-plugins
+[bun-shield]: https://img.shields.io/badge/-speedup%20with%20bun-black?logo=bun&style=for-the-badge
+[bun-link]: https://bun.sh
 [deploy-shield]: https://vercel.com/button
 [deploy-url]: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flobehub%2Flobe-chat-plugins&project-name=lobe-chat-plugins&repository-name=lobe-chat-plugins
 [github-action-release-link]: https://github.com/lobehub/lobe-chat-plugins/actions/workflows/release.yml
