@@ -161,6 +161,28 @@ Click button below to deploy your private plugins index.
 
 </div>
 
+## ⌨️ Local Development
+
+You can use Github Codespaces for online development:
+
+[![][github-codespace-shield]][github-codespace-link]
+
+Or clone it for local development:
+
+[![][bun-shield]][bun-link]
+
+```bash
+$ git clone https://github.com/lobehub/lobe-chat-plugins.git
+$ cd lobe-chat-plugins
+$ bun install
+```
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
 ## 🤝 Contributing
 
 Contributions of all types are more than welcome, if you are interested in contributing plugin, feel free to show us what you’re made of.
@@ -196,6 +218,10 @@ This project is [MIT](./LICENSE) licensed.
 <!-- LINK GROUP -->
 
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
+[bun-shield]: https://img.shields.io/badge/-speedup%20with%20bun-black?logo=bun&style=for-the-badge
+[bun-link]: https://bun.sh
+[github-codespace-shield]: https://github.com/codespaces/badge.svg
+[github-codespace-link]: https://codespaces.new/lobehub/lobe-chat-plugins
 [deploy-shield]: https://vercel.com/button
 [deploy-url]: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flobehub%2Flobe-chat-plugins&project-name=lobe-chat-plugins&repository-name=lobe-chat-plugins
 [github-action-release-link]: https://github.com/lobehub/lobe-chat-plugins/actions/workflows/release.yml
