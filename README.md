@@ -178,6 +178,13 @@ $ cd lobe-chat-plugins
 $ bun install
 ```
 
+If you need to run the `format` script locally, you need to configure the corresponding environment variables:
+
+| Environment Variable | Type     | Example              |
+| -------------------- | -------- | -------------------- |
+| `OPENAI_API_KEY`     | Required | `sk-xxxxxx...xxxxxx` |
+| `OPENAI_PROXY_URL`   | Optional | `-`                  |
+
 <div align="right">
 
 [![][back-to-top]](#readme-top)
