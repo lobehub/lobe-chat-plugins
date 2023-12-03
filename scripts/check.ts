@@ -6,7 +6,7 @@ import { meta } from './const';
 
 export const formatAndCheckSchema = (plugin) => {
   if (!plugin.schemaVersion) plugin.schemaVersion = meta.schemaVersion;
-  if (!plugin.createAt) plugin.createAt = dayjs().format('YYYY-MM-DD');
+  if (!plugin.createdAt) plugin.createdAt = dayjs().format('YYYY-MM-DD');
 
   const result = pluginMetaSchema.safeParse(plugin);
 
