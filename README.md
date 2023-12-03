@@ -61,10 +61,10 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 4. Move it into `plugins` directory
 5. Submit a pull request and wait for review.
 
-> **Important**\
+> \[!IMPORTANT]\
 > The `createAt` date will be automatically populated after merge.
 
-> **Note**
+> \[!NOTE]
 >
 > - An plugin will need to be functioning for it to be included.
 > - If plugin is no longer functional and or not maintained, we might redirect it to a fork or remove it form the index.
