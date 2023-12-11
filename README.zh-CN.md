@@ -35,6 +35,7 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [授粉绘画](#授粉绘画)
   - [时钟时间](#时钟时间)
   - [网站爬虫](#网站爬虫)
   - [搜索引擎](#搜索引擎)
@@ -81,6 +82,22 @@
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### 授粉绘画
+
+<sup>By **[@AI0x0](https://github.com/mushan0x0/lobe-pollinations-ai)** on **2023-12-10**</sup>
+
+通过 pollinations.ai 进行图像生成
+
+`drawing` `image`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### 时钟时间
 
