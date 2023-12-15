@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "ウェブサイトクローラー",
+    "description": "ウェブリンクからコンテンツを抽出します",
+    "tags": ["web", "content-crawler"]
+  }
+}
