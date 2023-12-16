@@ -35,11 +35,12 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [Ask Your PDF](#ask-your-pdf)
   - [Pollinate drawing](#pollinate-drawing)
-  - [Clock Time](#clock-time)
-  - [Website Crawler](#website-crawler)
   - [Search Engine](#search-engine)
+  - [Website Crawler](#website-crawler)
   - [Realtime Weather](#realtime-weather)
+  - [Clock Time](#clock-time)
 - [🛳 Self Hosting](#-self-hosting)
   - [Deploy to Vercel](#deploy-to-vercel)
 - [⌨️ Local Development](#️-local-development)
@@ -83,9 +84,25 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
+### Ask Your PDF
+
+<sup>By **[@AskYourPDF](https://askyourpdf.com/)** on **undefined**</sup>
+
+Unlock the power of your PDFs!, dive into your documents, find answers, and bring information to your fingertips.
+
+`pdf` `document`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### Pollinate drawing
 
-<sup>By **[@AI0x0](https://github.com/mushan0x0/lobe-pollinations-ai)** on **2023-12-10**</sup>
+<sup>By **[@AI0x0](https://github.com/mushan0x0/lobe-pollinations-ai)** on **undefined**</sup>
 
 Generate images through pollinations.ai
 
@@ -99,41 +116,9 @@ Generate images through pollinations.ai
 
 ---
 
-### Clock Time
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-clock-time)** on **2023-11-01**</sup>
-
-Display a clock to show current time
-
-`clock` `time`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Website Crawler
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
-
-Extract content from web links
-
-`web` `content-crawler`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### Search Engine
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **2023-08-15**</sup>
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **undefined**</sup>
 
 Query search engine to get information
 
@@ -147,13 +132,45 @@ Query search engine to get information
 
 ---
 
+### Website Crawler
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **undefined**</sup>
+
+Extract content from web links
+
+`web` `content-crawler`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### Realtime Weather
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **2023-08-12**</sup>
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **undefined**</sup>
 
 Get realtime weather information
 
 `weather` `realtime`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Clock Time
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-clock-time)** on **undefined**</sup>
+
+Display a clock to show current time
+
+`clock` `time`
 
 <div align="right">
 

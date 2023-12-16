@@ -35,11 +35,12 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [询问您的 PDF](#询问您的-pdf)
   - [授粉绘画](#授粉绘画)
-  - [时钟时间](#时钟时间)
-  - [网站爬虫](#网站爬虫)
   - [搜索引擎](#搜索引擎)
+  - [网站爬虫](#网站爬虫)
   - [实时天气](#实时天气)
+  - [时钟时间](#时钟时间)
 - [🛳 自主托管](#-自主托管)
   - [部署到 Vercel](#部署到-vercel)
 - [⌨️ 本地开发](#️-本地开发)
@@ -83,9 +84,25 @@
 
 <!-- AWESOME PLUGINS -->
 
+### 询问您的 PDF
+
+<sup>By **[@AskYourPDF](https://askyourpdf.com/)** on **undefined**</sup>
+
+释放您的 PDF 的力量！深入您的文档，找到答案，并将信息带到您的指尖。
+
+`pdf` `文档`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### 授粉绘画
 
-<sup>By **[@AI0x0](https://github.com/mushan0x0/lobe-pollinations-ai)** on **2023-12-10**</sup>
+<sup>By **[@AI0x0](https://github.com/mushan0x0/lobe-pollinations-ai)** on **undefined**</sup>
 
 通过 pollinations.ai 进行图像生成
 
@@ -99,41 +116,9 @@
 
 ---
 
-### 时钟时间
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-clock-time)** on **2023-11-01**</sup>
-
-显示一个时钟来展示当前时间
-
-`时钟` `时间`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 网站爬虫
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
-
-从网页链接中提取内容
-
-`网页` `内容爬取器`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### 搜索引擎
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **2023-08-15**</sup>
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **undefined**</sup>
 
 查询搜索引擎以获取信息
 
@@ -147,13 +132,45 @@
 
 ---
 
+### 网站爬虫
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **undefined**</sup>
+
+从网页链接中提取内容
+
+`网页` `内容爬取器`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### 实时天气
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **2023-08-12**</sup>
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **undefined**</sup>
 
 获取实时天气信息
 
 `天气` `实时`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 时钟时间
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-clock-time)** on **undefined**</sup>
+
+显示一个时钟来展示当前时间
+
+`时钟` `时间`
 
 <div align="right">
 
