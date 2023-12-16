@@ -1,0 +1,14 @@
+{
+  "author": "Steven Tey",
+  "createdAt": "2023-12-16",
+  "homepage": "https://github.com/steven-tey/weathergpt",
+  "identifier": "weather-gpt",
+  "manifest": "https://weathergpt.vercel.app/.well-known/ai-plugin.json",
+  "meta": {
+    "avatar": "https://weathergpt.vercel.app/logo.png",
+    "tags": ["weather"],
+    "title": "weather GPT",
+    "description": "Get current weather information for a specific location."
+  },
+  "schemaVersion": 1
+}
