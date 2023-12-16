@@ -35,13 +35,14 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [weather GPT](#weather-gpt)
   - [Ask Your PDF](#ask-your-pdf)
+  - [SEO](#seo)
   - [Pollinate drawing](#pollinate-drawing)
   - [Search Engine](#search-engine)
   - [Website Crawler](#website-crawler)
   - [Realtime Weather](#realtime-weather)
   - [Clock Time](#clock-time)
-  - [weather GPT](#weather-gpt)
 - [🛳 Self Hosting](#-self-hosting)
   - [Deploy to Vercel](#deploy-to-vercel)
 - [⌨️ Local Development](#️-local-development)
@@ -85,6 +86,22 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
+### weather GPT
+
+<sup>By **[@Steven Tey](https://github.com/steven-tey/weathergpt)** on **undefined**</sup>
+
+Get current weather information for a specific location.
+
+`weather`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### Ask Your PDF
 
 <sup>By **[@AskYourPDF](https://askyourpdf.com/)** on **undefined**</sup>
@@ -92,6 +109,22 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 Unlock the power of your PDFs!, dive into your documents, find answers, and bring information to your fingertips.
 
 `pdf` `document`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### SEO
+
+<sup>By **[@Orren Prunckun](https://orrenprunckun.com)** on **undefined**</sup>
+
+Enter any URL and keyword and get an On-Page SEO analysis & insights!
+
+`seo`
 
 <div align="right">
 
@@ -172,22 +205,6 @@ Get realtime weather information
 Display a clock to show current time
 
 `clock` `time`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### weather GPT
-
-<sup>By **[@Steven Tey](https://github.com/steven-tey/weathergpt)** on **undefined**</sup>
-
-Get current weather information for a specific location.
-
-`weather`
 
 <div align="right">
 

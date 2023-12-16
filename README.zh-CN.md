@@ -35,13 +35,14 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [天气 GPT](#天气-gpt)
   - [AskYouPDF](#askyoupdf)
+  - [SEO](#seo)
   - [授粉绘画](#授粉绘画)
   - [搜索引擎](#搜索引擎)
   - [网站爬虫](#网站爬虫)
   - [实时天气](#实时天气)
   - [时钟时间](#时钟时间)
-  - [天气 GPT](#天气-gpt)
 - [🛳 自主托管](#-自主托管)
   - [部署到 Vercel](#部署到-vercel)
 - [⌨️ 本地开发](#️-本地开发)
@@ -85,6 +86,22 @@
 
 <!-- AWESOME PLUGINS -->
 
+### 天气 GPT
+
+<sup>By **[@Steven Tey](https://github.com/steven-tey/weathergpt)** on **undefined**</sup>
+
+获取特定位置的当前天气信息。
+
+`天气`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### AskYouPDF
 
 <sup>By **[@AskYourPDF](https://askyourpdf.com/)** on **undefined**</sup>
@@ -92,6 +109,22 @@
 释放您的 PDF 的力量！深入您的文档，找到答案，并将信息带到您的指尖。
 
 `pdf` `文档`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### SEO
+
+<sup>By **[@Orren Prunckun](https://orrenprunckun.com)** on **undefined**</sup>
+
+输入任何 URL 和关键词，获取页面 SEO 分析和见解！
+
+`seo`
 
 <div align="right">
 
@@ -172,22 +205,6 @@
 显示一个时钟来展示当前时间
 
 `时钟` `时间`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 天气 GPT
-
-<sup>By **[@Steven Tey](https://github.com/steven-tey/weathergpt)** on **undefined**</sup>
-
-获取特定位置的当前天气信息。
-
-`天气`
 
 <div align="right">
 
