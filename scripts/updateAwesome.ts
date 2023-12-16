@@ -7,13 +7,13 @@ import { readJSON, updateAwesomeReadme } from './utils';
 const updateAwesome = (filePath: string, md: string, plugins, locale?: string) => {
   const data: string[] = [];
 
-  plugins.forEach(({ identifier, author, createAt, homepage, meta }, i) => {
+  plugins.forEach(({ identifier, author, createdAt, homepage, meta }, i) => {
     const pluginConfigPath = resolve(
       publicDir,
       [identifier, locale, 'json'].filter(Boolean).join('.'),
     );
     const header = `### ${meta.title}`;
-    const subHeader = `<sup>By **[@${author}](${homepage})** on **${createAt}**</sup>`;
+    const subHeader = `<sup>By **[@${author}](${homepage})** on **${createdAt}**</sup>`;
     const desc = [
       `${meta.description}`,
       `${meta.tags
