@@ -108,7 +108,7 @@ Get current weather information for a specific location.
 
 Unlock the power of your PDFs!, dive into your documents, find answers, and bring information to your fingertips.
 
-`pdf` `document`
+`pdf` `document` `web`
 
 <div align="right">
 
