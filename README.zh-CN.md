@@ -88,7 +88,7 @@
 
 ### 天气 GPT
 
-<sup>By **[@Steven Tey](https://github.com/steven-tey/weathergpt)** on **undefined**</sup>
+<sup>By **[@Steven Tey](https://github.com/steven-tey/weathergpt)** on **2023-12-16**</sup>
 
 获取特定位置的当前天气信息。
 
@@ -104,7 +104,7 @@
 
 ### AskYouPDF
 
-<sup>By **[@AskYourPDF](https://askyourpdf.com/)** on **undefined**</sup>
+<sup>By **[@AskYourPDF](https://askyourpdf.com/)** on **2023-12-16**</sup>
 
 释放您的 PDF 的力量！深入您的文档，找到答案，并将信息带到您的指尖。
 
@@ -120,7 +120,7 @@
 
 ### SEO
 
-<sup>By **[@Orren Prunckun](https://orrenprunckun.com)** on **undefined**</sup>
+<sup>By **[@Orren Prunckun](https://orrenprunckun.com)** on **2023-12-16**</sup>
 
 输入任何 URL 和关键词，获取页面 SEO 分析和见解！
 
@@ -136,7 +136,7 @@
 
 ### 授粉绘画
 
-<sup>By **[@AI0x0](https://github.com/mushan0x0/lobe-pollinations-ai)** on **undefined**</sup>
+<sup>By **[@AI0x0](https://github.com/mushan0x0/lobe-pollinations-ai)** on **2023-12-10**</sup>
 
 通过 pollinations.ai 进行图像生成
 
@@ -152,7 +152,7 @@
 
 ### 搜索引擎
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **undefined**</sup>
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **2023-08-15**</sup>
 
 查询搜索引擎以获取信息
 
@@ -168,7 +168,7 @@
 
 ### 网站爬虫
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **undefined**</sup>
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
 
 从网页链接中提取内容
 
@@ -184,7 +184,7 @@
 
 ### 实时天气
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **undefined**</sup>
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **2023-08-12**</sup>
 
 获取实时天气信息
 
@@ -200,7 +200,7 @@
 
 ### 时钟时间
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-clock-time)** on **undefined**</sup>
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-clock-time)** on **2023-11-01**</sup>
 
 显示一个时钟来展示当前时间
 

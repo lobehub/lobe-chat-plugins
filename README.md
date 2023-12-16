@@ -88,7 +88,7 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 ### weather GPT
 
-<sup>By **[@Steven Tey](https://github.com/steven-tey/weathergpt)** on **undefined**</sup>
+<sup>By **[@Steven Tey](https://github.com/steven-tey/weathergpt)** on **2023-12-16**</sup>
 
 Get current weather information for a specific location.
 
@@ -104,7 +104,7 @@ Get current weather information for a specific location.
 
 ### Ask Your PDF
 
-<sup>By **[@AskYourPDF](https://askyourpdf.com/)** on **undefined**</sup>
+<sup>By **[@AskYourPDF](https://askyourpdf.com/)** on **2023-12-16**</sup>
 
 Unlock the power of your PDFs!, dive into your documents, find answers, and bring information to your fingertips.
 
@@ -120,7 +120,7 @@ Unlock the power of your PDFs!, dive into your documents, find answers, and brin
 
 ### SEO
 
-<sup>By **[@Orren Prunckun](https://orrenprunckun.com)** on **undefined**</sup>
+<sup>By **[@Orren Prunckun](https://orrenprunckun.com)** on **2023-12-16**</sup>
 
 Enter any URL and keyword and get an On-Page SEO analysis & insights!
 
@@ -136,7 +136,7 @@ Enter any URL and keyword and get an On-Page SEO analysis & insights!
 
 ### Pollinate drawing
 
-<sup>By **[@AI0x0](https://github.com/mushan0x0/lobe-pollinations-ai)** on **undefined**</sup>
+<sup>By **[@AI0x0](https://github.com/mushan0x0/lobe-pollinations-ai)** on **2023-12-10**</sup>
 
 Generate images through pollinations.ai
 
@@ -152,7 +152,7 @@ Generate images through pollinations.ai
 
 ### Search Engine
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **undefined**</sup>
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **2023-08-15**</sup>
 
 Query search engine to get information
 
@@ -168,7 +168,7 @@ Query search engine to get information
 
 ### Website Crawler
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **undefined**</sup>
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
 
 Extract content from web links
 
@@ -184,7 +184,7 @@ Extract content from web links
 
 ### Realtime Weather
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **undefined**</sup>
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **2023-08-12**</sup>
 
 Get realtime weather information
 
@@ -200,7 +200,7 @@ Get realtime weather information
 
 ### Clock Time
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-clock-time)** on **undefined**</sup>
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-clock-time)** on **2023-11-01**</sup>
 
 Display a clock to show current time
 
