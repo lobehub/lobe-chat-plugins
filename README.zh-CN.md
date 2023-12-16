@@ -35,12 +35,13 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
-  - [询问您的 PDF](#询问您的-pdf)
+  - [AskYouPDF](#askyoupdf)
   - [授粉绘画](#授粉绘画)
   - [搜索引擎](#搜索引擎)
   - [网站爬虫](#网站爬虫)
   - [实时天气](#实时天气)
   - [时钟时间](#时钟时间)
+  - [天气 GPT](#天气-gpt)
 - [🛳 自主托管](#-自主托管)
   - [部署到 Vercel](#部署到-vercel)
 - [⌨️ 本地开发](#️-本地开发)
@@ -84,7 +85,7 @@
 
 <!-- AWESOME PLUGINS -->
 
-### 询问您的 PDF
+### AskYouPDF
 
 <sup>By **[@AskYourPDF](https://askyourpdf.com/)** on **undefined**</sup>
 
@@ -171,6 +172,22 @@
 显示一个时钟来展示当前时间
 
 `时钟` `时间`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 天气 GPT
+
+<sup>By **[@Steven Tey](https://github.com/steven-tey/weathergpt)** on **undefined**</sup>
+
+获取特定位置的当前天气信息。
+
+`天气`
 
 <div align="right">
 

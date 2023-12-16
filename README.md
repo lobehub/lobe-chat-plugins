@@ -41,6 +41,7 @@
   - [Website Crawler](#website-crawler)
   - [Realtime Weather](#realtime-weather)
   - [Clock Time](#clock-time)
+  - [weather GPT](#weather-gpt)
 - [🛳 Self Hosting](#-self-hosting)
   - [Deploy to Vercel](#deploy-to-vercel)
 - [⌨️ Local Development](#️-local-development)
@@ -171,6 +172,22 @@ Get realtime weather information
 Display a clock to show current time
 
 `clock` `time`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### weather GPT
+
+<sup>By **[@Steven Tey](https://github.com/steven-tey/weathergpt)** on **undefined**</sup>
+
+Get current weather information for a specific location.
+
+`weather`
 
 <div align="right">
 
