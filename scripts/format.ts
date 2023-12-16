@@ -18,7 +18,7 @@ const formatJSON = async (fileName, checkType) => {
 
   if (checkType) {
     plugin = formatAndCheckSchema(plugin);
-    plugin.identifier = kebabCase(plugin.identifier);
+
     if (plugin?.meta?.tags?.length > 0) {
       plugin.meta.tags = plugin.meta.tags.map((tag) => kebabCase(tag));
     }

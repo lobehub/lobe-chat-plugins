@@ -2,7 +2,7 @@
   "author": "Steven Tey",
   "createdAt": "2023-12-16",
   "homepage": "https://github.com/steven-tey/weathergpt",
-  "identifier": "weather-gpt",
+  "identifier": "WeatherGPT",
   "manifest": "https://weathergpt.vercel.app/.well-known/ai-plugin.json",
   "meta": {
     "avatar": "https://weathergpt.vercel.app/logo.png",
