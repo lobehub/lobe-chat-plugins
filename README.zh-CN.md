@@ -39,8 +39,8 @@
   - [AskYouPDF](#askyoupdf)
   - [SEO](#seo)
   - [授粉绘画](#授粉绘画)
-  - [思维导图](#思维导图)
   - [搜索引擎](#搜索引擎)
+  - [思维导图](#思维导图)
   - [网站爬虫](#网站爬虫)
   - [实时天气](#实时天气)
   - [时钟时间](#时钟时间)
@@ -151,13 +151,13 @@
 
 ---
 
-### 思维导图
+### 搜索引擎
 
-<sup>By **[@Moonlit7](https://github.com/Moonlit7/chat-plugin-mindmap)** on **2023-12-19**</sup>
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **2023-08-15**</sup>
 
-思维导图生成助手
+查询搜索引擎以获取信息
 
-`思维导图` `脑图`
+`网络` `搜索`
 
 <div align="right">
 
@@ -167,13 +167,13 @@
 
 ---
 
-### 搜索引擎
+### 思维导图
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **2023-08-15**</sup>
+<sup>By **[@Moonlit7](https://github.com/Moonlit7/chat-plugin-mindmap)** on **2023-12-19**</sup>
 
-查询搜索引擎以获取信息
+思维导图生成助手
 
-`网络` `搜索`
+`思维导图` `脑图`
 
 <div align="right">
 

@@ -39,8 +39,8 @@
   - [Ask Your PDF](#ask-your-pdf)
   - [SEO](#seo)
   - [Pollinate drawing](#pollinate-drawing)
-  - [Mindmap](#mindmap)
   - [Search Engine](#search-engine)
+  - [Mindmap](#mindmap)
   - [Website Crawler](#website-crawler)
   - [Realtime Weather](#realtime-weather)
   - [Clock Time](#clock-time)
@@ -151,13 +151,13 @@ Generate images through pollinations.ai
 
 ---
 
-### Mindmap
+### Search Engine
 
-<sup>By **[@Moonlit7](https://github.com/Moonlit7/chat-plugin-mindmap)** on **2023-12-19**</sup>
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **2023-08-15**</sup>
 
-A mindmap generation assistant
+Query search engine to get information
 
-`mindmap`
+`web` `search`
 
 <div align="right">
 
@@ -167,13 +167,13 @@ A mindmap generation assistant
 
 ---
 
-### Search Engine
+### Mindmap
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **2023-08-15**</sup>
+<sup>By **[@Moonlit7](https://github.com/Moonlit7/chat-plugin-mindmap)** on **2023-12-19**</sup>
 
-Query search engine to get information
+A mindmap generation assistant
 
-`web` `search`
+`mindmap`
 
 <div align="right">
 
