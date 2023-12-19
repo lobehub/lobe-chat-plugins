@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Mindmap",
-    "description": "A mindmap generation assistant",
-    "tags": ["思维导图", "脑图", "will-auto-generate-i-18-n-in-workflow"]
+    "title": "思维导图",
+    "description": "思维导图生成助手",
+    "tags": ["思维导图", "脑图"]
   }
 }

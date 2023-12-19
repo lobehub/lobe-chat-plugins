@@ -6,7 +6,7 @@
   "manifest": "https://mindmap.flowai.one/manifest.json",
   "meta": {
     "avatar": "🧠",
-    "tags": ["Mindmap", "Mind map", "will-auto-generate-i-18-n-in-workflow"],
+    "tags": ["Mindmap"],
     "title": "Mindmap",
     "description": "A mindmap generation assistant"
   },
