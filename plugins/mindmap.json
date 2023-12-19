@@ -6,7 +6,7 @@
   "manifest": "https://mindmap.flowai.one/manifest.json",
   "meta": {
     "avatar": "🧠",
-    "tags": ["Mindmap"],
+    "tags": ["mindmap"],
     "title": "Mindmap",
     "description": "A mindmap generation assistant"
   },

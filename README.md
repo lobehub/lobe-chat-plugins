@@ -157,7 +157,7 @@ Generate images through pollinations.ai
 
 A mindmap generation assistant
 
-`Mindmap` `Mind map` `will-auto-generate-i-18-n-in-workflow`
+`mindmap`
 
 <div align="right">
 
