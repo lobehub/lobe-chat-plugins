@@ -1,13 +1,14 @@
 {
   "author": "Moonlit7",
+  "createdAt": "2023-12-19",
   "homepage": "https://github.com/Moonlit7/chat-plugin-mindmap",
   "identifier": "mindmap",
-  "locale": "zh-CN",
   "manifest": "https://mindmap.flowai.one/manifest.json",
   "meta": {
     "avatar": "🧠",
-    "tags": ["思维导图", "脑图", "# will auto generate i18n in workflow"],
+    "tags": ["Mindmap", "Mind map", "will-auto-generate-i-18-n-in-workflow"],
     "title": "Mindmap",
     "description": "A mindmap generation assistant"
-  }
+  },
+  "schemaVersion": 1
 }

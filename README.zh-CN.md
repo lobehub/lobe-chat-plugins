@@ -39,6 +39,7 @@
   - [AskYouPDF](#askyoupdf)
   - [SEO](#seo)
   - [授粉绘画](#授粉绘画)
+  - [Mindmap](#mindmap)
   - [搜索引擎](#搜索引擎)
   - [网站爬虫](#网站爬虫)
   - [实时天气](#实时天气)
@@ -141,6 +142,22 @@
 通过 pollinations.ai 进行图像生成
 
 `drawing` `image`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Mindmap
+
+<sup>By **[@Moonlit7](https://github.com/Moonlit7/chat-plugin-mindmap)** on **2023-12-19**</sup>
+
+A mindmap generation assistant
+
+`思维导图` `脑图` `will-auto-generate-i-18-n-in-workflow`
 
 <div align="right">
 

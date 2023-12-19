@@ -39,6 +39,7 @@
   - [Ask Your PDF](#ask-your-pdf)
   - [SEO](#seo)
   - [Pollinate drawing](#pollinate-drawing)
+  - [Mindmap](#mindmap)
   - [Search Engine](#search-engine)
   - [Website Crawler](#website-crawler)
   - [Realtime Weather](#realtime-weather)
@@ -141,6 +142,22 @@ Enter any URL and keyword and get an On-Page SEO analysis & insights!
 Generate images through pollinations.ai
 
 `drawing` `image`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Mindmap
+
+<sup>By **[@Moonlit7](https://github.com/Moonlit7/chat-plugin-mindmap)** on **2023-12-19**</sup>
+
+A mindmap generation assistant
+
+`Mindmap` `Mind map` `will-auto-generate-i-18-n-in-workflow`
 
 <div align="right">
 
