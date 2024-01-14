@@ -1,0 +1,13 @@
+{
+  "author": "Arvin Xu",
+  "homepage": "https://github.com/arvinxx/lobe-plugin-tikzjax",
+  "identifier": "TikZJax",
+  "manifest": "https://lobe-plugin-tikzjax.arvinx.com/manifest.json",
+ "meta": {
+    "avatar": "📐",
+    "tags": ["latex", "svg", "visualization", "diagram", "math"],
+    "title": "TikZJax",
+    "description": "Convert LaTeX TikZ code into SVG images for crisp, scalable mathematical diagrams and visualizations."
+  },
+  "schemaVersion": 1
+}
