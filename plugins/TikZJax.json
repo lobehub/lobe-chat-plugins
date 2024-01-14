@@ -1,9 +1,10 @@
 {
   "author": "Arvin Xu",
+  "createdAt": "2024-01-14",
   "homepage": "https://github.com/arvinxx/lobe-plugin-tikzjax",
   "identifier": "TikZJax",
   "manifest": "https://lobe-plugin-tikzjax.arvinx.com/manifest.json",
- "meta": {
+  "meta": {
     "avatar": "📐",
     "tags": ["latex", "svg", "visualization", "diagram", "math"],
     "title": "TikZJax",

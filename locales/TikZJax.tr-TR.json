@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "TikZJax",
+    "description": "Keskin, ölçeklenebilir matematiksel diyagramlar ve görselleştirmeler için LaTeX TikZ kodunu SVG görüntülerine dönüştürür.",
+    "tags": ["latex", "svg", "görselleştirme", "diyagram", "matematik"]
+  }
+}

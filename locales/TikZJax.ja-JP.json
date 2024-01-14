@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "TikZJax",
+    "description": "LaTeXのTikZコードを使用して、鮮明でスケーラブルな数学的な図や視覚化をSVGイメージに変換します。",
+    "tags": ["latex", "svg", "visualization", "diagram", "math"]
+  }
+}

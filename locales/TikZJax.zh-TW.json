@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "TikZJax",
+    "description": "將 LaTeX TikZ 代碼轉換為 SVG 圖像，以獲得清晰、可伸縮的數學圖表和可視化效果。",
+    "tags": ["latex", "svg", "visualization", "diagram", "math"]
+  }
+}

@@ -39,6 +39,7 @@
   - [Ask Your PDF](#ask-your-pdf)
   - [SEO](#seo)
   - [Pollinate drawing](#pollinate-drawing)
+  - [TikZJax](#tikzjax)
   - [Search Engine](#search-engine)
   - [Mindmap](#mindmap)
   - [Website Crawler](#website-crawler)
@@ -142,6 +143,22 @@ Enter any URL and keyword and get an On-Page SEO analysis & insights!
 Generate images through pollinations.ai
 
 `drawing` `image`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### TikZJax
+
+<sup>By **[@Arvin Xu](https://github.com/arvinxx/lobe-plugin-tikzjax)** on **2024-01-14**</sup>
+
+Convert LaTeX TikZ code into SVG images for crisp, scalable mathematical diagrams and visualizations.
+
+`latex` `svg` `visualization` `diagram` `math`
 
 <div align="right">
 

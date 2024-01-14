@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "TikZJax",
+    "description": "LaTeX TikZ 코드를 사용하여 선명하고 확장 가능한 수학 다이어그램 및 시각화를 위한 SVG 이미지로 변환합니다.",
+    "tags": ["latex", "svg", "visualization", "diagram", "math"]
+  }
+}

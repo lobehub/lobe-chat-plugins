@@ -39,6 +39,7 @@
   - [AskYouPDF](#askyoupdf)
   - [SEO](#seo)
   - [授粉绘画](#授粉绘画)
+  - [TikZJax](#tikzjax)
   - [搜索引擎](#搜索引擎)
   - [思维导图](#思维导图)
   - [网站爬虫](#网站爬虫)
@@ -142,6 +143,22 @@
 通过 pollinations.ai 进行图像生成
 
 `drawing` `image`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### TikZJax
+
+<sup>By **[@Arvin Xu](https://github.com/arvinxx/lobe-plugin-tikzjax)** on **2024-01-14**</sup>
+
+将 LaTeX TikZ 代码转换为 SVG 图像，用于创建清晰、可缩放的数学图表和可视化效果。
+
+`latex` `svg` `可视化` `图表` `数学`
 
 <div align="right">
 
