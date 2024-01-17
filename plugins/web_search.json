@@ -1,0 +1,14 @@
+{
+  "author": "plugsugar",
+  "createdAt": "2024-01-17",
+  "homepage": "https://websearch.plugsugar.com/",
+  "identifier": "web_search",
+  "manifest": "https://websearch.plugsugar.com/.well-known/ai-plugin.json",
+  "meta": {
+    "avatar": "https://websearch.plugsugar.com/200x200.png",
+    "tags": ["search", "plugsugar"],
+    "title": "Web Search",
+    "description": "Search for information from the internet."
+  },
+  "schemaVersion": 1
+}
