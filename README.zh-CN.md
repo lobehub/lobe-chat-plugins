@@ -40,6 +40,7 @@
   - [Git OSS Stats](#git-oss-stats)
   - [Astrodaily](#astrodaily)
   - [SEO](#seo)
+  - [GIF 搜索](#gif-搜索)
   - [授粉绘画](#授粉绘画)
   - [TikZJax](#tikzjax)
   - [搜索引擎](#搜索引擎)
@@ -164,6 +165,22 @@
 输入任何 URL 和关键词，获取页面 SEO 分析和见解！
 
 `seo`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### GIF 搜索
+
+<sup>By **[@giphy](https://giphy.com/)** on **2024-01-17**</sup>
+
+搜索各种各样的 GIF - 由 Giphy 提供动力。
+
+`gif` `图片` `搜索`
 
 <div align="right">
 

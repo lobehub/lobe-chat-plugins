@@ -40,6 +40,7 @@
   - [Git OSS Stats](#git-oss-stats)
   - [Astrodaily](#astrodaily)
   - [SEO](#seo)
+  - [GIF Search](#gif-search)
   - [Pollinate drawing](#pollinate-drawing)
   - [TikZJax](#tikzjax)
   - [Search Engine](#search-engine)
@@ -164,6 +165,22 @@ Search and discover NASA images.
 Enter any URL and keyword and get an On-Page SEO analysis & insights!
 
 `seo`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### GIF Search
+
+<sup>By **[@giphy](https://giphy.com/)** on **2024-01-17**</sup>
+
+Search through a wide range of gifs - Powered by Giphy.
+
+`gif` `image` `search`
 
 <div align="right">
 
