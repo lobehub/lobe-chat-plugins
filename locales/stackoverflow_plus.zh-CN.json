@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "StackOverflow Plus",
+    "description": "从Stack Overflow获取最新问题和答案。",
+    "tags": ["stack-overflow", "q-a"]
+  }
+}

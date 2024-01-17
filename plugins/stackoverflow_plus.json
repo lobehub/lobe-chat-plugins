@@ -6,7 +6,7 @@
   "manifest": "https://openai-collections.chat-plugin.lobehub.com/stackoverflow/manifest.json",
   "meta": {
     "avatar": "https://stack-overflow-search.onrender.com/.well-known/logo",
-    "tags": ["stack-overflow", "q&a"],
+    "tags": ["stack-overflow", "q-a"],
     "title": "StackOverflow Plus",
     "description": "Get recent questions and answers from Stack Overflow."
   },

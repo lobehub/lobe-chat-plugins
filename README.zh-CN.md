@@ -41,6 +41,7 @@
   - [授粉绘画](#授粉绘画)
   - [TikZJax](#tikzjax)
   - [搜索引擎](#搜索引擎)
+  - [StackOverflow Plus](#stackoverflow-plus)
   - [图表工具](#图表工具)
   - [Boolio Invest](#boolio-invest)
   - [思维导图](#思维导图)
@@ -177,6 +178,22 @@
 查询搜索引擎以获取信息
 
 `网络` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### StackOverflow Plus
+
+<sup>By **[@onrender](https://stack-overflow-search.onrender.com)** on **2024-01-17**</sup>
+
+从 Stack Overflow 获取最新问题和答案。
+
+`stack-overflow` `q-a`
 
 <div align="right">
 

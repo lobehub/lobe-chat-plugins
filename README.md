@@ -41,6 +41,7 @@
   - [Pollinate drawing](#pollinate-drawing)
   - [TikZJax](#tikzjax)
   - [Search Engine](#search-engine)
+  - [StackOverflow Plus](#stackoverflow-plus)
   - [Diagrams: Show Me](#diagrams-show-me)
   - [Boolio Invest](#boolio-invest)
   - [Mindmap](#mindmap)
@@ -177,6 +178,22 @@ Convert LaTeX TikZ code into SVG images for crisp, scalable mathematical diagram
 Query search engine to get information
 
 `web` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### StackOverflow Plus
+
+<sup>By **[@onrender](https://stack-overflow-search.onrender.com)** on **2024-01-17**</sup>
+
+Get recent questions and answers from Stack Overflow.
+
+`stack-overflow` `q-a`
 
 <div align="right">
 
