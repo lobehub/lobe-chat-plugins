@@ -53,6 +53,7 @@
   - [Website Crawler](#website-crawler)
   - [Realtime Weather](#realtime-weather)
   - [Clock Time](#clock-time)
+  - [Social Search](#social-search)
 - [🛳 Self Hosting](#-self-hosting)
   - [Deploy to Vercel](#deploy-to-vercel)
 - [⌨️ Local Development](#️-local-development)
@@ -375,6 +376,22 @@ Get realtime weather information
 Display a clock to show current time
 
 `clock` `time`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Social Search
+
+<sup>By **[@SayApps](https://say-apps.com/)** on **2024-01-17**</sup>
+
+The Social Search provides access to tweets, users, followers, images, media and more.
+
+`social` `twitter` `x` `search`
 
 <div align="right">
 
