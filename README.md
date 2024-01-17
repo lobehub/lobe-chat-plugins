@@ -47,6 +47,7 @@
   - [Search Engine](#search-engine)
   - [StackOverflow Plus](#stackoverflow-plus)
   - [Diagrams: Show Me](#diagrams-show-me)
+  - [Asset Ovi](#asset-ovi)
   - [Boolio Invest](#boolio-invest)
   - [Mindmap](#mindmap)
   - [Website Crawler](#website-crawler)
@@ -278,6 +279,22 @@ Get recent questions and answers from Stack Overflow.
 Show Me is a powerful tool designed for the quick creation and editing of diagrams.
 
 `diagrams`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Asset Ovi
+
+<sup>By **[@assetovi](https://assetovi.com/)** on **2024-01-17**</sup>
+
+Search and preview millions of 3D assets for games, AIGC, AR/VR and others.
+
+`3-d` `assets` `search`
 
 <div align="right">
 

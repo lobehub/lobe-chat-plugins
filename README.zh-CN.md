@@ -47,6 +47,7 @@
   - [搜索引擎](#搜索引擎)
   - [StackOverflow Plus](#stackoverflow-plus)
   - [图表工具](#图表工具)
+  - [Asset Ovi](#asset-ovi)
   - [Boolio Invest](#boolio-invest)
   - [思维导图](#思维导图)
   - [网站爬虫](#网站爬虫)
@@ -278,6 +279,22 @@
 展示给我是一个强大的工具，旨在快速创建和编辑图表。
 
 `图表`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Asset Ovi
+
+<sup>By **[@assetovi](https://assetovi.com/)** on **2024-01-17**</sup>
+
+搜索和预览数百万款用于游戏、AIGC、AR/VR 等领域的 3D 资产。
+
+`3-d` `资产` `搜索`
 
 <div align="right">
 
