@@ -43,6 +43,7 @@
   - [SEO](#seo)
   - [GIF Search](#gif-search)
   - [Pollinate drawing](#pollinate-drawing)
+  - [Web Search](#web-search)
   - [TikZJax](#tikzjax)
   - [Search Engine](#search-engine)
   - [StackOverflow Plus](#stackoverflow-plus)
@@ -216,6 +217,22 @@ Search through a wide range of gifs - Powered by Giphy.
 Generate images through pollinations.ai
 
 `drawing` `image`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Web Search
+
+<sup>By **[@plugsugar](https://websearch.plugsugar.com/)** on **2024-01-17**</sup>
+
+Search for information from the internet.
+
+`search` `plugsugar`
 
 <div align="right">
 

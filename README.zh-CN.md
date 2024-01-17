@@ -43,6 +43,7 @@
   - [SEO](#seo)
   - [GIF 搜索](#gif-搜索)
   - [授粉绘画](#授粉绘画)
+  - [网络搜索](#网络搜索)
   - [TikZJax](#tikzjax)
   - [搜索引擎](#搜索引擎)
   - [StackOverflow Plus](#stackoverflow-plus)
@@ -216,6 +217,22 @@
 通过 pollinations.ai 进行图像生成
 
 `drawing` `image`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 网络搜索
+
+<sup>By **[@plugsugar](https://websearch.plugsugar.com/)** on **2024-01-17**</sup>
+
+从互联网搜索信息。
+
+`搜索` `plugsugar`
 
 <div align="right">
 
