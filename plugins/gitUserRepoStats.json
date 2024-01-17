@@ -5,7 +5,7 @@
   "identifier": "gitUserRepoStats",
   "manifest": "https://chat-gpt-github-stat-plugin.vercel.app/.well-known/ai-plugin.json",
   "meta": {
-    "avatar": "https://chat-gpt-github-stat-plugin.vercel.app/logo.png",
+    "avatar": "https://raw.githubusercontent.com/yunwei37/ChatGPT-github-stat-plugin/main/public/logo.png",
     "tags": ["github", "oss"],
     "title": "Git OSS Stats",
     "description": "Dynamically generate and analyze stats and history for OSS repos and developers."
