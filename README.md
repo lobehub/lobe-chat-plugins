@@ -35,26 +35,26 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
-  - [weather GPT](#weather-gpt)
-  - [Ask Your PDF](#ask-your-pdf)
   - [Git OSS Stats](#git-oss-stats)
   - [Make A Sheet](#make-a-sheet)
   - [Astrodaily](#astrodaily)
-  - [SEO](#seo)
   - [GIF Search](#gif-search)
-  - [Pollinate drawing](#pollinate-drawing)
   - [Web Search](#web-search)
-  - [TikZJax](#tikzjax)
-  - [Search Engine](#search-engine)
   - [StackOverflow Plus](#stackoverflow-plus)
   - [Diagrams: Show Me](#diagrams-show-me)
   - [Asset Ovi](#asset-ovi)
   - [Boolio Invest](#boolio-invest)
-  - [Mindmap](#mindmap)
-  - [Website Crawler](#website-crawler)
-  - [Realtime Weather](#realtime-weather)
-  - [Clock Time](#clock-time)
   - [Social Search](#social-search)
+  - [TikZJax](#tikzjax)
+  - [Mindmap](#mindmap)
+  - [weather GPT](#weather-gpt)
+  - [Ask Your PDF](#ask-your-pdf)
+  - [SEO](#seo)
+  - [Pollinate drawing](#pollinate-drawing)
+  - [Clock Time](#clock-time)
+  - [Website Crawler](#website-crawler)
+  - [Search Engine](#search-engine)
+  - [Realtime Weather](#realtime-weather)
 - [🛳 Self Hosting](#-self-hosting)
   - [Deploy to Vercel](#deploy-to-vercel)
 - [⌨️ Local Development](#️-local-development)
@@ -97,38 +97,6 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
-
-### weather GPT
-
-<sup>By **[@Steven Tey](https://github.com/steven-tey/weathergpt)** on **2023-12-16**</sup>
-
-Get current weather information for a specific location.
-
-`weather`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Ask Your PDF
-
-<sup>By **[@AskYourPDF](https://askyourpdf.com/)** on **2023-12-16**</sup>
-
-Unlock the power of your PDFs!, dive into your documents, find answers, and bring information to your fingertips.
-
-`pdf` `document` `web`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
 
 ### Git OSS Stats
 
@@ -178,22 +146,6 @@ Search and discover NASA images.
 
 ---
 
-### SEO
-
-<sup>By **[@Orren Prunckun](https://orrenprunckun.com)** on **2023-12-16**</sup>
-
-Enter any URL and keyword and get an On-Page SEO analysis & insights!
-
-`seo`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### GIF Search
 
 <sup>By **[@giphy](https://giphy.com/)** on **2024-01-17**</sup>
@@ -210,22 +162,6 @@ Search through a wide range of gifs - Powered by Giphy.
 
 ---
 
-### Pollinate drawing
-
-<sup>By **[@AI0x0](https://github.com/mushan0x0/lobe-pollinations-ai)** on **2023-12-10**</sup>
-
-Generate images through pollinations.ai
-
-`drawing` `image`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### Web Search
 
 <sup>By **[@plugsugar](https://websearch.plugsugar.com/)** on **2024-01-17**</sup>
@@ -233,38 +169,6 @@ Generate images through pollinations.ai
 Search for information from the internet.
 
 `search` `plugsugar`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### TikZJax
-
-<sup>By **[@Arvin Xu](https://github.com/arvinxx/lobe-plugin-tikzjax)** on **2024-01-14**</sup>
-
-Convert LaTeX TikZ code into SVG images for crisp, scalable mathematical diagrams and visualizations.
-
-`latex` `svg` `visualization` `diagram` `math`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Search Engine
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **2023-08-15**</sup>
-
-Query search engine to get information
-
-`web` `search`
 
 <div align="right">
 
@@ -338,6 +242,38 @@ Analyze stock investments from any country, with Boolio's state-of-the-art engin
 
 ---
 
+### Social Search
+
+<sup>By **[@SayApps](https://say-apps.com/)** on **2024-01-17**</sup>
+
+The Social Search provides access to tweets, users, followers, images, media and more.
+
+`social` `twitter` `x` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### TikZJax
+
+<sup>By **[@Arvin Xu](https://github.com/arvinxx/lobe-plugin-tikzjax)** on **2024-01-14**</sup>
+
+Convert LaTeX TikZ code into SVG images for crisp, scalable mathematical diagrams and visualizations.
+
+`latex` `svg` `visualization` `diagram` `math`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### Mindmap
 
 <sup>By **[@Moonlit7](https://github.com/Moonlit7/chat-plugin-mindmap)** on **2023-12-19**</sup>
@@ -354,13 +290,13 @@ A mindmap generation assistant
 
 ---
 
-### Website Crawler
+### weather GPT
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
+<sup>By **[@Steven Tey](https://github.com/steven-tey/weathergpt)** on **2023-12-16**</sup>
 
-Extract content from web links
+Get current weather information for a specific location.
 
-`web` `content-crawler`
+`weather`
 
 <div align="right">
 
@@ -370,13 +306,45 @@ Extract content from web links
 
 ---
 
-### Realtime Weather
+### Ask Your PDF
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **2023-08-12**</sup>
+<sup>By **[@AskYourPDF](https://askyourpdf.com/)** on **2023-12-16**</sup>
 
-Get realtime weather information
+Unlock the power of your PDFs!, dive into your documents, find answers, and bring information to your fingertips.
 
-`weather` `realtime`
+`pdf` `document` `web`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### SEO
+
+<sup>By **[@Orren Prunckun](https://orrenprunckun.com)** on **2023-12-16**</sup>
+
+Enter any URL and keyword and get an On-Page SEO analysis & insights!
+
+`seo`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Pollinate drawing
+
+<sup>By **[@AI0x0](https://github.com/mushan0x0/lobe-pollinations-ai)** on **2023-12-10**</sup>
+
+Generate images through pollinations.ai
+
+`drawing` `image`
 
 <div align="right">
 
@@ -402,13 +370,45 @@ Display a clock to show current time
 
 ---
 
-### Social Search
+### Website Crawler
 
-<sup>By **[@SayApps](https://say-apps.com/)** on **2024-01-17**</sup>
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
 
-The Social Search provides access to tweets, users, followers, images, media and more.
+Extract content from web links
 
-`social` `twitter` `x` `search`
+`web` `content-crawler`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Search Engine
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **2023-08-15**</sup>
+
+Query search engine to get information
+
+`web` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Realtime Weather
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **2023-08-12**</sup>
+
+Get realtime weather information
+
+`weather` `realtime`
 
 <div align="right">
 

@@ -35,26 +35,26 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
-  - [天气 GPT](#天气-gpt)
-  - [AskYouPDF](#askyoupdf)
   - [Git OSS Stats](#git-oss-stats)
   - [创建表格](#创建表格)
   - [Astrodaily](#astrodaily)
-  - [SEO](#seo)
   - [GIF 搜索](#gif-搜索)
-  - [授粉绘画](#授粉绘画)
   - [网络搜索](#网络搜索)
-  - [TikZJax](#tikzjax)
-  - [搜索引擎](#搜索引擎)
   - [StackOverflow Plus](#stackoverflow-plus)
   - [图表工具](#图表工具)
   - [Asset Ovi](#asset-ovi)
   - [Boolio Invest](#boolio-invest)
-  - [思维导图](#思维导图)
-  - [网站爬虫](#网站爬虫)
-  - [实时天气](#实时天气)
-  - [时钟时间](#时钟时间)
   - [社交搜索](#社交搜索)
+  - [TikZJax](#tikzjax)
+  - [思维导图](#思维导图)
+  - [天气 GPT](#天气-gpt)
+  - [AskYouPDF](#askyoupdf)
+  - [SEO](#seo)
+  - [授粉绘画](#授粉绘画)
+  - [时钟时间](#时钟时间)
+  - [网站爬虫](#网站爬虫)
+  - [搜索引擎](#搜索引擎)
+  - [实时天气](#实时天气)
 - [🛳 自主托管](#-自主托管)
   - [部署到 Vercel](#部署到-vercel)
 - [⌨️ 本地开发](#️-本地开发)
@@ -97,38 +97,6 @@
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
-
-### 天气 GPT
-
-<sup>By **[@Steven Tey](https://github.com/steven-tey/weathergpt)** on **2023-12-16**</sup>
-
-获取特定位置的当前天气信息。
-
-`天气`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### AskYouPDF
-
-<sup>By **[@AskYourPDF](https://askyourpdf.com/)** on **2023-12-16**</sup>
-
-释放您的 PDF 的力量！深入您的文档，找到答案，并将信息带到您的指尖。
-
-`pdf` `文档` `web`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
 
 ### Git OSS Stats
 
@@ -178,22 +146,6 @@
 
 ---
 
-### SEO
-
-<sup>By **[@Orren Prunckun](https://orrenprunckun.com)** on **2023-12-16**</sup>
-
-输入任何 URL 和关键词，获取页面 SEO 分析和见解！
-
-`seo`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### GIF 搜索
 
 <sup>By **[@giphy](https://giphy.com/)** on **2024-01-17**</sup>
@@ -210,22 +162,6 @@
 
 ---
 
-### 授粉绘画
-
-<sup>By **[@AI0x0](https://github.com/mushan0x0/lobe-pollinations-ai)** on **2023-12-10**</sup>
-
-通过 pollinations.ai 进行图像生成
-
-`drawing` `image`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### 网络搜索
 
 <sup>By **[@plugsugar](https://websearch.plugsugar.com/)** on **2024-01-17**</sup>
@@ -233,38 +169,6 @@
 从互联网搜索信息。
 
 `搜索` `plugsugar`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### TikZJax
-
-<sup>By **[@Arvin Xu](https://github.com/arvinxx/lobe-plugin-tikzjax)** on **2024-01-14**</sup>
-
-将 LaTeX TikZ 代码转换为 SVG 图像，用于创建清晰、可缩放的数学图表和可视化效果。
-
-`latex` `svg` `可视化` `图表` `数学`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 搜索引擎
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **2023-08-15**</sup>
-
-查询搜索引擎以获取信息
-
-`网络` `搜索`
 
 <div align="right">
 
@@ -338,6 +242,38 @@
 
 ---
 
+### 社交搜索
+
+<sup>By **[@SayApps](https://say-apps.com/)** on **2024-01-17**</sup>
+
+社交搜索提供访问推文、用户、关注者、图片、媒体等功能。
+
+`社交` `推特` `x` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### TikZJax
+
+<sup>By **[@Arvin Xu](https://github.com/arvinxx/lobe-plugin-tikzjax)** on **2024-01-14**</sup>
+
+将 LaTeX TikZ 代码转换为 SVG 图像，用于创建清晰、可缩放的数学图表和可视化效果。
+
+`latex` `svg` `可视化` `图表` `数学`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### 思维导图
 
 <sup>By **[@Moonlit7](https://github.com/Moonlit7/chat-plugin-mindmap)** on **2023-12-19**</sup>
@@ -354,13 +290,13 @@
 
 ---
 
-### 网站爬虫
+### 天气 GPT
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
+<sup>By **[@Steven Tey](https://github.com/steven-tey/weathergpt)** on **2023-12-16**</sup>
 
-从网页链接中提取内容
+获取特定位置的当前天气信息。
 
-`网页` `内容爬取器`
+`天气`
 
 <div align="right">
 
@@ -370,13 +306,45 @@
 
 ---
 
-### 实时天气
+### AskYouPDF
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **2023-08-12**</sup>
+<sup>By **[@AskYourPDF](https://askyourpdf.com/)** on **2023-12-16**</sup>
 
-获取实时天气信息
+释放您的 PDF 的力量！深入您的文档，找到答案，并将信息带到您的指尖。
 
-`天气` `实时`
+`pdf` `文档` `web`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### SEO
+
+<sup>By **[@Orren Prunckun](https://orrenprunckun.com)** on **2023-12-16**</sup>
+
+输入任何 URL 和关键词，获取页面 SEO 分析和见解！
+
+`seo`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 授粉绘画
+
+<sup>By **[@AI0x0](https://github.com/mushan0x0/lobe-pollinations-ai)** on **2023-12-10**</sup>
+
+通过 pollinations.ai 进行图像生成
+
+`drawing` `image`
 
 <div align="right">
 
@@ -402,13 +370,45 @@
 
 ---
 
-### 社交搜索
+### 网站爬虫
 
-<sup>By **[@SayApps](https://say-apps.com/)** on **2024-01-17**</sup>
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
 
-社交搜索提供访问推文、用户、关注者、图片、媒体等功能。
+从网页链接中提取内容
 
-`社交` `推特` `x` `搜索`
+`网页` `内容爬取器`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 搜索引擎
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **2023-08-15**</sup>
+
+查询搜索引擎以获取信息
+
+`网络` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 实时天气
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **2023-08-12**</sup>
+
+获取实时天气信息
+
+`天气` `实时`
 
 <div align="right">
 
