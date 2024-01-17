@@ -42,6 +42,7 @@
   - [TikZJax](#tikzjax)
   - [搜索引擎](#搜索引擎)
   - [图表工具](#图表工具)
+  - [Boolio Invest](#boolio-invest)
   - [思维导图](#思维导图)
   - [网站爬虫](#网站爬虫)
   - [实时天气](#实时天气)
@@ -192,6 +193,22 @@
 展示给我是一个强大的工具，旨在快速创建和编辑图表。
 
 `图表`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Boolio Invest
+
+<sup>By **[@boolio](https://chatgpt.boolio.co.kr)** on **2024-01-17**</sup>
+
+使用 Boolio 的先进引擎分析来自任何国家的股票投资。
+
+`股票` `分析`
 
 <div align="right">
 

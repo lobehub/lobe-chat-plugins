@@ -42,6 +42,7 @@
   - [TikZJax](#tikzjax)
   - [Search Engine](#search-engine)
   - [Diagrams: Show Me](#diagrams-show-me)
+  - [Boolio Invest](#boolio-invest)
   - [Mindmap](#mindmap)
   - [Website Crawler](#website-crawler)
   - [Realtime Weather](#realtime-weather)
@@ -192,6 +193,22 @@ Query search engine to get information
 Show Me is a powerful tool designed for the quick creation and editing of diagrams.
 
 `diagrams`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Boolio Invest
+
+<sup>By **[@boolio](https://chatgpt.boolio.co.kr)** on **2024-01-17**</sup>
+
+Analyze stock investments from any country, with Boolio's state-of-the-art engine.
+
+`stock` `analyze`
 
 <div align="right">
 
