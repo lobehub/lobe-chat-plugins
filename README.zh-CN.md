@@ -38,6 +38,7 @@
   - [天气 GPT](#天气-gpt)
   - [AskYouPDF](#askyoupdf)
   - [Git OSS Stats](#git-oss-stats)
+  - [Astrodaily](#astrodaily)
   - [SEO](#seo)
   - [授粉绘画](#授粉绘画)
   - [TikZJax](#tikzjax)
@@ -131,6 +132,22 @@
 动态生成和分析开源软件仓库和开发者的统计数据和历史记录。
 
 `github` `oss`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Astrodaily
+
+<sup>By **[@360macky](https://api.360macky.com)** on **2024-01-17**</sup>
+
+搜索和发现 NASA 图像。
+
+`nasa` `搜索` `图像`
 
 <div align="right">
 

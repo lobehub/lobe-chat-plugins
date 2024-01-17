@@ -38,6 +38,7 @@
   - [weather GPT](#weather-gpt)
   - [Ask Your PDF](#ask-your-pdf)
   - [Git OSS Stats](#git-oss-stats)
+  - [Astrodaily](#astrodaily)
   - [SEO](#seo)
   - [Pollinate drawing](#pollinate-drawing)
   - [TikZJax](#tikzjax)
@@ -131,6 +132,22 @@ Unlock the power of your PDFs!, dive into your documents, find answers, and brin
 Dynamically generate and analyze stats and history for OSS repos and developers.
 
 `github` `oss`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Astrodaily
+
+<sup>By **[@360macky](https://api.360macky.com)** on **2024-01-17**</sup>
+
+Search and discover NASA images.
+
+`nasa` `search` `image`
 
 <div align="right">
 
