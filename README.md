@@ -41,6 +41,7 @@
   - [Pollinate drawing](#pollinate-drawing)
   - [TikZJax](#tikzjax)
   - [Search Engine](#search-engine)
+  - [Diagrams: Show Me](#diagrams-show-me)
   - [Mindmap](#mindmap)
   - [Website Crawler](#website-crawler)
   - [Realtime Weather](#realtime-weather)
@@ -175,6 +176,22 @@ Convert LaTeX TikZ code into SVG images for crisp, scalable mathematical diagram
 Query search engine to get information
 
 `web` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Diagrams: Show Me
+
+<sup>By **[@Redstar Plugin](https://showme.redstarplugin.com/)** on **2024-01-17**</sup>
+
+Show Me is a powerful tool designed for the quick creation and editing of diagrams.
+
+`diagrams`
 
 <div align="right">
 
