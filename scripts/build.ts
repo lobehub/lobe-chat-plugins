@@ -33,7 +33,7 @@ const build = async () => {
 
   for (const locale of [config.entryLocale, ...config.outputLocales]) {
     // @ts-ignore
-    pluginsIndex.plugins = list[locale].sort((a, b) => new Date(b.createAt) - new Date(a.createAt));
+    pluginsIndex.plugins = list[locale].sort((a, b) => new Date(b.createdAt) - new Date(a.createdAt));
 
     let tags: string[] = [];
 
