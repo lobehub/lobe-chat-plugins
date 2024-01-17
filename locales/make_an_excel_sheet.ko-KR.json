@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "시트 만들기",
+    "description": "Google Sheets 또는 MS Excel에 직접 가져올 수 있는 csv 파일을 생성합니다.",
+    "tags": ["csv", "excel", "sheet"]
+  }
+}

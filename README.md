@@ -38,6 +38,7 @@
   - [weather GPT](#weather-gpt)
   - [Ask Your PDF](#ask-your-pdf)
   - [Git OSS Stats](#git-oss-stats)
+  - [Make A Sheet](#make-a-sheet)
   - [Astrodaily](#astrodaily)
   - [SEO](#seo)
   - [GIF Search](#gif-search)
@@ -133,6 +134,22 @@ Unlock the power of your PDFs!, dive into your documents, find answers, and brin
 Dynamically generate and analyze stats and history for OSS repos and developers.
 
 `github` `oss`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Make A Sheet
+
+<sup>By **[@brandzzy](https://sheet-generator.brandzzy.com/)** on **2024-01-17**</sup>
+
+Generate a csv file that can directly be imported into Google Sheets or MS Excel.
+
+`csv` `excel` `sheet`
 
 <div align="right">
 

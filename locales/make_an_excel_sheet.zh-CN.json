@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "创建表格",
+    "description": "生成一个可以直接导入到Google表格或MS Excel的csv文件。",
+    "tags": ["csv", "excel", "sheet"]
+  }
+}

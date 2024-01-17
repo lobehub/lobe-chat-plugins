@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Tablo Oluştur",
+    "description": "Google Sheets veya MS Excel'e doğrudan aktarılabilen bir csv dosyası oluşturun.",
+    "tags": ["csv", "excel", "sheet"]
+  }
+}

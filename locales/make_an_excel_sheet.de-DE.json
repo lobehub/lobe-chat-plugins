@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Tabelle erstellen",
+    "description": "Generieren Sie eine CSV-Datei, die direkt in Google Sheets oder MS Excel importiert werden kann.",
+    "tags": ["csv", "excel", "tabelle"]
+  }
+}

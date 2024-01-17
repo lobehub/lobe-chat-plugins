@@ -38,6 +38,7 @@
   - [天气 GPT](#天气-gpt)
   - [AskYouPDF](#askyoupdf)
   - [Git OSS Stats](#git-oss-stats)
+  - [创建表格](#创建表格)
   - [Astrodaily](#astrodaily)
   - [SEO](#seo)
   - [GIF 搜索](#gif-搜索)
@@ -133,6 +134,22 @@
 动态生成和分析开源软件仓库和开发者的统计数据和历史记录。
 
 `github` `oss`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 创建表格
+
+<sup>By **[@brandzzy](https://sheet-generator.brandzzy.com/)** on **2024-01-17**</sup>
+
+生成一个可以直接导入到 Google 表格或 MS Excel 的 csv 文件。
+
+`csv` `excel` `sheet`
 
 <div align="right">
 

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "シートを作成する",
+    "description": "Google SheetsやMS Excelに直接インポートできるcsvファイルを生成します。",
+    "tags": ["csv", "excel", "sheet"]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "製作一張表",
+    "description": "生成一個可以直接匯入Google Sheets或MS Excel的csv文件。",
+    "tags": ["csv", "excel", "sheet"]
+  }
+}
