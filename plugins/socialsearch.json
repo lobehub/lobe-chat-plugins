@@ -1,0 +1,14 @@
+{
+  "author": "SayApps",
+  "createdAt": "2024-01-17",
+  "homepage": "https://say-apps.com/",
+  "identifier": "socialsearch",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/social-search/manifest.json",
+  "meta": {
+    "avatar": "https://twitter.say-apps.com/logo.png",
+    "tags": ["social", "twitter", "x", "search"],
+    "title": "Social Search",
+    "description": "The Social Search provides access to tweets, users, followers, images, media and more."
+  },
+  "schemaVersion": 1
+}
