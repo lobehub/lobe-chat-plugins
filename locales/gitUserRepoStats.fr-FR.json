@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Statistiques Git OSS",
+    "description": "Générer et analyser dynamiquement des statistiques et l'historique pour les dépôts et développeurs OSS.",
+    "tags": ["github", "oss"]
+  }
+}

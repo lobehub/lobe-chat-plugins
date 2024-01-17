@@ -37,6 +37,7 @@
 - [🕶 Awesome Plugins](#-awesome-plugins)
   - [weather GPT](#weather-gpt)
   - [Ask Your PDF](#ask-your-pdf)
+  - [Git OSS Stats](#git-oss-stats)
   - [SEO](#seo)
   - [Pollinate drawing](#pollinate-drawing)
   - [TikZJax](#tikzjax)
@@ -114,6 +115,22 @@ Get current weather information for a specific location.
 Unlock the power of your PDFs!, dive into your documents, find answers, and bring information to your fingertips.
 
 `pdf` `document` `web`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Git OSS Stats
+
+<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
+
+Dynamically generate and analyze stats and history for OSS repos and developers.
+
+`github` `oss`
 
 <div align="right">
 

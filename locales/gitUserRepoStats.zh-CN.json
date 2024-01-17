@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Git OSS Stats",
+    "description": "动态生成和分析开源软件仓库和开发者的统计数据和历史记录。",
+    "tags": ["github", "oss"]
+  }
+}

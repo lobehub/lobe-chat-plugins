@@ -37,6 +37,7 @@
 - [🕶 Awesome Plugins](#-awesome-plugins)
   - [天气 GPT](#天气-gpt)
   - [AskYouPDF](#askyoupdf)
+  - [Git OSS Stats](#git-oss-stats)
   - [SEO](#seo)
   - [授粉绘画](#授粉绘画)
   - [TikZJax](#tikzjax)
@@ -114,6 +115,22 @@
 释放您的 PDF 的力量！深入您的文档，找到答案，并将信息带到您的指尖。
 
 `pdf` `文档` `web`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Git OSS Stats
+
+<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
+
+动态生成和分析开源软件仓库和开发者的统计数据和历史记录。
+
+`github` `oss`
 
 <div align="right">
 
