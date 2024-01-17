@@ -1,0 +1,14 @@
+{
+  "author": "Redstar Plugin",
+  "createdAt": "2024-01-17",
+  "homepage": "https://showme.redstarplugin.com/",
+  "identifier": "diagrams_show_me",
+  "manifest": "https://showme.redstarplugin.com/.well-known/ai-plugin.json",
+  "meta": {
+    "avatar": "https://showme.redstarplugin.com/logo.svg",
+    "tags": ["diagrams"],
+    "title": "Diagrams: Show Me",
+    "description": "Show Me is a powerful tool designed for the quick creation and editing of diagrams."
+  },
+  "schemaVersion": 1
+}
