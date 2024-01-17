@@ -1,0 +1,14 @@
+{
+  "author": "brandzzy",
+  "createdAt": "2024-01-17",
+  "homepage": "https://sheet-generator.brandzzy.com/",
+  "identifier": "make_an_excel_sheet",
+  "manifest": "https://sheet-generator.brandzzy.com/.well-known/ai-plugin.json",
+  "meta": {
+    "avatar": "https://sheet-generator.brandzzy.com/logo.png",
+    "tags": ["csv", "excel", "sheet"],
+    "title": "Make A Sheet",
+    "description": "Generate a csv file that can directly be imported into Google Sheets or MS Excel."
+  },
+  "schemaVersion": 1
+}
