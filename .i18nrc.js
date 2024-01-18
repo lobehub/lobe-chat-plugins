@@ -4,6 +4,7 @@ module.exports = {
   outputLocales: [
     'zh-CN',
     'zh-TW',
+    'ar',
     'ru-RU',
     'ja-JP',
     'ko-KR',
@@ -12,6 +13,10 @@ module.exports = {
     'es-ES',
     'pt-BR',
     'de-DE',
+    'it-IT',
+    'nl-NL',
+    'pl-PL',
+    'vi-VN',
   ],
   modelName: 'gpt-3.5-turbo-1106',
 };
