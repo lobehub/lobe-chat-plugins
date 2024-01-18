@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Thống kê Git OSS",
+    "description": "Tạo và phân tích động các thống kê và lịch sử cho các kho lưu trữ OSS và nhà phát triển.",
+    "tags": ["github", "oss"]
+  }
+}

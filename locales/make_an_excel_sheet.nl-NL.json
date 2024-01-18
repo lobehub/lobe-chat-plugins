@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Maak een werkblad",
+    "description": "Genereer een csv-bestand dat direct geïmporteerd kan worden in Google Sheets of MS Excel.",
+    "tags": ["csv", "excel", "werkblad"]
+  }
+}

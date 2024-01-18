@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Statistiche Git OSS",
+    "description": "Genera dinamicamente e analizza statistiche e cronologia per repository OSS e sviluppatori.",
+    "tags": ["github", "oss"]
+  }
+}

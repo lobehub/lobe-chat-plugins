@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "TikZJax",
+    "description": "Konwertuj kod TikZ LaTeXa na obrazy SVG dla ostrych, skalowalnych diagramów matematycznych i wizualizacji.",
+    "tags": ["latex", "svg", "wizualizacja", "diagram", "matematyka"]
+  }
+}

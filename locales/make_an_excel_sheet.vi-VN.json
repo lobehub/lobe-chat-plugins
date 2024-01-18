@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Tạo một Bảng",
+    "description": "Tạo một tệp csv có thể được nhập trực tiếp vào Google Sheets hoặc MS Excel.",
+    "tags": ["csv", "excel", "bảng"]
+  }
+}

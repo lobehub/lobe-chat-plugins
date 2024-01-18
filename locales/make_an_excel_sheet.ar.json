@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "إنشاء ورقة",
+    "description": "إنشاء ملف csv يمكن استيراده مباشرة إلى Google Sheets أو MS Excel.",
+    "tags": ["csv", "excel", "sheet"]
+  }
+}

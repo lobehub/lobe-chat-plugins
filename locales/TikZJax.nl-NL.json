@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "TikZJax",
+    "description": "Converteer LaTeX TikZ-code naar SVG-afbeeldingen voor heldere, schaalbare wiskundige diagrammen en visualisaties.",
+    "tags": ["latex", "svg", "visualisatie", "diagram", "wiskunde"]
+  }
+}

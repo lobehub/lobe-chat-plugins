@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "TikZJax",
+    "description": "Chuyển đổi mã TikZ LaTeX thành hình ảnh SVG để tạo biểu đồ toán học và trực quan có độ phân giải cao, có thể co dãn.",
+    "tags": ["latex", "svg", "visualization", "diagram", "math"]
+  }
+}

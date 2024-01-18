@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Crea un foglio",
+    "description": "Genera un file csv che può essere importato direttamente in Google Sheets o MS Excel.",
+    "tags": ["csv", "excel", "foglio"]
+  }
+}

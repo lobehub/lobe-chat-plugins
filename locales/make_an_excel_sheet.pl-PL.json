@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Utwórz arkusz",
+    "description": "Generuj plik csv, który można bezpośrednio importować do programu Google Sheets lub MS Excel.",
+    "tags": ["csv", "excel", "arkusz"]
+  }
+}
