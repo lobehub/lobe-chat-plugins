@@ -1,0 +1,14 @@
+{
+  "author": "LobeHub",
+  "createdAt": "2024-01-18",
+  "homepage": "https://github.com/lobehub/chat-plugin-midjourney",
+  "identifier": "midjourney",
+  "manifest": "https://midjourney.chat-plugin.lobehub.com/manifest.json",
+  "meta": {
+    "avatar": "https://cdn.discordapp.com/icons/662267976984297473/39128f6c9fc33f4c95a27d4c601ad7db.webp",
+    "title": "Midjourney",
+    "description": "Unleash creativity with Midjourney, effortlessly generating unique AI-driven images through simple prompts. Add visual flair to your conversations with Midjourney's artistic touch.",
+    "tags": ["AI Image Generation", "Midjourney", "Visualization"]
+  },
+  "schemaVersion": 1
+}
