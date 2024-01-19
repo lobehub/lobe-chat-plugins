@@ -1,14 +1,13 @@
 import { readdirSync } from 'node:fs';
-import { dirname, resolve } from 'node:path';
-import { fileURLToPath } from 'node:url';
+import { resolve } from 'node:path';
+
 
 import { readJSON } from './utils';
 
-export const __filename = fileURLToPath(import.meta.url);
-export const __dirname = dirname(__filename);
+
 export const root = resolve(__dirname, '..');
 
-export const pluginsDir = resolve(root, './plugins');
+export const pluginsDir = resolve(root, './src');
 export const localesDir = resolve(root, './locales');
 export const publicDir = resolve(root, 'public');
 
@@ -28,4 +27,8 @@ export const meta = readJSON(metaPath);
 
 export const readmeSplit = '<!-- AWESOME PLUGINS -->';
 
-export { default as config } from '../.i18nrc.js';
+export const SYNC_URL = 'https://openai-collections.chat-plugin.lobehub.com';
+
+export const config =  require('../.i18nrc.js');
+
+

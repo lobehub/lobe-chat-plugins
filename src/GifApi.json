@@ -1,0 +1,18 @@
+{
+  "author": "efficiency",
+  "homepage": "https://chat-plugin-giphy.efficiency.tools",
+  "identifier": "GifApi",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/gif-search/manifest.json",
+  "meta": {
+    "avatar": "https://chat-plugin-giphy.efficiency.tools/.well-known/logo.png",
+    "description": "Search through a wide range of gifs - Powered by Giphy.",
+    "tags": [
+      "gif",
+      "image",
+      "search"
+    ],
+    "title": "GIF Search"
+  },
+  "schemaVersion": 1,
+  "createdAt": "2024-01-17"
+}

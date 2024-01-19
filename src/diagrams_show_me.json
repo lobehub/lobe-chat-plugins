@@ -6,9 +6,11 @@
   "manifest": "https://showme.redstarplugin.com/.well-known/ai-plugin.json",
   "meta": {
     "avatar": "https://showme.redstarplugin.com/logo.svg",
-    "tags": ["diagrams"],
+    "tags": [
+      "diagrams"
+    ],
     "title": "Diagrams: Show Me",
-    "description": "Show Me is a powerful tool designed for the quick creation and editing of diagrams."
+    "description": "Schemes, Diagrams, Architecture Visualisations, Flow-Charts, Mind Maps. Export and Edit for free!"
   },
   "schemaVersion": 1
 }

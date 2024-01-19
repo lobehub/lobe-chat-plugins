@@ -10,15 +10,15 @@
   },
   "license": "MIT",
   "author": "LobeHub <i@lobehub.com>",
-  "type": "module",
   "scripts": {
-    "awesome": "bun scripts/build.ts && bun scripts/updateAwesome.ts",
-    "build": "bun scripts/build.ts",
-    "format": "bun scripts/format.ts",
+    "awesome": "tsx scripts/build.ts && bun scripts/updateAwesome.ts",
+    "build": "tsx scripts/build.ts",
+    "sync": "tsx scripts/sync.ts",
+    "format": "tsx scripts/format.ts",
     "lint": "eslint \"scripts/**/*.ts\" --fix",
     "lint:md": "remark . --quiet --output",
     "prettier": "prettier -c --write \"**/*.{json,ts,md}\"",
-    "test": "bun scripts/test.ts"
+    "test": "tsx scripts/test.ts"
   },
   "devDependencies": {
     "@lobehub/chat-plugin-sdk": "latest",
@@ -31,9 +31,11 @@
     "eslint": "^8",
     "langchain": "latest",
     "lodash-es": "^4",
+    "p-map": "^7",
     "prettier": "^3",
     "remark": "^14",
     "remark-cli": "^11",
+    "tsx": "^4",
     "typescript": "^5"
   }
 }

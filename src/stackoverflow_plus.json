@@ -1,14 +1,17 @@
 {
   "author": "onrender",
-  "createdAt": "2024-01-17",
   "homepage": "https://stack-overflow-search.onrender.com",
   "identifier": "stackoverflow_plus",
   "manifest": "https://openai-collections.chat-plugin.lobehub.com/stackoverflow/manifest.json",
   "meta": {
     "avatar": "https://stack-overflow-search.onrender.com/.well-known/logo",
-    "tags": ["stack-overflow", "q-a"],
-    "title": "StackOverflow Plus",
-    "description": "Get recent questions and answers from Stack Overflow."
+    "description": "Expand your knowledge beyond 2021/09/01. Get recent questions and answers from Stack Overflow.",
+    "tags": [
+      "stack-overflow",
+      "q-a"
+    ],
+    "title": "StackOverflow Plus"
   },
-  "schemaVersion": 1
+  "schemaVersion": 1,
+  "createdAt": "2024-01-17"
 }

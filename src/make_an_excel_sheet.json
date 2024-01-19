@@ -6,7 +6,11 @@
   "manifest": "https://sheet-generator.brandzzy.com/.well-known/ai-plugin.json",
   "meta": {
     "avatar": "https://sheet-generator.brandzzy.com/logo.png",
-    "tags": ["csv", "excel", "sheet"],
+    "tags": [
+      "csv",
+      "excel",
+      "sheet"
+    ],
     "title": "Make A Sheet",
     "description": "Generate a csv file that can directly be imported into Google Sheets or MS Excel."
   },
