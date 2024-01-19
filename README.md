@@ -74,7 +74,7 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 1. <kbd>Fork</kbd> of this repository.
 2. Make a copy of `plugin-template.json`
 3. Fill in the copy and rename it appropriately
-4. Move it into `plugins` directory
+4. Move it into `src` directory
 5. Submit a pull request and wait for review.
 
 > \[!IMPORTANT]\
