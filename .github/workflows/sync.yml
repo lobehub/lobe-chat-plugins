@@ -1,0 +1,51 @@
+name: Sync
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # every day
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install bun
+        uses: oven-sh/setup-bun@v1
+
+      - name: Install deps
+        run: bun i
+
+      - name: Sync
+        run: bun run sync
+
+      - name: Test
+        run: bun run test
+
+      - name: Format
+        run: bun run format
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_TOKEN }}
+
+      - name: Awesome
+        run: bun run awesome
+
+      - name: Prettier
+        run: |
+          echo "module.exports = require('@lobehub/lint').remarklint;" >> .remarkrc.cjs
+          bun run lint:md
+          echo "module.exports = require('@lobehub/lint').prettier;" >> .prettierrc.cjs
+          bun run prettier
+
+      - name: Commit changes
+        run: |-
+          git diff
+          git config --global user.name "lobehubbot"
+          git config --global user.email "i@lobehub.com"
+          git add .
+          git commit -m "🤖 chore: Auto sync plugin" || exit 0
+          git push
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
