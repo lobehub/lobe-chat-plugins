@@ -6,9 +6,7 @@
   "manifest": "https://showme.redstarplugin.com/.well-known/ai-plugin.json",
   "meta": {
     "avatar": "https://showme.redstarplugin.com/logo.svg",
-    "tags": [
-      "diagrams"
-    ],
+    "tags": ["diagrams"],
     "title": "Diagrams: Show Me",
     "description": "Schemes, Diagrams, Architecture Visualisations, Flow-Charts, Mind Maps. Export and Edit for free!"
   },

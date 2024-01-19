@@ -1,9 +1,7 @@
 import { readdirSync } from 'node:fs';
 import { resolve } from 'node:path';
 
-
 import { readJSON } from './utils';
-
 
 export const root = resolve(__dirname, '..');
 
@@ -29,6 +27,4 @@ export const readmeSplit = '<!-- AWESOME PLUGINS -->';
 
 export const SYNC_URL = 'https://openai-collections.chat-plugin.lobehub.com';
 
-export const config =  require('../.i18nrc.js');
-
-
+export const config = require('../.i18nrc.js');

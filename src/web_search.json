@@ -6,10 +6,7 @@
   "manifest": "https://websearch.plugsugar.com/.well-known/ai-plugin.json",
   "meta": {
     "avatar": "https://websearch.plugsugar.com/200x200.png",
-    "tags": [
-      "search",
-      "plugsugar"
-    ],
+    "tags": ["search", "plugsugar"],
     "title": "Web Search",
     "description": "Search for information from the internet"
   },

@@ -35,6 +35,8 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [AskYourPDF](#askyourpdf)
+  - [Savvy Trader AI](#savvy-trader-ai)
   - [Midjourney](#midjourney)
   - [Git OSS Stats](#git-oss-stats)
   - [创建表格](#创建表格)
@@ -47,11 +49,8 @@
   - [Boolio Invest](#boolio-invest)
   - [社交搜索](#社交搜索)
   - [TikZJax](#tikzjax)
-  - [思维导图](#思维导图)
   - [天气 GPT](#天气-gpt)
-  - [AskYouPDF](#askyoupdf)
   - [SEO](#seo)
-  - [授粉绘画](#授粉绘画)
   - [时钟时间](#时钟时间)
   - [网站爬虫](#网站爬虫)
   - [搜索引擎](#搜索引擎)
@@ -98,6 +97,38 @@
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### AskYourPDF
+
+<sup>By **[@askyourpdf](https://plugin.askyourpdf.com)** on **2024-01-20**</sup>
+
+释放 PDF 的力量！深入文档，寻找答案，让信息触手可及。
+
+`pdf` `document` `web`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Savvy Trader AI
+
+<sup>By **[@savvytrader](https://savvytrader.com)** on **2024-01-20**</sup>
+
+实时股票、加密货币和其他投资数据。
+
+`股票` `分析`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Midjourney
 
@@ -165,7 +196,7 @@
 
 ### GIF 搜索
 
-<sup>By **[@giphy](https://giphy.com/)** on **2024-01-17**</sup>
+<sup>By **[@efficiency](https://chat-plugin-giphy.efficiency.tools)** on **2024-01-17**</sup>
 
 搜索各种各样的 GIF - 由 Giphy 提供动力。
 
@@ -229,7 +260,7 @@
 
 ### Asset Ovi
 
-<sup>By **[@assetovi](https://assetovi.com/)** on **2024-01-17**</sup>
+<sup>By **[@assetovi](https://assetovi.com)** on **2024-01-17**</sup>
 
 搜索和预览数百万款用于游戏、AIGC、AR/VR 等领域的 3D 资产。
 
@@ -261,7 +292,7 @@
 
 ### 社交搜索
 
-<sup>By **[@SayApps](https://say-apps.com/)** on **2024-01-17**</sup>
+<sup>By **[@say-apps](https://twitter.say-apps.com)** on **2024-01-17**</sup>
 
 社交搜索提供访问推文、用户、关注者、图片、媒体等功能。
 
@@ -291,22 +322,6 @@
 
 ---
 
-### 思维导图
-
-<sup>By **[@Moonlit7](https://github.com/Moonlit7/chat-plugin-mindmap)** on **2023-12-19**</sup>
-
-思维导图生成助手
-
-`思维导图` `脑图`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### 天气 GPT
 
 <sup>By **[@Steven Tey](https://github.com/steven-tey/weathergpt)** on **2023-12-16**</sup>
@@ -323,45 +338,13 @@
 
 ---
 
-### AskYouPDF
-
-<sup>By **[@AskYourPDF](https://askyourpdf.com/)** on **2023-12-16**</sup>
-
-释放您的 PDF 的力量！深入您的文档，找到答案，并将信息带到您的指尖。
-
-`pdf` `文档` `web`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### SEO
 
-<sup>By **[@Orren Prunckun](https://orrenprunckun.com)** on **2023-12-16**</sup>
+<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2023-12-16**</sup>
 
 输入任何 URL 和关键词，获取页面 SEO 分析和见解！
 
 `seo`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 授粉绘画
-
-<sup>By **[@AI0x0](https://github.com/mushan0x0/lobe-pollinations-ai)** on **2023-12-10**</sup>
-
-通过 pollinations.ai 进行图像生成
-
-`drawing` `image`
 
 <div align="right">
 

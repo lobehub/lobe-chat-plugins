@@ -6,11 +6,7 @@
   "manifest": "https://api.360macky.com/.well-known/ai-plugin.json",
   "meta": {
     "avatar": "https://api.360macky.com/logo.png",
-    "tags": [
-      "nasa",
-      "search",
-      "image"
-    ],
+    "tags": ["nasa", "search", "image"],
     "title": "Astrodaily",
     "description": "Search and discover NASA images."
   },

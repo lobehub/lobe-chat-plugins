@@ -6,9 +6,7 @@
   "manifest": "https://weathergpt.vercel.app/.well-known/ai-plugin.json",
   "meta": {
     "avatar": "https://weathergpt.vercel.app/logo.png",
-    "tags": [
-      "weather"
-    ],
+    "tags": ["weather"],
     "title": "WeatherGPT",
     "description": "Get current weather information for a specific location."
   },

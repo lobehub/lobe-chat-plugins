@@ -1,16 +1,14 @@
 {
   "author": "orrenprunckun",
+  "createdAt": "2023-12-16",
   "homepage": "https://seo-plugin.orrenprunckun.com",
   "identifier": "SEO",
   "manifest": "https://openai-collections.chat-plugin.lobehub.com/seo/manifest.json",
   "meta": {
     "avatar": "https://seo-plugin.orrenprunckun.com/icon.png",
     "description": "Enter any URL and keyword and get an On-Page SEO analysis & insights!",
-    "tags": [
-      "seo"
-    ],
+    "tags": ["seo"],
     "title": "SEO"
   },
-  "schemaVersion": 1,
-  "createdAt": "2023-12-16"
+  "schemaVersion": 1
 }

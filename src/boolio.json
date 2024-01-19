@@ -6,10 +6,7 @@
   "manifest": "https://chatgpt.boolio.co.kr/.well-known/ai-plugin.json",
   "meta": {
     "avatar": "https://chatgpt.boolio.co.kr/logo.png",
-    "tags": [
-      "stock",
-      "analyze"
-    ],
+    "tags": ["stock", "analyze"],
     "title": "Boolio Invest",
     "description": "Analyze stock investments from any country, with Boolio's state-of-the-art engine."
   },

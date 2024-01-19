@@ -6,10 +6,7 @@
   "manifest": "https://realtime-weather.chat-plugin.lobehub.com/manifest.json",
   "meta": {
     "avatar": "🌈",
-    "tags": [
-      "weather",
-      "realtime"
-    ],
+    "tags": ["weather", "realtime"],
     "title": "Realtime Weather",
     "description": "Get realtime weather information"
   },

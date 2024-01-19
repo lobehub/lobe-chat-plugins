@@ -35,6 +35,8 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [AskYourPDF](#askyourpdf)
+  - [Savvy Trader AI](#savvy-trader-ai)
   - [Midjourney](#midjourney)
   - [Git OSS Stats](#git-oss-stats)
   - [Make A Sheet](#make-a-sheet)
@@ -47,11 +49,8 @@
   - [Boolio Invest](#boolio-invest)
   - [Social Search](#social-search)
   - [TikZJax](#tikzjax)
-  - [Mindmap](#mindmap)
-  - [weather GPT](#weather-gpt)
-  - [Ask Your PDF](#ask-your-pdf)
+  - [WeatherGPT](#weathergpt)
   - [SEO](#seo)
-  - [Pollinate drawing](#pollinate-drawing)
   - [Clock Time](#clock-time)
   - [Website Crawler](#website-crawler)
   - [Search Engine](#search-engine)
@@ -98,6 +97,38 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### AskYourPDF
+
+<sup>By **[@askyourpdf](https://plugin.askyourpdf.com)** on **2024-01-20**</sup>
+
+Unlock the power of your PDFs!, dive into your documents, find answers, and bring information to your fingertips.
+
+`pdf` `document` `web`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Savvy Trader AI
+
+<sup>By **[@savvytrader](https://savvytrader.com)** on **2024-01-20**</sup>
+
+Realtime stock, crypto and other investment data.
+
+`stock` `analyze`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Midjourney
 
@@ -165,7 +196,7 @@ Search and discover NASA images.
 
 ### GIF Search
 
-<sup>By **[@giphy](https://giphy.com/)** on **2024-01-17**</sup>
+<sup>By **[@efficiency](https://chat-plugin-giphy.efficiency.tools)** on **2024-01-17**</sup>
 
 Search through a wide range of gifs - Powered by Giphy.
 
@@ -183,7 +214,7 @@ Search through a wide range of gifs - Powered by Giphy.
 
 <sup>By **[@plugsugar](https://websearch.plugsugar.com/)** on **2024-01-17**</sup>
 
-Search for information from the internet.
+Search for information from the internet
 
 `search` `plugsugar`
 
@@ -199,7 +230,7 @@ Search for information from the internet.
 
 <sup>By **[@onrender](https://stack-overflow-search.onrender.com)** on **2024-01-17**</sup>
 
-Get recent questions and answers from Stack Overflow.
+Expand your knowledge beyond 2021/09/01. Get recent questions and answers from Stack Overflow.
 
 `stack-overflow` `q-a`
 
@@ -215,7 +246,7 @@ Get recent questions and answers from Stack Overflow.
 
 <sup>By **[@Redstar Plugin](https://showme.redstarplugin.com/)** on **2024-01-17**</sup>
 
-Show Me is a powerful tool designed for the quick creation and editing of diagrams.
+Schemes, Diagrams, Architecture Visualisations, Flow-Charts, Mind Maps. Export and Edit for free!
 
 `diagrams`
 
@@ -229,7 +260,7 @@ Show Me is a powerful tool designed for the quick creation and editing of diagra
 
 ### Asset Ovi
 
-<sup>By **[@assetovi](https://assetovi.com/)** on **2024-01-17**</sup>
+<sup>By **[@assetovi](https://assetovi.com)** on **2024-01-17**</sup>
 
 Search and preview millions of 3D assets for games, AIGC, AR/VR and others.
 
@@ -261,7 +292,7 @@ Analyze stock investments from any country, with Boolio's state-of-the-art engin
 
 ### Social Search
 
-<sup>By **[@SayApps](https://say-apps.com/)** on **2024-01-17**</sup>
+<sup>By **[@say-apps](https://twitter.say-apps.com)** on **2024-01-17**</sup>
 
 The Social Search provides access to tweets, users, followers, images, media and more.
 
@@ -291,23 +322,7 @@ Convert LaTeX TikZ code into SVG images for crisp, scalable mathematical diagram
 
 ---
 
-### Mindmap
-
-<sup>By **[@Moonlit7](https://github.com/Moonlit7/chat-plugin-mindmap)** on **2023-12-19**</sup>
-
-A mindmap generation assistant
-
-`mindmap`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### weather GPT
+### WeatherGPT
 
 <sup>By **[@Steven Tey](https://github.com/steven-tey/weathergpt)** on **2023-12-16**</sup>
 
@@ -323,45 +338,13 @@ Get current weather information for a specific location.
 
 ---
 
-### Ask Your PDF
-
-<sup>By **[@AskYourPDF](https://askyourpdf.com/)** on **2023-12-16**</sup>
-
-Unlock the power of your PDFs!, dive into your documents, find answers, and bring information to your fingertips.
-
-`pdf` `document` `web`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### SEO
 
-<sup>By **[@Orren Prunckun](https://orrenprunckun.com)** on **2023-12-16**</sup>
+<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2023-12-16**</sup>
 
 Enter any URL and keyword and get an On-Page SEO analysis & insights!
 
 `seo`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Pollinate drawing
-
-<sup>By **[@AI0x0](https://github.com/mushan0x0/lobe-pollinations-ai)** on **2023-12-10**</sup>
-
-Generate images through pollinations.ai
-
-`drawing` `image`
 
 <div align="right">
 

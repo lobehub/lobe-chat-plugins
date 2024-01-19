@@ -3,6 +3,7 @@ import { get, kebabCase, merge, set } from 'lodash-es';
 import { existsSync } from 'node:fs';
 import { resolve } from 'node:path';
 import pMap from 'p-map';
+
 import { formatAndCheckSchema } from './check';
 import { config, localesDir, metaPath, plugins, pluginsDir, templatePath } from './const';
 import { formatFilenames } from './formatFilename';
@@ -64,11 +65,15 @@ const runFormat = async () => {
   consola.start('Start format json content...');
   await formatJSON(metaPath);
   await formatJSON(templatePath);
-  await pMap(plugins, async (file) => {
-    if (checkJSON(file)) {
-      await formatJSON(file.name, true);
-    }
-  }, {concurrency: 5});
+  await pMap(
+    plugins,
+    async (file) => {
+      if (checkJSON(file)) {
+        await formatJSON(file.name, true);
+      }
+    },
+    { concurrency: 5 },
+  );
 };
 
 // run format
@@ -77,6 +82,6 @@ const run = async () => {
   await runFormat();
   split('FORMAT FILENAME');
   formatFilenames();
-}
+};
 
-run()
+run();
