@@ -74,7 +74,7 @@
 1. <kbd>Fork</kbd> 这个存储库
 2. 复制 `plugin-template.json`
 3. 填写副本并适当重命名
-4. 将其移动到 `plugins` 目录中
+4. 将其移动到 `src` 目录中
 5. 提交一个拉取请求并等待审核
 
 > \[!IMPORTANT]\
