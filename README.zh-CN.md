@@ -35,6 +35,12 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [变革](#变革)
+  - [TokenInsights](#tokeninsights)
+  - [NFT Guru](#nft-guru)
+  - [说](#说)
+  - [MintbaseSearch](#mintbasesearch)
+  - [Defillama](#defillama)
   - [AskYourPDF](#askyourpdf)
   - [Savvy Trader AI](#savvy-trader-ai)
   - [Midjourney](#midjourney)
@@ -50,7 +56,6 @@
   - [社交搜索](#社交搜索)
   - [TikZJax](#tikzjax)
   - [天气 GPT](#天气-gpt)
-  - [SEO](#seo)
   - [时钟时间](#时钟时间)
   - [网站爬虫](#网站爬虫)
   - [搜索引擎](#搜索引擎)
@@ -97,6 +102,102 @@
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### 变革
+
+<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
+
+发现在您的社区和更广泛范围内支持的有影响力的非营利组织。
+
+`慈善`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### TokenInsights
+
+<sup>By **[@feednews](https://cryptoplugin.feednews.com)** on **2024-01-22**</sup>
+
+获取实时加密货币价格，BTC，ETH，BNB 和最新见解。最新的币新闻和空投机会。
+
+`加密货币` `btc` `eth` `bnb`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### NFT Guru
+
+<sup>By **[@swap](https://app.swap.net)** on **2024-01-22**</sup>
+
+发现主要平台上 NFT 的当前价格，并通过实时跟踪快速变化的市场了解情况
+
+`加密货币` `NFT`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 说
+
+<sup>By **[@speak](https://speak.com)** on **2024-01-22**</sup>
+
+使用 Speak，您的 AI 语言导师，学习如何用另一种语言说任何事情。
+
+`教育` `语言`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### MintbaseSearch
+
+<sup>By **[@mintbase](https://search-ai.mintbase.xyz)** on **2024-01-22**</sup>
+
+在 NEAR 协议上查找任何 NFT 数据。
+
+`加密货币` `NFT`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Defillama
+
+<sup>By **[@onrender](https://llamawrapper-prod.onrender.com)** on **2024-01-22**</sup>
+
+检索 DeFi 协议和区块链的数据。
+
+`加密货币` `去中心化金融`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### AskYourPDF
 
@@ -329,22 +430,6 @@
 获取特定位置的当前天气信息。
 
 `天气`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### SEO
-
-<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2023-12-16**</sup>
-
-输入任何 URL 和关键词，获取页面 SEO 分析和见解！
-
-`seo`
 
 <div align="right">
 

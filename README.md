@@ -35,6 +35,12 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [Change](#change)
+  - [TokenInsights](#tokeninsights)
+  - [NFT Guru](#nft-guru)
+  - [Speak](#speak)
+  - [MintbaseSearch](#mintbasesearch)
+  - [Defillama](#defillama)
   - [AskYourPDF](#askyourpdf)
   - [Savvy Trader AI](#savvy-trader-ai)
   - [Midjourney](#midjourney)
@@ -50,7 +56,6 @@
   - [Social Search](#social-search)
   - [TikZJax](#tikzjax)
   - [WeatherGPT](#weathergpt)
-  - [SEO](#seo)
   - [Clock Time](#clock-time)
   - [Website Crawler](#website-crawler)
   - [Search Engine](#search-engine)
@@ -97,6 +102,102 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### Change
+
+<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
+
+Discover impactful nonprofits to support in your community and beyond.
+
+`charity`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### TokenInsights
+
+<sup>By **[@feednews](https://cryptoplugin.feednews.com)** on **2024-01-22**</sup>
+
+Get realtime crypto price, BTC, ETH, BNB, and the latest insights.The latest coin news and airdrop opportunities.
+
+`crypto` `btc` `eth` `bnb`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### NFT Guru
+
+<sup>By **[@swap](https://app.swap.net)** on **2024-01-22**</sup>
+
+Discover current prices of NFTs across major platforms and keep track of the rapidly changing marketplace with real-time
+
+`crypto` `nft`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Speak
+
+<sup>By **[@speak](https://speak.com)** on **2024-01-22**</sup>
+
+Learn how to say anything in another language with Speak, your AI-powered language tutor.
+
+`education` `language`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### MintbaseSearch
+
+<sup>By **[@mintbase](https://search-ai.mintbase.xyz)** on **2024-01-22**</sup>
+
+Find any NFT data on the NEAR Protocol.
+
+`crypto` `nft`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Defillama
+
+<sup>By **[@onrender](https://llamawrapper-prod.onrender.com)** on **2024-01-22**</sup>
+
+Retrieve data on DeFi protocols and blockchains.
+
+`crypto` `de-fi`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### AskYourPDF
 
@@ -329,22 +430,6 @@ Convert LaTeX TikZ code into SVG images for crisp, scalable mathematical diagram
 Get current weather information for a specific location.
 
 `weather`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### SEO
-
-<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2023-12-16**</sup>
-
-Enter any URL and keyword and get an On-Page SEO analysis & insights!
-
-`seo`
 
 <div align="right">
 

@@ -1,0 +1,14 @@
+{
+  "author": "getchange",
+  "createdAt": "2024-01-22",
+  "homepage": "https://api.getchange.io",
+  "identifier": "nonprofits",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/getchange/manifest.json",
+  "meta": {
+    "avatar": "https://api.getchange.io/.well-known/change-logo.png",
+    "description": "Discover impactful nonprofits to support in your community and beyond.",
+    "tags": ["charity"],
+    "title": "Change"
+  },
+  "schemaVersion": 1
+}
