@@ -63,8 +63,8 @@ const syncExistPlugins = async () => {
     async (plugin) => {
       const filePath = resolve(pluginsDir, plugin.name);
 
-      const pluginManifest: PluginMainifest = readJSON(filePath);
       try {
+        const pluginManifest: PluginMainifest = readJSON(filePath);
         const res = await fetch(pluginManifest.manifest);
         const json: OpenaiMainifest | PluginMainifest | any = await res.json();
         pluginManifest.identifier = json?.name_for_model || json?.identifier;
@@ -73,7 +73,7 @@ const syncExistPlugins = async () => {
         writeJSON(filePath, pluginManifest);
         consola.success(`Synced ${pluginManifest.identifier}`);
       } catch (error) {
-        consola.error(`Failed to sync ${pluginManifest.identifier}`, error);
+        consola.error(`Failed to sync ${plugin}`, error);
       }
     },
     { concurrency: 5 },
