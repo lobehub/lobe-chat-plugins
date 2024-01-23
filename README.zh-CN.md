@@ -35,6 +35,8 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [GameSight](#gamesight)
+  - [SEO](#seo)
   - [变革](#变革)
   - [TokenInsights](#tokeninsights)
   - [NFT Guru](#nft-guru)
@@ -55,6 +57,7 @@
   - [Boolio Invest](#boolio-invest)
   - [社交搜索](#社交搜索)
   - [TikZJax](#tikzjax)
+  - [思维导图](#思维导图)
   - [天气 GPT](#天气-gpt)
   - [时钟时间](#时钟时间)
   - [网站爬虫](#网站爬虫)
@@ -102,6 +105,38 @@
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### GameSight
+
+<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
+
+发现游戏、与游戏相关的内容、获取推荐，并根据玩家评价比较游戏。
+
+`游戏` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### SEO
+
+<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
+
+输入任何 URL 和关键词，获取页面 SEO 分析和见解！
+
+`seo`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### 变革
 
@@ -414,6 +449,22 @@
 将 LaTeX TikZ 代码转换为 SVG 图像，用于创建清晰、可缩放的数学图表和可视化效果。
 
 `latex` `svg` `可视化` `图表` `数学`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 思维导图
+
+<sup>By **[@Moonlit7](https://github.com/Moonlit7/chat-plugin-mindmap)** on **2023-12-19**</sup>
+
+思维导图生成助手
+
+`思维导图` `脑图`
 
 <div align="right">
 

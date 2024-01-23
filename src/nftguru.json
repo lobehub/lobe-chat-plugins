@@ -5,7 +5,7 @@
   "identifier": "nftguru",
   "manifest": "https://openai-collections.chat-plugin.lobehub.com/nftguru/manifest.json",
   "meta": {
-    "avatar": "https://app.swap.net/public/chat-gpt4/logo.png",
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/nftguru/home/runner/work/lobe-openai-plugins/lobe-openai-plugins/public/nftguru/logo.webp",
     "description": "Discover current prices of NFTs across major platforms and keep track of the rapidly changing marketplace with real-time",
     "tags": ["crypto", "nft"],
     "title": "NFT Guru"

@@ -5,7 +5,7 @@
   "identifier": "defillama",
   "manifest": "https://openai-collections.chat-plugin.lobehub.com/defillama/manifest.json",
   "meta": {
-    "avatar": "https://i.imgur.com/bSJRFvE.png",
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/defillama/home/runner/work/lobe-openai-plugins/lobe-openai-plugins/public/defillama/logo.webp",
     "description": "Retrieve data on DeFi protocols and blockchains.",
     "tags": ["crypto", "de-fi"],
     "title": "Defillama"

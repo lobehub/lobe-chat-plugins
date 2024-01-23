@@ -5,7 +5,7 @@
   "identifier": "assetOvi",
   "manifest": "https://openai-collections.chat-plugin.lobehub.com/asset-ovi/manifest.json",
   "meta": {
-    "avatar": "https://assetovi-cdn.yahaha.com/assetovi-gpt-logo.png",
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/asset-ovi/home/runner/work/lobe-openai-plugins/lobe-openai-plugins/public/asset-ovi/logo.webp",
     "description": "Search and preview millions of 3D assets for games, AIGC, AR/VR and others.",
     "tags": ["3-d", "assets", "search"],
     "title": "Asset Ovi"

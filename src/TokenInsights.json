@@ -5,7 +5,7 @@
   "identifier": "TokenInsights",
   "manifest": "https://openai-collections.chat-plugin.lobehub.com/token-insights/manifest.json",
   "meta": {
-    "avatar": "https://img.feednews.com/assets/v2/f7eabc30a8ac4f6d82d9bf7e6d32c342",
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/token-insights/home/runner/work/lobe-openai-plugins/lobe-openai-plugins/public/token-insights/logo.webp",
     "description": "Get realtime crypto price, BTC, ETH, BNB, and the latest insights.The latest coin news and airdrop opportunities.",
     "tags": ["crypto", "btc", "eth", "bnb"],
     "title": "TokenInsights"

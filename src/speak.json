@@ -5,7 +5,7 @@
   "identifier": "speak",
   "manifest": "https://openai-collections.chat-plugin.lobehub.com/speak/manifest.json",
   "meta": {
-    "avatar": "https://api.speak.com/ai-plugin-logo.png",
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/speak/home/runner/work/lobe-openai-plugins/lobe-openai-plugins/public/speak/logo.webp",
     "description": "Learn how to say anything in another language with Speak, your AI-powered language tutor.",
     "tags": ["education", "language"],
     "title": "Speak"

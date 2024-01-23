@@ -35,6 +35,8 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [GameSight](#gamesight)
+  - [SEO](#seo)
   - [Change](#change)
   - [TokenInsights](#tokeninsights)
   - [NFT Guru](#nft-guru)
@@ -55,6 +57,7 @@
   - [Boolio Invest](#boolio-invest)
   - [Social Search](#social-search)
   - [TikZJax](#tikzjax)
+  - [Mindmap](#mindmap)
   - [WeatherGPT](#weathergpt)
   - [Clock Time](#clock-time)
   - [Website Crawler](#website-crawler)
@@ -102,6 +105,38 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### GameSight
+
+<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
+
+Discover games, game-related content, get recommendations, and compare games based on player reviews.
+
+`game` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### SEO
+
+<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
+
+Enter any URL and keyword and get an On-Page SEO analysis & insights!
+
+`seo`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Change
 
@@ -414,6 +449,22 @@ The Social Search provides access to tweets, users, followers, images, media and
 Convert LaTeX TikZ code into SVG images for crisp, scalable mathematical diagrams and visualizations.
 
 `latex` `svg` `visualization` `diagram` `math`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Mindmap
+
+<sup>By **[@Moonlit7](https://github.com/Moonlit7/chat-plugin-mindmap)** on **2023-12-19**</sup>
+
+A mindmap generation assistant
+
+`mindmap`
 
 <div align="right">
 

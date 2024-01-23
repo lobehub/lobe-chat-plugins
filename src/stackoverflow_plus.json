@@ -5,7 +5,7 @@
   "identifier": "stackoverflow_plus",
   "manifest": "https://openai-collections.chat-plugin.lobehub.com/stackoverflow/manifest.json",
   "meta": {
-    "avatar": "https://stack-overflow-search.onrender.com/.well-known/logo",
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/stackoverflow/home/runner/work/lobe-openai-plugins/lobe-openai-plugins/public/stackoverflow/logo.webp",
     "description": "Expand your knowledge beyond 2021/09/01. Get recent questions and answers from Stack Overflow.",
     "tags": ["stack-overflow", "q-a"],
     "title": "StackOverflow Plus"
