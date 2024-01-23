@@ -36,6 +36,7 @@
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
   - [GameSight](#gamesight)
+  - [Questmate Forms](#questmate-forms)
   - [SEO](#seo)
   - [变革](#变革)
   - [TokenInsights](#tokeninsights)
@@ -114,6 +115,22 @@
 发现游戏、与游戏相关的内容、获取推荐，并根据玩家评价比较游戏。
 
 `游戏` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Questmate Forms
+
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
+
+创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
+
+`表单` `清单` `生产力`
 
 <div align="right">
 
@@ -285,7 +302,7 @@
 
 ### Git OSS Stats
 
-<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
+<sup>By **[@vercel](https://chat-gpt-github-stat-plugin.vercel.app)** on **2024-01-17**</sup>
 
 动态生成和分析开源软件仓库和开发者的统计数据和历史记录。
 

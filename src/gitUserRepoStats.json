@@ -1,14 +1,14 @@
 {
-  "author": "yunwei37",
+  "author": "vercel",
   "createdAt": "2024-01-17",
-  "homepage": "https://github.com/yunwei37/ChatGPT-github-stat-plugin",
+  "homepage": "https://chat-gpt-github-stat-plugin.vercel.app",
   "identifier": "gitUserRepoStats",
-  "manifest": "https://chat-gpt-github-stat-plugin.vercel.app/.well-known/ai-plugin.json",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/github-stats/manifest.json",
   "meta": {
-    "avatar": "https://chat-gpt-github-stat-plugin.vercel.app/logo.png",
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/github-stats/logo.webp",
+    "description": "Dynamically generate and analyze stats and history for OSS repos and developers.",
     "tags": ["github", "oss"],
-    "title": "Git OSS Stats",
-    "description": "Dynamically generate and analyze stats and history for OSS repos and developers."
+    "title": "Git OSS Stats"
   },
   "schemaVersion": 1
 }

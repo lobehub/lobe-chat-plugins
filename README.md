@@ -36,6 +36,7 @@
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
   - [GameSight](#gamesight)
+  - [Questmate Forms](#questmate-forms)
   - [SEO](#seo)
   - [Change](#change)
   - [TokenInsights](#tokeninsights)
@@ -114,6 +115,22 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 Discover games, game-related content, get recommendations, and compare games based on player reviews.
 
 `game` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Questmate Forms
+
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
+
+Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
+
+`forms` `checklists` `productivity`
 
 <div align="right">
 
@@ -285,7 +302,7 @@ Unleash creativity with Midjourney, effortlessly generating unique AI-driven ima
 
 ### Git OSS Stats
 
-<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
+<sup>By **[@vercel](https://chat-gpt-github-stat-plugin.vercel.app)** on **2024-01-17**</sup>
 
 Dynamically generate and analyze stats and history for OSS repos and developers.
 
