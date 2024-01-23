@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "ビデオキャプション",
+    "description": "YouTubeリンクを転記されたテキストに変換し、質問をすることを可能にし、チャプターを作成し、その内容を要約します。",
+    "tags": ["video-to-text", "youtube"]
+  }
+}

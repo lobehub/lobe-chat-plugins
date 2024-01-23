@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Video Summary",
+    "description": "Zusammenfassung von YouTube-Videohighlights. Generieren Sie Zusammenfassungen aus YouTube-Video-URLs.",
+    "tags": ["video-to-text", "youtube"]
+  }
+}

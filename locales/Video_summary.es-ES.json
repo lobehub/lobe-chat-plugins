@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Resumen de vídeo",
+    "description": "Resumir los aspectos más destacados del vídeo de YouTube. Generar resúmenes a partir de URL de vídeos de YouTube.",
+    "tags": ["video-a-texto", "youtube"]
+  }
+}

@@ -38,7 +38,9 @@
   - [GuruWalk](#guruwalk)
   - [GameSight](#gamesight)
   - [txyz.ai](#txyzai)
+  - [Video Captions](#video-captions)
   - [Questmate Forms](#questmate-forms)
+  - [Video Summary](#video-summary)
   - [Basketball Stats](#basketball-stats)
   - [SEO](#seo)
   - [Litmaps](#litmaps)
@@ -164,6 +166,22 @@ Explore the universe of research. Search and compare papers, and answer question
 
 ---
 
+### Video Captions
+
+<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
+
+Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.
+
+`video-to-text` `youtube`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### Questmate Forms
 
 <sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
@@ -171,6 +189,22 @@ Explore the universe of research. Search and compare papers, and answer question
 Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
 
 `forms` `checklists` `productivity`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Video Summary
+
+<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
+
+Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
+
+`video-to-text` `youtube`
 
 <div align="right">
 

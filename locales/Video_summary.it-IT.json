@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Sommario Video",
+    "description": "Sommario dei momenti salienti dei video. Genera sommari da URL dei video di YouTube.",
+    "tags": ["video-to-text", "youtube"]
+  }
+}

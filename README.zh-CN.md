@@ -38,7 +38,9 @@
   - [GuruWalk](#guruwalk)
   - [GameSight](#gamesight)
   - [txyz.ai](#txyzai)
+  - [视频字幕](#视频字幕)
   - [Questmate Forms](#questmate-forms)
+  - [视频摘要](#视频摘要)
   - [篮球统计](#篮球统计)
   - [SEO](#seo)
   - [Litmaps](#litmaps)
@@ -164,6 +166,22 @@
 
 ---
 
+### 视频字幕
+
+<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
+
+将 Youtube 链接转换为转录文本，使其能够提问，创建章节，并总结其内容。
+
+`视频转文字` `YouTube`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### Questmate Forms
 
 <sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
@@ -171,6 +189,22 @@
 创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
 
 `表单` `清单` `生产力`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 视频摘要
+
+<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
+
+总结 YouTube 视频亮点。从 YouTube 视频链接生成摘要。
+
+`视频转文字` `YouTube`
 
 <div align="right">
 

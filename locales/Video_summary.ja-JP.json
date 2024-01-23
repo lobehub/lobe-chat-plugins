@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "ビデオサマリー",
+    "description": "YouTubeビデオのハイライトを要約します。YouTubeビデオのURLから要約を生成します。",
+    "tags": ["video-to-text", "youtube"]
+  }
+}

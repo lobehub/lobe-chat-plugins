@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "视频字幕",
+    "description": "将Youtube链接转换为转录文本，使其能够提问，创建章节，并总结其内容。",
+    "tags": ["视频转文字", "YouTube"]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "author": "glarity",
+  "createdAt": "2024-01-23",
+  "homepage": "https://glarity.app",
+  "identifier": "Video_summary",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/video-summary/manifest.json",
+  "meta": {
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/video-summary/logo.webp",
+    "description": "Summarize YouTube video highlights. Generate summaries from YouTube video URLs.",
+    "tags": ["video-to-text", "youtube"],
+    "title": "Video Summary"
+  },
+  "schemaVersion": 1
+}
