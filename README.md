@@ -59,6 +59,7 @@
   - [TikZJax](#tikzjax)
   - [Mindmap](#mindmap)
   - [WeatherGPT](#weathergpt)
+  - [Pollinate drawing](#pollinate-drawing)
   - [Clock Time](#clock-time)
   - [Website Crawler](#website-crawler)
   - [Search Engine](#search-engine)
@@ -481,6 +482,22 @@ A mindmap generation assistant
 Get current weather information for a specific location.
 
 `weather`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Pollinate drawing
+
+<sup>By **[@AI0x0](https://github.com/mushan0x0/lobe-pollinations-ai)** on **2023-12-10**</sup>
+
+Generate images through pollinations.ai
+
+`drawing` `image`
 
 <div align="right">
 

@@ -59,6 +59,7 @@
   - [TikZJax](#tikzjax)
   - [思维导图](#思维导图)
   - [天气 GPT](#天气-gpt)
+  - [授粉绘画](#授粉绘画)
   - [时钟时间](#时钟时间)
   - [网站爬虫](#网站爬虫)
   - [搜索引擎](#搜索引擎)
@@ -481,6 +482,22 @@
 获取特定位置的当前天气信息。
 
 `天气`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 授粉绘画
+
+<sup>By **[@AI0x0](https://github.com/mushan0x0/lobe-pollinations-ai)** on **2023-12-10**</sup>
+
+通过 pollinations.ai 进行图像生成
+
+`drawing` `image`
 
 <div align="right">
 
