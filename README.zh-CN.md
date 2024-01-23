@@ -51,7 +51,7 @@
   - [变革](#变革)
   - [TokenInsights](#tokeninsights)
   - [NFT Guru](#nft-guru)
-  - [说](#说)
+  - [Speak](#speak)
   - [MintbaseSearch](#mintbasesearch)
   - [Defillama](#defillama)
   - [AskYourPDF](#askyourpdf)
@@ -374,7 +374,7 @@
 
 ---
 
-### 说
+### Speak
 
 <sup>By **[@speak](https://speak.com)** on **2024-01-22**</sup>
 
