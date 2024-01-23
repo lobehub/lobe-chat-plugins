@@ -1,0 +1,14 @@
+{
+  "author": "txyz",
+  "createdAt": "2024-01-23",
+  "homepage": "https://txyz.ai",
+  "identifier": "ResearchAI",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/txyz/manifest.json",
+  "meta": {
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/txyz/logo.webp",
+    "description": "Explore the universe of research. Search and compare papers, and answer questions.",
+    "tags": ["research-paper", "search"],
+    "title": "txyz.ai"
+  },
+  "schemaVersion": 1
+}

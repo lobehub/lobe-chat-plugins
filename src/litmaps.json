@@ -1,0 +1,14 @@
+{
+  "author": "litmaps",
+  "createdAt": "2024-01-23",
+  "homepage": "https://api.litmaps.com",
+  "identifier": "litmaps",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/litmaps/manifest.json",
+  "meta": {
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/litmaps/logo.webp",
+    "description": "Get help exploring the scientific literature. Find relevant papers and generate mindmaps of the literature.",
+    "tags": ["scientific-literature", "search"],
+    "title": "Litmaps"
+  },
+  "schemaVersion": 1
+}

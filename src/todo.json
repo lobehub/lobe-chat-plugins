@@ -1,0 +1,14 @@
+{
+  "author": "guruwalk",
+  "createdAt": "2024-01-23",
+  "homepage": "https://www.guruwalk.com",
+  "identifier": "todo",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/guru-walk/manifest.json",
+  "meta": {
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/guru-walk/logo.webp",
+    "description": "The best free tour guides in the world are here.",
+    "tags": ["travel", "guides"],
+    "title": "GuruWalk"
+  },
+  "schemaVersion": 1
+}

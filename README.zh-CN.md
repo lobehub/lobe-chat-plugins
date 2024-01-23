@@ -35,9 +35,17 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [GuruWalk](#guruwalk)
   - [GameSight](#gamesight)
+  - [txyz.ai](#txyzai)
   - [Questmate Forms](#questmate-forms)
+  - [篮球统计](#篮球统计)
   - [SEO](#seo)
+  - [Litmaps](#litmaps)
+  - [Travelmyth](#travelmyth)
+  - [Domatron Domains](#domatron-domains)
+  - [学术](#学术)
+  - [地震信息](#地震信息)
   - [变革](#变革)
   - [TokenInsights](#tokeninsights)
   - [NFT Guru](#nft-guru)
@@ -108,6 +116,22 @@
 
 <!-- AWESOME PLUGINS -->
 
+### GuruWalk
+
+<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
+
+世界上最好的免费导游就在这里。
+
+`旅行` `导游`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### GameSight
 
 <sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
@@ -115,6 +139,22 @@
 发现游戏、与游戏相关的内容、获取推荐，并根据玩家评价比较游戏。
 
 `游戏` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### txyz.ai
+
+<sup>By **[@txyz](https://txyz.ai)** on **2024-01-23**</sup>
+
+探索研究的宇宙。搜索和比较论文，并回答问题。
+
+`research-paper` `search`
 
 <div align="right">
 
@@ -140,6 +180,22 @@
 
 ---
 
+### 篮球统计
+
+<sup>By **[@onrender](https://nba-gpt-prod.onrender.com)** on **2024-01-23**</sup>
+
+从各种比赛、球员、球队和比赛实况数据库中查找和分析篮球统计数据。
+
+`体育` `篮球` `NBA`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### SEO
 
 <sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
@@ -147,6 +203,86 @@
 输入任何 URL 和关键词，获取页面 SEO 分析和见解！
 
 `seo`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Litmaps
+
+<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
+
+获取帮助，探索科学文献。找到相关论文并生成文献思维导图。
+
+`科学文献` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Travelmyth
+
+<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
+
+通过 Travelmyth 释放个性化酒店搜索，提供 60 个独特类别，找到完美匹配。
+
+`旅行` `酒店` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Domatron Domains
+
+<sup>By **[@domatron](https://gpt.domatron.com)** on **2024-01-23**</sup>
+
+为您的企业找到可用的、可品牌化的.com 域名。
+
+`域名` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 学术
+
+<sup>By **[@maila](https://scholarly.maila.ai)** on **2024-01-23**</sup>
+
+学术是一个用人工智能驱动的搜索引擎，用于探索科学文献。
+
+`科学文献` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 地震信息
+
+<sup>By **[@beta3](https://earthquake.beta3.dev)** on **2024-01-23**</sup>
+
+获取最新的地震信息。
+
+`地震` `公用事业`
 
 <div align="right">
 

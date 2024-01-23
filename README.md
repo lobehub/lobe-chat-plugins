@@ -35,9 +35,17 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [GuruWalk](#guruwalk)
   - [GameSight](#gamesight)
+  - [txyz.ai](#txyzai)
   - [Questmate Forms](#questmate-forms)
+  - [Basketball Stats](#basketball-stats)
   - [SEO](#seo)
+  - [Litmaps](#litmaps)
+  - [Travelmyth](#travelmyth)
+  - [Domatron Domains](#domatron-domains)
+  - [Scholarly](#scholarly)
+  - [Earthquake Info](#earthquake-info)
   - [Change](#change)
   - [TokenInsights](#tokeninsights)
   - [NFT Guru](#nft-guru)
@@ -108,6 +116,22 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
+### GuruWalk
+
+<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
+
+The best free tour guides in the world are here.
+
+`travel` `guides`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### GameSight
 
 <sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
@@ -115,6 +139,22 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 Discover games, game-related content, get recommendations, and compare games based on player reviews.
 
 `game` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### txyz.ai
+
+<sup>By **[@txyz](https://txyz.ai)** on **2024-01-23**</sup>
+
+Explore the universe of research. Search and compare papers, and answer questions.
+
+`research-paper` `search`
 
 <div align="right">
 
@@ -140,6 +180,22 @@ Create forms, checklists and workflows (we call 'em Quests!) that you can assign
 
 ---
 
+### Basketball Stats
+
+<sup>By **[@onrender](https://nba-gpt-prod.onrender.com)** on **2024-01-23**</sup>
+
+Find and analyze basketball stats from various databases of games, players, teams, and play-by-plays.
+
+`sports` `basketball` `nba`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### SEO
 
 <sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
@@ -147,6 +203,86 @@ Create forms, checklists and workflows (we call 'em Quests!) that you can assign
 Enter any URL and keyword and get an On-Page SEO analysis & insights!
 
 `seo`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Litmaps
+
+<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
+
+Get help exploring the scientific literature. Find relevant papers and generate mindmaps of the literature.
+
+`scientific-literature` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Travelmyth
+
+<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
+
+Unleash personalized hotel search with Travelmyth, offering 60 unique categories for the perfect match.
+
+`travel` `hotel` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Domatron Domains
+
+<sup>By **[@domatron](https://gpt.domatron.com)** on **2024-01-23**</sup>
+
+Find available, brandable .com domain names for your business businesses.
+
+`domain` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Scholarly
+
+<sup>By **[@maila](https://scholarly.maila.ai)** on **2024-01-23**</sup>
+
+Scholarly is an AI-powered search engine for exploring scientific literature.
+
+`scientific-literature` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Earthquake Info
+
+<sup>By **[@beta3](https://earthquake.beta3.dev)** on **2024-01-23**</sup>
+
+Get latest earthquake information.
+
+`earthquake` `utilities`
 
 <div align="right">
 

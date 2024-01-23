@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Litmaps",
+    "description": "科学文献の探索を支援します。関連する論文を見つけ、文献のマインドマップを生成します。",
+    "tags": ["scientific-literature", "search"]
+  }
+}
