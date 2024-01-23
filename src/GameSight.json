@@ -5,7 +5,7 @@
   "identifier": "GameSight",
   "manifest": "https://openai-collections.chat-plugin.lobehub.com/game-sight/manifest.json",
   "meta": {
-    "avatar": "https://openai-collections.chat-plugin.lobehub.com/game-sight/home/runner/work/lobe-openai-plugins/lobe-openai-plugins/public/game-sight/logo.webp",
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/game-sight/logo.webp",
     "description": "Discover games, game-related content, get recommendations, and compare games based on player reviews.",
     "tags": ["game", "search"],
     "title": "GameSight"

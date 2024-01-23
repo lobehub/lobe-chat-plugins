@@ -5,7 +5,7 @@
   "identifier": "nonprofits",
   "manifest": "https://openai-collections.chat-plugin.lobehub.com/getchange/manifest.json",
   "meta": {
-    "avatar": "https://openai-collections.chat-plugin.lobehub.com/getchange/home/runner/work/lobe-openai-plugins/lobe-openai-plugins/public/getchange/logo.webp",
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/getchange/logo.webp",
     "description": "Discover impactful nonprofits to support in your community and beyond.",
     "tags": ["charity"],
     "title": "Change"

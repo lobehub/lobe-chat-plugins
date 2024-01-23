@@ -3,12 +3,12 @@
   "createdAt": "2024-01-17",
   "homepage": "https://api.360macky.com",
   "identifier": "astrodaily",
-  "manifest": "https://api.360macky.com/.well-known/ai-plugin.json",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/astrodaily/manifest.json",
   "meta": {
-    "avatar": "https://api.360macky.com/logo.png",
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/astrodaily/logo.webp",
+    "description": "Search and discover NASA images.",
     "tags": ["nasa", "search", "image"],
-    "title": "Astrodaily",
-    "description": "Search and discover NASA images."
+    "title": "Astrodaily"
   },
   "schemaVersion": 1
 }

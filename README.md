@@ -300,7 +300,7 @@ Dynamically generate and analyze stats and history for OSS repos and developers.
 
 ### Make A Sheet
 
-<sup>By **[@brandzzy](https://sheet-generator.brandzzy.com/)** on **2024-01-17**</sup>
+<sup>By **[@brandzzy](https://sheet-generator.brandzzy.com)** on **2024-01-17**</sup>
 
 Generate a csv file that can directly be imported into Google Sheets or MS Excel.
 
@@ -348,7 +348,7 @@ Search through a wide range of gifs - Powered by Giphy.
 
 ### Web Search
 
-<sup>By **[@plugsugar](https://websearch.plugsugar.com/)** on **2024-01-17**</sup>
+<sup>By **[@plugsugar](https://websearch.plugsugar.com)** on **2024-01-17**</sup>
 
 Search for information from the internet
 
@@ -380,7 +380,7 @@ Expand your knowledge beyond 2021/09/01. Get recent questions and answers from S
 
 ### Diagrams: Show Me
 
-<sup>By **[@Redstar Plugin](https://showme.redstarplugin.com/)** on **2024-01-17**</sup>
+<sup>By **[@redstarplugin](https://showme.redstarplugin.com)** on **2024-01-17**</sup>
 
 Schemes, Diagrams, Architecture Visualisations, Flow-Charts, Mind Maps. Export and Edit for free!
 
@@ -476,7 +476,7 @@ A mindmap generation assistant
 
 ### WeatherGPT
 
-<sup>By **[@Steven Tey](https://github.com/steven-tey/weathergpt)** on **2023-12-16**</sup>
+<sup>By **[@vercel](https://weathergpt.vercel.app)** on **2023-12-16**</sup>
 
 Get current weather information for a specific location.
 

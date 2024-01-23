@@ -300,7 +300,7 @@
 
 ### 创建表格
 
-<sup>By **[@brandzzy](https://sheet-generator.brandzzy.com/)** on **2024-01-17**</sup>
+<sup>By **[@brandzzy](https://sheet-generator.brandzzy.com)** on **2024-01-17**</sup>
 
 生成一个可以直接导入到 Google 表格或 MS Excel 的 csv 文件。
 
@@ -348,7 +348,7 @@
 
 ### 网络搜索
 
-<sup>By **[@plugsugar](https://websearch.plugsugar.com/)** on **2024-01-17**</sup>
+<sup>By **[@plugsugar](https://websearch.plugsugar.com)** on **2024-01-17**</sup>
 
 从互联网搜索信息。
 
@@ -380,7 +380,7 @@
 
 ### 图表工具
 
-<sup>By **[@Redstar Plugin](https://showme.redstarplugin.com/)** on **2024-01-17**</sup>
+<sup>By **[@redstarplugin](https://showme.redstarplugin.com)** on **2024-01-17**</sup>
 
 展示给我是一个强大的工具，旨在快速创建和编辑图表。
 
@@ -476,7 +476,7 @@
 
 ### 天气 GPT
 
-<sup>By **[@Steven Tey](https://github.com/steven-tey/weathergpt)** on **2023-12-16**</sup>
+<sup>By **[@vercel](https://weathergpt.vercel.app)** on **2023-12-16**</sup>
 
 获取特定位置的当前天气信息。
 

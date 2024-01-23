@@ -3,12 +3,12 @@
   "createdAt": "2024-01-17",
   "homepage": "https://chatgpt.boolio.co.kr",
   "identifier": "boolio",
-  "manifest": "https://chatgpt.boolio.co.kr/.well-known/ai-plugin.json",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/boolio/manifest.json",
   "meta": {
-    "avatar": "https://chatgpt.boolio.co.kr/logo.png",
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/boolio/logo.webp",
+    "description": "Analyze stock investments from any country, with Boolio's state-of-the-art engine.",
     "tags": ["stock", "analyze"],
-    "title": "Boolio Invest",
-    "description": "Analyze stock investments from any country, with Boolio's state-of-the-art engine."
+    "title": "Boolio Invest"
   },
   "schemaVersion": 1
 }

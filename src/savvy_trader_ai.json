@@ -5,7 +5,7 @@
   "identifier": "savvy_trader_ai",
   "manifest": "https://openai-collections.chat-plugin.lobehub.com/savvy-trader/manifest.json",
   "meta": {
-    "avatar": "https://openai-collections.chat-plugin.lobehub.com/savvy-trader/home/runner/work/lobe-openai-plugins/lobe-openai-plugins/public/savvy-trader/logo.webp",
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/savvy-trader/logo.webp",
     "description": "Realtime stock, crypto and other investment data.",
     "tags": ["stock", "analyze"],
     "title": "Savvy Trader AI"

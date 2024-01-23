@@ -5,7 +5,7 @@
   "identifier": "askyourpdf",
   "manifest": "https://openai-collections.chat-plugin.lobehub.com/ask-your-pdf/manifest.json",
   "meta": {
-    "avatar": "https://openai-collections.chat-plugin.lobehub.com/ask-your-pdf/home/runner/work/lobe-openai-plugins/lobe-openai-plugins/public/ask-your-pdf/logo.webp",
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/ask-your-pdf/logo.webp",
     "description": "Unlock the power of your PDFs!, dive into your documents, find answers, and bring information to your fingertips.",
     "tags": ["pdf", "document", "web"],
     "title": "AskYourPDF"

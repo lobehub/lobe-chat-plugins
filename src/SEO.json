@@ -5,7 +5,7 @@
   "identifier": "SEO",
   "manifest": "https://openai-collections.chat-plugin.lobehub.com/seo/manifest.json",
   "meta": {
-    "avatar": "https://openai-collections.chat-plugin.lobehub.com/seo/home/runner/work/lobe-openai-plugins/lobe-openai-plugins/public/seo/logo.webp",
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/seo/logo.webp",
     "description": "Enter any URL and keyword and get an On-Page SEO analysis & insights!",
     "tags": ["seo"],
     "title": "SEO"

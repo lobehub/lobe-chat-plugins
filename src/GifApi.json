@@ -5,7 +5,7 @@
   "identifier": "GifApi",
   "manifest": "https://openai-collections.chat-plugin.lobehub.com/gif-search/manifest.json",
   "meta": {
-    "avatar": "https://openai-collections.chat-plugin.lobehub.com/gif-search/home/runner/work/lobe-openai-plugins/lobe-openai-plugins/public/gif-search/logo.webp",
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/gif-search/logo.webp",
     "description": "Search through a wide range of gifs - Powered by Giphy.",
     "tags": ["gif", "image", "search"],
     "title": "GIF Search"
