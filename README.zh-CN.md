@@ -48,7 +48,7 @@
   - [Domatron Domains](#domatron-domains)
   - [学术](#学术)
   - [地震信息](#地震信息)
-  - [变革](#变革)
+  - [Change](#change)
   - [TokenInsights](#tokeninsights)
   - [NFT Guru](#nft-guru)
   - [Speak](#speak)
@@ -326,7 +326,7 @@
 
 ---
 
-### 变革
+### Change
 
 <sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
 
