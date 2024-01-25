@@ -49,7 +49,6 @@
   - [学术](#学术)
   - [地震信息](#地震信息)
   - [Change](#change)
-  - [TokenInsights](#tokeninsights)
   - [NFT Guru](#nft-guru)
   - [Speak](#speak)
   - [MintbaseSearch](#mintbasesearch)
@@ -333,22 +332,6 @@
 发现在您的社区和更广泛范围内支持的有影响力的非营利组织。
 
 `慈善`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### TokenInsights
-
-<sup>By **[@feednews](https://cryptoplugin.feednews.com)** on **2024-01-22**</sup>
-
-获取实时加密货币价格，BTC，ETH，BNB 和最新见解。最新的币新闻和空投机会。
-
-`加密货币` `btc` `eth` `bnb`
 
 <div align="right">
 

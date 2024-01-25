@@ -49,7 +49,6 @@
   - [Scholarly](#scholarly)
   - [Earthquake Info](#earthquake-info)
   - [Change](#change)
-  - [TokenInsights](#tokeninsights)
   - [NFT Guru](#nft-guru)
   - [Speak](#speak)
   - [MintbaseSearch](#mintbasesearch)
@@ -333,22 +332,6 @@ Get latest earthquake information.
 Discover impactful nonprofits to support in your community and beyond.
 
 `charity`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### TokenInsights
-
-<sup>By **[@feednews](https://cryptoplugin.feednews.com)** on **2024-01-22**</sup>
-
-Get realtime crypto price, BTC, ETH, BNB, and the latest insights.The latest coin news and airdrop opportunities.
-
-`crypto` `btc` `eth` `bnb`
 
 <div align="right">
 
