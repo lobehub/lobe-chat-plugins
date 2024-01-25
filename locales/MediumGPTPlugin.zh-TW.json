@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Medium plugin",
+    "description": "用於訪問、瀏覽和提取 Medium 內容的插件。",
+    "tags": ["文章", "搜索"]
+  }
+}

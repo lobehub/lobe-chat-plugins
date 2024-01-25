@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Medium plugin",
+    "description": "Medium 콘텐츠에 접근하고 탐색하며 추출하기 위한 플러그인입니다.",
+    "tags": ["기사", "검색"]
+  }
+}

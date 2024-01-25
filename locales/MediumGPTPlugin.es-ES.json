@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Plugin de Medium",
+    "description": "Plugin para acceder, navegar y extraer contenido de Medium.",
+    "tags": ["artículo", "búsqueda"]
+  }
+}

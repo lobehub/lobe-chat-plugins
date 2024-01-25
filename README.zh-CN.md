@@ -53,6 +53,7 @@
   - [空间](#空间)
   - [DM 工具包](#dm-工具包)
   - [MixerBox Weather](#mixerbox-weather)
+  - [Medium plugin](#medium-plugin)
   - [GameSight](#gamesight)
   - [视频字幕](#视频字幕)
   - [Domatron Domains](#domatron-domains)
@@ -414,6 +415,22 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 立即获取实时全球天气更新和预报！
 
 `weather`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Medium plugin
+
+<sup>By **[@medium](https://medium.com)** on **2024-01-25**</sup>
+
+用于访问、浏览和提取 Medium 内容的插件。
+
+`文章` `搜索`
 
 <div align="right">
 

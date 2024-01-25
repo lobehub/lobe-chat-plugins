@@ -53,6 +53,7 @@
   - [Space](#space)
   - [DM Tool Kit](#dm-tool-kit)
   - [MixerBox Weather](#mixerbox-weather)
+  - [Medium plugin](#medium-plugin)
   - [GameSight](#gamesight)
   - [Video Captions](#video-captions)
   - [Domatron Domains](#domatron-domains)
@@ -414,6 +415,22 @@ App for rolling dice using the d20 or Fate/Fudge systems.
 Get real-time worldwide weather updates & forecasts, instantly!
 
 `weather`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Medium plugin
+
+<sup>By **[@medium](https://medium.com)** on **2024-01-25**</sup>
+
+Plugin for accessing, browsing and extracting Medium content.
+
+`article` `search`
 
 <div align="right">
 
