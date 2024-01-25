@@ -1,0 +1,14 @@
+{
+  "author": "accessplugins",
+  "createdAt": "2024-01-25",
+  "homepage": "https://sheets.accessplugins.com",
+  "identifier": "access_google_sheets",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/access-google-sheets/manifest.json",
+  "meta": {
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/access-google-sheets/logo.webp",
+    "description": "Ask your Google Sheets questions & chat with excel. Enter Google Drive link to start!",
+    "tags": ["google", "sheets", "excel"],
+    "title": "Access Google Sheet"
+  },
+  "schemaVersion": 1
+}

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Filtir",
+    "description": "外部ソースを使用して提供されたテキストを検証します。",
+    "tags": ["check", "fact"]
+  }
+}

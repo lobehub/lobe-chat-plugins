@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "SuperStock Fine Art",
+    "description": "Kullanıcı tarafından istenen güzel sanat örneklerinin bir dizi URI'sını döndüren bir araştırma asistanı.",
+    "tags": ["sanat", "güzel sanat", "arama"]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Boîte à outils du MJ",
+    "description": "Application pour lancer des dés en utilisant les systèmes d20 ou Fate/Fudge.",
+    "tags": ["jeu", "dés", "mj"]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "SuperStock Fine Art",
+    "description": "一个研究助理，返回用户请求的一组艺术品示例的URI集合。",
+    "tags": ["艺术", "美术", "搜索"]
+  }
+}

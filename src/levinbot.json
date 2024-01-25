@@ -1,0 +1,14 @@
+{
+  "author": "customplugin",
+  "createdAt": "2024-01-25",
+  "homepage": "https://levinbot.customplugin.ai",
+  "identifier": "levinbot",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/levinbot/manifest.json",
+  "meta": {
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/levinbot/logo.webp",
+    "description": "Search research papers and transcripts of talks from Dr. Michael Levin's Lab.",
+    "tags": ["research-paper", "search"],
+    "title": "LevinBot"
+  },
+  "schemaVersion": 1
+}

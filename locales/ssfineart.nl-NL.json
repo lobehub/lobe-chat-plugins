@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "SuperStock Fine Art",
+    "description": "Een onderzoeksassistent die een reeks URI's retourneert naar voorbeelden van gevraagde beeldende kunst door de gebruiker.",
+    "tags": ["kunst", "beeldende kunst", "zoeken"]
+  }
+}

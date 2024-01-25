@@ -1,0 +1,14 @@
+{
+  "author": "aigenprompt",
+  "createdAt": "2024-01-25",
+  "homepage": "https://imgser.aigenprompt.com",
+  "identifier": "ImageSearch",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/image-search/manifest.json",
+  "meta": {
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/image-search/logo.webp",
+    "description": "Discover complimentary images to enhance your generated article or to highlight specific paragraphs from Unsplash.",
+    "tags": ["image", "search"],
+    "title": "ImageSearch"
+  },
+  "schemaVersion": 1
+}

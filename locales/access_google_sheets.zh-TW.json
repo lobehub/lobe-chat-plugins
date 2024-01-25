@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "存取 Google 試算表",
+    "description": "提問您的 Google 試算表問題並與 Excel 進行對話。輸入 Google 雲端硬碟連結開始！",
+    "tags": ["google", "sheets", "excel"]
+  }
+}

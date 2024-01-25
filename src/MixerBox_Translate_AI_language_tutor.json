@@ -1,0 +1,14 @@
+{
+  "author": "mixerbox",
+  "createdAt": "2024-01-25",
+  "homepage": "https://translate.mixerbox.com",
+  "identifier": "MixerBox_Translate_AI_language_tutor",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-translate-ai-language-tutor/manifest.json",
+  "meta": {
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-translate-ai-language-tutor/logo.webp",
+    "description": "Translate any language right away! Learn foreign languages easily by conversing with AI tutors!",
+    "tags": ["translate"],
+    "title": "MixerBox Translate"
+  },
+  "schemaVersion": 1
+}

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Vérifier la panne du site Web",
+    "description": "Insérez l'URL de votre site Web pour vérifier la disponibilité. Pulsetic teste le temps de disponibilité, la disponibilité et les performances d'un site Web.",
+    "tags": ["site Web", "performance", "test"]
+  }
+}

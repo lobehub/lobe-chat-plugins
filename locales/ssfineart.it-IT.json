@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "SuperStock Fine Art",
+    "description": "Un assistente di ricerca che restituisce un insieme di URI a esempi di belle arti richiesti dall'utente.",
+    "tags": ["arte", "bellearti", "ricerca"]
+  }
+}

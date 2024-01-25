@@ -1,0 +1,14 @@
+{
+  "author": "automateyournetwork",
+  "createdAt": "2024-01-25",
+  "homepage": "https://space.automateyournetwork.ca",
+  "identifier": "Space",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/space/manifest.json",
+  "meta": {
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/space/logo.webp",
+    "description": "Space data including NASA.",
+    "tags": ["space", "nasa"],
+    "title": "Space"
+  },
+  "schemaVersion": 1
+}
