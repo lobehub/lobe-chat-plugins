@@ -472,7 +472,7 @@
 
 ### Git OSS Stats
 
-<sup>By **[@chat-gpt-github-stat-plugin](https://chat-gpt-github-stat-plugin.vercel.app)** on **2024-01-17**</sup>
+<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
 
 动态生成和分析开源软件仓库和开发者的统计数据和历史记录。
 
@@ -664,7 +664,7 @@
 
 ### 天气 GPT
 
-<sup>By **[@weathergpt](https://weathergpt.vercel.app)** on **2023-12-16**</sup>
+<sup>By **[@steven-tey](https://github.com/steven-tey/weathergpt)** on **2023-12-16**</sup>
 
 获取特定位置的当前天气信息。
 

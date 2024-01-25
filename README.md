@@ -472,7 +472,7 @@ Unleash creativity with Midjourney, effortlessly generating unique AI-driven ima
 
 ### Git OSS Stats
 
-<sup>By **[@chat-gpt-github-stat-plugin](https://chat-gpt-github-stat-plugin.vercel.app)** on **2024-01-17**</sup>
+<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
 
 Dynamically generate and analyze stats and history for OSS repos and developers.
 
@@ -664,7 +664,7 @@ A mindmap generation assistant
 
 ### WeatherGPT
 
-<sup>By **[@weathergpt](https://weathergpt.vercel.app)** on **2023-12-16**</sup>
+<sup>By **[@steven-tey](https://github.com/steven-tey/weathergpt)** on **2023-12-16**</sup>
 
 Get current weather information for a specific location.
 

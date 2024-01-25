@@ -1,7 +1,7 @@
 {
-  "author": "weathergpt",
+  "author": "steven-tey",
   "createdAt": "2023-12-16",
-  "homepage": "https://weathergpt.vercel.app",
+  "homepage": "https://github.com/steven-tey/weathergpt",
   "identifier": "WeatherGPT",
   "manifest": "https://openai-collections.chat-plugin.lobehub.com/weather-gpt/manifest.json",
   "meta": {
