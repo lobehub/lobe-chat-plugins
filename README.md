@@ -35,37 +35,38 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
-  - [GuruWalk](#guruwalk)
+  - [TokenInsights](#tokeninsights)
   - [GameSight](#gamesight)
-  - [txyz.ai](#txyzai)
   - [Video Captions](#video-captions)
-  - [Questmate Forms](#questmate-forms)
-  - [Video Summary](#video-summary)
-  - [Basketball Stats](#basketball-stats)
-  - [SEO](#seo)
-  - [Litmaps](#litmaps)
-  - [Travelmyth](#travelmyth)
   - [Domatron Domains](#domatron-domains)
+  - [GuruWalk](#guruwalk)
   - [Scholarly](#scholarly)
   - [Earthquake Info](#earthquake-info)
+  - [SEO](#seo)
+  - [txyz.ai](#txyzai)
+  - [Basketball Stats](#basketball-stats)
+  - [Video Summary](#video-summary)
+  - [Litmaps](#litmaps)
+  - [Questmate Forms](#questmate-forms)
+  - [Travelmyth](#travelmyth)
   - [Change](#change)
-  - [NFT Guru](#nft-guru)
   - [Speak](#speak)
+  - [NFT Guru](#nft-guru)
   - [MintbaseSearch](#mintbasesearch)
   - [Defillama](#defillama)
-  - [AskYourPDF](#askyourpdf)
   - [Savvy Trader AI](#savvy-trader-ai)
+  - [AskYourPDF](#askyourpdf)
   - [Midjourney](#midjourney)
-  - [Git OSS Stats](#git-oss-stats)
-  - [Make A Sheet](#make-a-sheet)
   - [Astrodaily](#astrodaily)
-  - [GIF Search](#gif-search)
-  - [Web Search](#web-search)
-  - [StackOverflow Plus](#stackoverflow-plus)
-  - [Diagrams: Show Me](#diagrams-show-me)
   - [Asset Ovi](#asset-ovi)
+  - [GIF Search](#gif-search)
   - [Boolio Invest](#boolio-invest)
   - [Social Search](#social-search)
+  - [Git OSS Stats](#git-oss-stats)
+  - [StackOverflow Plus](#stackoverflow-plus)
+  - [Make A Sheet](#make-a-sheet)
+  - [Diagrams: Show Me](#diagrams-show-me)
+  - [Web Search](#web-search)
   - [TikZJax](#tikzjax)
   - [Mindmap](#mindmap)
   - [WeatherGPT](#weathergpt)
@@ -117,13 +118,13 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
-### GuruWalk
+### TokenInsights
 
-<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
+<sup>By **[@feednews](https://cryptoplugin.feednews.com)** on **2024-01-25**</sup>
 
-The best free tour guides in the world are here.
+Get realtime crypto price, BTC, ETH, BNB, and the latest insights.The latest coin news and airdrop opportunities.
 
-`travel` `guides`
+`crypto` `btc` `eth` `bnb`
 
 <div align="right">
 
@@ -149,22 +150,6 @@ Discover games, game-related content, get recommendations, and compare games bas
 
 ---
 
-### txyz.ai
-
-<sup>By **[@txyz](https://txyz.ai)** on **2024-01-23**</sup>
-
-Explore the universe of research. Search and compare papers, and answer questions.
-
-`research-paper` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### Video Captions
 
 <sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
@@ -181,102 +166,6 @@ Convert Youtube links into transcribed text, enable asking questions, create cha
 
 ---
 
-### Questmate Forms
-
-<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
-
-Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
-
-`forms` `checklists` `productivity`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Video Summary
-
-<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
-
-Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
-
-`video-to-text` `youtube`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Basketball Stats
-
-<sup>By **[@onrender](https://nba-gpt-prod.onrender.com)** on **2024-01-23**</sup>
-
-Find and analyze basketball stats from various databases of games, players, teams, and play-by-plays.
-
-`sports` `basketball` `nba`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### SEO
-
-<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
-
-Enter any URL and keyword and get an On-Page SEO analysis & insights!
-
-`seo`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Litmaps
-
-<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
-
-Get help exploring the scientific literature. Find relevant papers and generate mindmaps of the literature.
-
-`scientific-literature` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Travelmyth
-
-<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
-
-Unleash personalized hotel search with Travelmyth, offering 60 unique categories for the perfect match.
-
-`travel` `hotel` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### Domatron Domains
 
 <sup>By **[@domatron](https://gpt.domatron.com)** on **2024-01-23**</sup>
@@ -284,6 +173,22 @@ Unleash personalized hotel search with Travelmyth, offering 60 unique categories
 Find available, brandable .com domain names for your business businesses.
 
 `domain` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### GuruWalk
+
+<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
+
+The best free tour guides in the world are here.
+
+`travel` `guides`
 
 <div align="right">
 
@@ -325,6 +230,118 @@ Get latest earthquake information.
 
 ---
 
+### SEO
+
+<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
+
+Enter any URL and keyword and get an On-Page SEO analysis & insights!
+
+`seo`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### txyz.ai
+
+<sup>By **[@txyz](https://txyz.ai)** on **2024-01-23**</sup>
+
+Explore the universe of research. Search and compare papers, and answer questions.
+
+`research-paper` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Basketball Stats
+
+<sup>By **[@onrender](https://nba-gpt-prod.onrender.com)** on **2024-01-23**</sup>
+
+Find and analyze basketball stats from various databases of games, players, teams, and play-by-plays.
+
+`sports` `basketball` `nba`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Video Summary
+
+<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
+
+Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
+
+`video-to-text` `youtube`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Litmaps
+
+<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
+
+Get help exploring the scientific literature. Find relevant papers and generate mindmaps of the literature.
+
+`scientific-literature` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Questmate Forms
+
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
+
+Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
+
+`forms` `checklists` `productivity`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Travelmyth
+
+<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
+
+Unleash personalized hotel search with Travelmyth, offering 60 unique categories for the perfect match.
+
+`travel` `hotel` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### Change
 
 <sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
@@ -341,13 +358,13 @@ Discover impactful nonprofits to support in your community and beyond.
 
 ---
 
-### NFT Guru
+### Speak
 
-<sup>By **[@swap](https://app.swap.net)** on **2024-01-22**</sup>
+<sup>By **[@speak](https://speak.com)** on **2024-01-22**</sup>
 
-Discover current prices of NFTs across major platforms and keep track of the rapidly changing marketplace with real-time
+Learn how to say anything in another language with Speak, your AI-powered language tutor.
 
-`crypto` `nft`
+`education` `language`
 
 <div align="right">
 
@@ -357,13 +374,13 @@ Discover current prices of NFTs across major platforms and keep track of the rap
 
 ---
 
-### Speak
+### NFT Guru
 
-<sup>By **[@speak](https://speak.com)** on **2024-01-22**</sup>
+<sup>By **[@swap](https://app.swap.net)** on **2024-01-22**</sup>
 
-Learn how to say anything in another language with Speak, your AI-powered language tutor.
+Discover current prices of NFTs across major platforms and keep track of the rapidly changing marketplace with real-time
 
-`education` `language`
+`crypto` `nft`
 
 <div align="right">
 
@@ -405,13 +422,13 @@ Retrieve data on DeFi protocols and blockchains.
 
 ---
 
-### AskYourPDF
+### Savvy Trader AI
 
-<sup>By **[@askyourpdf](https://plugin.askyourpdf.com)** on **2024-01-20**</sup>
+<sup>By **[@savvytrader](https://savvytrader.com)** on **2024-01-20**</sup>
 
-Unlock the power of your PDFs!, dive into your documents, find answers, and bring information to your fingertips.
+Realtime stock, crypto and other investment data.
 
-`pdf` `document` `web`
+`stock` `analyze`
 
 <div align="right">
 
@@ -421,13 +438,13 @@ Unlock the power of your PDFs!, dive into your documents, find answers, and brin
 
 ---
 
-### Savvy Trader AI
+### AskYourPDF
 
-<sup>By **[@savvytrader](https://savvytrader.com)** on **2024-01-20**</sup>
+<sup>By **[@askyourpdf](https://plugin.askyourpdf.com)** on **2024-01-20**</sup>
 
-Realtime stock, crypto and other investment data.
+Unlock the power of your PDFs!, dive into your documents, find answers, and bring information to your fingertips.
 
-`stock` `analyze`
+`pdf` `document` `web`
 
 <div align="right">
 
@@ -453,38 +470,6 @@ Unleash creativity with Midjourney, effortlessly generating unique AI-driven ima
 
 ---
 
-### Git OSS Stats
-
-<sup>By **[@vercel](https://chat-gpt-github-stat-plugin.vercel.app)** on **2024-01-17**</sup>
-
-Dynamically generate and analyze stats and history for OSS repos and developers.
-
-`github` `oss`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Make A Sheet
-
-<sup>By **[@brandzzy](https://sheet-generator.brandzzy.com)** on **2024-01-17**</sup>
-
-Generate a csv file that can directly be imported into Google Sheets or MS Excel.
-
-`csv` `excel` `sheet`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### Astrodaily
 
 <sup>By **[@360macky](https://api.360macky.com)** on **2024-01-17**</sup>
@@ -501,70 +486,6 @@ Search and discover NASA images.
 
 ---
 
-### GIF Search
-
-<sup>By **[@efficiency](https://chat-plugin-giphy.efficiency.tools)** on **2024-01-17**</sup>
-
-Search through a wide range of gifs - Powered by Giphy.
-
-`gif` `image` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Web Search
-
-<sup>By **[@plugsugar](https://websearch.plugsugar.com)** on **2024-01-17**</sup>
-
-Search for information from the internet
-
-`search` `plugsugar`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### StackOverflow Plus
-
-<sup>By **[@onrender](https://stack-overflow-search.onrender.com)** on **2024-01-17**</sup>
-
-Expand your knowledge beyond 2021/09/01. Get recent questions and answers from Stack Overflow.
-
-`stack-overflow` `q-a`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Diagrams: Show Me
-
-<sup>By **[@redstarplugin](https://showme.redstarplugin.com)** on **2024-01-17**</sup>
-
-Schemes, Diagrams, Architecture Visualisations, Flow-Charts, Mind Maps. Export and Edit for free!
-
-`diagrams`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### Asset Ovi
 
 <sup>By **[@assetovi](https://assetovi.com)** on **2024-01-17**</sup>
@@ -572,6 +493,22 @@ Schemes, Diagrams, Architecture Visualisations, Flow-Charts, Mind Maps. Export a
 Search and preview millions of 3D assets for games, AIGC, AR/VR and others.
 
 `3-d` `assets` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### GIF Search
+
+<sup>By **[@efficiency](https://chat-plugin-giphy.efficiency.tools)** on **2024-01-17**</sup>
+
+Search through a wide range of gifs - Powered by Giphy.
+
+`gif` `image` `search`
 
 <div align="right">
 
@@ -604,6 +541,86 @@ Analyze stock investments from any country, with Boolio's state-of-the-art engin
 The Social Search provides access to tweets, users, followers, images, media and more.
 
 `social` `twitter` `x` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Git OSS Stats
+
+<sup>By **[@vercel](https://chat-gpt-github-stat-plugin.vercel.app)** on **2024-01-17**</sup>
+
+Dynamically generate and analyze stats and history for OSS repos and developers.
+
+`github` `oss`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### StackOverflow Plus
+
+<sup>By **[@onrender](https://stack-overflow-search.onrender.com)** on **2024-01-17**</sup>
+
+Expand your knowledge beyond 2021/09/01. Get recent questions and answers from Stack Overflow.
+
+`stack-overflow` `q-a`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Make A Sheet
+
+<sup>By **[@brandzzy](https://sheet-generator.brandzzy.com)** on **2024-01-17**</sup>
+
+Generate a csv file that can directly be imported into Google Sheets or MS Excel.
+
+`csv` `excel` `sheet`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Diagrams: Show Me
+
+<sup>By **[@redstarplugin](https://showme.redstarplugin.com)** on **2024-01-17**</sup>
+
+Schemes, Diagrams, Architecture Visualisations, Flow-Charts, Mind Maps. Export and Edit for free!
+
+`diagrams`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Web Search
+
+<sup>By **[@plugsugar](https://websearch.plugsugar.com)** on **2024-01-17**</sup>
+
+Search for information from the internet
+
+`search` `plugsugar`
 
 <div align="right">
 

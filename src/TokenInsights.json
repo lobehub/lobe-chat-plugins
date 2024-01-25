@@ -1,0 +1,14 @@
+{
+  "author": "feednews",
+  "createdAt": "2024-01-25",
+  "homepage": "https://cryptoplugin.feednews.com",
+  "identifier": "TokenInsights",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/token-insights/manifest.json",
+  "meta": {
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/token-insights/logo.webp",
+    "description": "Get realtime crypto price, BTC, ETH, BNB, and the latest insights.The latest coin news and airdrop opportunities.",
+    "tags": ["crypto", "btc", "eth", "bnb"],
+    "title": "TokenInsights"
+  },
+  "schemaVersion": 1
+}

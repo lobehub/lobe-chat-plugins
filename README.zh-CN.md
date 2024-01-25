@@ -35,37 +35,38 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
-  - [GuruWalk](#guruwalk)
+  - [TokenInsights](#tokeninsights)
   - [GameSight](#gamesight)
-  - [txyz.ai](#txyzai)
   - [视频字幕](#视频字幕)
-  - [Questmate Forms](#questmate-forms)
-  - [视频摘要](#视频摘要)
-  - [篮球统计](#篮球统计)
-  - [SEO](#seo)
-  - [Litmaps](#litmaps)
-  - [Travelmyth](#travelmyth)
   - [Domatron Domains](#domatron-domains)
+  - [GuruWalk](#guruwalk)
   - [学术](#学术)
   - [地震信息](#地震信息)
+  - [SEO](#seo)
+  - [txyz.ai](#txyzai)
+  - [篮球统计](#篮球统计)
+  - [视频摘要](#视频摘要)
+  - [Litmaps](#litmaps)
+  - [Questmate Forms](#questmate-forms)
+  - [Travelmyth](#travelmyth)
   - [Change](#change)
-  - [NFT Guru](#nft-guru)
   - [Speak](#speak)
+  - [NFT Guru](#nft-guru)
   - [MintbaseSearch](#mintbasesearch)
   - [Defillama](#defillama)
-  - [AskYourPDF](#askyourpdf)
   - [Savvy Trader AI](#savvy-trader-ai)
+  - [AskYourPDF](#askyourpdf)
   - [Midjourney](#midjourney)
-  - [Git OSS Stats](#git-oss-stats)
-  - [创建表格](#创建表格)
   - [Astrodaily](#astrodaily)
-  - [GIF 搜索](#gif-搜索)
-  - [网络搜索](#网络搜索)
-  - [StackOverflow Plus](#stackoverflow-plus)
-  - [图表工具](#图表工具)
   - [Asset Ovi](#asset-ovi)
+  - [GIF 搜索](#gif-搜索)
   - [Boolio Invest](#boolio-invest)
   - [社交搜索](#社交搜索)
+  - [Git OSS Stats](#git-oss-stats)
+  - [StackOverflow Plus](#stackoverflow-plus)
+  - [创建表格](#创建表格)
+  - [图表工具](#图表工具)
+  - [网络搜索](#网络搜索)
   - [TikZJax](#tikzjax)
   - [思维导图](#思维导图)
   - [天气 GPT](#天气-gpt)
@@ -117,13 +118,13 @@
 
 <!-- AWESOME PLUGINS -->
 
-### GuruWalk
+### TokenInsights
 
-<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
+<sup>By **[@feednews](https://cryptoplugin.feednews.com)** on **2024-01-25**</sup>
 
-世界上最好的免费导游就在这里。
+获取实时加密货币价格，BTC，ETH，BNB 和最新见解。最新的币新闻和空投机会。
 
-`旅行` `导游`
+`加密货币` `btc` `eth` `bnb`
 
 <div align="right">
 
@@ -149,22 +150,6 @@
 
 ---
 
-### txyz.ai
-
-<sup>By **[@txyz](https://txyz.ai)** on **2024-01-23**</sup>
-
-探索研究的宇宙。搜索和比较论文，并回答问题。
-
-`research-paper` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### 视频字幕
 
 <sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
@@ -181,102 +166,6 @@
 
 ---
 
-### Questmate Forms
-
-<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
-
-创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
-
-`表单` `清单` `生产力`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 视频摘要
-
-<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
-
-总结 YouTube 视频亮点。从 YouTube 视频链接生成摘要。
-
-`视频转文字` `YouTube`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 篮球统计
-
-<sup>By **[@onrender](https://nba-gpt-prod.onrender.com)** on **2024-01-23**</sup>
-
-从各种比赛、球员、球队和比赛实况数据库中查找和分析篮球统计数据。
-
-`体育` `篮球` `NBA`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### SEO
-
-<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
-
-输入任何 URL 和关键词，获取页面 SEO 分析和见解！
-
-`seo`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Litmaps
-
-<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
-
-获取帮助，探索科学文献。找到相关论文并生成文献思维导图。
-
-`科学文献` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Travelmyth
-
-<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
-
-通过 Travelmyth 释放个性化酒店搜索，提供 60 个独特类别，找到完美匹配。
-
-`旅行` `酒店` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### Domatron Domains
 
 <sup>By **[@domatron](https://gpt.domatron.com)** on **2024-01-23**</sup>
@@ -284,6 +173,22 @@
 为您的企业找到可用的、可品牌化的.com 域名。
 
 `域名` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### GuruWalk
+
+<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
+
+世界上最好的免费导游就在这里。
+
+`旅行` `导游`
 
 <div align="right">
 
@@ -325,6 +230,118 @@
 
 ---
 
+### SEO
+
+<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
+
+输入任何 URL 和关键词，获取页面 SEO 分析和见解！
+
+`seo`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### txyz.ai
+
+<sup>By **[@txyz](https://txyz.ai)** on **2024-01-23**</sup>
+
+探索研究的宇宙。搜索和比较论文，并回答问题。
+
+`research-paper` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 篮球统计
+
+<sup>By **[@onrender](https://nba-gpt-prod.onrender.com)** on **2024-01-23**</sup>
+
+从各种比赛、球员、球队和比赛实况数据库中查找和分析篮球统计数据。
+
+`体育` `篮球` `NBA`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 视频摘要
+
+<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
+
+总结 YouTube 视频亮点。从 YouTube 视频链接生成摘要。
+
+`视频转文字` `YouTube`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Litmaps
+
+<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
+
+获取帮助，探索科学文献。找到相关论文并生成文献思维导图。
+
+`科学文献` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Questmate Forms
+
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
+
+创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
+
+`表单` `清单` `生产力`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Travelmyth
+
+<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
+
+通过 Travelmyth 释放个性化酒店搜索，提供 60 个独特类别，找到完美匹配。
+
+`旅行` `酒店` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### Change
 
 <sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
@@ -341,13 +358,13 @@
 
 ---
 
-### NFT Guru
+### Speak
 
-<sup>By **[@swap](https://app.swap.net)** on **2024-01-22**</sup>
+<sup>By **[@speak](https://speak.com)** on **2024-01-22**</sup>
 
-发现主要平台上 NFT 的当前价格，并通过实时跟踪快速变化的市场了解情况
+使用 Speak，您的 AI 语言导师，学习如何用另一种语言说任何事情。
 
-`加密货币` `NFT`
+`教育` `语言`
 
 <div align="right">
 
@@ -357,13 +374,13 @@
 
 ---
 
-### Speak
+### NFT Guru
 
-<sup>By **[@speak](https://speak.com)** on **2024-01-22**</sup>
+<sup>By **[@swap](https://app.swap.net)** on **2024-01-22**</sup>
 
-使用 Speak，您的 AI 语言导师，学习如何用另一种语言说任何事情。
+发现主要平台上 NFT 的当前价格，并通过实时跟踪快速变化的市场了解情况
 
-`教育` `语言`
+`加密货币` `NFT`
 
 <div align="right">
 
@@ -405,13 +422,13 @@
 
 ---
 
-### AskYourPDF
+### Savvy Trader AI
 
-<sup>By **[@askyourpdf](https://plugin.askyourpdf.com)** on **2024-01-20**</sup>
+<sup>By **[@savvytrader](https://savvytrader.com)** on **2024-01-20**</sup>
 
-释放 PDF 的力量！深入文档，寻找答案，让信息触手可及。
+实时股票、加密货币和其他投资数据。
 
-`pdf` `document` `web`
+`股票` `分析`
 
 <div align="right">
 
@@ -421,13 +438,13 @@
 
 ---
 
-### Savvy Trader AI
+### AskYourPDF
 
-<sup>By **[@savvytrader](https://savvytrader.com)** on **2024-01-20**</sup>
+<sup>By **[@askyourpdf](https://plugin.askyourpdf.com)** on **2024-01-20**</sup>
 
-实时股票、加密货币和其他投资数据。
+释放 PDF 的力量！深入文档，寻找答案，让信息触手可及。
 
-`股票` `分析`
+`pdf` `document` `web`
 
 <div align="right">
 
@@ -453,38 +470,6 @@
 
 ---
 
-### Git OSS Stats
-
-<sup>By **[@vercel](https://chat-gpt-github-stat-plugin.vercel.app)** on **2024-01-17**</sup>
-
-动态生成和分析开源软件仓库和开发者的统计数据和历史记录。
-
-`github` `oss`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 创建表格
-
-<sup>By **[@brandzzy](https://sheet-generator.brandzzy.com)** on **2024-01-17**</sup>
-
-生成一个可以直接导入到 Google 表格或 MS Excel 的 csv 文件。
-
-`csv` `excel` `sheet`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### Astrodaily
 
 <sup>By **[@360macky](https://api.360macky.com)** on **2024-01-17**</sup>
@@ -501,70 +486,6 @@
 
 ---
 
-### GIF 搜索
-
-<sup>By **[@efficiency](https://chat-plugin-giphy.efficiency.tools)** on **2024-01-17**</sup>
-
-搜索各种各样的 GIF - 由 Giphy 提供动力。
-
-`gif` `图片` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 网络搜索
-
-<sup>By **[@plugsugar](https://websearch.plugsugar.com)** on **2024-01-17**</sup>
-
-从互联网搜索信息。
-
-`搜索` `plugsugar`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### StackOverflow Plus
-
-<sup>By **[@onrender](https://stack-overflow-search.onrender.com)** on **2024-01-17**</sup>
-
-从 Stack Overflow 获取最新问题和答案。
-
-`stack-overflow` `q-a`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 图表工具
-
-<sup>By **[@redstarplugin](https://showme.redstarplugin.com)** on **2024-01-17**</sup>
-
-展示给我是一个强大的工具，旨在快速创建和编辑图表。
-
-`图表`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### Asset Ovi
 
 <sup>By **[@assetovi](https://assetovi.com)** on **2024-01-17**</sup>
@@ -572,6 +493,22 @@
 搜索和预览数百万款用于游戏、AIGC、AR/VR 等领域的 3D 资产。
 
 `3-d` `资产` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### GIF 搜索
+
+<sup>By **[@efficiency](https://chat-plugin-giphy.efficiency.tools)** on **2024-01-17**</sup>
+
+搜索各种各样的 GIF - 由 Giphy 提供动力。
+
+`gif` `图片` `搜索`
 
 <div align="right">
 
@@ -604,6 +541,86 @@
 社交搜索提供访问推文、用户、关注者、图片、媒体等功能。
 
 `社交` `推特` `x` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Git OSS Stats
+
+<sup>By **[@vercel](https://chat-gpt-github-stat-plugin.vercel.app)** on **2024-01-17**</sup>
+
+动态生成和分析开源软件仓库和开发者的统计数据和历史记录。
+
+`github` `oss`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### StackOverflow Plus
+
+<sup>By **[@onrender](https://stack-overflow-search.onrender.com)** on **2024-01-17**</sup>
+
+从 Stack Overflow 获取最新问题和答案。
+
+`stack-overflow` `q-a`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 创建表格
+
+<sup>By **[@brandzzy](https://sheet-generator.brandzzy.com)** on **2024-01-17**</sup>
+
+生成一个可以直接导入到 Google 表格或 MS Excel 的 csv 文件。
+
+`csv` `excel` `sheet`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 图表工具
+
+<sup>By **[@redstarplugin](https://showme.redstarplugin.com)** on **2024-01-17**</sup>
+
+展示给我是一个强大的工具，旨在快速创建和编辑图表。
+
+`图表`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 网络搜索
+
+<sup>By **[@plugsugar](https://websearch.plugsugar.com)** on **2024-01-17**</sup>
+
+从互联网搜索信息。
+
+`搜索` `plugsugar`
 
 <div align="right">
 
