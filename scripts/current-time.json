@@ -1,6 +1,5 @@
 {
   "author": "cc",
-  "createdAt": "2024-01-18",
   "homepage": "https://github.com/lobehub/chat-plugin-template",
   "identifier": "current-time-assistant",
   "manifest": "https://current-datetime.vercel.app/manifest-currentTime.json",
