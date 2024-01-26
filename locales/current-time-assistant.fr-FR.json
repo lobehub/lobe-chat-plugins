@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Assistant de l'heure actuelle",
+    "description": "Un plugin pour fournir des informations sur l'heure actuelle",
+    "tags": ["heure"]
+  }
+}

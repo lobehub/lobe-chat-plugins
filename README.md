@@ -35,6 +35,7 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [Current Time Assistant](#current-time-assistant)
   - [Shopping tools](#shopping-tools)
   - [Filtir](#filtir)
   - [SEO Assistant](#seo-assistant)
@@ -135,6 +136,22 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### Current Time Assistant
+
+<sup>By **[@cc](https://github.com/ccdanpian/current-datetime)** on **2024-01-26**</sup>
+
+A plugin to provide current time information
+
+`time`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Shopping tools
 
