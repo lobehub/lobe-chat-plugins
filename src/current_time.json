@@ -1,0 +1,13 @@
+{
+  "author": "cc",
+  "homepage": "https://github.com/ccdanpian/current-datetime",
+  "identifier": "current-time-assistant",
+  "manifest": "https://current-datetime.vercel.app/manifest-currentTime.json",
+  "meta": {
+    "avatar": "⏰",
+    "tags": ["time"],
+    "title": "Current Time Assistant",
+    "description": "A plugin to provide current time information"
+  },
+  "schemaVersion": 1
+}
