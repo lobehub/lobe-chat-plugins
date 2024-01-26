@@ -35,6 +35,7 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [Steam](#steam)
   - [Current Time Assistant](#current-time-assistant)
   - [Shopping tools](#shopping-tools)
   - [Filtir](#filtir)
@@ -47,7 +48,6 @@
   - [Uberchord](#uberchord)
   - [ImageSearch](#imagesearch)
   - [AladinBooks](#aladinbooks)
-  - [TokenInsights](#tokeninsights)
   - [PortfolioMeta](#portfoliometa)
   - [LevinBot](#levinbot)
   - [Access Google Sheet](#access-google-sheet)
@@ -136,6 +136,22 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### Steam
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
+
+Obtain game information and user reviews from Steam.
+
+`steam` `game`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Current Time Assistant
 
@@ -320,22 +336,6 @@ Discover complimentary images to enhance your generated article or to highlight 
 Search for books on Aladin.
 
 `book` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### TokenInsights
-
-<sup>By **[@feednews](https://cryptoplugin.feednews.com)** on **2024-01-25**</sup>
-
-Get realtime crypto price, BTC, ETH, BNB, and the latest insights.The latest coin news and airdrop opportunities.
-
-`crypto` `btc` `eth` `bnb`
 
 <div align="right">
 

@@ -35,6 +35,7 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [Steam](#steam)
   - [当前时间助手](#当前时间助手)
   - [购物工具](#购物工具)
   - [Filtir](#filtir)
@@ -47,7 +48,6 @@
   - [Uberchord](#uberchord)
   - [ImageSearch](#imagesearch)
   - [AladinBooks](#aladinbooks)
-  - [TokenInsights](#tokeninsights)
   - [PortfolioMeta](#portfoliometa)
   - [LevinBot](#levinbot)
   - [访问 Google 表格](#访问-google-表格)
@@ -136,6 +136,22 @@
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### Steam
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
+
+从 Steam 获取游戏信息和用户评论。
+
+`steam` `game`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### 当前时间助手
 
@@ -320,22 +336,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 在阿拉丁上搜索书籍。
 
 `书籍` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### TokenInsights
-
-<sup>By **[@feednews](https://cryptoplugin.feednews.com)** on **2024-01-25**</sup>
-
-获取实时加密货币价格，BTC，ETH，BNB 和最新见解。最新的币新闻和空投机会。
-
-`加密货币` `btc` `eth` `bnb`
 
 <div align="right">
 

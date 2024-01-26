@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Steam",
+    "description": "从Steam获取游戏信息和用户评论。",
+    "tags": ["steam", "game"]
+  }
+}
