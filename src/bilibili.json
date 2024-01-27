@@ -1,0 +1,14 @@
+{
+  "author": "LobeHub",
+  "createdAt": "2024-01-27",
+  "homepage": "https://github.com/lobehub/chat-plugin-bilibili",
+  "identifier": "bilibili",
+  "manifest": "https://bilibili.chat-plugin.lobehub.com/manifest.json",
+  "meta": {
+    "avatar": "https://bilibili.chat-plugin.lobehub.com/logo.webp",
+    "tags": ["video", "bilibili", "search"],
+    "title": "Bilibili",
+    "description": "Dive into Bilibili's vast content with features like keyword video search, replay access, interactive danmaku, trending video recommendations, and hot-search insights, all at your fingertips."
+  },
+  "schemaVersion": 1
+}
