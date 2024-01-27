@@ -35,6 +35,8 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [Bilibili](#bilibili)
+  - [TokenInsights](#tokeninsights)
   - [Steam](#steam)
   - [Current Time Assistant](#current-time-assistant)
   - [Shopping tools](#shopping-tools)
@@ -80,7 +82,6 @@
   - [Asset Ovi](#asset-ovi)
   - [GIF Search](#gif-search)
   - [Boolio Invest](#boolio-invest)
-  - [Social Search](#social-search)
   - [Git OSS Stats](#git-oss-stats)
   - [StackOverflow Plus](#stackoverflow-plus)
   - [Make A Sheet](#make-a-sheet)
@@ -136,6 +137,38 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### Bilibili
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
+
+Dive into Bilibili's vast content with features like keyword video search, replay access, interactive danmaku, trending video recommendations, and hot-search insights, all at your fingertips.
+
+`video` `bilibili` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### TokenInsights
+
+<sup>By **[@feednews](https://cryptoplugin.feednews.com)** on **2024-01-27**</sup>
+
+Get realtime crypto price, BTC, ETH, BNB, and the latest insights.The latest coin news and airdrop opportunities.
+
+`crypto` `btc` `eth` `bnb`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Steam
 
@@ -848,22 +881,6 @@ Search through a wide range of gifs - Powered by Giphy.
 Analyze stock investments from any country, with Boolio's state-of-the-art engine.
 
 `stock` `analyze`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Social Search
-
-<sup>By **[@say-apps](https://twitter.say-apps.com)** on **2024-01-17**</sup>
-
-The Social Search provides access to tweets, users, followers, images, media and more.
-
-`social` `twitter` `x` `search`
 
 <div align="right">
 
