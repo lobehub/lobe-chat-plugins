@@ -35,58 +35,59 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [社交搜索](#社交搜索)
+  - [Steam](#steam)
   - [哔哩哔哩](#哔哩哔哩)
   - [TokenInsights](#tokeninsights)
-  - [Steam](#steam)
   - [当前时间助手](#当前时间助手)
-  - [购物工具](#购物工具)
+  - [Uberchord](#uberchord)
+  - [访问 Google 表格](#访问-google-表格)
+  - [PortfolioMeta](#portfoliometa)
+  - [AladinBooks](#aladinbooks)
+  - [MixerBox 翻译](#mixerbox-翻译)
   - [Filtir](#filtir)
   - [SEO 助手](#seo-助手)
-  - [检查网站是否宕机](#检查网站是否宕机)
-  - [Bardeen](#bardeen)
-  - [MixerBox 翻译](#mixerbox-翻译)
   - [MixerBox Podcasts](#mixerbox-podcasts)
-  - [SuperStock Fine Art](#superstock-fine-art)
-  - [Uberchord](#uberchord)
+  - [Bardeen](#bardeen)
   - [ImageSearch](#imagesearch)
-  - [AladinBooks](#aladinbooks)
-  - [PortfolioMeta](#portfoliometa)
-  - [LevinBot](#levinbot)
-  - [访问 Google 表格](#访问-google-表格)
-  - [空间](#空间)
+  - [检查网站是否宕机](#检查网站是否宕机)
   - [DM 工具包](#dm-工具包)
   - [MixerBox Weather](#mixerbox-weather)
   - [Medium plugin](#medium-plugin)
-  - [GameSight](#gamesight)
-  - [视频字幕](#视频字幕)
-  - [Domatron Domains](#domatron-domains)
+  - [LevinBot](#levinbot)
+  - [SuperStock Fine Art](#superstock-fine-art)
+  - [购物工具](#购物工具)
+  - [空间](#空间)
   - [GuruWalk](#guruwalk)
-  - [学术](#学术)
+  - [GameSight](#gamesight)
+  - [Questmate Forms](#questmate-forms)
+  - [篮球统计](#篮球统计)
+  - [Domatron Domains](#domatron-domains)
   - [地震信息](#地震信息)
   - [SEO](#seo)
-  - [txyz.ai](#txyzai)
-  - [篮球统计](#篮球统计)
-  - [视频摘要](#视频摘要)
-  - [Litmaps](#litmaps)
-  - [Questmate Forms](#questmate-forms)
   - [Travelmyth](#travelmyth)
+  - [视频摘要](#视频摘要)
+  - [视频字幕](#视频字幕)
+  - [学术](#学术)
+  - [txyz.ai](#txyzai)
+  - [Litmaps](#litmaps)
   - [Change](#change)
-  - [Speak](#speak)
-  - [NFT Guru](#nft-guru)
   - [MintbaseSearch](#mintbasesearch)
+  - [Speak](#speak)
   - [Defillama](#defillama)
-  - [Savvy Trader AI](#savvy-trader-ai)
+  - [NFT Guru](#nft-guru)
   - [AskYourPDF](#askyourpdf)
+  - [Savvy Trader AI](#savvy-trader-ai)
   - [Midjourney](#midjourney)
-  - [Astrodaily](#astrodaily)
-  - [Asset Ovi](#asset-ovi)
-  - [GIF 搜索](#gif-搜索)
-  - [Boolio Invest](#boolio-invest)
-  - [Git OSS Stats](#git-oss-stats)
-  - [StackOverflow Plus](#stackoverflow-plus)
   - [创建表格](#创建表格)
-  - [图表工具](#图表工具)
+  - [Astrodaily](#astrodaily)
   - [网络搜索](#网络搜索)
+  - [Git OSS Stats](#git-oss-stats)
+  - [图表工具](#图表工具)
+  - [Asset Ovi](#asset-ovi)
+  - [Boolio Invest](#boolio-invest)
+  - [StackOverflow Plus](#stackoverflow-plus)
+  - [GIF 搜索](#gif-搜索)
   - [TikZJax](#tikzjax)
   - [思维导图](#思维导图)
   - [天气 GPT](#天气-gpt)
@@ -138,6 +139,38 @@
 
 <!-- AWESOME PLUGINS -->
 
+### 社交搜索
+
+<sup>By **[@say-apps](https://twitter.say-apps.com)** on **2024-02-02**</sup>
+
+社交搜索提供访问推文、用户、关注者、图片、媒体等功能。
+
+`社交` `推特` `x` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Steam
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
+
+从 Steam 获取游戏信息和用户评论。
+
+`steam` `game`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### 哔哩哔哩
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
@@ -170,22 +203,6 @@
 
 ---
 
-### Steam
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
-
-从 Steam 获取游戏信息和用户评论。
-
-`steam` `game`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### 当前时间助手
 
 <sup>By **[@cc](https://github.com/ccdanpian/current-datetime)** on **2024-01-26**</sup>
@@ -202,13 +219,77 @@
 
 ---
 
-### 购物工具
+### Uberchord
 
-<sup>By **[@shoppingtools](https://shoppingtools.biz)** on **2024-01-25**</sup>
+<sup>By **[@pluginboost](https://guitarchords.pluginboost.com)** on **2024-01-25**</sup>
 
-在 eBay 和 AliExpress 上搜索产品，查找 eBay 活动和优惠券。获取快速示例。
+通过指定和弦名称查找吉他和弦图。
 
-`购物` `eBay` `AliExpress` `优惠券`
+`音乐` `吉他` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 访问 Google 表格
+
+<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
+
+提出您的 Google 表格问题并与 Excel 进行交流。输入 Google 云端硬盘链接开始！
+
+`google` `sheets` `excel`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### PortfolioMeta
+
+<sup>By **[@portfoliometa](https://portfoliometa.com)** on **2024-01-25**</sup>
+
+分析股票并获取全面的实时投资数据和分析。
+
+`股票`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### AladinBooks
+
+<sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
+
+在阿拉丁上搜索书籍。
+
+`书籍` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### MixerBox 翻译
+
+<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
+
+立即翻译任何语言！通过与 AI 导师对话轻松学习外语！
+
+`翻译`
 
 <div align="right">
 
@@ -250,13 +331,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### 检查网站是否宕机
+### MixerBox Podcasts
 
-<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
+<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
 
-插入您的网站 URL 以检查可用性。Pulsetic 测试网站的正常运行时间、可用性和性能。
+轻松搜索播客！探索涵盖社会、体育、商业、新闻、音乐等内容的播客！
 
-`网站` `性能` `测试`
+`播客` `搜索`
 
 <div align="right">
 
@@ -282,70 +363,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### MixerBox 翻译
-
-<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
-
-立即翻译任何语言！通过与 AI 导师对话轻松学习外语！
-
-`翻译`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### MixerBox Podcasts
-
-<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
-
-轻松搜索播客！探索涵盖社会、体育、商业、新闻、音乐等内容的播客！
-
-`播客` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### SuperStock Fine Art
-
-<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
-
-一个研究助理，返回用户请求的一组艺术品示例的 URI 集合。
-
-`艺术` `美术` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Uberchord
-
-<sup>By **[@pluginboost](https://guitarchords.pluginboost.com)** on **2024-01-25**</sup>
-
-通过指定和弦名称查找吉他和弦图。
-
-`音乐` `吉他` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### ImageSearch
 
 <sup>By **[@aigenprompt](https://imgser.aigenprompt.com)** on **2024-01-25**</sup>
@@ -362,77 +379,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### AladinBooks
+### 检查网站是否宕机
 
-<sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
+<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
 
-在阿拉丁上搜索书籍。
+插入您的网站 URL 以检查可用性。Pulsetic 测试网站的正常运行时间、可用性和性能。
 
-`书籍` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### PortfolioMeta
-
-<sup>By **[@portfoliometa](https://portfoliometa.com)** on **2024-01-25**</sup>
-
-分析股票并获取全面的实时投资数据和分析。
-
-`股票`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### LevinBot
-
-<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
-
-搜索 Michael Levin 博士实验室的研究论文和讲话文本。
-
-`研究论文` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 访问 Google 表格
-
-<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
-
-提出您的 Google 表格问题并与 Excel 进行交流。输入 Google 云端硬盘链接开始！
-
-`google` `sheets` `excel`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 空间
-
-<sup>By **[@automateyournetwork](https://space.automateyournetwork.ca)** on **2024-01-25**</sup>
-
-包括 NASA 的空间数据。
-
-`空间` `nasa`
+`网站` `性能` `测试`
 
 <div align="right">
 
@@ -490,29 +443,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### GameSight
+### LevinBot
 
-<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
+<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
 
-发现游戏、与游戏相关的内容、获取推荐，并根据玩家评价比较游戏。
+搜索 Michael Levin 博士实验室的研究论文和讲话文本。
 
-`游戏` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 视频字幕
-
-<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
-
-将 Youtube 链接转换为转录文本，使其能够提问，创建章节，并总结其内容。
-
-`视频转文字` `YouTube`
+`研究论文` `搜索`
 
 <div align="right">
 
@@ -522,13 +459,45 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### Domatron Domains
+### SuperStock Fine Art
 
-<sup>By **[@domatron](https://gpt.domatron.com)** on **2024-01-23**</sup>
+<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
 
-为您的企业找到可用的、可品牌化的.com 域名。
+一个研究助理，返回用户请求的一组艺术品示例的 URI 集合。
 
-`域名` `搜索`
+`艺术` `美术` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 购物工具
+
+<sup>By **[@shoppingtools](https://shoppingtools.biz)** on **2024-01-25**</sup>
+
+在 eBay 和 AliExpress 上搜索产品，查找 eBay 活动和优惠券。获取快速示例。
+
+`购物` `eBay` `AliExpress` `优惠券`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 空间
+
+<sup>By **[@automateyournetwork](https://space.automateyournetwork.ca)** on **2024-01-25**</sup>
+
+包括 NASA 的空间数据。
+
+`空间` `nasa`
 
 <div align="right">
 
@@ -554,13 +523,61 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### 学术
+### GameSight
 
-<sup>By **[@maila](https://scholarly.maila.ai)** on **2024-01-23**</sup>
+<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
 
-学术是一个用人工智能驱动的搜索引擎，用于探索科学文献。
+发现游戏、与游戏相关的内容、获取推荐，并根据玩家评价比较游戏。
 
-`科学文献` `搜索`
+`游戏` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Questmate Forms
+
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
+
+创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
+
+`表单` `清单` `生产力`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 篮球统计
+
+<sup>By **[@onrender](https://nba-gpt-prod.onrender.com)** on **2024-01-23**</sup>
+
+从各种比赛、球员、球队和比赛实况数据库中查找和分析篮球统计数据。
+
+`体育` `篮球` `NBA`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Domatron Domains
+
+<sup>By **[@domatron](https://gpt.domatron.com)** on **2024-01-23**</sup>
+
+为您的企业找到可用的、可品牌化的.com 域名。
+
+`域名` `搜索`
 
 <div align="right">
 
@@ -602,29 +619,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### txyz.ai
+### Travelmyth
 
-<sup>By **[@txyz](https://txyz.ai)** on **2024-01-23**</sup>
+<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
 
-探索研究的宇宙。搜索和比较论文，并回答问题。
+通过 Travelmyth 释放个性化酒店搜索，提供 60 个独特类别，找到完美匹配。
 
-`research-paper` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 篮球统计
-
-<sup>By **[@onrender](https://nba-gpt-prod.onrender.com)** on **2024-01-23**</sup>
-
-从各种比赛、球员、球队和比赛实况数据库中查找和分析篮球统计数据。
-
-`体育` `篮球` `NBA`
+`旅行` `酒店` `搜索`
 
 <div align="right">
 
@@ -650,11 +651,27 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### Litmaps
+### 视频字幕
 
-<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
+<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
 
-获取帮助，探索科学文献。找到相关论文并生成文献思维导图。
+将 Youtube 链接转换为转录文本，使其能够提问，创建章节，并总结其内容。
+
+`视频转文字` `YouTube`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 学术
+
+<sup>By **[@maila](https://scholarly.maila.ai)** on **2024-01-23**</sup>
+
+学术是一个用人工智能驱动的搜索引擎，用于探索科学文献。
 
 `科学文献` `搜索`
 
@@ -666,13 +683,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### Questmate Forms
+### txyz.ai
 
-<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
+<sup>By **[@txyz](https://txyz.ai)** on **2024-01-23**</sup>
 
-创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
+探索研究的宇宙。搜索和比较论文，并回答问题。
 
-`表单` `清单` `生产力`
+`research-paper` `search`
 
 <div align="right">
 
@@ -682,13 +699,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### Travelmyth
+### Litmaps
 
-<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
+<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
 
-通过 Travelmyth 释放个性化酒店搜索，提供 60 个独特类别，找到完美匹配。
+获取帮助，探索科学文献。找到相关论文并生成文献思维导图。
 
-`旅行` `酒店` `搜索`
+`科学文献` `搜索`
 
 <div align="right">
 
@@ -714,38 +731,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### Speak
-
-<sup>By **[@speak](https://speak.com)** on **2024-01-22**</sup>
-
-使用 Speak，您的 AI 语言导师，学习如何用另一种语言说任何事情。
-
-`教育` `语言`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### NFT Guru
-
-<sup>By **[@swap](https://app.swap.net)** on **2024-01-22**</sup>
-
-发现主要平台上 NFT 的当前价格，并通过实时跟踪快速变化的市场了解情况
-
-`加密货币` `NFT`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### MintbaseSearch
 
 <sup>By **[@mintbase](https://search-ai.mintbase.xyz)** on **2024-01-22**</sup>
@@ -753,6 +738,22 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 在 NEAR 协议上查找任何 NFT 数据。
 
 `加密货币` `NFT`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Speak
+
+<sup>By **[@speak](https://speak.com)** on **2024-01-22**</sup>
+
+使用 Speak，您的 AI 语言导师，学习如何用另一种语言说任何事情。
+
+`教育` `语言`
 
 <div align="right">
 
@@ -778,13 +779,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### Savvy Trader AI
+### NFT Guru
 
-<sup>By **[@savvytrader](https://savvytrader.com)** on **2024-01-20**</sup>
+<sup>By **[@swap](https://app.swap.net)** on **2024-01-22**</sup>
 
-实时股票、加密货币和其他投资数据。
+发现主要平台上 NFT 的当前价格，并通过实时跟踪快速变化的市场了解情况
 
-`股票` `分析`
+`加密货币` `NFT`
 
 <div align="right">
 
@@ -810,75 +811,11 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### Midjourney
+### Savvy Trader AI
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-midjourney)** on **2024-01-18**</sup>
+<sup>By **[@savvytrader](https://savvytrader.com)** on **2024-01-20**</sup>
 
-通过简单的提示轻松释放创造力，利用 Midjourney 生成独特的 AI 驱动图像。通过 Midjourney 的艺术触感为您的对话增添视觉魅力。
-
-`ai-image-generation` `midjourney` `visualization`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Astrodaily
-
-<sup>By **[@360macky](https://api.360macky.com)** on **2024-01-17**</sup>
-
-搜索和发现 NASA 图像。
-
-`nasa` `搜索` `图像`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Asset Ovi
-
-<sup>By **[@assetovi](https://assetovi.com)** on **2024-01-17**</sup>
-
-搜索和预览数百万款用于游戏、AIGC、AR/VR 等领域的 3D 资产。
-
-`3-d` `资产` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### GIF 搜索
-
-<sup>By **[@efficiency](https://chat-plugin-giphy.efficiency.tools)** on **2024-01-17**</sup>
-
-搜索各种各样的 GIF - 由 Giphy 提供动力。
-
-`gif` `图片` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Boolio Invest
-
-<sup>By **[@boolio](https://chatgpt.boolio.co.kr)** on **2024-01-17**</sup>
-
-使用 Boolio 的先进引擎分析来自任何国家的股票投资。
+实时股票、加密货币和其他投资数据。
 
 `股票` `分析`
 
@@ -890,29 +827,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### Git OSS Stats
+### Midjourney
 
-<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-midjourney)** on **2024-01-18**</sup>
 
-动态生成和分析开源软件仓库和开发者的统计数据和历史记录。
+通过简单的提示轻松释放创造力，利用 Midjourney 生成独特的 AI 驱动图像。通过 Midjourney 的艺术触感为您的对话增添视觉魅力。
 
-`github` `oss`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### StackOverflow Plus
-
-<sup>By **[@onrender](https://stack-overflow-search.onrender.com)** on **2024-01-17**</sup>
-
-从 Stack Overflow 获取最新问题和答案。
-
-`stack-overflow` `q-a`
+`ai-image-generation` `midjourney` `visualization`
 
 <div align="right">
 
@@ -938,13 +859,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### 图表工具
+### Astrodaily
 
-<sup>By **[@redstarplugin](https://showme.redstarplugin.com)** on **2024-01-17**</sup>
+<sup>By **[@360macky](https://api.360macky.com)** on **2024-01-17**</sup>
 
-展示给我是一个强大的工具，旨在快速创建和编辑图表。
+搜索和发现 NASA 图像。
 
-`图表`
+`nasa` `搜索` `图像`
 
 <div align="right">
 
@@ -961,6 +882,102 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 从互联网搜索信息。
 
 `搜索` `plugsugar`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Git OSS Stats
+
+<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
+
+动态生成和分析开源软件仓库和开发者的统计数据和历史记录。
+
+`github` `oss`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 图表工具
+
+<sup>By **[@redstarplugin](https://showme.redstarplugin.com)** on **2024-01-17**</sup>
+
+展示给我是一个强大的工具，旨在快速创建和编辑图表。
+
+`图表`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Asset Ovi
+
+<sup>By **[@assetovi](https://assetovi.com)** on **2024-01-17**</sup>
+
+搜索和预览数百万款用于游戏、AIGC、AR/VR 等领域的 3D 资产。
+
+`3-d` `资产` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Boolio Invest
+
+<sup>By **[@boolio](https://chatgpt.boolio.co.kr)** on **2024-01-17**</sup>
+
+使用 Boolio 的先进引擎分析来自任何国家的股票投资。
+
+`股票` `分析`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### StackOverflow Plus
+
+<sup>By **[@onrender](https://stack-overflow-search.onrender.com)** on **2024-01-17**</sup>
+
+从 Stack Overflow 获取最新问题和答案。
+
+`stack-overflow` `q-a`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### GIF 搜索
+
+<sup>By **[@efficiency](https://chat-plugin-giphy.efficiency.tools)** on **2024-01-17**</sup>
+
+搜索各种各样的 GIF - 由 Giphy 提供动力。
+
+`gif` `图片` `搜索`
 
 <div align="right">
 
