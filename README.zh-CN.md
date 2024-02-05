@@ -87,7 +87,6 @@
   - [图表工具](#图表工具)
   - [Asset Ovi](#asset-ovi)
   - [Boolio Invest](#boolio-invest)
-  - [StackOverflow Plus](#stackoverflow-plus)
   - [GIF 搜索](#gif-搜索)
   - [TikZJax](#tikzjax)
   - [思维导图](#思维导图)
@@ -963,22 +962,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 使用 Boolio 的先进引擎分析来自任何国家的股票投资。
 
 `股票` `分析`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### StackOverflow Plus
-
-<sup>By **[@onrender](https://stack-overflow-search.onrender.com)** on **2024-01-17**</sup>
-
-从 Stack Overflow 获取最新问题和答案。
-
-`stack-overflow` `q-a`
 
 <div align="right">
 

@@ -87,7 +87,6 @@
   - [Diagrams: Show Me](#diagrams-show-me)
   - [Asset Ovi](#asset-ovi)
   - [Boolio Invest](#boolio-invest)
-  - [StackOverflow Plus](#stackoverflow-plus)
   - [GIF Search](#gif-search)
   - [TikZJax](#tikzjax)
   - [Mindmap](#mindmap)
@@ -963,22 +962,6 @@ Search and preview millions of 3D assets for games, AIGC, AR/VR and others.
 Analyze stock investments from any country, with Boolio's state-of-the-art engine.
 
 `stock` `analyze`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### StackOverflow Plus
-
-<sup>By **[@onrender](https://stack-overflow-search.onrender.com)** on **2024-01-17**</sup>
-
-Expand your knowledge beyond 2021/09/01. Get recent questions and answers from Stack Overflow.
-
-`stack-overflow` `q-a`
 
 <div align="right">
 
