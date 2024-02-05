@@ -3,7 +3,7 @@
   "createdAt": "2024-01-26",
   "homepage": "https://github.com/ccdanpian/current-datetime",
   "identifier": "current-time-assistant",
-  "manifest": "https://current-datetime.vercel.app/manifest-currentTime.json",
+  "manifest": "https://www.ccalendar.space/manifest-currentTime.json",
   "meta": {
     "avatar": "⏰",
     "tags": ["time"],
