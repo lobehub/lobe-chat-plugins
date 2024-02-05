@@ -35,6 +35,7 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [Charts & Diagrams](#charts--diagrams)
   - [Social Search](#social-search)
   - [Steam](#steam)
   - [Bilibili](#bilibili)
@@ -138,6 +139,22 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### Charts & Diagrams
+
+<sup>By **[@pyxl](https://mermaid.pyxl.uk)** on **2024-02-05**</sup>
+
+Mermaid Diagrams, Schemes for Presentations, Analysis, research websites, pie charts.
+
+`chart` `diagram`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Social Search
 

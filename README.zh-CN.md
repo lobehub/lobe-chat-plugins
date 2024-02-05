@@ -35,6 +35,7 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [图表和图示](#图表和图示)
   - [社交搜索](#社交搜索)
   - [Steam](#steam)
   - [哔哩哔哩](#哔哩哔哩)
@@ -138,6 +139,22 @@
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### 图表和图示
+
+<sup>By **[@pyxl](https://mermaid.pyxl.uk)** on **2024-02-05**</sup>
+
+美人鱼图表，演示文稿方案，分析，研究网站，饼图。
+
+`图表` `图示`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### 社交搜索
 
