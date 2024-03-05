@@ -29,6 +29,7 @@ interface PluginMainifest {
     title: string;
     description: string;
   };
+  systemRole: string;
   schemaVersion: number;
 }
 const syncCollections = async () => {
@@ -52,8 +53,10 @@ const syncCollections = async () => {
   });
 
   expires.forEach((identifier) => {
-    rmSync(resolve(pluginsDir, `${identifier}.json`));
-    consola.warn(`Remove expire plugin ${identifier}`);
+    try {
+      rmSync(resolve(pluginsDir, `${identifier}.json`));
+      consola.warn(`Remove expire plugin ${identifier}`);     
+    } catch {}
   });
 };
 
