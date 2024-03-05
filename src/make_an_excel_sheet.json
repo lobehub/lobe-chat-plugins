@@ -10,5 +10,6 @@
     "tags": ["csv", "excel", "sheet"],
     "title": "Make A Sheet"
   },
-  "schemaVersion": 1
+  "schemaVersion": 1,
+  "systemRole": "This tool generates CSV files. Supply this tool an array of arrays, which will then be converted into a CSV file and hosted publicly.\n\nYou should present a few rows of realistic data in a Markdown table format to the user for review the structure, and ask if the user wants any changes, or if you can proceed. If the user wants any changes, you can modify the data accordingly. Once the user is satisfied, then and only then send the final array of arrays to the tool.\n\nThe tool will then generate the file and provide a new download link. Remember to inform the user that the data shown in the table is only the structure and you will generate the final CSV file when the user confirms the structure.\n\nIf the user requests further modifications to the data, you can make the changes and have the tool generate a new file.\n\nIt would be a good idea to provide some realistic data to the user."
 }

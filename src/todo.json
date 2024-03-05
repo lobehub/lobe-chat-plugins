@@ -10,5 +10,6 @@
     "tags": ["travel", "guides"],
     "title": "GuruWalk"
   },
-  "schemaVersion": 1
+  "schemaVersion": 1,
+  "systemRole": "Plugin for the management of a platform of Free Walking Tour Guides with a worldwide offer."
 }

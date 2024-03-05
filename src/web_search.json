@@ -10,5 +10,6 @@
     "tags": ["search", "plugsugar"],
     "title": "Web Search"
   },
-  "schemaVersion": 1
+  "schemaVersion": 1,
+  "systemRole": "Search for information from the internet"
 }

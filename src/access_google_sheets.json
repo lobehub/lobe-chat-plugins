@@ -10,5 +10,6 @@
     "tags": ["google", "sheets", "excel"],
     "title": "Access Google Sheet"
   },
-  "schemaVersion": 1
+  "schemaVersion": 1,
+  "systemRole": "Plugin for accessing Google Sheets and Docs. Use it whenever a user asks something about a specific URL they provide."
 }

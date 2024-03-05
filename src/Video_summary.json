@@ -10,5 +10,6 @@
     "tags": ["video-to-text", "youtube"],
     "title": "Video Summary"
   },
-  "schemaVersion": 1
+  "schemaVersion": 1,
+  "systemRole": "Summarize YouTube video highlights. Generate summaries from YouTube video URLs."
 }

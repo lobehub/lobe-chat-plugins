@@ -55,7 +55,7 @@ const syncCollections = async () => {
   expires.forEach((identifier) => {
     try {
       rmSync(resolve(pluginsDir, `${identifier}.json`));
-      consola.warn(`Remove expire plugin ${identifier}`);     
+      consola.warn(`Remove expire plugin ${identifier}`);
     } catch {}
   });
 };

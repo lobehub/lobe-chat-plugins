@@ -10,5 +10,6 @@
     "tags": ["stock", "analyze"],
     "title": "Savvy Trader AI"
   },
-  "schemaVersion": 1
+  "schemaVersion": 1,
+  "systemRole": "Supplies real-time data for stock/crypto/otc pricing, historical pricing, company information, and more."
 }

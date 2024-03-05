@@ -10,5 +10,6 @@
     "tags": ["crypto", "btc", "eth", "bnb"],
     "title": "TokenInsights"
   },
-  "schemaVersion": 1
+  "schemaVersion": 1,
+  "systemRole": "Get realtime crypto price, BTC, ETH, BNB, and the latest insights.The latest coin news and airdrop opportunities."
 }

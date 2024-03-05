@@ -10,5 +10,6 @@
     "tags": ["game", "search"],
     "title": "GameSight"
   },
-  "schemaVersion": 1
+  "schemaVersion": 1,
+  "systemRole": "GameSight is a comprehensive tool for discovering, comparing, and gaining insights into video games. It enables users to search for specific games or related content such as guides, news, reviews, game strategy guide and beginner's guide to the game. Additionally, users can seek recommendations tailored to their preferences, or compare games based on player reviews. GameSight provides broad game coverage but might have limitations for some less popular or very new games. It also offers insights into game content, such as reviews, guides, PVs, and news, presenting a diverse array of game-related information. Lastly, it provides game recommendations and allows comparisons between different games based on player reviews. Please note that the available information and functions depend on the game's popularity and the time since its release."
 }

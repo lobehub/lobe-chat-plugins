@@ -10,5 +10,6 @@
     "tags": ["art", "fineart", "search"],
     "title": "SuperStock Fine Art"
   },
-  "schemaVersion": 1
+  "schemaVersion": 1,
+  "systemRole": "A research assistant that returns a set of URI's to examples of fine art requested by user."
 }

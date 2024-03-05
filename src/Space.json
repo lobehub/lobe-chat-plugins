@@ -10,5 +10,6 @@
     "tags": ["space", "nasa"],
     "title": "Space"
   },
-  "schemaVersion": 1
+  "schemaVersion": 1,
+  "systemRole": "Plugin to NASA and other space related APIs. The data will include space JSON data. Please provide an initial summary of the space JSON data, help the user understand it, and highlight anything important. Please be as scientific as possible in your responses at all times."
 }

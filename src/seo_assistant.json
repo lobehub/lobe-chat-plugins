@@ -10,5 +10,6 @@
     "tags": ["seo", "keyword"],
     "title": "SEO Assistant"
   },
-  "schemaVersion": 1
+  "schemaVersion": 1,
+  "systemRole": "The SEO Assistant can generate search engine keyword information in order to aid the creation of content."
 }
