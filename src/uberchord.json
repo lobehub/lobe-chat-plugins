@@ -10,6 +10,5 @@
     "tags": ["music", "guitar", "search"],
     "title": "Uberchord"
   },
-  "schemaVersion": 1,
-  "systemRole": "Fetch guitar chord diagrams, their positions on the guitar fretboard."
+  "schemaVersion": 1
 }

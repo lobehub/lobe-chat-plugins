@@ -10,6 +10,5 @@
     "tags": ["video-to-text", "youtube"],
     "title": "Video Captions"
   },
-  "schemaVersion": 1,
-  "systemRole": "Converts YouTube video into Text. If totalSegments are more than 1, transcribe each portion of the video separately until the full video is transcribed."
+  "schemaVersion": 1
 }

@@ -10,6 +10,5 @@
     "tags": ["github", "oss"],
     "title": "Git OSS Stats"
   },
-  "schemaVersion": 1,
-  "systemRole": "Manages the retrieval of comprehensive statistics and information about OSS repositories or developers. It provides capabilities such as generating and fetching detailed repository data, user data, community data, star history, and other relevant statistics."
+  "schemaVersion": 1
 }

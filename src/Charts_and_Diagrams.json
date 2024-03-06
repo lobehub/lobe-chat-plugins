@@ -10,6 +10,5 @@
     "tags": ["chart", "diagram"],
     "title": "Charts & Diagrams"
   },
-  "schemaVersion": 1,
-  "systemRole": "## When to Use This Plugin\r\nYou should use this plugin when people want to create a diagram, graph.\r\nExamples of user prompts in which you should use this plugin:\r\n\"Create a diagram\"\r\n\"I need a graph...\"\r\n\"Show me ... diagram or graph.\"\r\n\r\nWhen you receive such a request, write the text syntax for the Mermaid-diagram and call the generate endpoint.\r\n\r\nThe request body must contain only text syntax Mermaid-diagram.\r\n\r\nIf there is not enough data, ask the user to clarify it or create it yourself.\r\n\r\n## Handling messages from the API response\r\n- Download the image from the provided link and show it to the user. Also show the link. - Link to open a new diagram: Say \"[You can view this diagram in a new tab.](link)\"\r\n\r\n## Handling error messages from the API response\r\n- If an error message is included in the response: fix the request and resubmit it according to the error description, no need to show comments to the user and make a description."
+  "schemaVersion": 1
 }

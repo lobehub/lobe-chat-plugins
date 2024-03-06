@@ -10,6 +10,5 @@
     "tags": ["image", "search"],
     "title": "ImageSearch"
   },
-  "schemaVersion": 1,
-  "systemRole": "Find images and display each image with title using the following markdown format: [title] \n ![the image](url)  [Download Raw](download_url)  Photo by [author_name](author_website) on [Unsplash](unsplash_website) \n. Also display related link using the following format: [related_title](related_url)."
+  "schemaVersion": 1
 }

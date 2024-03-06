@@ -10,6 +10,5 @@
     "tags": ["scientific-literature", "search"],
     "title": "Scholarly"
   },
-  "schemaVersion": 1,
-  "systemRole": "Scholarly is a search engine for finding summaries of research papers."
+  "schemaVersion": 1
 }

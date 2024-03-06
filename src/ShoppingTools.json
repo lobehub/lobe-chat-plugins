@@ -10,6 +10,5 @@
     "tags": ["shopping", "e-bay", "ali-express", "coupons"],
     "title": "Shopping tools"
   },
-  "schemaVersion": 1,
-  "systemRole": "Search for products on eBay & AliExpress, find eBay events & coupons. Get prompt examples."
+  "schemaVersion": 1
 }

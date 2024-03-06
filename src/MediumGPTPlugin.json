@@ -10,6 +10,5 @@
     "tags": ["article", "search"],
     "title": "Medium plugin"
   },
-  "schemaVersion": 1,
-  "systemRole": "Requests Medium posts, stories, to do manipulation and queries on the content."
+  "schemaVersion": 1
 }

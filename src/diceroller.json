@@ -10,6 +10,5 @@
     "tags": ["game", "dice", "dm"],
     "title": "DM Tool Kit"
   },
-  "schemaVersion": 1,
-  "systemRole": "App for rolling dice using the d20 or Fate/Fudge systems."
+  "schemaVersion": 1
 }

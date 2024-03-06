@@ -10,6 +10,5 @@
     "tags": ["crypto", "de-fi"],
     "title": "Defillama"
   },
-  "schemaVersion": 1,
-  "systemRole": "Get current and historical stats on DeFi protocols and blockchains. Always display results using markdown tables. If a user asks about a protocol, use the /get_slug endpoint to retrieve its slug and the /get_defillamaId to get its defillamaId where necessary."
+  "schemaVersion": 1
 }

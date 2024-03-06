@@ -10,6 +10,5 @@
     "tags": ["nasa", "search", "image"],
     "title": "Astrodaily"
   },
-  "schemaVersion": 1,
-  "systemRole": "Plugin for getting the daily picture from NASA's APOD or getting a list of images available in NASA API based on a search. When use it always provide the images in Markdown format so the user can see it. Do not add links, only images."
+  "schemaVersion": 1
 }
