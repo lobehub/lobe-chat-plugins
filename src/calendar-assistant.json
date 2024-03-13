@@ -2,7 +2,6 @@
   "author": "cc",
   "homepage": "https://www.ccalendar.space",
   "identifier": "calendar-assistant",
-  "locale": "zh-CN # you can set locale if you use other i18n language, default is en-US",
   "manifest": "https://www.ccalendar.space/manifest-calendar.json",
   "meta": {
     "avatar": "📅",
