@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "カレンダーアシスタント",
+    "description": "カレンダーイベントを管理するプラグイン # ワークフローで自動的にi18nを生成します",
+    "tags": ["calendar", "schedule", "will-auto-generate-i-18-n-in-workflow"]
+  }
+}

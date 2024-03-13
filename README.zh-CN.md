@@ -35,6 +35,7 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [日历助手](#日历助手)
   - [图表和图示](#图表和图示)
   - [社交搜索](#社交搜索)
   - [TokenInsights](#tokeninsights)
@@ -135,6 +136,22 @@
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### 日历助手
+
+<sup>By **[@cc](https://www.ccalendar.space)** on **2024-03-13**</sup>
+
+一个用于管理日历事件的插件 # 将自动生成工作流程中的 i18n
+
+`日历` `日程安排` `将自动生成工作流程中的 i18n`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### 图表和图示
 

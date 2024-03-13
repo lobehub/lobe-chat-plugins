@@ -1,12 +1,14 @@
 {
   "author": "cc",
+  "createdAt": "2024-03-13",
   "homepage": "https://www.ccalendar.space",
   "identifier": "calendar-assistant",
   "manifest": "https://www.ccalendar.space/manifest-calendar.json",
   "meta": {
     "avatar": "📅",
-    "tags": ["calendar", "schedule", "# will auto generate i18n in workflow"],
+    "tags": ["calendar", "schedule", "will-auto-generate-i-18-n-in-workflow"],
     "title": "Calendar Assistant",
     "description": "A plugin to manage your calendar events # will auto generate i18n in workflow"
-  }
+  },
+  "schemaVersion": 1
 }

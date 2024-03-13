@@ -35,6 +35,7 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [Calendar Assistant](#calendar-assistant)
   - [Charts & Diagrams](#charts--diagrams)
   - [Social Search](#social-search)
   - [TokenInsights](#tokeninsights)
@@ -135,6 +136,22 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### Calendar Assistant
+
+<sup>By **[@cc](https://www.ccalendar.space)** on **2024-03-13**</sup>
+
+A plugin to manage your calendar events # will auto generate i18n in workflow
+
+`calendar` `schedule` `will-auto-generate-i-18-n-in-workflow`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Charts & Diagrams
 
