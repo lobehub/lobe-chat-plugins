@@ -37,7 +37,6 @@
 - [🕶 Awesome Plugins](#-awesome-plugins)
   - [Calendar Assistant](#calendar-assistant)
   - [Charts & Diagrams](#charts--diagrams)
-  - [Social Search](#social-search)
   - [TokenInsights](#tokeninsights)
   - [Steam](#steam)
   - [Bilibili](#bilibili)
@@ -160,22 +159,6 @@ A plugin to manage your calendar events # will auto generate i18n in workflow
 Mermaid Diagrams, Schemes for Presentations, Analysis, research websites, pie charts.
 
 `chart` `diagram`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Social Search
-
-<sup>By **[@say-apps](https://twitter.say-apps.com)** on **2024-02-02**</sup>
-
-The Social Search provides access to tweets, users, followers, images, media and more.
-
-`social` `twitter` `x` `search`
 
 <div align="right">
 

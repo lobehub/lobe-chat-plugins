@@ -37,7 +37,6 @@
 - [🕶 Awesome Plugins](#-awesome-plugins)
   - [日历助手](#日历助手)
   - [图表和图示](#图表和图示)
-  - [社交搜索](#社交搜索)
   - [TokenInsights](#tokeninsights)
   - [Steam](#steam)
   - [哔哩哔哩](#哔哩哔哩)
@@ -160,22 +159,6 @@
 美人鱼图表，演示文稿方案，分析，研究网站，饼图。
 
 `图表` `图示`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 社交搜索
-
-<sup>By **[@say-apps](https://twitter.say-apps.com)** on **2024-02-02**</sup>
-
-社交搜索提供访问推文、用户、关注者、图片、媒体等功能。
-
-`社交` `推特` `x` `搜索`
 
 <div align="right">
 
