@@ -36,7 +36,6 @@
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
   - [Calendar Assistant](#calendar-assistant)
-  - [Charts & Diagrams](#charts--diagrams)
   - [TokenInsights](#tokeninsights)
   - [Steam](#steam)
   - [Bilibili](#bilibili)
@@ -143,22 +142,6 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 A plugin to manage your calendar events # will auto generate i18n in workflow
 
 `calendar` `schedule` `will-auto-generate-i-18-n-in-workflow`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Charts & Diagrams
-
-<sup>By **[@pyxl](https://mermaid.pyxl.uk)** on **2024-02-05**</sup>
-
-Mermaid Diagrams, Schemes for Presentations, Analysis, research websites, pie charts.
-
-`chart` `diagram`
 
 <div align="right">
 

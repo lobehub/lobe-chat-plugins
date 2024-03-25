@@ -36,7 +36,6 @@
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
   - [日历助手](#日历助手)
-  - [图表和图示](#图表和图示)
   - [TokenInsights](#tokeninsights)
   - [Steam](#steam)
   - [哔哩哔哩](#哔哩哔哩)
@@ -143,22 +142,6 @@
 一个用于管理日历事件的插件 # 将自动生成工作流程中的 i18n
 
 `日历` `日程安排` `将自动生成工作流程中的 i18n`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 图表和图示
-
-<sup>By **[@pyxl](https://mermaid.pyxl.uk)** on **2024-02-05**</sup>
-
-美人鱼图表，演示文稿方案，分析，研究网站，饼图。
-
-`图表` `图示`
 
 <div align="right">
 
