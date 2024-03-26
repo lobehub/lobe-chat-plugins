@@ -1,0 +1,13 @@
+{
+  "author": "GithuBarry",
+  "homepage": "https://github.com/GithuBarry/chat-plugin-search-engine",
+  "identifier": "search-engine-serper",
+  "openapi": "https://raw.githubusercontent.com/GithuBarry/chat-plugin-search-engine/main/public/openapi.json",
+  "meta": {
+    "avatar": "🔍",
+    "tags": ["web", "search"],
+    "title": "Search Engine by Serper",
+    "description": "Google search engine via Serper.dev free API (2500x🆓/month)"
+  },
+  "schemaVersion": 1
+}
