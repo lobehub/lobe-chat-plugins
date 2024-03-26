@@ -1,8 +1,9 @@
 {
-  "author": "GithuBarry",
+  "author": "Barry",
   "homepage": "https://github.com/GithuBarry/chat-plugin-search-engine",
   "identifier": "search-engine-serper",
   "openapi": "https://raw.githubusercontent.com/GithuBarry/chat-plugin-search-engine/main/public/openapi.json",
+  "api": [],
   "meta": {
     "avatar": "🔍",
     "tags": ["web", "search"],
