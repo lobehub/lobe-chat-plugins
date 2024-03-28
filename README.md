@@ -45,13 +45,11 @@
   - [DM Tool Kit](#dm-tool-kit)
   - [Medium plugin](#medium-plugin)
   - [SuperStock Fine Art](#superstock-fine-art)
-  - [ImageSearch](#imagesearch)
   - [Check Website Down](#check-website-down)
   - [Access Google Sheet](#access-google-sheet)
   - [Shopping tools](#shopping-tools)
   - [LevinBot](#levinbot)
   - [AladinBooks](#aladinbooks)
-  - [Space](#space)
   - [MixerBox Weather](#mixerbox-weather)
   - [Filtir](#filtir)
   - [MixerBox Translate](#mixerbox-translate)
@@ -295,22 +293,6 @@ A research assistant that returns a set of URI's to examples of fine art request
 
 ---
 
-### ImageSearch
-
-<sup>By **[@aigenprompt](https://imgser.aigenprompt.com)** on **2024-01-25**</sup>
-
-Discover complimentary images to enhance your generated article or to highlight specific paragraphs from Unsplash.
-
-`image` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### Check Website Down
 
 <sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
@@ -382,22 +364,6 @@ Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
 Search for books on Aladin.
 
 `book` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Space
-
-<sup>By **[@automateyournetwork](https://space.automateyournetwork.ca)** on **2024-01-25**</sup>
-
-Space data including NASA.
-
-`space` `nasa`
 
 <div align="right">
 
