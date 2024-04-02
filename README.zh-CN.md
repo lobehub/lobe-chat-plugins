@@ -35,6 +35,7 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [社交搜索](#社交搜索)
   - [日历助手](#日历助手)
   - [TokenInsights](#tokeninsights)
   - [Steam](#steam)
@@ -68,7 +69,6 @@
   - [视频摘要](#视频摘要)
   - [Questmate Forms](#questmate-forms)
   - [Defillama](#defillama)
-  - [NFT Guru](#nft-guru)
   - [Change](#change)
   - [MintbaseSearch](#mintbasesearch)
   - [Savvy Trader AI](#savvy-trader-ai)
@@ -132,6 +132,22 @@
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### 社交搜索
+
+<sup>By **[@say-apps](https://twitter.say-apps.com)** on **2024-04-02**</sup>
+
+社交搜索提供访问推文、用户、关注者、图片、媒体等功能。
+
+`社交` `推特` `x` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### 日历助手
 
@@ -652,22 +668,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 检索 DeFi 协议和区块链的数据。
 
 `加密货币` `去中心化金融`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### NFT Guru
-
-<sup>By **[@swap](https://app.swap.net)** on **2024-01-22**</sup>
-
-发现主要平台上 NFT 的当前价格，并通过实时跟踪快速变化的市场了解情况
-
-`加密货币` `NFT`
 
 <div align="right">
 

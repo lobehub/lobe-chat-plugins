@@ -35,6 +35,7 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [Social Search](#social-search)
   - [Calendar Assistant](#calendar-assistant)
   - [TokenInsights](#tokeninsights)
   - [Steam](#steam)
@@ -68,7 +69,6 @@
   - [Video Summary](#video-summary)
   - [Questmate Forms](#questmate-forms)
   - [Defillama](#defillama)
-  - [NFT Guru](#nft-guru)
   - [Change](#change)
   - [MintbaseSearch](#mintbasesearch)
   - [Savvy Trader AI](#savvy-trader-ai)
@@ -132,6 +132,22 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### Social Search
+
+<sup>By **[@say-apps](https://twitter.say-apps.com)** on **2024-04-02**</sup>
+
+The Social Search provides access to tweets, users, followers, images, media and more.
+
+`social` `twitter` `x` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Calendar Assistant
 
@@ -652,22 +668,6 @@ Create forms, checklists and workflows (we call 'em Quests!) that you can assign
 Retrieve data on DeFi protocols and blockchains.
 
 `crypto` `de-fi`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### NFT Guru
-
-<sup>By **[@swap](https://app.swap.net)** on **2024-01-22**</sup>
-
-Discover current prices of NFTs across major platforms and keep track of the rapidly changing marketplace with real-time
-
-`crypto` `nft`
 
 <div align="right">
 
