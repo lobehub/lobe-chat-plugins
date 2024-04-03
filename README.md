@@ -35,6 +35,7 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [NFT Guru](#nft-guru)
   - [Social Search](#social-search)
   - [Calendar Assistant](#calendar-assistant)
   - [TokenInsights](#tokeninsights)
@@ -132,6 +133,22 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### NFT Guru
+
+<sup>By **[@swap](https://app.swap.net)** on **2024-04-03**</sup>
+
+Discover current prices of NFTs across major platforms and keep track of the rapidly changing marketplace with real-time
+
+`crypto` `nft`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Social Search
 

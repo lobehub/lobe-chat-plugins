@@ -35,6 +35,7 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [NFT Guru](#nft-guru)
   - [社交搜索](#社交搜索)
   - [日历助手](#日历助手)
   - [TokenInsights](#tokeninsights)
@@ -132,6 +133,22 @@
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### NFT Guru
+
+<sup>By **[@swap](https://app.swap.net)** on **2024-04-03**</sup>
+
+发现主要平台上 NFT 的当前价格，并通过实时跟踪快速变化的市场了解情况
+
+`加密货币` `NFT`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### 社交搜索
 
