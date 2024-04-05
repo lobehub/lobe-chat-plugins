@@ -61,7 +61,6 @@
   - [GameSight](#gamesight)
   - [Video Summary](#video-summary)
   - [Questmate Forms](#questmate-forms)
-  - [Scholarly](#scholarly)
   - [SEO](#seo)
   - [GuruWalk](#guruwalk)
   - [txyz.ai](#txyzai)
@@ -541,22 +540,6 @@ Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
 Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
 
 `forms` `checklists` `productivity`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Scholarly
-
-<sup>By **[@maila](https://scholarly.maila.ai)** on **2024-01-23**</sup>
-
-Scholarly is an AI-powered search engine for exploring scientific literature.
-
-`scientific-literature` `search`
 
 <div align="right">
 

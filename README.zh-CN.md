@@ -61,7 +61,6 @@
   - [GameSight](#gamesight)
   - [视频摘要](#视频摘要)
   - [Questmate Forms](#questmate-forms)
-  - [学术](#学术)
   - [SEO](#seo)
   - [GuruWalk](#guruwalk)
   - [txyz.ai](#txyzai)
@@ -541,22 +540,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
 
 `表单` `清单` `生产力`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 学术
-
-<sup>By **[@maila](https://scholarly.maila.ai)** on **2024-01-23**</sup>
-
-学术是一个用人工智能驱动的搜索引擎，用于探索科学文献。
-
-`科学文献` `搜索`
 
 <div align="right">
 
