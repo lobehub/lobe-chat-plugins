@@ -1,10 +1,11 @@
 {
   "author": "Barry",
+  "createdAt": "2024-04-30",
   "homepage": "https://github.com/GithuBarry/chat-plugin-search-engine",
   "identifier": "search-engine-serper",
   "manifest": "https://raw.githubusercontent.com/GithuBarry/chat-plugin-search-engine/main/public/manifest.json",
   "meta": {
-    "avatar": "🔍",
+    "avatar": "https://serper.dev/favicon.ico",
     "description": "Google search engine via Serper.dev free API (2500x🆓/month)",
     "tags": ["web", "search"],
     "title": "Search Google via Serper"
