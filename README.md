@@ -37,7 +37,6 @@
 - [🕶 Awesome Plugins](#-awesome-plugins)
   - [Social Search](#social-search)
   - [Search Google via Serper](#search-google-via-serper)
-  - [Speak](#speak)
   - [NFT Guru](#nft-guru)
   - [Calendar Assistant](#calendar-assistant)
   - [TokenInsights](#tokeninsights)
@@ -158,22 +157,6 @@ The Social Search provides access to tweets, users, followers, images, media and
 Google search engine via Serper.dev free API (2500x🆓/month)
 
 `web` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Speak
-
-<sup>By **[@speak](https://speak.com)** on **2024-04-30**</sup>
-
-Learn how to say anything in another language with Speak, your AI-powered language tutor.
-
-`education` `language`
 
 <div align="right">
 

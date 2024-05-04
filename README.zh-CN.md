@@ -37,7 +37,6 @@
 - [🕶 Awesome Plugins](#-awesome-plugins)
   - [社交搜索](#社交搜索)
   - [通过 Serper 搜索 Google](#通过-serper-搜索-google)
-  - [Speak](#speak)
   - [NFT Guru](#nft-guru)
   - [日历助手](#日历助手)
   - [TokenInsights](#tokeninsights)
@@ -158,22 +157,6 @@
 通过 Serper.dev 免费 API 进行 Google 搜索引擎（每月 2500 次🆓）
 
 `网络` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Speak
-
-<sup>By **[@speak](https://speak.com)** on **2024-04-30**</sup>
-
-使用 Speak，您的 AI 语言导师，学习如何用另一种语言说任何事情。
-
-`教育` `语言`
 
 <div align="right">
 
