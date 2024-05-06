@@ -1,0 +1,12 @@
+{
+    "author": "fatwang2",
+    "homepage": "https://github.com/fatwang2/search1api-lobechat",
+    "identifier": "search1api",
+    "manifest": "https://lobehub.search1api.com/manifest.json",
+    "meta": {
+      "avatar": "https://cdn.discordapp.com/attachments/1109354586604585011/1236568039198167050/favicon.webp?ex=66387b3a&is=663729ba&hm=38435c611569cf1895bd89a0181c0cb09de2f5d659a4e913c4a51c5ca22e7131&",
+      "tags": ["web", "search"],
+      "title": "Search1API",
+      "description": "Search aggregation service, specifically designed for LLMs"
+    }
+  }
