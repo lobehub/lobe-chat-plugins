@@ -35,6 +35,7 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [Search1API](#search1api)
   - [Social Search](#social-search)
   - [Search Google via Serper](#search-google-via-serper)
   - [NFT Guru](#nft-guru)
@@ -133,6 +134,22 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### Search1API
+
+<sup>By **[@fatwang2](https://github.com/fatwang2/search1api-lobechat)** on **2024-05-06**</sup>
+
+Search aggregation service, specifically designed for LLMs
+
+`web` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Social Search
 

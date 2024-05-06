@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Search1API",
+    "description": "Dịch vụ tổng hợp tìm kiếm, được thiết kế đặc biệt cho LLMs",
+    "tags": ["web", "search"]
+  }
+}

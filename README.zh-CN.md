@@ -35,6 +35,7 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [Search1API](#search1api)
   - [社交搜索](#社交搜索)
   - [通过 Serper 搜索 Google](#通过-serper-搜索-google)
   - [NFT Guru](#nft-guru)
@@ -133,6 +134,22 @@
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### Search1API
+
+<sup>By **[@fatwang2](https://github.com/fatwang2/search1api-lobechat)** on **2024-05-06**</sup>
+
+搜索聚合服务，专为 LLMs 设计
+
+`web` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### 社交搜索
 

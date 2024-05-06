@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Search1API",
+    "description": "搜索聚合服务，专为LLMs设计",
+    "tags": ["web", "search"]
+  }
+}

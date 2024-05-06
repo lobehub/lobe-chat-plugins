@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Search1API",
+    "description": "Arama birleştirme hizmeti, özellikle LLM'ler için tasarlanmıştır",
+    "tags": ["web", "arama"]
+  }
+}
