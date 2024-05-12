@@ -35,6 +35,7 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [空间](#空间)
   - [Search1API](#search1api)
   - [社交搜索](#社交搜索)
   - [通过 Serper 搜索 Google](#通过-serper-搜索-google)
@@ -134,6 +135,22 @@
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### 空间
+
+<sup>By **[@automateyournetwork](https://space.automateyournetwork.ca)** on **2024-05-12**</sup>
+
+包括 NASA 的空间数据。
+
+`空间` `nasa`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Search1API
 

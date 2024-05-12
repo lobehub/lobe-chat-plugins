@@ -35,6 +35,7 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [Space](#space)
   - [Search1API](#search1api)
   - [Social Search](#social-search)
   - [Search Google via Serper](#search-google-via-serper)
@@ -134,6 +135,22 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### Space
+
+<sup>By **[@automateyournetwork](https://space.automateyournetwork.ca)** on **2024-05-12**</sup>
+
+Space data including NASA.
+
+`space` `nasa`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Search1API
 
