@@ -49,7 +49,6 @@
   - [SuperStock Fine Art](#superstock-fine-art)
   - [AladinBooks](#aladinbooks)
   - [MixerBox Podcasts](#mixerbox-podcasts)
-  - [Filtir](#filtir)
   - [访问 Google 表格](#访问-google-表格)
   - [PortfolioMeta](#portfoliometa)
   - [MixerBox 翻译](#mixerbox-翻译)
@@ -74,7 +73,6 @@
   - [Change](#change)
   - [MintbaseSearch](#mintbasesearch)
   - [Defillama](#defillama)
-  - [AskYourPDF](#askyourpdf)
   - [Savvy Trader AI](#savvy-trader-ai)
   - [Midjourney](#midjourney)
   - [Astrodaily](#astrodaily)
@@ -351,22 +349,6 @@
 轻松搜索播客！探索涵盖社会、体育、商业、新闻、音乐等内容的播客！
 
 `播客` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Filtir
-
-<sup>By **[@filtir](https://app.filtir.com)** on **2024-01-25**</sup>
-
-使用外部来源验证提供的文本。
-
-`检查` `事实`
 
 <div align="right">
 
@@ -751,22 +733,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 检索 DeFi 协议和区块链的数据。
 
 `加密货币` `去中心化金融`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### AskYourPDF
-
-<sup>By **[@askyourpdf](https://plugin.askyourpdf.com)** on **2024-01-20**</sup>
-
-释放 PDF 的力量！深入文档，寻找答案，让信息触手可及。
-
-`pdf` `document` `web`
 
 <div align="right">
 

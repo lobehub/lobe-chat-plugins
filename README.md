@@ -49,7 +49,6 @@
   - [SuperStock Fine Art](#superstock-fine-art)
   - [AladinBooks](#aladinbooks)
   - [MixerBox Podcasts](#mixerbox-podcasts)
-  - [Filtir](#filtir)
   - [Access Google Sheet](#access-google-sheet)
   - [PortfolioMeta](#portfoliometa)
   - [MixerBox Translate](#mixerbox-translate)
@@ -74,7 +73,6 @@
   - [Change](#change)
   - [MintbaseSearch](#mintbasesearch)
   - [Defillama](#defillama)
-  - [AskYourPDF](#askyourpdf)
   - [Savvy Trader AI](#savvy-trader-ai)
   - [Midjourney](#midjourney)
   - [Astrodaily](#astrodaily)
@@ -351,22 +349,6 @@ Search for books on Aladin.
 Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!
 
 `podcast` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Filtir
-
-<sup>By **[@filtir](https://app.filtir.com)** on **2024-01-25**</sup>
-
-Verify the provided text using external sources.
-
-`check` `fact`
 
 <div align="right">
 
@@ -751,22 +733,6 @@ Find any NFT data on the NEAR Protocol.
 Retrieve data on DeFi protocols and blockchains.
 
 `crypto` `de-fi`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### AskYourPDF
-
-<sup>By **[@askyourpdf](https://plugin.askyourpdf.com)** on **2024-01-20**</sup>
-
-Unlock the power of your PDFs!, dive into your documents, find answers, and bring information to your fingertips.
-
-`pdf` `document` `web`
 
 <div align="right">
 
