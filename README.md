@@ -37,7 +37,6 @@
 - [🕶 Awesome Plugins](#-awesome-plugins)
   - [Space](#space)
   - [Search1API](#search1api)
-  - [Social Search](#social-search)
   - [Search Google via Serper](#search-google-via-serper)
   - [NFT Guru](#nft-guru)
   - [Calendar Assistant](#calendar-assistant)
@@ -81,7 +80,6 @@
   - [Git OSS Stats](#git-oss-stats)
   - [GIF Search](#gif-search)
   - [Web Search](#web-search)
-  - [Diagrams: Show Me](#diagrams-show-me)
   - [Make A Sheet](#make-a-sheet)
   - [TikZJax](#tikzjax)
   - [Mindmap](#mindmap)
@@ -157,22 +155,6 @@ Space data including NASA.
 Search aggregation service, specifically designed for LLMs
 
 `web` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Social Search
-
-<sup>By **[@say-apps](https://twitter.say-apps.com)** on **2024-05-02**</sup>
-
-The Social Search provides access to tweets, users, followers, images, media and more.
-
-`social` `twitter` `x` `search`
 
 <div align="right">
 
@@ -861,22 +843,6 @@ Search through a wide range of gifs - Powered by Giphy.
 Search for information from the internet
 
 `search` `plugsugar`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Diagrams: Show Me
-
-<sup>By **[@redstarplugin](https://showme.redstarplugin.com)** on **2024-01-17**</sup>
-
-Schemes, Diagrams, Architecture Visualisations, Flow-Charts, Mind Maps. Export and Edit for free!
-
-`diagrams`
 
 <div align="right">
 
