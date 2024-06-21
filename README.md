@@ -61,7 +61,6 @@
   - [SEO Assistant](#seo-assistant)
   - [SEO](#seo)
   - [Video Summary](#video-summary)
-  - [Domatron Domains](#domatron-domains)
   - [txyz.ai](#txyzai)
   - [Litmaps](#litmaps)
   - [GameSight](#gamesight)
@@ -539,22 +538,6 @@ Enter any URL and keyword and get an On-Page SEO analysis & insights!
 Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
 
 `video-to-text` `youtube`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Domatron Domains
-
-<sup>By **[@domatron](https://gpt.domatron.com)** on **2024-01-23**</sup>
-
-Find available, brandable .com domain names for your business businesses.
-
-`domain` `search`
 
 <div align="right">
 

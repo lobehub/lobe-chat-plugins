@@ -61,7 +61,6 @@
   - [SEO 助手](#seo-助手)
   - [SEO](#seo)
   - [视频摘要](#视频摘要)
-  - [Domatron Domains](#domatron-domains)
   - [txyz.ai](#txyzai)
   - [Litmaps](#litmaps)
   - [GameSight](#gamesight)
@@ -539,22 +538,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 总结 YouTube 视频亮点。从 YouTube 视频链接生成摘要。
 
 `视频转文字` `YouTube`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Domatron Domains
-
-<sup>By **[@domatron](https://gpt.domatron.com)** on **2024-01-23**</sup>
-
-为您的企业找到可用的、可品牌化的.com 域名。
-
-`域名` `搜索`
 
 <div align="right">
 
