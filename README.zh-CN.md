@@ -74,7 +74,6 @@
   - [Savvy Trader AI](#savvy-trader-ai)
   - [Midjourney](#midjourney)
   - [Git OSS Stats](#git-oss-stats)
-  - [GIF 搜索](#gif-搜索)
   - [Asset Ovi](#asset-ovi)
   - [Boolio Invest](#boolio-invest)
   - [创建表格](#创建表格)
@@ -746,22 +745,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 动态生成和分析开源软件仓库和开发者的统计数据和历史记录。
 
 `github` `oss`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### GIF 搜索
-
-<sup>By **[@efficiency](https://chat-plugin-giphy.efficiency.tools)** on **2024-01-17**</sup>
-
-搜索各种各样的 GIF - 由 Giphy 提供动力。
-
-`gif` `图片` `搜索`
 
 <div align="right">
 

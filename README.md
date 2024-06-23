@@ -74,7 +74,6 @@
   - [Savvy Trader AI](#savvy-trader-ai)
   - [Midjourney](#midjourney)
   - [Git OSS Stats](#git-oss-stats)
-  - [GIF Search](#gif-search)
   - [Asset Ovi](#asset-ovi)
   - [Boolio Invest](#boolio-invest)
   - [Make A Sheet](#make-a-sheet)
@@ -746,22 +745,6 @@ Unleash creativity with Midjourney, effortlessly generating unique AI-driven ima
 Dynamically generate and analyze stats and history for OSS repos and developers.
 
 `github` `oss`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### GIF Search
-
-<sup>By **[@efficiency](https://chat-plugin-giphy.efficiency.tools)** on **2024-01-17**</sup>
-
-Search through a wide range of gifs - Powered by Giphy.
-
-`gif` `image` `search`
 
 <div align="right">
 
