@@ -71,7 +71,6 @@
   - [Defillama](#defillama)
   - [MintbaseSearch](#mintbasesearch)
   - [Change](#change)
-  - [Savvy Trader AI](#savvy-trader-ai)
   - [Midjourney](#midjourney)
   - [Git OSS Stats](#git-oss-stats)
   - [Asset Ovi](#asset-ovi)
@@ -697,22 +696,6 @@ Find any NFT data on the NEAR Protocol.
 Discover impactful nonprofits to support in your community and beyond.
 
 `charity`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Savvy Trader AI
-
-<sup>By **[@savvytrader](https://savvytrader.com)** on **2024-01-20**</sup>
-
-Realtime stock, crypto and other investment data.
-
-`stock` `analyze`
 
 <div align="right">
 

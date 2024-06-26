@@ -71,7 +71,6 @@
   - [Defillama](#defillama)
   - [MintbaseSearch](#mintbasesearch)
   - [Change](#change)
-  - [Savvy Trader AI](#savvy-trader-ai)
   - [Midjourney](#midjourney)
   - [Git OSS Stats](#git-oss-stats)
   - [Asset Ovi](#asset-ovi)
@@ -697,22 +696,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 发现在您的社区和更广泛范围内支持的有影响力的非营利组织。
 
 `慈善`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Savvy Trader AI
-
-<sup>By **[@savvytrader](https://savvytrader.com)** on **2024-01-20**</sup>
-
-实时股票、加密货币和其他投资数据。
-
-`股票` `分析`
 
 <div align="right">
 
