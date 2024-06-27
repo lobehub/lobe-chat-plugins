@@ -35,6 +35,7 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [Savvy Trader AI](#savvy-trader-ai)
   - [Social Search](#social-search)
   - [Space](#space)
   - [Search1API](#search1api)
@@ -128,6 +129,22 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### Savvy Trader AI
+
+<sup>By **[@savvytrader](https://savvytrader.com)** on **2024-06-27**</sup>
+
+Realtime stock, crypto and other investment data.
+
+`stock` `analyze`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Social Search
 

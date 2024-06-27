@@ -35,6 +35,7 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [Savvy Trader AI](#savvy-trader-ai)
   - [社交搜索](#社交搜索)
   - [空间](#空间)
   - [Search1API](#search1api)
@@ -128,6 +129,22 @@
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### Savvy Trader AI
+
+<sup>By **[@savvytrader](https://savvytrader.com)** on **2024-06-27**</sup>
+
+实时股票、加密货币和其他投资数据。
+
+`股票` `分析`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### 社交搜索
 
