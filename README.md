@@ -59,7 +59,6 @@
   - [MixerBox Translate](#mixerbox-translate)
   - [Uberchord](#uberchord)
   - [MixerBox Weather](#mixerbox-weather)
-  - [Shopping tools](#shopping-tools)
   - [GameSight](#gamesight)
   - [Questmate Forms](#questmate-forms)
   - [txyz.ai](#txyzai)
@@ -505,22 +504,6 @@ Find guitar chord diagrams by specifying the chord name.
 Get real-time worldwide weather updates & forecasts, instantly!
 
 `weather`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Shopping tools
-
-<sup>By **[@shoppingtools](https://shoppingtools.biz)** on **2024-01-25**</sup>
-
-Search for products on eBay & AliExpress, find eBay events & coupons. Get prompt examples.
-
-`shopping` `e-bay` `ali-express` `coupons`
 
 <div align="right">
 

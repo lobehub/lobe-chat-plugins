@@ -59,7 +59,6 @@
   - [MixerBox 翻译](#mixerbox-翻译)
   - [Uberchord](#uberchord)
   - [MixerBox Weather](#mixerbox-weather)
-  - [购物工具](#购物工具)
   - [GameSight](#gamesight)
   - [Questmate Forms](#questmate-forms)
   - [txyz.ai](#txyzai)
@@ -505,22 +504,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 立即获取实时全球天气更新和预报！
 
 `weather`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 购物工具
-
-<sup>By **[@shoppingtools](https://shoppingtools.biz)** on **2024-01-25**</sup>
-
-在 eBay 和 AliExpress 上搜索产品，查找 eBay 活动和优惠券。获取快速示例。
-
-`购物` `eBay` `AliExpress` `优惠券`
 
 <div align="right">
 
