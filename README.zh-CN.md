@@ -35,6 +35,7 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [购物工具](#购物工具)
   - [Savvy Trader AI](#savvy-trader-ai)
   - [社交搜索](#社交搜索)
   - [空间](#空间)
@@ -128,6 +129,22 @@
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### 购物工具
+
+<sup>By **[@shoppingtools](https://shoppingtools.biz)** on **2024-07-19**</sup>
+
+在 eBay 和 AliExpress 上搜索产品，查找 eBay 活动和优惠券。获取快速示例。
+
+`购物` `eBay` `AliExpress` `优惠券`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Savvy Trader AI
 

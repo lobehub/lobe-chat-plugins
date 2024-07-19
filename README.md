@@ -35,6 +35,7 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [Shopping tools](#shopping-tools)
   - [Savvy Trader AI](#savvy-trader-ai)
   - [Social Search](#social-search)
   - [Space](#space)
@@ -128,6 +129,22 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### Shopping tools
+
+<sup>By **[@shoppingtools](https://shoppingtools.biz)** on **2024-07-19**</sup>
+
+Search for products on eBay & AliExpress, find eBay events & coupons. Get prompt examples.
+
+`shopping` `e-bay` `ali-express` `coupons`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Savvy Trader AI
 
