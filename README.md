@@ -47,35 +47,35 @@
   - [Steam](#steam)
   - [Bilibili](#bilibili)
   - [Current Time Assistant](#current-time-assistant)
-  - [Uberchord](#uberchord)
-  - [SuperStock Fine Art](#superstock-fine-art)
-  - [MixerBox Translate](#mixerbox-translate)
-  - [MixerBox Weather](#mixerbox-weather)
-  - [MixerBox Podcasts](#mixerbox-podcasts)
-  - [LevinBot](#levinbot)
-  - [Medium plugin](#medium-plugin)
-  - [Check Website Down](#check-website-down)
-  - [AladinBooks](#aladinbooks)
-  - [PortfolioMeta](#portfoliometa)
-  - [Access Google Sheet](#access-google-sheet)
-  - [DM Tool Kit](#dm-tool-kit)
   - [SEO Assistant](#seo-assistant)
-  - [Questmate Forms](#questmate-forms)
+  - [DM Tool Kit](#dm-tool-kit)
+  - [MixerBox Podcasts](#mixerbox-podcasts)
+  - [Medium plugin](#medium-plugin)
+  - [MixerBox Translate](#mixerbox-translate)
+  - [SuperStock Fine Art](#superstock-fine-art)
+  - [MixerBox Weather](#mixerbox-weather)
+  - [AladinBooks](#aladinbooks)
+  - [Access Google Sheet](#access-google-sheet)
+  - [LevinBot](#levinbot)
+  - [PortfolioMeta](#portfoliometa)
+  - [Uberchord](#uberchord)
+  - [Check Website Down](#check-website-down)
+  - [GameSight](#gamesight)
+  - [Video Summary](#video-summary)
+  - [Video Captions](#video-captions)
+  - [Travelmyth](#travelmyth)
+  - [Litmaps](#litmaps)
   - [GuruWalk](#guruwalk)
   - [txyz.ai](#txyzai)
-  - [GameSight](#gamesight)
-  - [Travelmyth](#travelmyth)
   - [SEO](#seo)
-  - [Video Captions](#video-captions)
-  - [Litmaps](#litmaps)
-  - [Video Summary](#video-summary)
+  - [Questmate Forms](#questmate-forms)
   - [Defillama](#defillama)
-  - [Change](#change)
   - [MintbaseSearch](#mintbasesearch)
+  - [Change](#change)
   - [Midjourney](#midjourney)
   - [Git OSS Stats](#git-oss-stats)
-  - [Make A Sheet](#make-a-sheet)
   - [Web Search](#web-search)
+  - [Make A Sheet](#make-a-sheet)
   - [Astrodaily](#astrodaily)
   - [Asset Ovi](#asset-ovi)
   - [Boolio Invest](#boolio-invest)
@@ -322,173 +322,13 @@ A plugin to provide current time information
 
 ---
 
-### Uberchord
+### SEO Assistant
 
-<sup>By **[@pluginboost](https://guitarchords.pluginboost.com)** on **2024-01-25**</sup>
+<sup>By **[@webfx](https://webfx.ai)** on **2024-01-25**</sup>
 
-Find guitar chord diagrams by specifying the chord name.
+The SEO Assistant can generate search engine keyword information in order to aid the creation of content.
 
-`music` `guitar` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### SuperStock Fine Art
-
-<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
-
-A research assistant that returns a set of URI's to examples of fine art requested by user.
-
-`art` `fineart` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### MixerBox Translate
-
-<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
-
-Translate any language right away! Learn foreign languages easily by conversing with AI tutors!
-
-`translate`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### MixerBox Weather
-
-<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
-
-Get real-time worldwide weather updates & forecasts, instantly!
-
-`weather`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### MixerBox Podcasts
-
-<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
-
-Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!
-
-`podcast` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### LevinBot
-
-<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
-
-Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
-
-`research-paper` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Medium plugin
-
-<sup>By **[@medium](https://medium.com)** on **2024-01-25**</sup>
-
-Plugin for accessing, browsing and extracting Medium content.
-
-`article` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Check Website Down
-
-<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
-
-Insert your website URL to check the availability. Pulsetic tests the uptime, availability & performance of a website.
-
-`website` `performance` `test`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### AladinBooks
-
-<sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
-
-Search for books on Aladin.
-
-`book` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### PortfolioMeta
-
-<sup>By **[@portfoliometa](https://portfoliometa.com)** on **2024-01-25**</sup>
-
-Analyze stocks and get comprehensive real-time investment data and analytics.
-
-`stock`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Access Google Sheet
-
-<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
-
-Ask your Google Sheets questions & chat with excel. Enter Google Drive link to start!
-
-`google` `sheets` `excel`
+`seo` `keyword`
 
 <div align="right">
 
@@ -514,13 +354,13 @@ App for rolling dice using the d20 or Fate/Fudge systems.
 
 ---
 
-### SEO Assistant
+### MixerBox Podcasts
 
-<sup>By **[@webfx](https://webfx.ai)** on **2024-01-25**</sup>
+<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
 
-The SEO Assistant can generate search engine keyword information in order to aid the creation of content.
+Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!
 
-`seo` `keyword`
+`podcast` `search`
 
 <div align="right">
 
@@ -530,13 +370,237 @@ The SEO Assistant can generate search engine keyword information in order to aid
 
 ---
 
-### Questmate Forms
+### Medium plugin
 
-<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
+<sup>By **[@medium](https://medium.com)** on **2024-01-25**</sup>
 
-Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
+Plugin for accessing, browsing and extracting Medium content.
 
-`forms` `checklists` `productivity`
+`article` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### MixerBox Translate
+
+<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
+
+Translate any language right away! Learn foreign languages easily by conversing with AI tutors!
+
+`translate`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### SuperStock Fine Art
+
+<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
+
+A research assistant that returns a set of URI's to examples of fine art requested by user.
+
+`art` `fineart` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### MixerBox Weather
+
+<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
+
+Get real-time worldwide weather updates & forecasts, instantly!
+
+`weather`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### AladinBooks
+
+<sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
+
+Search for books on Aladin.
+
+`book` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Access Google Sheet
+
+<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
+
+Ask your Google Sheets questions & chat with excel. Enter Google Drive link to start!
+
+`google` `sheets` `excel`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### LevinBot
+
+<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
+
+Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
+
+`research-paper` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### PortfolioMeta
+
+<sup>By **[@portfoliometa](https://portfoliometa.com)** on **2024-01-25**</sup>
+
+Analyze stocks and get comprehensive real-time investment data and analytics.
+
+`stock`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Uberchord
+
+<sup>By **[@pluginboost](https://guitarchords.pluginboost.com)** on **2024-01-25**</sup>
+
+Find guitar chord diagrams by specifying the chord name.
+
+`music` `guitar` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Check Website Down
+
+<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
+
+Insert your website URL to check the availability. Pulsetic tests the uptime, availability & performance of a website.
+
+`website` `performance` `test`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### GameSight
+
+<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
+
+Discover games, game-related content, get recommendations, and compare games based on player reviews.
+
+`game` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Video Summary
+
+<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
+
+Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
+
+`video-to-text` `youtube`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Video Captions
+
+<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
+
+Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.
+
+`video-to-text` `youtube`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Travelmyth
+
+<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
+
+Unleash personalized hotel search with Travelmyth, offering 60 unique categories for the perfect match.
+
+`travel` `hotel` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Litmaps
+
+<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
+
+Get help exploring the scientific literature. Find relevant papers and generate mindmaps of the literature.
+
+`scientific-literature` `search`
 
 <div align="right">
 
@@ -578,38 +642,6 @@ Explore the universe of research. Search and compare papers, and answer question
 
 ---
 
-### GameSight
-
-<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
-
-Discover games, game-related content, get recommendations, and compare games based on player reviews.
-
-`game` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Travelmyth
-
-<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
-
-Unleash personalized hotel search with Travelmyth, offering 60 unique categories for the perfect match.
-
-`travel` `hotel` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### SEO
 
 <sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
@@ -626,45 +658,13 @@ Enter any URL and keyword and get an On-Page SEO analysis & insights!
 
 ---
 
-### Video Captions
+### Questmate Forms
 
-<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
 
-Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.
+Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
 
-`video-to-text` `youtube`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Litmaps
-
-<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
-
-Get help exploring the scientific literature. Find relevant papers and generate mindmaps of the literature.
-
-`scientific-literature` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Video Summary
-
-<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
-
-Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
-
-`video-to-text` `youtube`
+`forms` `checklists` `productivity`
 
 <div align="right">
 
@@ -690,13 +690,13 @@ Retrieve data on DeFi protocols and blockchains.
 
 ---
 
-### Change
+### MintbaseSearch
 
-<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
+<sup>By **[@mintbase](https://search-ai.mintbase.xyz)** on **2024-01-22**</sup>
 
-Discover impactful nonprofits to support in your community and beyond.
+Find any NFT data on the NEAR Protocol.
 
-`charity`
+`crypto` `nft`
 
 <div align="right">
 
@@ -706,13 +706,13 @@ Discover impactful nonprofits to support in your community and beyond.
 
 ---
 
-### MintbaseSearch
+### Change
 
-<sup>By **[@mintbase](https://search-ai.mintbase.xyz)** on **2024-01-22**</sup>
+<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
 
-Find any NFT data on the NEAR Protocol.
+Discover impactful nonprofits to support in your community and beyond.
 
-`crypto` `nft`
+`charity`
 
 <div align="right">
 
@@ -754,13 +754,13 @@ Dynamically generate and analyze stats and history for OSS repos and developers.
 
 ---
 
-### Make A Sheet
+### Web Search
 
-<sup>By **[@brandzzy](https://sheet-generator.brandzzy.com)** on **2024-01-17**</sup>
+<sup>By **[@plugsugar](https://websearch.plugsugar.com)** on **2024-01-17**</sup>
 
-Generate a csv file that can directly be imported into Google Sheets or MS Excel.
+Search for information from the internet
 
-`csv` `excel` `sheet`
+`search` `plugsugar`
 
 <div align="right">
 
@@ -770,13 +770,13 @@ Generate a csv file that can directly be imported into Google Sheets or MS Excel
 
 ---
 
-### Web Search
+### Make A Sheet
 
-<sup>By **[@plugsugar](https://websearch.plugsugar.com)** on **2024-01-17**</sup>
+<sup>By **[@brandzzy](https://sheet-generator.brandzzy.com)** on **2024-01-17**</sup>
 
-Search for information from the internet
+Generate a csv file that can directly be imported into Google Sheets or MS Excel.
 
-`search` `plugsugar`
+`csv` `excel` `sheet`
 
 <div align="right">
 
