@@ -7,13 +7,9 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/uberchord/logo.webp",
     "description": "Find guitar chord diagrams by specifying the chord name.",
-    "tags": [
-      "music",
-      "guitar",
-      "search"
-    ],
+    "tags": ["music", "guitar", "search"],
     "title": "Uberchord",
-    "category": "tools"
+    "category": "media-generate"
   },
   "schemaVersion": 1
 }

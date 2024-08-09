@@ -7,10 +7,7 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/levinbot/logo.webp",
     "description": "Search research papers and transcripts of talks from Dr. Michael Levin's Lab.",
-    "tags": [
-      "research-paper",
-      "search"
-    ],
+    "tags": ["research-paper", "search"],
     "title": "LevinBot",
     "category": "science-education"
   },

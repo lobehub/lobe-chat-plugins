@@ -7,10 +7,7 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/boolio/logo.webp",
     "description": "Analyze stock investments from any country, with Boolio's state-of-the-art engine.",
-    "tags": [
-      "stock",
-      "analyze"
-    ],
+    "tags": ["stock", "analyze"],
     "title": "Boolio Invest",
     "category": "stocks-finance"
   },

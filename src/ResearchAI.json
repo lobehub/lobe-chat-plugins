@@ -7,10 +7,7 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/txyz/logo.webp",
     "description": "Explore the universe of research. Search and compare papers, and answer questions.",
-    "tags": [
-      "research-paper",
-      "search"
-    ],
+    "tags": ["research-paper", "search"],
     "title": "txyz.ai",
     "category": "science-education"
   },

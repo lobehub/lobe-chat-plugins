@@ -7,10 +7,7 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/web-search/logo.webp",
     "description": "Search for information from the internet",
-    "tags": [
-      "search",
-      "plugsugar"
-    ],
+    "tags": ["search", "plugsugar"],
     "title": "Web Search",
     "category": "web-search"
   },

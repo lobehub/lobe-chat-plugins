@@ -7,10 +7,7 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/aladin-search-book/logo.webp",
     "description": "Search for books on Aladin.",
-    "tags": [
-      "book",
-      "search"
-    ],
+    "tags": ["book", "search"],
     "title": "AladinBooks",
     "category": "web-search"
   },

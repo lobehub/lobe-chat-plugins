@@ -7,13 +7,9 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/ssfineart/logo.webp",
     "description": "A research assistant that returns a set of URI's to examples of fine art requested by user.",
-    "tags": [
-      "art",
-      "fineart",
-      "search"
-    ],
+    "tags": ["art", "fineart", "search"],
     "title": "SuperStock Fine Art",
-    "category": "media-generate"
+    "category": "web-search"
   },
   "schemaVersion": 1
 }

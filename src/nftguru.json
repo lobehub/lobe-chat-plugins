@@ -7,10 +7,7 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/nftguru/logo.webp",
     "description": "Discover current prices of NFTs across major platforms and keep track of the rapidly changing marketplace with real-time",
-    "tags": [
-      "crypto",
-      "nft"
-    ],
+    "tags": ["crypto", "nft"],
     "title": "NFT Guru",
     "category": "stocks-finance"
   },

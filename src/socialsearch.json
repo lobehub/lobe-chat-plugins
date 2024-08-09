@@ -7,14 +7,9 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/social-search/logo.webp",
     "description": "The Social Search provides access to tweets, users, followers, images, media and more.",
-    "tags": [
-      "social",
-      "twitter",
-      "x",
-      "search"
-    ],
+    "tags": ["social", "twitter", "x", "search"],
     "title": "Social Search",
-    "category": "web-search"
+    "category": "social"
   },
   "schemaVersion": 1
 }
