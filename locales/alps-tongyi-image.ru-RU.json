@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Генератор изображений Tongyi Wanxiang",
+    "description": "Этот плагин использует модель Tongyi Wanxiang от Alibaba для генерации изображений на основе текстовых подсказок.",
+    "tags": ["изображение", "tongyi", "wanxiang"]
+  }
+}

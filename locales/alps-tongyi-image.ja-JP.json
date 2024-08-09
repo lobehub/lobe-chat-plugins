@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Tongyi Wanxiang画像生成器",
+    "description": "このプラグインは、AlibabaのTongyi Wanxiangモデルを使用して、テキストプロンプトに基づいて画像を生成します。",
+    "tags": ["画像", "トンギ", "ワンシャン"]
+  }
+}

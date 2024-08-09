@@ -35,6 +35,7 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [通义万象图像生成器](#通义万象图像生成器)
   - [购物工具](#购物工具)
   - [Savvy Trader AI](#savvy-trader-ai)
   - [社交搜索](#社交搜索)
@@ -128,6 +129,22 @@
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### 通义万象图像生成器
+
+<sup>By **[@YoungTx](https://github.com/YoungTx/alps-tongyi-image)** on **2024-08-09**</sup>
+
+此插件使用阿里巴巴的通义万象模型根据文本提示生成图像。
+
+`图像` `通义` `万象`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### 购物工具
 

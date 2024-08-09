@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Generatore di Immagini Tongyi Wanxiang",
+    "description": "Questo plugin utilizza il modello Tongyi Wanxiang di Alibaba per generare immagini basate su suggerimenti testuali.",
+    "tags": ["immagine", "tongyi", "wanxiang"]
+  }
+}

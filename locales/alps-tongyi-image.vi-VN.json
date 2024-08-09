@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Trình tạo hình ảnh Tongyi Wanxiang",
+    "description": "Plugin này sử dụng mô hình Tongyi Wanxiang của Alibaba để tạo ra hình ảnh dựa trên các gợi ý văn bản.",
+    "tags": ["hình ảnh", "tongyi", "wanxiang"]
+  }
+}

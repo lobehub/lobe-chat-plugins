@@ -35,6 +35,7 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [Tongyi wanxiang Image Generator](#tongyi-wanxiang-image-generator)
   - [Shopping tools](#shopping-tools)
   - [Savvy Trader AI](#savvy-trader-ai)
   - [Social Search](#social-search)
@@ -128,6 +129,22 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 ## 🕶 Awesome Plugins
 
 <!-- AWESOME PLUGINS -->
+
+### Tongyi wanxiang Image Generator
+
+<sup>By **[@YoungTx](https://github.com/YoungTx/alps-tongyi-image)** on **2024-08-09**</sup>
+
+This plugin uses Alibaba's Tongyi Wanxiang model to generate images based on text prompts.
+
+`image` `tongyi` `wanxiang`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Shopping tools
 

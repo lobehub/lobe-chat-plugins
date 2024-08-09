@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Generador de Imágenes Tongyi Wanxiang",
+    "description": "Este complemento utiliza el modelo Tongyi Wanxiang de Alibaba para generar imágenes basadas en indicaciones de texto.",
+    "tags": ["imagen", "tongyi", "wanxiang"]
+  }
+}
