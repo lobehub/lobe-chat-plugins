@@ -213,7 +213,7 @@ Search aggregation service, specifically designed for LLMs
 
 <sup>By **[@Barry](https://github.com/GithuBarry/chat-plugin-search-engine)** on **2024-04-30**</sup>
 
-Google search engine via Serper.dev free API (2500x🆓/month)
+Google search engine via Serper.dev API (first 2500x free)
 
 `web` `search`
 
