@@ -31,7 +31,6 @@ export const category = [
   'gaming-entertainment',
   'lifestyle',
   'media-generate',
-  'news-reading',
   'science-education',
   'social',
   'stocks-finance',
