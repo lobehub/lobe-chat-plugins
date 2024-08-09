@@ -50,7 +50,6 @@
   - [SEO 助手](#seo-助手)
   - [DM 工具包](#dm-工具包)
   - [MixerBox Podcasts](#mixerbox-podcasts)
-  - [Medium plugin](#medium-plugin)
   - [MixerBox 翻译](#mixerbox-翻译)
   - [SuperStock Fine Art](#superstock-fine-art)
   - [MixerBox Weather](#mixerbox-weather)
@@ -361,22 +360,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 轻松搜索播客！探索涵盖社会、体育、商业、新闻、音乐等内容的播客！
 
 `播客` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Medium plugin
-
-<sup>By **[@medium](https://medium.com)** on **2024-01-25**</sup>
-
-用于访问、浏览和提取 Medium 内容的插件。
-
-`文章` `搜索`
 
 <div align="right">
 

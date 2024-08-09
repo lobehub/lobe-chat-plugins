@@ -50,7 +50,6 @@
   - [SEO Assistant](#seo-assistant)
   - [DM Tool Kit](#dm-tool-kit)
   - [MixerBox Podcasts](#mixerbox-podcasts)
-  - [Medium plugin](#medium-plugin)
   - [MixerBox Translate](#mixerbox-translate)
   - [SuperStock Fine Art](#superstock-fine-art)
   - [MixerBox Weather](#mixerbox-weather)
@@ -361,22 +360,6 @@ App for rolling dice using the d20 or Fate/Fudge systems.
 Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!
 
 `podcast` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Medium plugin
-
-<sup>By **[@medium](https://medium.com)** on **2024-01-25**</sup>
-
-Plugin for accessing, browsing and extracting Medium content.
-
-`article` `search`
 
 <div align="right">
 
