@@ -8,7 +8,8 @@
     "avatar": "https://bilibili.chat-plugin.lobehub.com/logo.webp",
     "tags": ["video", "bilibili", "search"],
     "title": "Bilibili",
-    "description": "Dive into Bilibili's vast content with features like keyword video search, replay access, interactive danmaku, trending video recommendations, and hot-search insights, all at your fingertips."
+    "description": "Dive into Bilibili's vast content with features like keyword video search, replay access, interactive danmaku, trending video recommendations, and hot-search insights, all at your fingertips.",
+    "category": "web-search"
   },
   "schemaVersion": 1
 }

@@ -6,9 +6,13 @@
   "manifest": "https://clock-time.chat-plugin.lobehub.com/manifest.json",
   "meta": {
     "avatar": "🕐",
-    "tags": ["clock", "time"],
+    "tags": [
+      "clock",
+      "time"
+    ],
     "title": "Clock Time",
-    "description": "Display a clock to show current time"
+    "description": "Display a clock to show current time",
+    "category": "tools"
   },
   "schemaVersion": 1
 }

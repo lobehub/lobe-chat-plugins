@@ -7,8 +7,13 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/diceroller/logo.webp",
     "description": "App for rolling dice using the d20 or Fate/Fudge systems.",
-    "tags": ["game", "dice", "dm"],
-    "title": "DM Tool Kit"
+    "tags": [
+      "game",
+      "dice",
+      "dm"
+    ],
+    "title": "DM Tool Kit",
+    "category": "gaming-entertainment"
   },
   "schemaVersion": 1
 }

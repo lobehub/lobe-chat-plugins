@@ -7,8 +7,12 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/video-captions/logo.webp",
     "description": "Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.",
-    "tags": ["video-to-text", "youtube"],
-    "title": "Video Captions"
+    "tags": [
+      "video-to-text",
+      "youtube"
+    ],
+    "title": "Video Captions",
+    "category": "media-generate"
   },
   "schemaVersion": 1
 }

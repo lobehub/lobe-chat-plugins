@@ -7,8 +7,11 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/weather-gpt/logo.webp",
     "description": "Get current weather information for a specific location.",
-    "tags": ["weather"],
-    "title": "WeatherGPT"
+    "tags": [
+      "weather"
+    ],
+    "title": "WeatherGPT",
+    "category": "tools"
   },
   "schemaVersion": 1
 }

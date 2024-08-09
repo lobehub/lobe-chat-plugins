@@ -7,8 +7,12 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/game-sight/logo.webp",
     "description": "Discover games, game-related content, get recommendations, and compare games based on player reviews.",
-    "tags": ["game", "search"],
-    "title": "GameSight"
+    "tags": [
+      "game",
+      "search"
+    ],
+    "title": "GameSight",
+    "category": "gaming-entertainment"
   },
   "schemaVersion": 1
 }

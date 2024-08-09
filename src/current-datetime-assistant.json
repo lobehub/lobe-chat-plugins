@@ -6,9 +6,12 @@
   "manifest": "https://www.ccalendar.space/manifest-currentTime.json",
   "meta": {
     "avatar": "⏰",
-    "tags": ["time"],
+    "tags": [
+      "time"
+    ],
     "title": "Current Time Assistant",
-    "description": "A plugin to provide current time information"
+    "description": "A plugin to provide current time information",
+    "category": "tools"
   },
   "schemaVersion": 1
 }

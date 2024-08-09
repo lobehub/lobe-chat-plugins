@@ -7,8 +7,11 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/getchange/logo.webp",
     "description": "Discover impactful nonprofits to support in your community and beyond.",
-    "tags": ["charity"],
-    "title": "Change"
+    "tags": [
+      "charity"
+    ],
+    "title": "Change",
+    "category": "lifestyle"
   },
   "schemaVersion": 1
 }

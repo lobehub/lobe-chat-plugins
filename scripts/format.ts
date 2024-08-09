@@ -4,84 +4,87 @@ import { existsSync } from 'node:fs';
 import { resolve } from 'node:path';
 import pMap from 'p-map';
 
+import { addCategory } from './category';
 import { formatAndCheckSchema } from './check';
 import { config, localesDir, metaPath, plugins, pluginsDir, templatePath } from './const';
 import { formatFilenames } from './formatFilename';
 import { translateJSON } from './i18n';
 import { checkJSON, readJSON, split, writeJSON } from './utils';
 
-const formatJSON = async (fileName, checkType) => {
-  consola.start(fileName);
+class Formatter {
+  formatJSON = async (fileName: string, checkType?: boolean) => {
+    consola.start(fileName);
 
-  const filePath = resolve(pluginsDir, fileName);
+    const filePath = resolve(pluginsDir, fileName);
 
-  let plugin = readJSON(filePath);
+    let plugin = readJSON(filePath);
 
-  if (checkType) {
-    plugin = formatAndCheckSchema(plugin);
+    if (checkType) {
+      plugin = formatAndCheckSchema(plugin);
 
-    if (plugin?.meta?.tags?.length > 0) {
-      plugin.meta.tags = plugin.meta.tags.map((tag) => kebabCase(tag));
-    }
+      if (!plugin.meta.category) {
+        plugin = await addCategory(plugin);
+        consola.info(plugin.meta.category);
+        writeJSON(resolve(pluginsDir, fileName), plugin);
+      }
 
-    // i18n workflow
-    let rawData = {};
+      if (plugin?.meta?.tags?.length > 0) {
+        plugin.meta.tags = plugin.meta.tags.map((tag) => kebabCase(tag));
+      }
 
-    for (const key of config.selectors) {
-      const rawValue = get(plugin, key);
-      if (rawValue) set(rawData, key, rawValue);
-    }
+      // i18n workflow
+      let rawData = {};
 
-    if (rawData) {
-      if (plugin.locale && plugin.locale !== config.entryLocale) {
-        if (config.outputLocales.includes(plugin.locale)) {
-          writeJSON(
-            resolve(localesDir, fileName.replace('.json', `.${plugin.locale}.json`)),
-            rawData,
-          );
+      for (const key of config.selectors) {
+        const rawValue = get(plugin, key);
+        if (rawValue) set(rawData, key, rawValue);
+      }
+
+      if (rawData) {
+        if (plugin.locale && plugin.locale !== config.entryLocale) {
+          if (config.outputLocales.includes(plugin.locale)) {
+            writeJSON(
+              resolve(localesDir, fileName.replace('.json', `.${plugin.locale}.json`)),
+              rawData,
+            );
+          }
+          rawData = await translateJSON(rawData, config.entryLocale, plugin.locale);
+          plugin = merge(plugin, rawData);
+          delete plugin.locale;
         }
-        rawData = await translateJSON(rawData, config.entryLocale, plugin.locale);
-        plugin = merge(plugin, rawData);
-        delete plugin.locale;
-      }
 
-      for (const locale of config.outputLocales) {
-        const localeFilePath = resolve(localesDir, fileName.replace('.json', `.${locale}.json`));
-        if (existsSync(localeFilePath)) continue;
-        const translateResult = await translateJSON(rawData, locale);
-        if (translateResult) {
-          writeJSON(localeFilePath, translateResult);
-          consola.success(`${locale} generated`);
+        for (const locale of config.outputLocales) {
+          const localeFilePath = resolve(localesDir, fileName.replace('.json', `.${locale}.json`));
+          if (existsSync(localeFilePath)) continue;
+          const translateResult = await translateJSON(rawData, locale);
+          if (translateResult) {
+            writeJSON(localeFilePath, translateResult);
+            consola.success(`${locale} generated`);
+          }
         }
       }
     }
-  }
 
-  writeJSON(filePath, plugin);
-  consola.success(`format success`);
-};
+    writeJSON(filePath, plugin);
+    consola.success(`format success`);
+  };
+  run = async () => {
+    consola.start('Start format json content...');
+    await this.formatJSON(metaPath);
+    await this.formatJSON(templatePath);
+    await pMap(
+      plugins,
+      async (file) => {
+        if (checkJSON(file)) {
+          await this.formatJSON(file.name, true);
+        }
+      },
+      { concurrency: 5 },
+    );
+  };
+}
 
-const runFormat = async () => {
-  consola.start('Start format json content...');
-  await formatJSON(metaPath);
-  await formatJSON(templatePath);
-  await pMap(
-    plugins,
-    async (file) => {
-      if (checkJSON(file)) {
-        await formatJSON(file.name, true);
-      }
-    },
-    { concurrency: 5 },
-  );
-};
-
-// run format
-const run = async () => {
-  split('FORMAT JSON CONTENT');
-  await runFormat();
-  split('FORMAT FILENAME');
-  formatFilenames();
-};
-
-run();
+split('FORMAT JSON CONTENT');
+await new Formatter().run();
+split('FORMAT FILENAME');
+formatFilenames();

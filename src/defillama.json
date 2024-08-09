@@ -7,8 +7,12 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/defillama/logo.webp",
     "description": "Retrieve data on DeFi protocols and blockchains.",
-    "tags": ["crypto", "de-fi"],
-    "title": "Defillama"
+    "tags": [
+      "crypto",
+      "de-fi"
+    ],
+    "title": "Defillama",
+    "category": "stocks-finance"
   },
   "schemaVersion": 1
 }

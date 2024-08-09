@@ -6,9 +6,16 @@
   "manifest": "https://lobe-plugin-tikzjax.arvinx.com/manifest.json",
   "meta": {
     "avatar": "📐",
-    "tags": ["latex", "svg", "visualization", "diagram", "math"],
+    "tags": [
+      "latex",
+      "svg",
+      "visualization",
+      "diagram",
+      "math"
+    ],
     "title": "TikZJax",
-    "description": "Convert LaTeX TikZ code into SVG images for crisp, scalable mathematical diagrams and visualizations."
+    "description": "Convert LaTeX TikZ code into SVG images for crisp, scalable mathematical diagrams and visualizations.",
+    "category": "science-education"
   },
   "schemaVersion": 1
 }

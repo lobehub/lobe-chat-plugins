@@ -6,9 +6,13 @@
   "manifest": "https://pollinations.ai-chat.top/manifest.json",
   "meta": {
     "avatar": "🎨",
-    "tags": ["drawing", "image"],
+    "tags": [
+      "drawing",
+      "image"
+    ],
     "title": "Pollinate drawing",
-    "description": "Generate images through pollinations.ai"
+    "description": "Generate images through pollinations.ai",
+    "category": "media-generate"
   },
   "schemaVersion": 1
 }

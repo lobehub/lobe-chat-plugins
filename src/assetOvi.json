@@ -7,8 +7,13 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/asset-ovi/logo.webp",
     "description": "Search and preview millions of 3D assets for games, AIGC, AR/VR and others.",
-    "tags": ["3-d", "assets", "search"],
-    "title": "Asset Ovi"
+    "tags": [
+      "3-d",
+      "assets",
+      "search"
+    ],
+    "title": "Asset Ovi",
+    "category": "gaming-entertainment"
   },
   "schemaVersion": 1
 }

@@ -18,5 +18,5 @@ module.exports = {
     'pl-PL',
     'vi-VN',
   ],
-  modelName: 'gpt-3.5-turbo-0125',
+  modelName: 'gpt-4o-mini',
 };

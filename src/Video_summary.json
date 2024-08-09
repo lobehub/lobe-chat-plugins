@@ -7,8 +7,12 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/video-summary/logo.webp",
     "description": "Summarize YouTube video highlights. Generate summaries from YouTube video URLs.",
-    "tags": ["video-to-text", "youtube"],
-    "title": "Video Summary"
+    "tags": [
+      "video-to-text",
+      "youtube"
+    ],
+    "title": "Video Summary",
+    "category": "media-generate"
   },
   "schemaVersion": 1
 }

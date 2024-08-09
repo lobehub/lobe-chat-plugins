@@ -7,8 +7,12 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/space/logo.webp",
     "description": "Space data including NASA.",
-    "tags": ["space", "nasa"],
-    "title": "Space"
+    "tags": [
+      "space",
+      "nasa"
+    ],
+    "title": "Space",
+    "category": "science-education"
   },
   "schemaVersion": 1
 }

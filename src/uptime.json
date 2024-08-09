@@ -7,8 +7,13 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/uptime/logo.webp",
     "description": "Insert your website URL to check the availability. Pulsetic tests the uptime, availability & performance of a website.",
-    "tags": ["website", "performance", "test"],
-    "title": "Check Website Down"
+    "tags": [
+      "website",
+      "performance",
+      "test"
+    ],
+    "title": "Check Website Down",
+    "category": "tools"
   },
   "schemaVersion": 1
 }
