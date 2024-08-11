@@ -39,7 +39,6 @@
   - [Shopping tools](#shopping-tools)
   - [Savvy Trader AI](#savvy-trader-ai)
   - [Social Search](#social-search)
-  - [Space](#space)
   - [Search1API](#search1api)
   - [Search Google via Serper](#search-google-via-serper)
   - [NFT Guru](#nft-guru)
@@ -185,22 +184,6 @@ Realtime stock, crypto and other investment data.
 The Social Search provides access to tweets, users, followers, images, media and more.
 
 `social` `twitter` `x` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Space
-
-<sup>By **[@automateyournetwork](https://space.automateyournetwork.ca)** on **2024-05-12**</sup>
-
-Space data including NASA.
-
-`space` `nasa`
 
 <div align="right">
 

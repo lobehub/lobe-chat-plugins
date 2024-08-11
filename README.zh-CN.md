@@ -39,7 +39,6 @@
   - [购物工具](#购物工具)
   - [Savvy Trader AI](#savvy-trader-ai)
   - [社交搜索](#社交搜索)
-  - [空间](#空间)
   - [Search1API](#search1api)
   - [通过 Serper 搜索 Google](#通过-serper-搜索-google)
   - [NFT Guru](#nft-guru)
@@ -185,22 +184,6 @@
 社交搜索提供访问推文、用户、关注者、图片、媒体等功能。
 
 `社交` `推特` `x` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 空间
-
-<sup>By **[@automateyournetwork](https://space.automateyournetwork.ca)** on **2024-05-12**</sup>
-
-包括 NASA 的空间数据。
-
-`空间` `nasa`
 
 <div align="right">
 
