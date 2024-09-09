@@ -38,7 +38,6 @@
   - [通义万象图像生成器](#通义万象图像生成器)
   - [购物工具](#购物工具)
   - [Savvy Trader AI](#savvy-trader-ai)
-  - [社交搜索](#社交搜索)
   - [Search1API](#search1api)
   - [通过 Serper 搜索 Google](#通过-serper-搜索-google)
   - [NFT Guru](#nft-guru)
@@ -168,22 +167,6 @@
 实时股票、加密货币和其他投资数据。
 
 `股票` `分析`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 社交搜索
-
-<sup>By **[@say-apps](https://twitter.say-apps.com)** on **2024-06-02**</sup>
-
-社交搜索提供访问推文、用户、关注者、图片、媒体等功能。
-
-`社交` `推特` `x` `搜索`
 
 <div align="right">
 

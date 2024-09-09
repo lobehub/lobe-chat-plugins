@@ -38,7 +38,6 @@
   - [Tongyi wanxiang Image Generator](#tongyi-wanxiang-image-generator)
   - [Shopping tools](#shopping-tools)
   - [Savvy Trader AI](#savvy-trader-ai)
-  - [Social Search](#social-search)
   - [Search1API](#search1api)
   - [Search Google via Serper](#search-google-via-serper)
   - [NFT Guru](#nft-guru)
@@ -168,22 +167,6 @@ Search for products on eBay & AliExpress, find eBay events & coupons. Get prompt
 Realtime stock, crypto and other investment data.
 
 `stock` `analyze`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Social Search
-
-<sup>By **[@say-apps](https://twitter.say-apps.com)** on **2024-06-02**</sup>
-
-The Social Search provides access to tweets, users, followers, images, media and more.
-
-`social` `twitter` `x` `search`
 
 <div align="right">
 
