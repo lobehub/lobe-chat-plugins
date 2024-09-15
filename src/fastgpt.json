@@ -1,7 +1,7 @@
 {
   "author": "Chung1912",
   "createdAt": "2024-09-15",
-  "homepage": "https://github.com/chung1912/lobe-chat-plugins",
+  "homepage": "https://github.com/chung1912/lobechat-plugin-fastgpt",
   "identifier": "fastgpt-dateset-search",
   "manifest": "https://openai-collections.chat-plugin.lobehub.com/fastgpt/manifest.json",
   "meta": {
