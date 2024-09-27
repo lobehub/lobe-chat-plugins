@@ -65,7 +65,6 @@
   - [GameSight](#gamesight)
   - [Travelmyth](#travelmyth)
   - [GuruWalk](#guruwalk)
-  - [txyz.ai](#txyzai)
   - [视频字幕](#视频字幕)
   - [Change](#change)
   - [MintbaseSearch](#mintbasesearch)
@@ -599,22 +598,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 世界上最好的免费导游就在这里。
 
 `旅行` `导游`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### txyz.ai
-
-<sup>By **[@txyz](https://txyz.ai)** on **2024-01-23**</sup>
-
-探索研究的宇宙。搜索和比较论文，并回答问题。
-
-`research-paper` `search`
 
 <div align="right">
 

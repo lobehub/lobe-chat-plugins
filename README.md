@@ -65,7 +65,6 @@
   - [GameSight](#gamesight)
   - [Travelmyth](#travelmyth)
   - [GuruWalk](#guruwalk)
-  - [txyz.ai](#txyzai)
   - [Video Captions](#video-captions)
   - [Change](#change)
   - [MintbaseSearch](#mintbasesearch)
@@ -599,22 +598,6 @@ Unleash personalized hotel search with Travelmyth, offering 60 unique categories
 The best free tour guides in the world are here.
 
 `travel` `guides`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### txyz.ai
-
-<sup>By **[@txyz](https://txyz.ai)** on **2024-01-23**</sup>
-
-Explore the universe of research. Search and compare papers, and answer questions.
-
-`research-paper` `search`
 
 <div align="right">
 
