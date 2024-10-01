@@ -1,0 +1,16 @@
+{
+    "author": "vsnthdev",
+    "homepage": "https://github.com/vsnthdev/google-cse-lobechat",
+    "identifier": "google-cse",
+    "locale": "en-US",
+    "manifest": "https://google-cse-lobechat.vercel.app/manifest.json",
+    "meta": {
+        "avatar": "https://banner2.cleanpng.com/20180413/rfe/avfci721i.webp",
+        "tags": [
+            "web",
+            "search"
+        ],
+        "title": "Google CSE",
+        "description": "Searches Google through their official CSE API."
+    }
+}
