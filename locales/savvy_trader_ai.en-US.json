@@ -2,9 +2,6 @@
   "meta": {
     "title": "Savvy Trader AI",
     "description": "Realtime stock, crypto and other investment data.",
-    "tags": [
-      "stock",
-      "analyze"
-    ]
+    "tags": ["stock", "analyze"]
   }
 }

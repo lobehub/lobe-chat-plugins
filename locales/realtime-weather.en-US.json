@@ -2,9 +2,6 @@
   "meta": {
     "title": "Realtime Weather",
     "description": "Get realtime weather information",
-    "tags": [
-      "weather",
-      "realtime"
-    ]
+    "tags": ["weather", "realtime"]
   }
 }

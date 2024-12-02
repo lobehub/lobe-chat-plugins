@@ -2,10 +2,6 @@
   "meta": {
     "title": "Достъп до Google Sheet",
     "description": "Задавайте въпроси за Google Sheets и чатете с Excel. Въведете линк към Google Drive, за да започнете!",
-    "tags": [
-      "google",
-      "sheets",
-      "excel"
-    ]
+    "tags": ["google", "sheets", "excel"]
   }
 }

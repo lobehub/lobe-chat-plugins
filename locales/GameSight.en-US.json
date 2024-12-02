@@ -2,9 +2,6 @@
   "meta": {
     "title": "GameSight",
     "description": "Discover games, game-related content, get recommendations, and compare games based on player reviews.",
-    "tags": [
-      "game",
-      "search"
-    ]
+    "tags": ["game", "search"]
   }
 }

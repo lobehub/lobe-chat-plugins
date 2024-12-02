@@ -5,11 +5,8 @@
   "identifier": "search1api",
   "manifest": "https://lobehub.search1api.com/manifest.json",
   "meta": {
-    "avatar": "https://i.postimg.cc/fRtTXTvC/favicon.webp",
-    "tags": [
-      "web",
-      "search"
-    ],
+    "avatar": "https://pics.fatwang2.com/56912e614b35093426c515860f9f2234.svg",
+    "tags": ["web", "search"],
     "title": "Search1API",
     "description": "Search aggregation service, specifically designed for LLMs",
     "category": "web-search"

@@ -2,9 +2,6 @@
   "meta": {
     "title": "Steam",
     "description": "Получете информация за игри и потребителски отзиви от Steam.",
-    "tags": [
-      "steam",
-      "игра"
-    ]
+    "tags": ["steam", "игра"]
   }
 }

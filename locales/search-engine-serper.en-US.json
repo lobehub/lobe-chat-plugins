@@ -2,9 +2,6 @@
   "meta": {
     "title": "Search Google via Serper",
     "description": "Google search engine via Serper.dev API (first 2500x free)",
-    "tags": [
-      "web",
-      "search"
-    ]
+    "tags": ["web", "search"]
   }
 }

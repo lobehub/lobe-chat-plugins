@@ -2,9 +2,6 @@
   "meta": {
     "title": "Defillama",
     "description": "Retrieve data on DeFi protocols and blockchains.",
-    "tags": [
-      "crypto",
-      "de-fi"
-    ]
+    "tags": ["crypto", "de-fi"]
   }
 }

@@ -2,9 +2,6 @@
   "meta": {
     "title": "SEO Assistant",
     "description": "The SEO Assistant can generate search engine keyword information in order to aid the creation of content.",
-    "tags": [
-      "seo",
-      "keyword"
-    ]
+    "tags": ["seo", "keyword"]
   }
 }

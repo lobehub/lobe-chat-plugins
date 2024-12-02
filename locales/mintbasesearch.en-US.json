@@ -2,9 +2,6 @@
   "meta": {
     "title": "MintbaseSearch",
     "description": "Find any NFT data on the NEAR Protocol.",
-    "tags": [
-      "crypto",
-      "nft"
-    ]
+    "tags": ["crypto", "nft"]
   }
 }

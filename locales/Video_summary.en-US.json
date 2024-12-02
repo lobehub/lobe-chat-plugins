@@ -2,9 +2,6 @@
   "meta": {
     "title": "Video Summary",
     "description": "Summarize YouTube video highlights. Generate summaries from YouTube video URLs.",
-    "tags": [
-      "video-to-text",
-      "youtube"
-    ]
+    "tags": ["video-to-text", "youtube"]
   }
 }

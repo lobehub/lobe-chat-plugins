@@ -2,9 +2,6 @@
   "meta": {
     "title": "Search Engine",
     "description": "Query search engine to get information",
-    "tags": [
-      "web",
-      "search"
-    ]
+    "tags": ["web", "search"]
   }
 }

@@ -2,9 +2,6 @@
   "meta": {
     "title": "Video Captions",
     "description": "Convert YouTube links into transcribed text, enable asking questions, create chapters, and summarize its content.",
-    "tags": [
-      "video-to-text",
-      "youtube"
-    ]
+    "tags": ["video-to-text", "youtube"]
   }
 }

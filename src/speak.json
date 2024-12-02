@@ -1,0 +1,15 @@
+{
+  "author": "speak",
+  "createdAt": "2024-12-02",
+  "homepage": "https://speak.com",
+  "identifier": "speak",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/speak/manifest.json",
+  "meta": {
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/speak/logo.webp",
+    "description": "Learn how to say anything in another language with Speak, your AI-powered language tutor.",
+    "tags": ["education", "language"],
+    "title": "Speak",
+    "category": "science-education"
+  },
+  "schemaVersion": 1
+}

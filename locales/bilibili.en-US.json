@@ -2,10 +2,6 @@
   "meta": {
     "title": "Bilibili",
     "description": "Dive into Bilibili's vast content with features like keyword video search, replay access, interactive danmaku, trending video recommendations, and hot-search insights, all at your fingertips.",
-    "tags": [
-      "video",
-      "bilibili",
-      "search"
-    ]
+    "tags": ["video", "bilibili", "search"]
   }
 }

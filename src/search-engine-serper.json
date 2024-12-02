@@ -7,10 +7,7 @@
   "meta": {
     "avatar": "https://serper.dev/favicon.ico",
     "description": "Google search engine via Serper.dev API (first 2500x free)",
-    "tags": [
-      "web",
-      "search"
-    ],
+    "tags": ["web", "search"],
     "title": "Search Google via Serper",
     "category": "web-search"
   },

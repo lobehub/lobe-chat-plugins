@@ -2,9 +2,6 @@
   "meta": {
     "title": "Litmaps",
     "description": "Get help exploring the scientific literature. Find relevant papers and generate mind maps of the literature.",
-    "tags": [
-      "scientific-literature",
-      "search"
-    ]
+    "tags": ["scientific-literature", "search"]
   }
 }

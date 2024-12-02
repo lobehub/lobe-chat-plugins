@@ -2,9 +2,6 @@
   "meta": {
     "title": "Steam",
     "description": "Obtain game information and user reviews from Steam.",
-    "tags": [
-      "steam",
-      "game"
-    ]
+    "tags": ["steam", "game"]
   }
 }

@@ -2,10 +2,6 @@
   "meta": {
     "title": "Създайте таблица",
     "description": "Генерирайте csv файл, който може да бъде директно импортиран в Google Sheets или MS Excel.",
-    "tags": [
-      "csv",
-      "excel",
-      "таблица"
-    ]
+    "tags": ["csv", "excel", "таблица"]
   }
 }

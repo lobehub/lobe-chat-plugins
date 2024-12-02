@@ -2,8 +2,6 @@
   "meta": {
     "title": "PortfolioMeta",
     "description": "Analyze stocks and get comprehensive real-time investment data and analytics.",
-    "tags": [
-      "stock"
-    ]
+    "tags": ["stock"]
   }
 }

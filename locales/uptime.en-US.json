@@ -2,10 +2,6 @@
   "meta": {
     "title": "Check Website Down",
     "description": "Insert your website URL to check the availability. Pulsetic tests the uptime, availability & performance of a website.",
-    "tags": [
-      "website",
-      "performance",
-      "test"
-    ]
+    "tags": ["website", "performance", "test"]
   }
 }

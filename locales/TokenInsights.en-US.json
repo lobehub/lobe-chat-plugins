@@ -2,11 +2,6 @@
   "meta": {
     "title": "TokenInsights",
     "description": "Get real-time crypto prices, BTC, ETH, BNB, and the latest insights. The latest coin news and airdrop opportunities.",
-    "tags": [
-      "crypto",
-      "btc",
-      "eth",
-      "bnb"
-    ]
+    "tags": ["crypto", "btc", "eth", "bnb"]
   }
 }

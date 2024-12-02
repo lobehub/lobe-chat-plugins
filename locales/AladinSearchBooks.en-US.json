@@ -2,9 +2,6 @@
   "meta": {
     "title": "AladinBooks",
     "description": "Search for books on Aladin.",
-    "tags": [
-      "book",
-      "search"
-    ]
+    "tags": ["book", "search"]
   }
 }

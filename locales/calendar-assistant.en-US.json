@@ -2,10 +2,6 @@
   "meta": {
     "title": "Calendar Assistant",
     "description": "A plugin to manage your calendar events # will auto generate i18n in workflow",
-    "tags": [
-      "calendar",
-      "schedule",
-      "will-auto-generate-i-18-n-in-workflow"
-    ]
+    "tags": ["calendar", "schedule", "will-auto-generate-i-18-n-in-workflow"]
   }
 }

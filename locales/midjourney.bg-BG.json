@@ -2,10 +2,6 @@
   "meta": {
     "title": "Midjourney",
     "description": "Освободете креативността с Midjourney, лесно генерирайки уникални изображения, задвижвани от ИИ, чрез прости подсказки. Добавете визуален стил на разговорите си с артистичния подход на Midjourney.",
-    "tags": [
-      "ai-image-generation",
-      "midjourney",
-      "visualization"
-    ]
+    "tags": ["ai-image-generation", "midjourney", "visualization"]
   }
 }

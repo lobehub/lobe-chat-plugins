@@ -2,8 +2,6 @@
   "meta": {
     "title": "Current Time Assistant",
     "description": "A plugin to provide current time information",
-    "tags": [
-      "time"
-    ]
+    "tags": ["time"]
   }
 }

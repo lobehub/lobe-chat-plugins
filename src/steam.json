@@ -6,10 +6,7 @@
   "manifest": "https://steam.chat-plugin.lobehub.com/manifest.json",
   "meta": {
     "avatar": "https://steam.chat-plugin.lobehub.com/logo.webp",
-    "tags": [
-      "steam",
-      "game"
-    ],
+    "tags": ["steam", "game"],
     "title": "Steam",
     "description": "Obtain game information and user reviews from Steam.",
     "category": "gaming-entertainment"

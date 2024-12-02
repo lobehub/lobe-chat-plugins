@@ -2,11 +2,6 @@
   "meta": {
     "title": "Shopping tools",
     "description": "Search for products on eBay & AliExpress, find eBay events & coupons. Get prompt examples.",
-    "tags": [
-      "shopping",
-      "e-bay",
-      "ali-express",
-      "coupons"
-    ]
+    "tags": ["shopping", "e-bay", "ali-express", "coupons"]
   }
 }

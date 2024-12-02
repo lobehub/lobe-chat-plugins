@@ -2,9 +2,6 @@
   "meta": {
     "title": "Web Search",
     "description": "Search for information from the internet",
-    "tags": [
-      "search",
-      "plugsugar"
-    ]
+    "tags": ["search", "plugsugar"]
   }
 }

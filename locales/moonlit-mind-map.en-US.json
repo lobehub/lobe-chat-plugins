@@ -2,8 +2,6 @@
   "meta": {
     "title": "Mindmap",
     "description": "A mindmap generation assistant",
-    "tags": [
-      "mindmap"
-    ]
+    "tags": ["mindmap"]
   }
 }

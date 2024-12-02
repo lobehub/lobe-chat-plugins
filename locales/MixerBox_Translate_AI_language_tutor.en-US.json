@@ -2,8 +2,6 @@
   "meta": {
     "title": "MixerBox Translate",
     "description": "Translate any language right away! Learn foreign languages easily by conversing with AI tutors!",
-    "tags": [
-      "translate"
-    ]
+    "tags": ["translate"]
   }
 }

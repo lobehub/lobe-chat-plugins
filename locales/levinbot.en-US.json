@@ -2,9 +2,6 @@
   "meta": {
     "title": "LevinBot",
     "description": "Search research papers and transcripts of talks from Dr. Michael Levin's Lab.",
-    "tags": [
-      "research-paper",
-      "search"
-    ]
+    "tags": ["research-paper", "search"]
   }
 }

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Google CSE",
+    "description": "Resmi CSE API'si aracılığıyla Google'da arama yapar.",
+    "tags": ["web", "arama"]
+  }
+}

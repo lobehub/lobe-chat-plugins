@@ -7,11 +7,7 @@
   "manifest": "https://alps-tongyi-image.vercel.app/manifest.json",
   "meta": {
     "avatar": "🎉",
-    "tags": [
-      "image",
-      "tongyi",
-      "wanxiang"
-    ],
+    "tags": ["image", "tongyi", "wanxiang"],
     "title": "Tongyi wanxiang Image Generator",
     "description": "This plugin uses Alibaba's Tongyi Wanxiang model to generate images based on text prompts.",
     "category": "media-generate"

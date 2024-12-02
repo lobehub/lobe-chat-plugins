@@ -2,10 +2,6 @@
   "meta": {
     "title": "Tongyi Wanxiang Image Generator",
     "description": "This plugin uses Alibaba's Tongyi Wanxiang model to generate images based on text prompts.",
-    "tags": [
-      "image",
-      "tongyi",
-      "wanxiang"
-    ]
+    "tags": ["image", "tongyi", "wanxiang"]
   }
 }
