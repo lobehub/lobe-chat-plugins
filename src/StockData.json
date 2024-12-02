@@ -7,7 +7,9 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/stock-data/logo.webp",
     "description": "Analyze stocks and get comprehensive real-time investment data and analytics.",
-    "tags": ["stock"],
+    "tags": [
+      "stock"
+    ],
     "title": "PortfolioMeta",
     "category": "stocks-finance"
   },

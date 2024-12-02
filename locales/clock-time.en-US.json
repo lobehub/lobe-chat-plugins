@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "title": "Clock Time",
+    "description": "Display a clock to show current time",
+    "tags": [
+      "clock",
+      "time"
+    ]
+  }
+}

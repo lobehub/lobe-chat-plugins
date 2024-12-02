@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "DM Tool Kit",
+    "description": "App for rolling dice using the d20 or Fate/Fudge systems.",
+    "tags": [
+      "game",
+      "dice",
+      "dm"
+    ]
+  }
+}

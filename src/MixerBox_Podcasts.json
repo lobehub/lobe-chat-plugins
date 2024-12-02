@@ -7,7 +7,10 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-podcasts/logo.webp",
     "description": "Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!",
-    "tags": ["podcast", "search"],
+    "tags": [
+      "podcast",
+      "search"
+    ],
     "title": "MixerBox Podcasts",
     "category": "web-search"
   },

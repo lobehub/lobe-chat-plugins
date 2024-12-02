@@ -7,7 +7,9 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-weather/logo.webp",
     "description": "Get real-time worldwide weather updates & forecasts, instantly!",
-    "tags": ["weather"],
+    "tags": [
+      "weather"
+    ],
     "title": "MixerBox Weather",
     "category": "tools"
   },

@@ -7,7 +7,11 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/questmate/logo.webp",
     "description": "Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.",
-    "tags": ["forms", "checklists", "productivity"],
+    "tags": [
+      "forms",
+      "checklists",
+      "productivity"
+    ],
     "title": "Questmate Forms",
     "category": "tools"
   },

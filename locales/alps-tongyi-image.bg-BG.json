@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "Генератор на изображения Tongyi Wanxiang",
+    "description": "Този плъгин използва модела Tongyi Wanxiang на Alibaba, за да генерира изображения на базата на текстови подсказки.",
+    "tags": [
+      "изображение",
+      "tongyi",
+      "wanxiang"
+    ]
+  }
+}

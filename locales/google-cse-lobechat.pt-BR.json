@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "title": "Google CSE",
+    "description": "Pesquisa no Google através da sua API oficial CSE.",
+    "tags": [
+      "web",
+      "pesquisa"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "SuperStock Fine Art",
+    "description": "A research assistant that returns a set of URIs to examples of fine art requested by the user.",
+    "tags": [
+      "art",
+      "fine art",
+      "search"
+    ]
+  }
+}

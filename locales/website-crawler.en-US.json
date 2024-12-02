@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "title": "Website Crawler",
+    "description": "Extract content from web links",
+    "tags": [
+      "web",
+      "content-crawler"
+    ]
+  }
+}

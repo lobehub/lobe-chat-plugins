@@ -7,7 +7,12 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/token-insights/logo.webp",
     "description": "Get realtime crypto price, BTC, ETH, BNB, and the latest insights.The latest coin news and airdrop opportunities.",
-    "tags": ["crypto", "btc", "eth", "bnb"],
+    "tags": [
+      "crypto",
+      "btc",
+      "eth",
+      "bnb"
+    ],
     "title": "TokenInsights",
     "category": "stocks-finance"
   },

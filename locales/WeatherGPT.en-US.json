@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "title": "WeatherGPT",
+    "description": "Get current weather information for a specific location.",
+    "tags": [
+      "weather"
+    ]
+  }
+}

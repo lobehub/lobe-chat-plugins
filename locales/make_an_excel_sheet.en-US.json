@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "Make A Sheet",
+    "description": "Generate a CSV file that can directly be imported into Google Sheets or MS Excel.",
+    "tags": [
+      "csv",
+      "excel",
+      "sheet"
+    ]
+  }
+}

@@ -7,7 +7,9 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-translate-ai-language-tutor/logo.webp",
     "description": "Translate any language right away! Learn foreign languages easily by conversing with AI tutors!",
-    "tags": ["translate"],
+    "tags": [
+      "translate"
+    ],
     "title": "MixerBox Translate",
     "category": "science-education"
   },

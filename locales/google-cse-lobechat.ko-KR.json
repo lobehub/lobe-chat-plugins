@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "title": "구글 CSE",
+    "description": "공식 CSE API를 통해 구글을 검색합니다.",
+    "tags": [
+      "웹",
+      "검색"
+    ]
+  }
+}
