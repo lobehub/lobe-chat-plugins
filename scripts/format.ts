@@ -1,4 +1,5 @@
 import { consola } from 'consola';
+import { readJSONSync, writeJSONSync } from 'fs-extra';
 import { get, kebabCase, merge, set } from 'lodash-es';
 import { existsSync } from 'node:fs';
 import { resolve } from 'node:path';
@@ -9,7 +10,7 @@ import { formatAndCheckSchema } from './check';
 import { config, localesDir, metaPath, plugins, pluginsDir, templatePath } from './const';
 import { formatFilenames } from './formatFilename';
 import { translateJSON } from './i18n';
-import { checkJSON, readJSON, split, writeJSON } from './utils';
+import { checkJSON, split } from './utils';
 
 class Formatter {
   formatJSON = async (fileName: string, checkType?: boolean) => {
@@ -17,7 +18,7 @@ class Formatter {
 
     const filePath = resolve(pluginsDir, fileName);
 
-    let plugin = readJSON(filePath);
+    let plugin = readJSONSync(filePath);
 
     if (checkType) {
       plugin = formatAndCheckSchema(plugin);
@@ -25,7 +26,7 @@ class Formatter {
       if (!plugin.meta.category) {
         plugin = await addCategory(plugin);
         consola.info(plugin.meta.category);
-        writeJSON(resolve(pluginsDir, fileName), plugin);
+        writeJSONSync(resolve(pluginsDir, fileName), plugin);
       }
 
       if (plugin?.meta?.tags?.length > 0) {
@@ -43,29 +44,30 @@ class Formatter {
       if (rawData) {
         if (plugin.locale && plugin.locale !== config.entryLocale) {
           if (config.outputLocales.includes(plugin.locale)) {
-            writeJSON(
+            writeJSONSync(
               resolve(localesDir, fileName.replace('.json', `.${plugin.locale}.json`)),
               rawData,
             );
           }
-          rawData = await translateJSON(rawData, config.entryLocale, plugin.locale);
+          rawData = await translateJSON(fileName, rawData, config.entryLocale, plugin.locale);
           plugin = merge(plugin, rawData);
           delete plugin.locale;
         }
 
         for (const locale of config.outputLocales) {
-          const localeFilePath = resolve(localesDir, fileName.replace('.json', `.${locale}.json`));
+          const localeFilename = fileName.replace('.json', `.${locale}.json`);
+          const localeFilePath = resolve(localesDir, localeFilename);
           if (existsSync(localeFilePath)) continue;
-          const translateResult = await translateJSON(rawData, locale);
+          const translateResult = await translateJSON(localeFilename, rawData, locale);
           if (translateResult) {
-            writeJSON(localeFilePath, translateResult);
+            writeJSONSync(localeFilePath, translateResult);
             consola.success(`${locale} generated`);
           }
         }
       }
     }
 
-    writeJSON(filePath, plugin);
+    writeJSONSync(filePath, plugin);
     consola.success(`format success`);
   };
   run = async () => {

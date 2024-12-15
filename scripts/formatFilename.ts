@@ -1,13 +1,14 @@
 import { consola } from 'consola';
+import { readJSONSync } from 'fs-extra';
 import { renameSync } from 'node:fs';
 import { resolve } from 'node:path';
 
 import { localesDir, pluginLocales, plugins, pluginsDir } from './const';
-import { checkJSON, readJSON } from './utils';
+import { checkJSON } from './utils';
 
 const formatFilenameById = (fileName) => {
   const filePath = resolve(pluginsDir, fileName);
-  const plugin = readJSON(filePath);
+  const plugin = readJSONSync(filePath);
   const newFilename = plugin.identifier + '.json';
   if (fileName !== newFilename) {
     const newFilepath = resolve(pluginsDir, newFilename);

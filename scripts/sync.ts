@@ -1,11 +1,11 @@
 import { consola } from 'consola';
 import dayjs from 'dayjs';
-import { existsSync, rmSync } from 'fs';
+import { readJSONSync, writeJSONSync } from 'fs-extra';
+import { existsSync, rmSync } from 'node:fs';
+import { resolve } from 'node:path';
 import pMap from 'p-map';
-import { resolve } from 'path';
 
 import { SYNC_URL, plugins, pluginsDir } from './const';
-import { readJSON, writeJSON } from './utils';
 
 interface OpenaiMainifest {
   api: {
@@ -25,12 +25,12 @@ interface PluginMainifest {
   manifest: string;
   meta: {
     avatar: string;
+    description: string;
     tags: string[];
     title: string;
-    description: string;
   };
-  systemRole: string;
   schemaVersion: number;
+  systemRole: string;
 }
 const syncCollections = async () => {
   const res = await fetch(SYNC_URL);
@@ -38,26 +38,26 @@ const syncCollections = async () => {
     plugins,
     expires,
   }: {
-    plugins: PluginMainifest[];
     expires: string[];
+    plugins: PluginMainifest[];
   } = await res.json();
 
-  plugins.forEach((plugin) => {
+  for (const plugin of plugins) {
     const filePath = resolve(pluginsDir, `${plugin.identifier}.json`);
     const isExist = existsSync(filePath);
 
-    plugin.createdAt = isExist ? readJSON(filePath).createdAt : dayjs().format('YYYY-MM-DD');
+    plugin.createdAt = isExist ? readJSONSync(filePath).createdAt : dayjs().format('YYYY-MM-DD');
 
-    writeJSON(filePath, plugin);
+    writeJSONSync(filePath, plugin);
     consola.success(`Synced ${plugin.identifier}`);
-  });
+  }
 
-  expires.forEach((identifier) => {
+  for (const identifier of expires) {
     try {
       rmSync(resolve(pluginsDir, `${identifier}.json`));
       consola.warn(`Remove expire plugin ${identifier}`);
     } catch {}
-  });
+  }
 };
 
 const syncExistPlugins = async () => {
@@ -67,13 +67,13 @@ const syncExistPlugins = async () => {
       const filePath = resolve(pluginsDir, plugin.name);
 
       try {
-        const pluginManifest: PluginMainifest = readJSON(filePath);
+        const pluginManifest: PluginMainifest = readJSONSync(filePath);
         const res = await fetch(pluginManifest.manifest);
         const json: OpenaiMainifest | PluginMainifest | any = await res.json();
         pluginManifest.identifier = json?.name_for_model || json?.identifier;
         pluginManifest.meta.avatar = json.logo_url || json?.meta?.avatar;
         if (!pluginManifest.identifier) return consola.warn(`Failed to sync ${plugin.name}`);
-        writeJSON(filePath, pluginManifest);
+        writeJSONSync(filePath, pluginManifest);
         consola.success(`Synced ${pluginManifest.identifier}`);
       } catch (error) {
         consola.error(`Failed to sync ${plugin}`, error);

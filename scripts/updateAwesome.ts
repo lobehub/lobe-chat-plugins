@@ -1,13 +1,14 @@
+import { readJSONSync } from 'fs-extra';
 import { readFileSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 
 import { indexCnPath, indexPath, publicDir, readmeCnPath, readmePath } from './const';
-import { readJSON, updateAwesomeReadme } from './utils';
+import { updateAwesomeReadme } from './utils';
 
 const updateAwesome = (filePath: string, md: string, plugins, locale?: string) => {
   const data: string[] = [];
 
-  plugins.forEach(({ identifier, author, createdAt, homepage, meta }, i) => {
+  for (const [i, { identifier, author, createdAt, homepage, meta }] of plugins.entries()) {
     const pluginConfigPath = resolve(
       publicDir,
       [identifier, locale, 'json'].filter(Boolean).join('.'),
@@ -23,7 +24,7 @@ const updateAwesome = (filePath: string, md: string, plugins, locale?: string) =
     ].join('\n\n');
 
     const body: string = [
-      i !== 0 ? '---' : false,
+      i === 0 ? false : '---',
       header,
       subHeader,
       desc,
@@ -32,7 +33,7 @@ const updateAwesome = (filePath: string, md: string, plugins, locale?: string) =
       .filter(Boolean)
       .join('\n\n');
     data.push(body);
-  });
+  }
 
   const newMd = updateAwesomeReadme(md, data.join('\n\n'));
 
@@ -42,8 +43,8 @@ const updateAwesome = (filePath: string, md: string, plugins, locale?: string) =
 const runUpdateAwesome = () => {
   const readmeCn = readFileSync(readmeCnPath, 'utf-8');
   const readme = readFileSync(readmePath, 'utf-8');
-  const index = readJSON(indexPath);
-  const indexCn = readJSON(indexCnPath);
+  const index = readJSONSync(indexPath);
+  const indexCn = readJSONSync(indexCnPath);
   updateAwesome(readmePath, readme, index.plugins);
   updateAwesome(readmeCnPath, readmeCn, indexCn.plugins, 'zh-CN');
 };

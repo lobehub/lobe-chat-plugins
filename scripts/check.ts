@@ -23,11 +23,11 @@ export const checkUniqueIdentifier = (arr) => {
   let duplicates = [];
   let set = new Set();
 
-  for (let i = 0; i < arr.length; i++) {
-    if (set.has(arr[i])) {
-      duplicates.push(arr[i]);
+  for (const element of arr) {
+    if (set.has(element)) {
+      duplicates.push(element);
     } else {
-      set.add(arr[i]);
+      set.add(element);
     }
   }
 

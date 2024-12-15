@@ -1,14 +1,9 @@
 import { consola } from 'consola';
 import 'dotenv/config';
-import { ChatOpenAI } from 'langchain/chat_models/openai';
 import { HumanMessage, SystemMessage } from 'langchain/schema';
 
-import { category, config } from './const';
-
-const model = new ChatOpenAI(
-  { modelName: config.modelName, temperature: 0 },
-  { baseURL: process.env.OPENAI_PROXY_URL },
-);
+import { category } from './const';
+import { model } from './model';
 
 export const addCategory = async (json) => {
   consola.info(`category generating...`);
