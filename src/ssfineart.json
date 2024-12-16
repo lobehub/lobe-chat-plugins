@@ -9,7 +9,7 @@
     "description": "A research assistant that returns a set of URI's to examples of fine art requested by user.",
     "tags": ["art", "fineart", "search"],
     "title": "SuperStock Fine Art",
-    "category": "web-search"
+    "category": "media-generate"
   },
   "schemaVersion": 1
 }
