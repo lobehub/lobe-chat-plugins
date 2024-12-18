@@ -8,9 +8,9 @@
 
 [**提交您的插件 >>**][submit]
 
-[Lobe Chat](https://github.com/lobehub/lobe-chat) 从该存储库访问 [`index.json`][website-url] 来为用户展示可用的 Function Calling 插件列表。
+[Lobe Chat](https://github.com/lobehub/lobe-chat) 从该存储库访问 [`Plugin Index`][website-url] 来为用户展示可用的 Function Calling 插件列表。
 
-[English](./README.md) · **简体中文**
+[English](./README.md) · **简体中文** · [**官方网站**][website-url]
 
 <!-- SHIELD GROUP -->
 
@@ -30,60 +30,9 @@
 <details>
 <summary><kbd>目录</kbd></summary>
 
-#### TOC
-
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
-  - [Speak](#speak)
-  - [谷歌自定义搜索引擎](#谷歌自定义搜索引擎)
-  - [通义万象图像生成器](#通义万象图像生成器)
-  - [购物工具](#购物工具)
-  - [Savvy Trader AI](#savvy-trader-ai)
-  - [Search1API](#search1api)
-  - [通过 Serper 搜索 Google](#通过-serper-搜索-google)
-  - [NFT Guru](#nft-guru)
-  - [日历助手](#日历助手)
-  - [Steam](#steam)
-  - [哔哩哔哩](#哔哩哔哩)
-  - [当前时间助手](#当前时间助手)
-  - [Uberchord](#uberchord)
-  - [MixerBox Weather](#mixerbox-weather)
-  - [检查网站是否宕机](#检查网站是否宕机)
-  - [MixerBox 翻译](#mixerbox-翻译)
-  - [AladinBooks](#aladinbooks)
-  - [SuperStock Fine Art](#superstock-fine-art)
-  - [PortfolioMeta](#portfoliometa)
-  - [LevinBot](#levinbot)
-  - [访问 Google 表格](#访问-google-表格)
-  - [MixerBox Podcasts](#mixerbox-podcasts)
-  - [SEO 助手](#seo-助手)
-  - [Travelmyth](#travelmyth)
-  - [SEO](#seo)
-  - [GuruWalk](#guruwalk)
-  - [Questmate Forms](#questmate-forms)
-  - [视频字幕](#视频字幕)
-  - [Litmaps](#litmaps)
-  - [视频摘要](#视频摘要)
-  - [GameSight](#gamesight)
-  - [MintbaseSearch](#mintbasesearch)
-  - [Change](#change)
-  - [Defillama](#defillama)
-  - [Midjourney](#midjourney)
-  - [Astrodaily](#astrodaily)
-  - [Asset Ovi](#asset-ovi)
-  - [网络搜索](#网络搜索)
-  - [创建表格](#创建表格)
-  - [Git OSS Stats](#git-oss-stats)
-  - [Boolio Invest](#boolio-invest)
-  - [TikZJax](#tikzjax)
-  - [思维导图](#思维导图)
-  - [天气 GPT](#天气-gpt)
-  - [授粉绘画](#授粉绘画)
-  - [时钟时间](#时钟时间)
-  - [网站爬虫](#网站爬虫)
-  - [搜索引擎](#搜索引擎)
-  - [实时天气](#实时天气)
 - [🛳 自主托管](#-自主托管)
   - [部署到 Vercel](#部署到-vercel)
 - [⌨️ 本地开发](#️-本地开发)
@@ -125,41 +74,29 @@
 
 ## 🕶 Awesome Plugins
 
-<!-- AWESOME PLUGINS -->
+<!-- AWESOME PLUGINS --> 
 
-### Speak
-
-<sup>By **[@speak](https://speak.com)** on **2024-12-02**</sup>
-
-使用 Speak，您的 AI 语言导师，学习如何用另一种语言说任何事情。
-
-`教育` `语言`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 谷歌自定义搜索引擎
+### [谷歌自定义搜索引擎](https://lobechat.com/discover/plugin/google-cse)
 
 <sup>By **[@vsnthdev](https://github.com/vsnthdev/google-cse-lobechat)** on **2024-12-02**</sup>
 
-通过他们的官方自定义搜索引擎 API 搜索谷歌。
+通过他们的官方自定义搜索引擎API搜索谷歌。
 
 `网络` `搜索`
 
-<div align="right">
+---
 
-[![][back-to-top]](#readme-top)
+### [Speak](https://lobechat.com/discover/plugin/speak)
 
-</div>
+<sup>By **[@speak](https://speak.com)** on **2024-12-02**</sup>
+
+使用Speak，您的AI语言导师，学习如何用另一种语言说任何事情。
+
+`教育` `语言`
 
 ---
 
-### 通义万象图像生成器
+### [通义万象图像生成器](https://lobechat.com/discover/plugin/alps-tongyi-image)
 
 <sup>By **[@YoungTx](https://github.com/YoungTx/alps-tongyi-image)** on **2024-08-09**</sup>
 
@@ -167,15 +104,9 @@
 
 `图像` `通义` `万象`
 
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
 ---
 
-### 购物工具
+### [购物工具](https://lobechat.com/discover/plugin/ShoppingTools)
 
 <sup>By **[@shoppingtools](https://shoppingtools.biz)** on **2024-07-19**</sup>
 
@@ -183,15 +114,9 @@
 
 `购物` `eBay` `AliExpress` `优惠券`
 
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
 ---
 
-### Savvy Trader AI
+### [Savvy Trader AI](https://lobechat.com/discover/plugin/savvy_trader_ai)
 
 <sup>By **[@savvytrader](https://savvytrader.com)** on **2024-06-27**</sup>
 
@@ -199,31 +124,19 @@
 
 `股票` `分析`
 
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
 ---
 
-### Search1API
+### [Search1API](https://lobechat.com/discover/plugin/search1api)
 
 <sup>By **[@fatwang2](https://github.com/fatwang2/search1api-lobechat)** on **2024-05-06**</sup>
 
-搜索聚合服务，专为 LLMs 设计
+搜索聚合服务，专为LLMs设计
 
 `web` `search`
 
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
 ---
 
-### 通过 Serper 搜索 Google
+### [通过 Serper 搜索 Google](https://lobechat.com/discover/plugin/search-engine-serper)
 
 <sup>By **[@Barry](https://github.com/GithuBarry/chat-plugin-search-engine)** on **2024-04-30**</sup>
 
@@ -231,31 +144,19 @@
 
 `网络` `搜索`
 
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
 ---
 
-### NFT Guru
+### [NFT Guru](https://lobechat.com/discover/plugin/nftguru)
 
 <sup>By **[@swap](https://app.swap.net)** on **2024-04-03**</sup>
 
-发现主要平台上 NFT 的当前价格，并通过实时跟踪快速变化的市场了解情况
+发现主要平台上NFT的当前价格，并通过实时跟踪快速变化的市场了解情况
 
 `加密货币` `NFT`
 
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
 ---
 
-### 日历助手
+### [日历助手](https://lobechat.com/discover/plugin/calendar-assistant)
 
 <sup>By **[@cc](https://www.ccalendar.space)** on **2024-03-13**</sup>
 
@@ -263,31 +164,9 @@
 
 `日历` `日程安排` `将自动生成工作流程中的 i18n`
 
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
 ---
 
-### Steam
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
-
-从 Steam 获取游戏信息和用户评论。
-
-`steam` `game`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 哔哩哔哩
+### [哔哩哔哩](https://lobechat.com/discover/plugin/bilibili)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
 
@@ -295,15 +174,19 @@
 
 `视频` `哔哩哔哩` `搜索`
 
-<div align="right">
+---
 
-[![][back-to-top]](#readme-top)
+### [Steam](https://lobechat.com/discover/plugin/steam)
 
-</div>
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
+
+从Steam获取游戏信息和用户评论。
+
+`steam` `game`
 
 ---
 
-### 当前时间助手
+### [当前时间助手](https://lobechat.com/discover/plugin/current-datetime-assistant)
 
 <sup>By **[@cc](https://github.com/ccdanpian/current-datetime)** on **2024-01-26**</sup>
 
@@ -311,143 +194,9 @@
 
 `时间`
 
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
 ---
 
-### Uberchord
-
-<sup>By **[@pluginboost](https://guitarchords.pluginboost.com)** on **2024-01-25**</sup>
-
-通过指定和弦名称查找吉他和弦图。
-
-`音乐` `吉他` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### MixerBox Weather
-
-<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
-
-立即获取实时全球天气更新和预报！
-
-`weather`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 检查网站是否宕机
-
-<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
-
-插入您的网站 URL 以检查可用性。Pulsetic 测试网站的正常运行时间、可用性和性能。
-
-`网站` `性能` `测试`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### MixerBox 翻译
-
-<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
-
-立即翻译任何语言！通过与 AI 导师对话轻松学习外语！
-
-`翻译`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### AladinBooks
-
-<sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
-
-在阿拉丁上搜索书籍。
-
-`书籍` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### SuperStock Fine Art
-
-<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
-
-一个研究助理，返回用户请求的一组艺术品示例的 URI 集合。
-
-`艺术` `美术` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### PortfolioMeta
-
-<sup>By **[@portfoliometa](https://portfoliometa.com)** on **2024-01-25**</sup>
-
-分析股票并获取全面的实时投资数据和分析。
-
-`股票`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### LevinBot
-
-<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
-
-搜索 Michael Levin 博士实验室的研究论文和讲话文本。
-
-`研究论文` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 访问 Google 表格
+### [访问 Google 表格](https://lobechat.com/discover/plugin/access_google_sheets)
 
 <sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
 
@@ -455,15 +204,29 @@
 
 `google` `sheets` `excel`
 
-<div align="right">
+---
 
-[![][back-to-top]](#readme-top)
+### [AladinBooks](https://lobechat.com/discover/plugin/AladinSearchBooks)
 
-</div>
+<sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
+
+在阿拉丁上搜索书籍。
+
+`书籍` `搜索`
 
 ---
 
-### MixerBox Podcasts
+### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
+
+<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
+
+搜索Michael Levin博士实验室的研究论文和讲话文本。
+
+`研究论文` `搜索`
+
+---
+
+### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
 
 <sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
 
@@ -471,143 +234,79 @@
 
 `播客` `搜索`
 
-<div align="right">
+---
 
-[![][back-to-top]](#readme-top)
+### [MixerBox 翻译](https://lobechat.com/discover/plugin/MixerBox_Translate_AI_language_tutor)
 
-</div>
+<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
+
+立即翻译任何语言！通过与 AI 导师对话轻松学习外语！
+
+`翻译`
 
 ---
 
-### SEO 助手
+### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
+
+<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
+
+立即获取实时全球天气更新和预报！
+
+`weather`
+
+---
+
+### [SEO助手](https://lobechat.com/discover/plugin/seo_assistant)
 
 <sup>By **[@webfx](https://webfx.ai)** on **2024-01-25**</sup>
 
-SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
+SEO助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 `seo` `关键词`
 
-<div align="right">
+---
 
-[![][back-to-top]](#readme-top)
+### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
 
-</div>
+<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
+
+一个研究助理，返回用户请求的一组艺术品示例的URI集合。
+
+`艺术` `美术` `搜索`
 
 ---
 
-### Travelmyth
+### [PortfolioMeta](https://lobechat.com/discover/plugin/StockData)
 
-<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
+<sup>By **[@portfoliometa](https://portfoliometa.com)** on **2024-01-25**</sup>
 
-通过 Travelmyth 释放个性化酒店搜索，提供 60 个独特类别，找到完美匹配。
+分析股票并获取全面的实时投资数据和分析。
 
-`旅行` `酒店` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
+`股票`
 
 ---
 
-### SEO
+### [Uberchord](https://lobechat.com/discover/plugin/uberchord)
 
-<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
+<sup>By **[@pluginboost](https://guitarchords.pluginboost.com)** on **2024-01-25**</sup>
 
-输入任何 URL 和关键词，获取页面 SEO 分析和见解！
+通过指定和弦名称查找吉他和弦图。
 
-`seo`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
+`音乐` `吉他` `搜索`
 
 ---
 
-### GuruWalk
+### [检查网站是否宕机](https://lobechat.com/discover/plugin/uptime)
 
-<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
+<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
 
-世界上最好的免费导游就在这里。
+插入您的网站 URL 以检查可用性。Pulsetic 测试网站的正常运行时间、可用性和性能。
 
-`旅行` `导游`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
+`网站` `性能` `测试`
 
 ---
 
-### Questmate Forms
-
-<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
-
-创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
-
-`表单` `清单` `生产力`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 视频字幕
-
-<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
-
-将 Youtube 链接转换为转录文本，使其能够提问，创建章节，并总结其内容。
-
-`视频转文字` `YouTube`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Litmaps
-
-<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
-
-获取帮助，探索科学文献。找到相关论文并生成文献思维导图。
-
-`科学文献` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 视频摘要
-
-<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
-
-总结 YouTube 视频亮点。从 YouTube 视频链接生成摘要。
-
-`视频转文字` `YouTube`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### GameSight
+### [GameSight](https://lobechat.com/discover/plugin/GameSight)
 
 <sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
 
@@ -615,47 +314,79 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 `游戏` `搜索`
 
-<div align="right">
+---
 
-[![][back-to-top]](#readme-top)
+### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
 
-</div>
+<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
+
+获取帮助，探索科学文献。找到相关论文并生成文献思维导图。
+
+`科学文献` `搜索`
 
 ---
 
-### MintbaseSearch
+### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
 
-<sup>By **[@mintbase](https://search-ai.mintbase.xyz)** on **2024-01-22**</sup>
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
 
-在 NEAR 协议上查找任何 NFT 数据。
+创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
 
-`加密货币` `NFT`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
+`表单` `清单` `生产力`
 
 ---
 
-### Change
+### [SEO](https://lobechat.com/discover/plugin/SEO)
 
-<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
+<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
 
-发现在您的社区和更广泛范围内支持的有影响力的非营利组织。
+输入任何URL和关键词，获取页面SEO分析和见解！
 
-`慈善`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
+`seo`
 
 ---
 
-### Defillama
+### [GuruWalk](https://lobechat.com/discover/plugin/todo)
+
+<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
+
+世界上最好的免费导游就在这里。
+
+`旅行` `导游`
+
+---
+
+### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
+
+<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
+
+通过Travelmyth释放个性化酒店搜索，提供60个独特类别，找到完美匹配。
+
+`旅行` `酒店` `搜索`
+
+---
+
+### [视频字幕](https://lobechat.com/discover/plugin/VideoCaptions)
+
+<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
+
+将Youtube链接转换为转录文本，使其能够提问，创建章节，并总结其内容。
+
+`视频转文字` `YouTube`
+
+---
+
+### [视频摘要](https://lobechat.com/discover/plugin/Video_summary)
+
+<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
+
+总结YouTube视频亮点。从YouTube视频链接生成摘要。
+
+`视频转文字` `YouTube`
+
+---
+
+### [Defillama](https://lobechat.com/discover/plugin/defillama)
 
 <sup>By **[@onrender](https://llamawrapper-prod.onrender.com)** on **2024-01-22**</sup>
 
@@ -663,95 +394,69 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 `加密货币` `去中心化金融`
 
-<div align="right">
+---
 
-[![][back-to-top]](#readme-top)
+### [MintbaseSearch](https://lobechat.com/discover/plugin/mintbasesearch)
 
-</div>
+<sup>By **[@mintbase](https://search-ai.mintbase.xyz)** on **2024-01-22**</sup>
+
+在 NEAR 协议上查找任何 NFT 数据。
+
+`加密货币` `NFT`
 
 ---
 
-### Midjourney
+### [Change](https://lobechat.com/discover/plugin/nonprofits)
+
+<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
+
+发现在您的社区和更广泛范围内支持的有影响力的非营利组织。
+
+`慈善`
+
+---
+
+### [Midjourney](https://lobechat.com/discover/plugin/midjourney)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-midjourney)** on **2024-01-18**</sup>
 
-通过简单的提示轻松释放创造力，利用 Midjourney 生成独特的 AI 驱动图像。通过 Midjourney 的艺术触感为您的对话增添视觉魅力。
+通过简单的提示轻松释放创造力，利用Midjourney生成独特的AI驱动图像。通过Midjourney的艺术触感为您的对话增添视觉魅力。
 
 `ai-image-generation` `midjourney` `visualization`
 
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
 ---
 
-### Astrodaily
-
-<sup>By **[@360macky](https://api.360macky.com)** on **2024-01-17**</sup>
-
-搜索和发现 NASA 图像。
-
-`nasa` `搜索` `图像`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Asset Ovi
+### [Asset Ovi](https://lobechat.com/discover/plugin/assetOvi)
 
 <sup>By **[@assetovi](https://assetovi.com)** on **2024-01-17**</sup>
 
-搜索和预览数百万款用于游戏、AIGC、AR/VR 等领域的 3D 资产。
+搜索和预览数百万款用于游戏、AIGC、AR/VR等领域的3D资产。
 
 `3-d` `资产` `搜索`
 
-<div align="right">
+---
 
-[![][back-to-top]](#readme-top)
+### [Astrodaily](https://lobechat.com/discover/plugin/astrodaily)
 
-</div>
+<sup>By **[@360macky](https://api.360macky.com)** on **2024-01-17**</sup>
+
+搜索和发现NASA图像。
+
+`nasa` `搜索` `图像`
 
 ---
 
-### 网络搜索
+### [Boolio Invest](https://lobechat.com/discover/plugin/boolio)
 
-<sup>By **[@plugsugar](https://websearch.plugsugar.com)** on **2024-01-17**</sup>
+<sup>By **[@boolio](https://chatgpt.boolio.co.kr)** on **2024-01-17**</sup>
 
-从互联网搜索信息。
+使用Boolio的先进引擎分析来自任何国家的股票投资。
 
-`搜索` `plugsugar`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
+`股票` `分析`
 
 ---
 
-### 创建表格
-
-<sup>By **[@brandzzy](https://sheet-generator.brandzzy.com)** on **2024-01-17**</sup>
-
-生成一个可以直接导入到 Google 表格或 MS Excel 的 csv 文件。
-
-`csv` `excel` `sheet`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Git OSS Stats
+### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
 
 <sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
 
@@ -759,31 +464,29 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 `github` `oss`
 
-<div align="right">
+---
 
-[![][back-to-top]](#readme-top)
+### [创建表格](https://lobechat.com/discover/plugin/make_an_excel_sheet)
 
-</div>
+<sup>By **[@brandzzy](https://sheet-generator.brandzzy.com)** on **2024-01-17**</sup>
+
+生成一个可以直接导入到Google表格或MS Excel的csv文件。
+
+`csv` `excel` `sheet`
 
 ---
 
-### Boolio Invest
+### [网络搜索](https://lobechat.com/discover/plugin/web_search)
 
-<sup>By **[@boolio](https://chatgpt.boolio.co.kr)** on **2024-01-17**</sup>
+<sup>By **[@plugsugar](https://websearch.plugsugar.com)** on **2024-01-17**</sup>
 
-使用 Boolio 的先进引擎分析来自任何国家的股票投资。
+从互联网搜索信息。
 
-`股票` `分析`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
+`搜索` `plugsugar`
 
 ---
 
-### TikZJax
+### [TikZJax](https://lobechat.com/discover/plugin/TikZJax)
 
 <sup>By **[@Arvin Xu](https://github.com/arvinxx/lobe-plugin-tikzjax)** on **2024-01-14**</sup>
 
@@ -791,15 +494,9 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 `latex` `svg` `可视化` `图表` `数学`
 
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
 ---
 
-### 思维导图
+### [思维导图](https://lobechat.com/discover/plugin/moonlit-mind-map)
 
 <sup>By **[@Moonlit7](https://github.com/Moonlit7/chat-plugin-mindmap)** on **2023-12-19**</sup>
 
@@ -807,15 +504,9 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 `思维导图` `脑图`
 
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
 ---
 
-### 天气 GPT
+### [天气 GPT](https://lobechat.com/discover/plugin/WeatherGPT)
 
 <sup>By **[@steven-tey](https://github.com/steven-tey/weathergpt)** on **2023-12-16**</sup>
 
@@ -823,15 +514,9 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 `天气`
 
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
 ---
 
-### 授粉绘画
+### [授粉绘画](https://lobechat.com/discover/plugin/pollinations-drawing)
 
 <sup>By **[@AI0x0](https://github.com/mushan0x0/lobe-pollinations-ai)** on **2023-12-10**</sup>
 
@@ -839,15 +524,9 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 `drawing` `image`
 
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
 ---
 
-### 时钟时间
+### [时钟时间](https://lobechat.com/discover/plugin/clock-time)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-clock-time)** on **2023-11-01**</sup>
 
@@ -855,15 +534,9 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 `时钟` `时间`
 
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
 ---
 
-### 网站爬虫
+### [网站爬虫](https://lobechat.com/discover/plugin/website-crawler)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
 
@@ -871,15 +544,9 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 `网页` `内容爬取器`
 
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
 ---
 
-### 搜索引擎
+### [搜索引擎](https://lobechat.com/discover/plugin/search-engine)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **2023-08-15**</sup>
 
@@ -887,27 +554,15 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 `网络` `搜索`
 
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
 ---
 
-### 实时天气
+### [实时天气](https://lobechat.com/discover/plugin/realtime-weather)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **2023-08-12**</sup>
 
 获取实时天气信息
 
 `天气` `实时`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
 
  <!-- AWESOME PLUGINS -->
 
@@ -1015,4 +670,4 @@ This project is [MIT](./LICENSE) licensed.
 [profile-url]: https://github.com/lobehub
 [submit]: https://github.com/lobehub/lobe-chat-plugins/pulls
 [website-shield]: https://img.shields.io/website?down_message=offline&label=chat-plugins.lobehub.com&up_message=online&url=https%3A%2F%2Fchat-plugins.lobehub.com&labelColor=black&logo=vercel&style=flat-square
-[website-url]: https://chat-plugins.lobehub.com
+[website-url]: https://lobechat.com/discover/plugins
