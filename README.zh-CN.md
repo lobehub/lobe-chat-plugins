@@ -256,16 +256,6 @@
 
 ---
 
-### [PortfolioMeta](https://lobechat.com/discover/plugin/StockData)
-
-<sup>By **[@portfoliometa](https://portfoliometa.com)** on **2024-01-25**</sup>
-
-分析股票并获取全面的实时投资数据和分析。
-
-`股票`
-
----
-
 ### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
 
 <sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
