@@ -9,7 +9,7 @@
     "description": "Find any NFT data on the NEAR Protocol.",
     "tags": ["crypto", "nft"],
     "title": "MintbaseSearch",
-    "category": "web-search"
+    "category": "tools"
   },
   "schemaVersion": 1
 }
