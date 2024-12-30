@@ -386,16 +386,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [MintbaseSearch](https://lobechat.com/discover/plugin/mintbasesearch)
-
-<sup>By **[@mintbase](https://search-ai.mintbase.xyz)** on **2024-01-22**</sup>
-
-在 NEAR 协议上查找任何 NFT 数据。
-
-`加密货币` `NFT`
-
----
-
 ### [Change](https://lobechat.com/discover/plugin/nonprofits)
 
 <sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>

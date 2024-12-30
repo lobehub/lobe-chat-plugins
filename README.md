@@ -386,16 +386,6 @@ Discover games, game-related content, get recommendations, and compare games bas
 
 ---
 
-### [MintbaseSearch](https://lobechat.com/discover/plugin/mintbasesearch)
-
-<sup>By **[@mintbase](https://search-ai.mintbase.xyz)** on **2024-01-22**</sup>
-
-Find any NFT data on the NEAR Protocol.
-
-`crypto` `nft`
-
----
-
 ### [Change](https://lobechat.com/discover/plugin/nonprofits)
 
 <sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
