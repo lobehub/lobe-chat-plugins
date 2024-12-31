@@ -76,6 +76,16 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
+### [MintbaseSearch](https://lobechat.com/discover/plugin/mintbasesearch)
+
+<sup>By **[@mintbase](https://search-ai.mintbase.xyz)** on **2024-12-31**</sup>
+
+Find any NFT data on the NEAR Protocol.
+
+`crypto` `nft`
+
+---
+
 ### [PortfolioMeta](https://lobechat.com/discover/plugin/StockData)
 
 <sup>By **[@portfoliometa](https://portfoliometa.com)** on **2024-12-22**</sup>
