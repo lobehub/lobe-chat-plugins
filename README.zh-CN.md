@@ -96,16 +96,6 @@
 
 ---
 
-### [Speak](https://lobechat.com/discover/plugin/speak)
-
-<sup>By **[@speak](https://speak.com)** on **2024-12-02**</sup>
-
-使用 Speak，您的 AI 语言导师，学习如何用另一种语言说任何事情。
-
-`教育` `语言`
-
----
-
 ### [谷歌自定义搜索引擎](https://lobechat.com/discover/plugin/google-cse)
 
 <sup>By **[@vsnthdev](https://github.com/vsnthdev/google-cse-lobechat)** on **2024-12-02**</sup>
@@ -113,6 +103,16 @@
 通过他们的官方自定义搜索引擎 API 搜索谷歌。
 
 `网络` `搜索`
+
+---
+
+### [Speak](https://lobechat.com/discover/plugin/speak)
+
+<sup>By **[@speak](https://speak.com)** on **2024-12-02**</sup>
+
+使用 Speak，您的 AI 语言导师，学习如何用另一种语言说任何事情。
+
+`教育` `语言`
 
 ---
 
@@ -216,13 +216,23 @@
 
 ---
 
-### [Uberchord](https://lobechat.com/discover/plugin/uberchord)
+### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
 
-<sup>By **[@pluginboost](https://guitarchords.pluginboost.com)** on **2024-01-25**</sup>
+<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
 
-通过指定和弦名称查找吉他和弦图。
+一个研究助理，返回用户请求的一组艺术品示例的 URI 集合。
 
-`音乐` `吉他` `搜索`
+`艺术` `美术` `搜索`
+
+---
+
+### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
+
+<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
+
+搜索 Michael Levin 博士实验室的研究论文和讲话文本。
+
+`研究论文` `搜索`
 
 ---
 
@@ -246,56 +256,6 @@
 
 ---
 
-### [MixerBox 翻译](https://lobechat.com/discover/plugin/MixerBox_Translate_AI_language_tutor)
-
-<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
-
-立即翻译任何语言！通过与 AI 导师对话轻松学习外语！
-
-`翻译`
-
----
-
-### [AladinBooks](https://lobechat.com/discover/plugin/AladinSearchBooks)
-
-<sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
-
-在阿拉丁上搜索书籍。
-
-`书籍` `搜索`
-
----
-
-### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
-
-<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
-
-一个研究助理，返回用户请求的一组艺术品示例的 URI 集合。
-
-`艺术` `美术` `搜索`
-
----
-
-### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
-
-<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
-
-搜索 Michael Levin 博士实验室的研究论文和讲话文本。
-
-`研究论文` `搜索`
-
----
-
-### [访问 Google 表格](https://lobechat.com/discover/plugin/access_google_sheets)
-
-<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
-
-提出您的 Google 表格问题并与 Excel 进行交流。输入 Google 云端硬盘链接开始！
-
-`google` `sheets` `excel`
-
----
-
 ### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
 
 <sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
@@ -303,6 +263,16 @@
 轻松搜索播客！探索涵盖社会、体育、商业、新闻、音乐等内容的播客！
 
 `播客` `搜索`
+
+---
+
+### [MixerBox 翻译](https://lobechat.com/discover/plugin/MixerBox_Translate_AI_language_tutor)
+
+<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
+
+立即翻译任何语言！通过与 AI 导师对话轻松学习外语！
+
+`翻译`
 
 ---
 
@@ -316,73 +286,33 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
+### [访问 Google 表格](https://lobechat.com/discover/plugin/access_google_sheets)
 
-<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
+<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
 
-通过 Travelmyth 释放个性化酒店搜索，提供 60 个独特类别，找到完美匹配。
+提出您的 Google 表格问题并与 Excel 进行交流。输入 Google 云端硬盘链接开始！
 
-`旅行` `酒店` `搜索`
-
----
-
-### [SEO](https://lobechat.com/discover/plugin/SEO)
-
-<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
-
-输入任何 URL 和关键词，获取页面 SEO 分析和见解！
-
-`seo`
+`google` `sheets` `excel`
 
 ---
 
-### [GuruWalk](https://lobechat.com/discover/plugin/todo)
+### [Uberchord](https://lobechat.com/discover/plugin/uberchord)
 
-<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
+<sup>By **[@pluginboost](https://guitarchords.pluginboost.com)** on **2024-01-25**</sup>
 
-世界上最好的免费导游就在这里。
+通过指定和弦名称查找吉他和弦图。
 
-`旅行` `导游`
-
----
-
-### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
-
-<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
-
-创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
-
-`表单` `清单` `生产力`
+`音乐` `吉他` `搜索`
 
 ---
 
-### [视频字幕](https://lobechat.com/discover/plugin/VideoCaptions)
+### [AladinBooks](https://lobechat.com/discover/plugin/AladinSearchBooks)
 
-<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
+<sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
 
-将 Youtube 链接转换为转录文本，使其能够提问，创建章节，并总结其内容。
+在阿拉丁上搜索书籍。
 
-`视频转文字` `YouTube`
-
----
-
-### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
-
-<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
-
-获取帮助，探索科学文献。找到相关论文并生成文献思维导图。
-
-`科学文献` `搜索`
-
----
-
-### [视频摘要](https://lobechat.com/discover/plugin/Video_summary)
-
-<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
-
-总结 YouTube 视频亮点。从 YouTube 视频链接生成摘要。
-
-`视频转文字` `YouTube`
+`书籍` `搜索`
 
 ---
 
@@ -396,13 +326,73 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [Change](https://lobechat.com/discover/plugin/nonprofits)
+### [GuruWalk](https://lobechat.com/discover/plugin/todo)
 
-<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
+<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
 
-发现在您的社区和更广泛范围内支持的有影响力的非营利组织。
+世界上最好的免费导游就在这里。
 
-`慈善`
+`旅行` `导游`
+
+---
+
+### [视频字幕](https://lobechat.com/discover/plugin/VideoCaptions)
+
+<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
+
+将 Youtube 链接转换为转录文本，使其能够提问，创建章节，并总结其内容。
+
+`视频转文字` `YouTube`
+
+---
+
+### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
+
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
+
+创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
+
+`表单` `清单` `生产力`
+
+---
+
+### [SEO](https://lobechat.com/discover/plugin/SEO)
+
+<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
+
+输入任何 URL 和关键词，获取页面 SEO 分析和见解！
+
+`seo`
+
+---
+
+### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
+
+<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
+
+获取帮助，探索科学文献。找到相关论文并生成文献思维导图。
+
+`科学文献` `搜索`
+
+---
+
+### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
+
+<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
+
+通过 Travelmyth 释放个性化酒店搜索，提供 60 个独特类别，找到完美匹配。
+
+`旅行` `酒店` `搜索`
+
+---
+
+### [视频摘要](https://lobechat.com/discover/plugin/Video_summary)
+
+<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
+
+总结 YouTube 视频亮点。从 YouTube 视频链接生成摘要。
+
+`视频转文字` `YouTube`
 
 ---
 
@@ -416,6 +406,16 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
+### [Change](https://lobechat.com/discover/plugin/nonprofits)
+
+<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
+
+发现在您的社区和更广泛范围内支持的有影响力的非营利组织。
+
+`慈善`
+
+---
+
 ### [Midjourney](https://lobechat.com/discover/plugin/midjourney)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-midjourney)** on **2024-01-18**</sup>
@@ -423,16 +423,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 通过简单的提示轻松释放创造力，利用 Midjourney 生成独特的 AI 驱动图像。通过 Midjourney 的艺术触感为您的对话增添视觉魅力。
 
 `ai-image-generation` `midjourney` `visualization`
-
----
-
-### [Astrodaily](https://lobechat.com/discover/plugin/astrodaily)
-
-<sup>By **[@360macky](https://api.360macky.com)** on **2024-01-17**</sup>
-
-搜索和发现 NASA 图像。
-
-`nasa` `搜索` `图像`
 
 ---
 
@@ -446,13 +436,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [网络搜索](https://lobechat.com/discover/plugin/web_search)
+### [Astrodaily](https://lobechat.com/discover/plugin/astrodaily)
 
-<sup>By **[@plugsugar](https://websearch.plugsugar.com)** on **2024-01-17**</sup>
+<sup>By **[@360macky](https://api.360macky.com)** on **2024-01-17**</sup>
 
-从互联网搜索信息。
+搜索和发现 NASA 图像。
 
-`搜索` `plugsugar`
+`nasa` `搜索` `图像`
 
 ---
 

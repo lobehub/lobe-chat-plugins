@@ -96,16 +96,6 @@ Analyze stocks and get comprehensive real-time investment data and analytics.
 
 ---
 
-### [Speak](https://lobechat.com/discover/plugin/speak)
-
-<sup>By **[@speak](https://speak.com)** on **2024-12-02**</sup>
-
-Learn how to say anything in another language with Speak, your AI-powered language tutor.
-
-`education` `language`
-
----
-
 ### [Google CSE](https://lobechat.com/discover/plugin/google-cse)
 
 <sup>By **[@vsnthdev](https://github.com/vsnthdev/google-cse-lobechat)** on **2024-12-02**</sup>
@@ -113,6 +103,16 @@ Learn how to say anything in another language with Speak, your AI-powered langua
 Searches Google through their official CSE API.
 
 `web` `search`
+
+---
+
+### [Speak](https://lobechat.com/discover/plugin/speak)
+
+<sup>By **[@speak](https://speak.com)** on **2024-12-02**</sup>
+
+Learn how to say anything in another language with Speak, your AI-powered language tutor.
+
+`education` `language`
 
 ---
 
@@ -216,13 +216,23 @@ A plugin to provide current time information
 
 ---
 
-### [Uberchord](https://lobechat.com/discover/plugin/uberchord)
+### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
 
-<sup>By **[@pluginboost](https://guitarchords.pluginboost.com)** on **2024-01-25**</sup>
+<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
 
-Find guitar chord diagrams by specifying the chord name.
+A research assistant that returns a set of URI's to examples of fine art requested by user.
 
-`music` `guitar` `search`
+`art` `fineart` `search`
+
+---
+
+### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
+
+<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
+
+Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
+
+`research-paper` `search`
 
 ---
 
@@ -246,56 +256,6 @@ Insert your website URL to check the availability. Pulsetic tests the uptime, av
 
 ---
 
-### [MixerBox Translate](https://lobechat.com/discover/plugin/MixerBox_Translate_AI_language_tutor)
-
-<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
-
-Translate any language right away! Learn foreign languages easily by conversing with AI tutors!
-
-`translate`
-
----
-
-### [AladinBooks](https://lobechat.com/discover/plugin/AladinSearchBooks)
-
-<sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
-
-Search for books on Aladin.
-
-`book` `search`
-
----
-
-### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
-
-<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
-
-A research assistant that returns a set of URI's to examples of fine art requested by user.
-
-`art` `fineart` `search`
-
----
-
-### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
-
-<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
-
-Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
-
-`research-paper` `search`
-
----
-
-### [Access Google Sheet](https://lobechat.com/discover/plugin/access_google_sheets)
-
-<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
-
-Ask your Google Sheets questions & chat with excel. Enter Google Drive link to start!
-
-`google` `sheets` `excel`
-
----
-
 ### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
 
 <sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
@@ -303,6 +263,16 @@ Ask your Google Sheets questions & chat with excel. Enter Google Drive link to s
 Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!
 
 `podcast` `search`
+
+---
+
+### [MixerBox Translate](https://lobechat.com/discover/plugin/MixerBox_Translate_AI_language_tutor)
+
+<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
+
+Translate any language right away! Learn foreign languages easily by conversing with AI tutors!
+
+`translate`
 
 ---
 
@@ -316,73 +286,33 @@ The SEO Assistant can generate search engine keyword information in order to aid
 
 ---
 
-### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
+### [Access Google Sheet](https://lobechat.com/discover/plugin/access_google_sheets)
 
-<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
+<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
 
-Unleash personalized hotel search with Travelmyth, offering 60 unique categories for the perfect match.
+Ask your Google Sheets questions & chat with excel. Enter Google Drive link to start!
 
-`travel` `hotel` `search`
-
----
-
-### [SEO](https://lobechat.com/discover/plugin/SEO)
-
-<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
-
-Enter any URL and keyword and get an On-Page SEO analysis & insights!
-
-`seo`
+`google` `sheets` `excel`
 
 ---
 
-### [GuruWalk](https://lobechat.com/discover/plugin/todo)
+### [Uberchord](https://lobechat.com/discover/plugin/uberchord)
 
-<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
+<sup>By **[@pluginboost](https://guitarchords.pluginboost.com)** on **2024-01-25**</sup>
 
-The best free tour guides in the world are here.
+Find guitar chord diagrams by specifying the chord name.
 
-`travel` `guides`
-
----
-
-### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
-
-<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
-
-Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
-
-`forms` `checklists` `productivity`
+`music` `guitar` `search`
 
 ---
 
-### [Video Captions](https://lobechat.com/discover/plugin/VideoCaptions)
+### [AladinBooks](https://lobechat.com/discover/plugin/AladinSearchBooks)
 
-<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
+<sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
 
-Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.
+Search for books on Aladin.
 
-`video-to-text` `youtube`
-
----
-
-### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
-
-<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
-
-Get help exploring the scientific literature. Find relevant papers and generate mindmaps of the literature.
-
-`scientific-literature` `search`
-
----
-
-### [Video Summary](https://lobechat.com/discover/plugin/Video_summary)
-
-<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
-
-Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
-
-`video-to-text` `youtube`
+`book` `search`
 
 ---
 
@@ -396,13 +326,73 @@ Discover games, game-related content, get recommendations, and compare games bas
 
 ---
 
-### [Change](https://lobechat.com/discover/plugin/nonprofits)
+### [GuruWalk](https://lobechat.com/discover/plugin/todo)
 
-<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
+<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
 
-Discover impactful nonprofits to support in your community and beyond.
+The best free tour guides in the world are here.
 
-`charity`
+`travel` `guides`
+
+---
+
+### [Video Captions](https://lobechat.com/discover/plugin/VideoCaptions)
+
+<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
+
+Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.
+
+`video-to-text` `youtube`
+
+---
+
+### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
+
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
+
+Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
+
+`forms` `checklists` `productivity`
+
+---
+
+### [SEO](https://lobechat.com/discover/plugin/SEO)
+
+<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
+
+Enter any URL and keyword and get an On-Page SEO analysis & insights!
+
+`seo`
+
+---
+
+### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
+
+<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
+
+Get help exploring the scientific literature. Find relevant papers and generate mindmaps of the literature.
+
+`scientific-literature` `search`
+
+---
+
+### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
+
+<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
+
+Unleash personalized hotel search with Travelmyth, offering 60 unique categories for the perfect match.
+
+`travel` `hotel` `search`
+
+---
+
+### [Video Summary](https://lobechat.com/discover/plugin/Video_summary)
+
+<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
+
+Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
+
+`video-to-text` `youtube`
 
 ---
 
@@ -416,6 +406,16 @@ Retrieve data on DeFi protocols and blockchains.
 
 ---
 
+### [Change](https://lobechat.com/discover/plugin/nonprofits)
+
+<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
+
+Discover impactful nonprofits to support in your community and beyond.
+
+`charity`
+
+---
+
 ### [Midjourney](https://lobechat.com/discover/plugin/midjourney)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-midjourney)** on **2024-01-18**</sup>
@@ -423,16 +423,6 @@ Retrieve data on DeFi protocols and blockchains.
 Unleash creativity with Midjourney, effortlessly generating unique AI-driven images through simple prompts. Add visual flair to your conversations with Midjourney's artistic touch.
 
 `ai-image-generation` `midjourney` `visualization`
-
----
-
-### [Astrodaily](https://lobechat.com/discover/plugin/astrodaily)
-
-<sup>By **[@360macky](https://api.360macky.com)** on **2024-01-17**</sup>
-
-Search and discover NASA images.
-
-`nasa` `search` `image`
 
 ---
 
@@ -446,13 +436,13 @@ Search and preview millions of 3D assets for games, AIGC, AR/VR and others.
 
 ---
 
-### [Web Search](https://lobechat.com/discover/plugin/web_search)
+### [Astrodaily](https://lobechat.com/discover/plugin/astrodaily)
 
-<sup>By **[@plugsugar](https://websearch.plugsugar.com)** on **2024-01-17**</sup>
+<sup>By **[@360macky](https://api.360macky.com)** on **2024-01-17**</sup>
 
-Search for information from the internet
+Search and discover NASA images.
 
-`search` `plugsugar`
+`nasa` `search` `image`
 
 ---
 
