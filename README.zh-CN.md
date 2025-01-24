@@ -76,6 +76,16 @@
 
 <!-- AWESOME PLUGINS -->
 
+### [网页](https://lobechat.com/discover/plugin/web)
+
+<sup>By **[@Proghit](https://github.com/proghit/lobechat-web-plugin)** on **2025-01-24**</sup>
+
+智能网页搜索，读取和分析页面，以提供来自 Google 结果的全面答案。
+
+`网页` `搜索`
+
+---
+
 ### [MintbaseSearch](https://lobechat.com/discover/plugin/mintbasesearch)
 
 <sup>By **[@mintbase](https://search-ai.mintbase.xyz)** on **2024-12-31**</sup>
@@ -93,6 +103,16 @@
 分析股票并获取全面的实时投资数据和分析。
 
 `股票`
+
+---
+
+### [必应网页搜索](https://lobechat.com/discover/plugin/Bingsearch-identifier)
+
+<sup>By **[@FineHow](https://github.com/FineHow/Bingsearch-Plugin)** on **2024-12-22**</sup>
+
+通过 BingApi 搜索互联网上的信息
+
+`bingsearch`
 
 ---
 

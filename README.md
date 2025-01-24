@@ -76,6 +76,16 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
+### [Web](https://lobechat.com/discover/plugin/web)
+
+<sup>By **[@Proghit](https://github.com/proghit/lobechat-web-plugin)** on **2025-01-24**</sup>
+
+Smart web search that reads and analyzes pages to deliver comprehensive answers from Google results.
+
+`web` `search`
+
+---
+
 ### [MintbaseSearch](https://lobechat.com/discover/plugin/mintbasesearch)
 
 <sup>By **[@mintbase](https://search-ai.mintbase.xyz)** on **2024-12-31**</sup>
@@ -93,6 +103,16 @@ Find any NFT data on the NEAR Protocol.
 Analyze stocks and get comprehensive real-time investment data and analytics.
 
 `stock`
+
+---
+
+### [Bing_websearch](https://lobechat.com/discover/plugin/Bingsearch-identifier)
+
+<sup>By **[@FineHow](https://github.com/FineHow/Bingsearch-Plugin)** on **2024-12-22**</sup>
+
+Search for information from the internet base BingApi
+
+`bingsearch`
 
 ---
 
