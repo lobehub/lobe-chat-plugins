@@ -2,6 +2,53 @@
 
 # Changelog
 
+# [1.9.0](https://github.com/lobehub/lobe-chat-plugins/compare/v1.8.0...v1.9.0) (2025-01-24)
+
+
+### ✨ Features
+
+* Add bingsearch, closes [#36](https://github.com/lobehub/lobe-chat-plugins/issues/36) ([6ab350c](https://github.com/lobehub/lobe-chat-plugins/commit/6ab350c))
+
+
+### 🎫 Chores
+
+* Auto format and add i18n json files ([a64f803](https://github.com/lobehub/lobe-chat-plugins/commit/a64f803))
+* Auto format and add i18n json files ([eaedcb6](https://github.com/lobehub/lobe-chat-plugins/commit/eaedcb6))
+* Auto format and add i18n json files ([71e098c](https://github.com/lobehub/lobe-chat-plugins/commit/71e098c))
+* Auto format and add i18n json files ([897adbc](https://github.com/lobehub/lobe-chat-plugins/commit/897adbc))
+* Auto format and add i18n json files ([0973bed](https://github.com/lobehub/lobe-chat-plugins/commit/0973bed))
+* Auto format and add i18n json files ([cc6e8f0](https://github.com/lobehub/lobe-chat-plugins/commit/cc6e8f0))
+* Auto sync plugin ([3e1f4e1](https://github.com/lobehub/lobe-chat-plugins/commit/3e1f4e1))
+* Auto sync plugin ([b013981](https://github.com/lobehub/lobe-chat-plugins/commit/b013981))
+* Auto sync plugin ([dbb35f0](https://github.com/lobehub/lobe-chat-plugins/commit/dbb35f0))
+* Auto sync plugin ([f3ee9da](https://github.com/lobehub/lobe-chat-plugins/commit/f3ee9da))
+* Auto sync plugin ([410fe8d](https://github.com/lobehub/lobe-chat-plugins/commit/410fe8d))
+* Auto sync plugin ([5a5e2da](https://github.com/lobehub/lobe-chat-plugins/commit/5a5e2da))
+* Auto sync plugin ([24480f2](https://github.com/lobehub/lobe-chat-plugins/commit/24480f2))
+* Auto sync plugin ([833f314](https://github.com/lobehub/lobe-chat-plugins/commit/833f314))
+* Auto sync plugin ([9cbaa03](https://github.com/lobehub/lobe-chat-plugins/commit/9cbaa03))
+* Auto sync plugin ([89b6fb3](https://github.com/lobehub/lobe-chat-plugins/commit/89b6fb3))
+* Auto sync plugin ([ff94fcf](https://github.com/lobehub/lobe-chat-plugins/commit/ff94fcf))
+* Auto sync plugin ([90381e4](https://github.com/lobehub/lobe-chat-plugins/commit/90381e4))
+* Auto sync plugin ([cc2956c](https://github.com/lobehub/lobe-chat-plugins/commit/cc2956c))
+* Auto sync plugin ([3f6e1bb](https://github.com/lobehub/lobe-chat-plugins/commit/3f6e1bb))
+* Auto sync plugin ([a44df9c](https://github.com/lobehub/lobe-chat-plugins/commit/a44df9c))
+* Auto sync plugin ([032b25a](https://github.com/lobehub/lobe-chat-plugins/commit/032b25a))
+* Auto sync plugin ([93f9b14](https://github.com/lobehub/lobe-chat-plugins/commit/93f9b14))
+* Auto sync plugin ([de521bd](https://github.com/lobehub/lobe-chat-plugins/commit/de521bd))
+* Auto sync plugin ([003a8d1](https://github.com/lobehub/lobe-chat-plugins/commit/003a8d1))
+* Auto sync plugin ([3735c36](https://github.com/lobehub/lobe-chat-plugins/commit/3735c36))
+* Auto sync plugin ([d14c0ef](https://github.com/lobehub/lobe-chat-plugins/commit/d14c0ef))
+* Auto sync plugin ([a2e00fd](https://github.com/lobehub/lobe-chat-plugins/commit/a2e00fd))
+* Auto sync plugin ([ec7d059](https://github.com/lobehub/lobe-chat-plugins/commit/ec7d059))
+* Update remark ([48a36cd](https://github.com/lobehub/lobe-chat-plugins/commit/48a36cd))
+* Update workflow ([0b4dad9](https://github.com/lobehub/lobe-chat-plugins/commit/0b4dad9))
+
+
+### 📝 Documentation
+
+* Update README ([28f514f](https://github.com/lobehub/lobe-chat-plugins/commit/28f514f))
+
 # [1.8.0](https://github.com/lobehub/lobe-chat-plugins/compare/v1.7.0...v1.8.0) (2024-12-15)
 
 ### ♻ Code Refactoring
