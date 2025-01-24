@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Bing_網頁搜尋",
+    "description": "從互聯網上搜索信息，基於BingApi",
+    "tags": ["bingsearch"]
+  }
+}

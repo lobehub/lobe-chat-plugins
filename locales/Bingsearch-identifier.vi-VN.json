@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Tìm kiếm_web_bing",
+    "description": "Tìm kiếm thông tin từ internet dựa trên BingApi",
+    "tags": ["bingsearch"]
+  }
+}

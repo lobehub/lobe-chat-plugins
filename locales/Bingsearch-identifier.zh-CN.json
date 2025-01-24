@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "必应网页搜索",
+    "description": "通过BingApi搜索互联网上的信息",
+    "tags": ["bingsearch"]
+  }
+}

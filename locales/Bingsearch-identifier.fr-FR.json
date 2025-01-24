@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Bing_websearch",
+    "description": "Rechercher des informations sur Internet via BingApi",
+    "tags": ["bingsearch"]
+  }
+}
