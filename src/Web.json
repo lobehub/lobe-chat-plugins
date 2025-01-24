@@ -1,0 +1,13 @@
+{
+  "author": "Proghit",
+  "homepage": "https://github.com/proghit/lobechat-web-plugin",
+  "identifier": "web",
+  "locale": "en-US",
+  "manifest": "https://lobechat-web.proghit.com/manifest.json",
+  "meta": {
+    "avatar": "https://banner2.cleanpng.com/20180413/rfe/avfci721i.webp",
+    "tags": ["web", "search"],
+    "title": "Web",
+    "description": "Smart web search that reads and analyzes pages to deliver comprehensive answers from Google results."
+  }
+}
