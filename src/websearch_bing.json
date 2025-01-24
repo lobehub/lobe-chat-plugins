@@ -1,0 +1,15 @@
+{
+  "author": "FineHow",
+  "createdAt": "2024-12-22",
+  "homepage": "https://github.com/FineHow/Bingsearch-Plugin",
+  "identifier": "Bingsearch-identifier",
+  "manifest": "https://bingsearch-plugin.vercel.app/manifest.json",
+  "meta": {
+        "avatar": "🚀",
+        "tags": ["Bingsearch"],
+        "title": "Bing_websearch",
+        "description": "Search for information from the internet base BingApi"
+      },
+  "schemaVersion": 1
+}
+
