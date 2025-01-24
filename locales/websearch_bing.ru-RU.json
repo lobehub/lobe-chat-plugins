@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Поиск_в_Bing",
+    "description": "Поиск информации в интернете с помощью BingApi",
+    "tags": ["bingsearch"]
+  }
+}

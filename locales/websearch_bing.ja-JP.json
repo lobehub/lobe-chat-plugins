@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Bingウェブ検索",
+    "description": "BingApiに基づいてインターネットから情報を検索します",
+    "tags": ["bingsearch"]
+  }
+}

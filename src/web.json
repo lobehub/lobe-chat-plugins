@@ -1,5 +1,6 @@
 {
   "author": "Proghit",
+  "createdAt": "2025-01-24",
   "homepage": "https://github.com/proghit/lobechat-web-plugin",
   "identifier": "web",
   "locale": "en-US",
@@ -8,6 +9,8 @@
     "avatar": "https://banner2.cleanpng.com/20180413/rfe/avfci721i.webp",
     "tags": ["web", "search"],
     "title": "Web",
-    "description": "Smart web search that reads and analyzes pages to deliver comprehensive answers from Google results."
-  }
+    "description": "Smart web search that reads and analyzes pages to deliver comprehensive answers from Google results.",
+    "category": "web-search"
+  },
+  "schemaVersion": 1
 }
