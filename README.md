@@ -456,16 +456,6 @@ Search and preview millions of 3D assets for games, AIGC, AR/VR and others.
 
 ---
 
-### [Astrodaily](https://lobechat.com/discover/plugin/astrodaily)
-
-<sup>By **[@360macky](https://api.360macky.com)** on **2024-01-17**</sup>
-
-Search and discover NASA images.
-
-`nasa` `search` `image`
-
----
-
 ### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
 
 <sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>

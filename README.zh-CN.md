@@ -456,16 +456,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [Astrodaily](https://lobechat.com/discover/plugin/astrodaily)
-
-<sup>By **[@360macky](https://api.360macky.com)** on **2024-01-17**</sup>
-
-搜索和发现 NASA 图像。
-
-`nasa` `搜索` `图像`
-
----
-
 ### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
 
 <sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
