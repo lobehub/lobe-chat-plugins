@@ -1,5 +1,6 @@
 {
   "author": "liangrui",
+  "createdAt": "2025-02-26",
   "homepage": "https://github.com/liangrui/REPO",
   "identifier": "dify_demo",
   "locale": "en-US",
@@ -9,5 +10,6 @@
     "tags": ["develop", "debug"],
     "title": "It's a hello word plugin",
     "description": "Just for test."
-  }
+  },
+  "schemaVersion": 1
 }
