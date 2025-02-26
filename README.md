@@ -76,7 +76,7 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
-### [It's a hello word plugin](https://lobechat.com/discover/plugin/dify_demo)
+### [first dify workflow plugin](https://lobechat.com/discover/plugin/dify_demo)
 
 <sup>By **[@liangrui](https://github.com/lr-online)** on **2025-02-26**</sup>
 
