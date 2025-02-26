@@ -1,5 +1,6 @@
 {
   "author": "liangrui",
+  "createdAt": "2025-02-26",
   "homepage": "https://github.com/lr-online",
   "identifier": "dify_demo",
   "manifest": "https://test-1321707147.cos.ap-beijing.myqcloud.com/manifest.json",
@@ -7,7 +8,8 @@
     "avatar": "💼",
     "tags": ["develop", "debug"],
     "title": "first dify workflow plugin",
-    "description": "Just for test."
+    "description": "Just for test.",
+    "category": "tools"
   },
   "schemaVersion": 1
 }
