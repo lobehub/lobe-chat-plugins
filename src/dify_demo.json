@@ -3,13 +3,13 @@
   "createdAt": "2025-02-26",
   "homepage": "https://github.com/lr-online",
   "identifier": "dify_demo",
-  "locale": "en-US",
   "manifest": "https://test-1321707147.cos.ap-beijing.myqcloud.com/manifest.json",
   "meta": {
     "avatar": "💼",
     "tags": ["develop", "debug"],
-    "title": "It's a hello word plugin",
-    "description": "Just for test."
+    "title": "first dify workflow plugin",
+    "description": "Just for test.",
+    "category": "tools"
   },
   "schemaVersion": 1
 }
