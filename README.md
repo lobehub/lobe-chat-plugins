@@ -76,6 +76,26 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
+### [It's a hello word plugin](https://lobechat.com/discover/plugin/dify_demo)
+
+<sup>By **[@liangrui](https://github.com/liangrui/REPO)** on **2025-02-26**</sup>
+
+Just for test.
+
+`develop` `debug`
+
+---
+
+### [Web Search](https://lobechat.com/discover/plugin/bing_search)
+
+<sup>By **[@Wang Yuan](https://os.syngents.cn)** on **2025-02-21**</sup>
+
+Query bing search engine to get information
+
+`web` `search`
+
+---
+
 ### [Web](https://lobechat.com/discover/plugin/web)
 
 <sup>By **[@Proghit](https://github.com/proghit/lobechat-web-plugin)** on **2025-01-24**</sup>

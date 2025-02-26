@@ -76,13 +76,33 @@
 
 <!-- AWESOME PLUGINS -->
 
-### [网页](https://lobechat.com/discover/plugin/web)
+### [这是一个 hello word 插件](https://lobechat.com/discover/plugin/dify_demo)
+
+<sup>By **[@liangrui](https://github.com/liangrui/REPO)** on **2025-02-26**</sup>
+
+仅供测试。
+
+`开发` `调试`
+
+---
+
+### [网络搜索](https://lobechat.com/discover/plugin/bing_search)
+
+<sup>By **[@Wang Yuan](https://os.syngents.cn)** on **2025-02-21**</sup>
+
+使用必应搜索引擎查询网络信息
+
+`网络` `搜索`
+
+---
+
+### [网络](https://lobechat.com/discover/plugin/web)
 
 <sup>By **[@Proghit](https://github.com/proghit/lobechat-web-plugin)** on **2025-01-24**</sup>
 
-智能网页搜索，读取和分析页面，以提供来自 Google 结果的全面答案。
+智能网络搜索，读取和分析页面，以从谷歌结果中提供全面的答案。
 
-`网页` `搜索`
+`网络` `搜索`
 
 ---
 
