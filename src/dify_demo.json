@@ -1,9 +1,9 @@
 {
   "author": "liangrui",
-  "homepage": "https://github.com/liangrui/REPO",
+  "homepage": "https://github.com/lr-online",
   "identifier": "dify_demo",
   "locale": "en-US",
-  "manifest": "https://url.to/manifest.json",
+  "manifest": "https://test-1321707147.cos.ap-beijing.myqcloud.com/manifest.json",
   "meta": {
     "avatar": "💼",
     "tags": ["develop", "debug"],
