@@ -9,5 +9,6 @@
     "tags": ["develop", "debug"],
     "title": "It's a hello word plugin",
     "description": "Just for test."
-  }
+  },
+  "schemaVersion": 1
 }
