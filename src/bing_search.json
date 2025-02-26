@@ -6,10 +6,7 @@
   "manifest": "https://os.syngents.cn/databoard/plugins/bing_search/manifest.json",
   "meta": {
     "avatar": "🔍",
-    "tags": [
-      "web",
-      "search"
-    ],
+    "tags": ["web", "search"],
     "title": "Web Search",
     "description": "Query bing search engine to get information",
     "category": "web-search"
