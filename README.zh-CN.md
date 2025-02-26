@@ -78,7 +78,7 @@
 
 ### [这是一个 hello word 插件](https://lobechat.com/discover/plugin/dify_demo)
 
-<sup>By **[@liangrui](https://github.com/liangrui/REPO)** on **2025-02-26**</sup>
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-02-26**</sup>
 
 仅供测试。
 
@@ -116,16 +116,6 @@
 
 ---
 
-### [必应网页搜索](https://lobechat.com/discover/plugin/Bingsearch-identifier)
-
-<sup>By **[@FineHow](https://github.com/FineHow/Bingsearch-Plugin)** on **2024-12-22**</sup>
-
-通过 BingApi 搜索互联网上的信息
-
-`bingsearch`
-
----
-
 ### [PortfolioMeta](https://lobechat.com/discover/plugin/StockData)
 
 <sup>By **[@portfoliometa](https://portfoliometa.com)** on **2024-12-22**</sup>
@@ -136,13 +126,13 @@
 
 ---
 
-### [Speak](https://lobechat.com/discover/plugin/speak)
+### [必应网页搜索](https://lobechat.com/discover/plugin/Bingsearch-identifier)
 
-<sup>By **[@speak](https://speak.com)** on **2024-12-02**</sup>
+<sup>By **[@FineHow](https://github.com/FineHow/Bingsearch-Plugin)** on **2024-12-22**</sup>
 
-使用 Speak，您的 AI 语言导师，学习如何用另一种语言说任何事情。
+通过 BingApi 搜索互联网上的信息
 
-`教育` `语言`
+`bingsearch`
 
 ---
 
@@ -153,6 +143,16 @@
 通过他们的官方自定义搜索引擎 API 搜索谷歌。
 
 `网络` `搜索`
+
+---
+
+### [Speak](https://lobechat.com/discover/plugin/speak)
+
+<sup>By **[@speak](https://speak.com)** on **2024-12-02**</sup>
+
+使用 Speak，您的 AI 语言导师，学习如何用另一种语言说任何事情。
+
+`教育` `语言`
 
 ---
 
@@ -256,26 +256,6 @@
 
 ---
 
-### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
-
-<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
-
-一个研究助理，返回用户请求的一组艺术品示例的 URI 集合。
-
-`艺术` `美术` `搜索`
-
----
-
-### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
-
-<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
-
-搜索 Michael Levin 博士实验室的研究论文和讲话文本。
-
-`研究论文` `搜索`
-
----
-
 ### [AladinBooks](https://lobechat.com/discover/plugin/AladinSearchBooks)
 
 <sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
@@ -293,26 +273,6 @@
 SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 `seo` `关键词`
-
----
-
-### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
-
-<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
-
-立即获取实时全球天气更新和预报！
-
-`weather`
-
----
-
-### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
-
-<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
-
-轻松搜索播客！探索涵盖社会、体育、商业、新闻、音乐等内容的播客！
-
-`播客` `搜索`
 
 ---
 
@@ -336,6 +296,16 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
+### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
+
+<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
+
+搜索 Michael Levin 博士实验室的研究论文和讲话文本。
+
+`研究论文` `搜索`
+
+---
+
 ### [Uberchord](https://lobechat.com/discover/plugin/uberchord)
 
 <sup>By **[@pluginboost](https://guitarchords.pluginboost.com)** on **2024-01-25**</sup>
@@ -343,6 +313,26 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 通过指定和弦名称查找吉他和弦图。
 
 `音乐` `吉他` `搜索`
+
+---
+
+### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
+
+<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
+
+一个研究助理，返回用户请求的一组艺术品示例的 URI 集合。
+
+`艺术` `美术` `搜索`
+
+---
+
+### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
+
+<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
+
+立即获取实时全球天气更新和预报！
+
+`weather`
 
 ---
 
@@ -356,21 +346,31 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
+### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
 
-<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
+<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
 
-创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
+轻松搜索播客！探索涵盖社会、体育、商业、新闻、音乐等内容的播客！
 
-`表单` `清单` `生产力`
+`播客` `搜索`
 
 ---
 
-### [视频字幕](https://lobechat.com/discover/plugin/VideoCaptions)
+### [GuruWalk](https://lobechat.com/discover/plugin/todo)
 
-<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
+<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
 
-将 Youtube 链接转换为转录文本，使其能够提问，创建章节，并总结其内容。
+世界上最好的免费导游就在这里。
+
+`旅行` `导游`
+
+---
+
+### [视频摘要](https://lobechat.com/discover/plugin/Video_summary)
+
+<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
+
+总结 YouTube 视频亮点。从 YouTube 视频链接生成摘要。
 
 `视频转文字` `YouTube`
 
@@ -386,23 +386,23 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [视频摘要](https://lobechat.com/discover/plugin/Video_summary)
+### [视频字幕](https://lobechat.com/discover/plugin/VideoCaptions)
 
-<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
+<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
 
-总结 YouTube 视频亮点。从 YouTube 视频链接生成摘要。
+将 Youtube 链接转换为转录文本，使其能够提问，创建章节，并总结其内容。
 
 `视频转文字` `YouTube`
 
 ---
 
-### [GuruWalk](https://lobechat.com/discover/plugin/todo)
+### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
 
-<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
 
-世界上最好的免费导游就在这里。
+创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
 
-`旅行` `导游`
+`表单` `清单` `生产力`
 
 ---
 
@@ -416,16 +416,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [GameSight](https://lobechat.com/discover/plugin/GameSight)
-
-<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
-
-发现游戏、与游戏相关的内容、获取推荐，并根据玩家评价比较游戏。
-
-`游戏` `搜索`
-
----
-
 ### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
 
 <sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
@@ -436,13 +426,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [Defillama](https://lobechat.com/discover/plugin/defillama)
+### [GameSight](https://lobechat.com/discover/plugin/GameSight)
 
-<sup>By **[@onrender](https://llamawrapper-prod.onrender.com)** on **2024-01-22**</sup>
+<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
 
-检索 DeFi 协议和区块链的数据。
+发现游戏、与游戏相关的内容、获取推荐，并根据玩家评价比较游戏。
 
-`加密货币` `去中心化金融`
+`游戏` `搜索`
 
 ---
 
@@ -456,6 +446,16 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
+### [Defillama](https://lobechat.com/discover/plugin/defillama)
+
+<sup>By **[@onrender](https://llamawrapper-prod.onrender.com)** on **2024-01-22**</sup>
+
+检索 DeFi 协议和区块链的数据。
+
+`加密货币` `去中心化金融`
+
+---
+
 ### [Midjourney](https://lobechat.com/discover/plugin/midjourney)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-midjourney)** on **2024-01-18**</sup>
@@ -463,16 +463,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 通过简单的提示轻松释放创造力，利用 Midjourney 生成独特的 AI 驱动图像。通过 Midjourney 的艺术触感为您的对话增添视觉魅力。
 
 `ai-image-generation` `midjourney` `visualization`
-
----
-
-### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
-
-<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
-
-动态生成和分析开源软件仓库和开发者的统计数据和历史记录。
-
-`github` `oss`
 
 ---
 
@@ -493,6 +483,16 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 搜索和预览数百万款用于游戏、AIGC、AR/VR 等领域的 3D 资产。
 
 `3-d` `资产` `搜索`
+
+---
+
+### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
+
+<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
+
+动态生成和分析开源软件仓库和开发者的统计数据和历史记录。
+
+`github` `oss`
 
 ---
 
