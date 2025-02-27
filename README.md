@@ -96,16 +96,6 @@ Find any NFT data on the NEAR Protocol.
 
 ---
 
-### [Bing_websearch](https://lobechat.com/discover/plugin/Bingsearch-identifier)
-
-<sup>By **[@FineHow](https://github.com/FineHow/Bingsearch-Plugin)** on **2024-12-22**</sup>
-
-Search for information from the internet base BingApi
-
-`bingsearch`
-
----
-
 ### [PortfolioMeta](https://lobechat.com/discover/plugin/StockData)
 
 <sup>By **[@portfoliometa](https://portfoliometa.com)** on **2024-12-22**</sup>
@@ -116,13 +106,13 @@ Analyze stocks and get comprehensive real-time investment data and analytics.
 
 ---
 
-### [Speak](https://lobechat.com/discover/plugin/speak)
+### [Bing_websearch](https://lobechat.com/discover/plugin/Bingsearch-identifier)
 
-<sup>By **[@speak](https://speak.com)** on **2024-12-02**</sup>
+<sup>By **[@FineHow](https://github.com/FineHow/Bingsearch-Plugin)** on **2024-12-22**</sup>
 
-Learn how to say anything in another language with Speak, your AI-powered language tutor.
+Search for information from the internet base BingApi
 
-`education` `language`
+`bingsearch`
 
 ---
 
@@ -133,6 +123,16 @@ Learn how to say anything in another language with Speak, your AI-powered langua
 Searches Google through their official CSE API.
 
 `web` `search`
+
+---
+
+### [Speak](https://lobechat.com/discover/plugin/speak)
+
+<sup>By **[@speak](https://speak.com)** on **2024-12-02**</sup>
+
+Learn how to say anything in another language with Speak, your AI-powered language tutor.
+
+`education` `language`
 
 ---
 
@@ -236,26 +236,6 @@ A plugin to provide current time information
 
 ---
 
-### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
-
-<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
-
-A research assistant that returns a set of URI's to examples of fine art requested by user.
-
-`art` `fineart` `search`
-
----
-
-### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
-
-<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
-
-Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
-
-`research-paper` `search`
-
----
-
 ### [AladinBooks](https://lobechat.com/discover/plugin/AladinSearchBooks)
 
 <sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
@@ -273,26 +253,6 @@ Search for books on Aladin.
 The SEO Assistant can generate search engine keyword information in order to aid the creation of content.
 
 `seo` `keyword`
-
----
-
-### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
-
-<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
-
-Get real-time worldwide weather updates & forecasts, instantly!
-
-`weather`
-
----
-
-### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
-
-<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
-
-Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!
-
-`podcast` `search`
 
 ---
 
@@ -316,6 +276,16 @@ Ask your Google Sheets questions & chat with excel. Enter Google Drive link to s
 
 ---
 
+### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
+
+<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
+
+Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
+
+`research-paper` `search`
+
+---
+
 ### [Uberchord](https://lobechat.com/discover/plugin/uberchord)
 
 <sup>By **[@pluginboost](https://guitarchords.pluginboost.com)** on **2024-01-25**</sup>
@@ -323,6 +293,26 @@ Ask your Google Sheets questions & chat with excel. Enter Google Drive link to s
 Find guitar chord diagrams by specifying the chord name.
 
 `music` `guitar` `search`
+
+---
+
+### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
+
+<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
+
+A research assistant that returns a set of URI's to examples of fine art requested by user.
+
+`art` `fineart` `search`
+
+---
+
+### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
+
+<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
+
+Get real-time worldwide weather updates & forecasts, instantly!
+
+`weather`
 
 ---
 
@@ -336,21 +326,31 @@ Insert your website URL to check the availability. Pulsetic tests the uptime, av
 
 ---
 
-### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
+### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
 
-<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
+<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
 
-Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
+Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!
 
-`forms` `checklists` `productivity`
+`podcast` `search`
 
 ---
 
-### [Video Captions](https://lobechat.com/discover/plugin/VideoCaptions)
+### [GuruWalk](https://lobechat.com/discover/plugin/todo)
 
-<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
+<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
 
-Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.
+The best free tour guides in the world are here.
+
+`travel` `guides`
+
+---
+
+### [Video Summary](https://lobechat.com/discover/plugin/Video_summary)
+
+<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
+
+Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
 
 `video-to-text` `youtube`
 
@@ -366,23 +366,23 @@ Enter any URL and keyword and get an On-Page SEO analysis & insights!
 
 ---
 
-### [Video Summary](https://lobechat.com/discover/plugin/Video_summary)
+### [Video Captions](https://lobechat.com/discover/plugin/VideoCaptions)
 
-<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
+<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
 
-Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
+Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.
 
 `video-to-text` `youtube`
 
 ---
 
-### [GuruWalk](https://lobechat.com/discover/plugin/todo)
+### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
 
-<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
 
-The best free tour guides in the world are here.
+Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
 
-`travel` `guides`
+`forms` `checklists` `productivity`
 
 ---
 
@@ -396,16 +396,6 @@ Get help exploring the scientific literature. Find relevant papers and generate 
 
 ---
 
-### [GameSight](https://lobechat.com/discover/plugin/GameSight)
-
-<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
-
-Discover games, game-related content, get recommendations, and compare games based on player reviews.
-
-`game` `search`
-
----
-
 ### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
 
 <sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
@@ -416,13 +406,13 @@ Unleash personalized hotel search with Travelmyth, offering 60 unique categories
 
 ---
 
-### [Defillama](https://lobechat.com/discover/plugin/defillama)
+### [GameSight](https://lobechat.com/discover/plugin/GameSight)
 
-<sup>By **[@onrender](https://llamawrapper-prod.onrender.com)** on **2024-01-22**</sup>
+<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
 
-Retrieve data on DeFi protocols and blockchains.
+Discover games, game-related content, get recommendations, and compare games based on player reviews.
 
-`crypto` `de-fi`
+`game` `search`
 
 ---
 
@@ -436,6 +426,16 @@ Discover impactful nonprofits to support in your community and beyond.
 
 ---
 
+### [Defillama](https://lobechat.com/discover/plugin/defillama)
+
+<sup>By **[@onrender](https://llamawrapper-prod.onrender.com)** on **2024-01-22**</sup>
+
+Retrieve data on DeFi protocols and blockchains.
+
+`crypto` `de-fi`
+
+---
+
 ### [Midjourney](https://lobechat.com/discover/plugin/midjourney)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-midjourney)** on **2024-01-18**</sup>
@@ -443,16 +443,6 @@ Discover impactful nonprofits to support in your community and beyond.
 Unleash creativity with Midjourney, effortlessly generating unique AI-driven images through simple prompts. Add visual flair to your conversations with Midjourney's artistic touch.
 
 `ai-image-generation` `midjourney` `visualization`
-
----
-
-### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
-
-<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
-
-Dynamically generate and analyze stats and history for OSS repos and developers.
-
-`github` `oss`
 
 ---
 
@@ -473,6 +463,16 @@ Analyze stock investments from any country, with Boolio's state-of-the-art engin
 Search and preview millions of 3D assets for games, AIGC, AR/VR and others.
 
 `3-d` `assets` `search`
+
+---
+
+### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
+
+<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
+
+Dynamically generate and analyze stats and history for OSS repos and developers.
+
+`github` `oss`
 
 ---
 
