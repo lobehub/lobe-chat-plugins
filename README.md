@@ -76,16 +76,6 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
-### [fortune telling](https://lobechat.com/discover/plugin/dify_demo)
-
-<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-02-26**</sup>
-
-fortune telling based on mystical trigrams
-
-`divination` `occult`
-
----
-
 ### [Web Search](https://lobechat.com/discover/plugin/bing_search)
 
 <sup>By **[@Wang Yuan](https://os.syngents.cn)** on **2025-02-21**</sup>

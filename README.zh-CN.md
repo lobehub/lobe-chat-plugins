@@ -76,16 +76,6 @@
 
 <!-- AWESOME PLUGINS -->
 
-### [这是一个 hello word 插件](https://lobechat.com/discover/plugin/dify_demo)
-
-<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-02-26**</sup>
-
-仅供测试。
-
-`开发` `调试`
-
----
-
 ### [网络搜索](https://lobechat.com/discover/plugin/bing_search)
 
 <sup>By **[@Wang Yuan](https://os.syngents.cn)** on **2025-02-21**</sup>
