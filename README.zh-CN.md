@@ -76,6 +76,16 @@
 
 <!-- AWESOME PLUGINS -->
 
+### [算命](https://lobechat.com/discover/plugin/divination)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-02-27**</sup>
+
+基于神秘卦象的算命
+
+`占卜` `神秘学`
+
+---
+
 ### [网络搜索](https://lobechat.com/discover/plugin/bing_search)
 
 <sup>By **[@Wang Yuan](https://os.syngents.cn)** on **2025-02-21**</sup>
