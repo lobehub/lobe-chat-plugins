@@ -1,0 +1,14 @@
+{
+  "author": "liangrui",
+  "homepage": "https://github.com/lr-online",
+  "identifier": "divination",
+  "manifest": "https://test-1321707147.cos.ap-beijing.myqcloud.com/manifest.json",
+  "meta": {
+    "avatar": "🥢",
+    "tags": ["divination", "occult"],
+    "title": "fortune telling",
+    "description": "fortune telling based on mystical trigrams",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
