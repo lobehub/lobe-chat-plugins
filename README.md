@@ -76,13 +76,13 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
-### [first dify workflow plugin](https://lobechat.com/discover/plugin/dify_demo)
+### [fortune telling](https://lobechat.com/discover/plugin/dify_demo)
 
 <sup>By **[@liangrui](https://github.com/lr-online)** on **2025-02-26**</sup>
 
-Just for test.
+fortune telling based on mystical trigrams
 
-`develop` `debug`
+`divination` `occult`
 
 ---
 
