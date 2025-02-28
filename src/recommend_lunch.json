@@ -2,7 +2,7 @@
   "author": "liangrui",
   "homepage": "https://github.com/lr-online",
   "identifier": "recommend_lunch",
-  "manifest": "https://url.to/manifest.json",
+  "manifest": "https://test-1321707147.cos.ap-beijing.myqcloud.com/liangrui/lobe_plugins_manifast/lunch_recommend_manifest.json",
   "meta": {
     "avatar": "🍽️", 
     "tags": ["lunch"],
