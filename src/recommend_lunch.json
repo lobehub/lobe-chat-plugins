@@ -1,0 +1,15 @@
+{
+  "author": "liangrui",
+  "createdAt": "2025-02-28",
+  "homepage": "https://github.com/lr-online",
+  "identifier": "recommend_lunch",
+  "manifest": "https://url.to/manifest.json",
+  "meta": {
+    "avatar": "🍽️",
+    "tags": ["lunch"],
+    "title": "AI-powered Lunch Recommendation",
+    "description": "An AI plugin that recommends lunch options based on your preferences, mood, and dietary restrictions. Find the perfect meal for today!",
+    "category": "lifestyle"
+  },
+  "schemaVersion": 1
+}
