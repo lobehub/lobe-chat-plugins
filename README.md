@@ -76,6 +76,16 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
+### [AI-powered Lunch Recommendation](https://lobechat.com/discover/plugin/recommend_lunch)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-02-28**</sup>
+
+An AI plugin that recommends lunch options based on your preferences, mood, and dietary restrictions. Find the perfect meal for today!
+
+`lunch`
+
+---
+
 ### [fortune telling](https://lobechat.com/discover/plugin/divination)
 
 <sup>By **[@liangrui](https://github.com/lr-online)** on **2025-02-27**</sup>

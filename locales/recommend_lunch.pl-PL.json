@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Rekomendacja Lunchu z Wykorzystaniem AI",
-    "description": "Wtyczka AI, która rekomenduje opcje lunchowe w oparciu o Twoje preferencje, nastrój i ograniczenia dietetyczne. Znajdź idealny posiłek na dzisiaj!",
+    "title": "Rekomendacje Lunchu z Wykorzystaniem AI",
+    "description": "Wtyczka AI, która rekomenduje opcje lunchowe na podstawie twoich preferencji, nastroju i ograniczeń dietetycznych. Znajdź idealny posiłek na dzisiaj!",
     "tags": ["lunch"]
   }
 }

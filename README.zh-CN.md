@@ -76,6 +76,16 @@
 
 <!-- AWESOME PLUGINS -->
 
+### [AI 驱动的午餐推荐](https://lobechat.com/discover/plugin/recommend_lunch)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-02-28**</sup>
+
+一个根据您的偏好、心情和饮食限制推荐午餐选项的 AI 插件。找到今天的完美餐点！
+
+`午餐`
+
+---
+
 ### [算命](https://lobechat.com/discover/plugin/divination)
 
 <sup>By **[@liangrui](https://github.com/lr-online)** on **2025-02-27**</sup>
