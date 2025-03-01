@@ -76,6 +76,46 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
+### [Contract Review](https://lobechat.com/discover/plugin/contract_review)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-03-01**</sup>
+
+分析合同内容，识别法律风险，检查合规性，确保条款合理。
+
+`legal-review` `contract-analysis` `compliance-check` `risk-assessment`
+
+---
+
+### [Resume Optimization](https://lobechat.com/discover/plugin/resume_optimization)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-03-01**</sup>
+
+优化简历内容，使其更清晰、突出个人优势，并提升岗位适配度。
+
+`resume-enhancement` `career-development` `job-application` `hr`
+
+---
+
+### [Recruitment Assistant](https://lobechat.com/discover/plugin/recruitment_assistant)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-03-01**</sup>
+
+分析候选人简历与岗位要求的匹配度，提供招聘建议，优化招聘流程。
+
+`recruitment` `hr` `resume-matching` `job-analysis`
+
+---
+
+### [Product Analysis](https://lobechat.com/discover/plugin/product_analysis)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-03-01**</sup>
+
+提供产品定位、市场分析、竞品对比和战略洞察，帮助用户制定商业决策。
+
+`market-research` `business-analysis` `competitive-intelligence`
+
+---
+
 ### [AI-powered Lunch Recommendation](https://lobechat.com/discover/plugin/recommend_lunch)
 
 <sup>By **[@liangrui](https://github.com/lr-online)** on **2025-02-28**</sup>
@@ -213,16 +253,6 @@ Search aggregation service, specifically designed for LLMs
 Google search engine via Serper.dev API (first 2500x free)
 
 `web` `search`
-
----
-
-### [NFT Guru](https://lobechat.com/discover/plugin/nftguru)
-
-<sup>By **[@swap](https://app.swap.net)** on **2024-04-03**</sup>
-
-Discover current prices of NFTs across major platforms and keep track of the rapidly changing marketplace with real-time
-
-`crypto` `nft`
 
 ---
 

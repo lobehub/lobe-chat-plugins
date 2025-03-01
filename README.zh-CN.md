@@ -76,6 +76,46 @@
 
 <!-- AWESOME PLUGINS -->
 
+### [合同审查](https://lobechat.com/discover/plugin/contract_review)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-03-01**</sup>
+
+分析合同内容，识别法律风险，检查合规性，确保条款合理。
+
+`法律审查` `合同分析` `合规检查` `风险评估`
+
+---
+
+### [简历优化](https://lobechat.com/discover/plugin/resume_optimization)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-03-01**</sup>
+
+优化简历内容，使其更清晰、突出个人优势，并提升岗位适配度。
+
+`简历提升` `职业发展` `求职申请` `人力资源`
+
+---
+
+### [招聘助手](https://lobechat.com/discover/plugin/recruitment_assistant)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-03-01**</sup>
+
+分析候选人简历与岗位要求的匹配度，提供招聘建议，优化招聘流程。
+
+`招聘` `人力资源` `简历匹配` `岗位分析`
+
+---
+
+### [产品分析](https://lobechat.com/discover/plugin/product_analysis)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-03-01**</sup>
+
+提供产品定位、市场分析、竞品对比和战略洞察，帮助用户制定商业决策。
+
+`市场研究` `商业分析` `竞争情报`
+
+---
+
 ### [人工智能推荐午餐](https://lobechat.com/discover/plugin/recommend_lunch)
 
 <sup>By **[@liangrui](https://github.com/lr-online)** on **2025-02-28**</sup>
@@ -213,16 +253,6 @@
 通过 Serper.dev 免费 API 进行 Google 搜索引擎（每月 2500 次🆓）
 
 `网络` `搜索`
-
----
-
-### [NFT Guru](https://lobechat.com/discover/plugin/nftguru)
-
-<sup>By **[@swap](https://app.swap.net)** on **2024-04-03**</sup>
-
-发现主要平台上 NFT 的当前价格，并通过实时跟踪快速变化的市场了解情况
-
-`加密货币` `NFT`
 
 ---
 
