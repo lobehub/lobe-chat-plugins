@@ -1,11 +1,12 @@
 {
   "author": "liangrui",
+  "createdAt": "2025-03-01",
   "homepage": "https://github.com/lr-online",
   "identifier": "resume_optimization",
   "manifest": "https://test-1321707147.cos.ap-beijing.myqcloud.com/liangrui/lobe_plugins_manifast/resume_optimization.json",
   "meta": {
     "avatar": "✍️",
-    "tags": ["resume-enhancement", "career-development", "job-application", "HR"],
+    "tags": ["resume-enhancement", "career-development", "job-application", "hr"],
     "title": "Resume Optimization",
     "description": "优化简历内容，使其更清晰、突出个人优势，并提升岗位适配度。",
     "category": "career"
