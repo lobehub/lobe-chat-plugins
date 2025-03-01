@@ -1,0 +1,12 @@
+{
+  "author": "Aloxaf",
+  "homepage": "https://github.com/Aloxaf/chat-plugin-jina",
+  "identifier": "jina",
+  "manifest": "https://chat-plugin-jina.aloxaf.com/manifest.json",
+  "meta": {
+    "avatar": "https://chat-plugin-jina.aloxaf.com/jina.webp",
+    "tags": ["web", "content-crawler"],
+    "title": "Jina",
+    "description": "Extract content from web links via Jina Reader"
+  }
+}
