@@ -1,0 +1,14 @@
+{
+  "author": "liangrui",
+  "homepage": "https://github.com/lr-online",
+  "identifier": "product_analysis",
+  "manifest": "https://test-1321707147.cos.ap-beijing.myqcloud.com/liangrui/lobe_plugins_manifast/product_analysis.json",
+  "meta": {
+    "avatar": "📊",
+    "tags": ["market-research", "business-analysis", "competitive-intelligence"],
+    "title": "Product Analysis",
+    "description": "提供产品定位、市场分析、竞品对比和战略洞察，帮助用户制定商业决策。",
+    "category": "business"
+  },
+  "schemaVersion": 1
+}
