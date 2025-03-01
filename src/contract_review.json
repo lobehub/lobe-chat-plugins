@@ -1,0 +1,14 @@
+{
+  "author": "liangrui",
+  "homepage": "https://github.com/lr-online",
+  "identifier": "contract_review",
+  "manifest": "https://test-1321707147.cos.ap-beijing.myqcloud.com/liangrui/lobe_plugins_manifast/contract_review.json",
+  "meta": {
+    "avatar": "⚖️",
+    "tags": ["legal-review", "contract-analysis", "compliance-check", "risk-assessment"],
+    "title": "Contract Review",
+    "description": "分析合同内容，识别法律风险，检查合规性，确保条款合理。",
+    "category": "legal"
+  },
+  "schemaVersion": 1
+}
