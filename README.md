@@ -186,16 +186,6 @@ Google search engine via Serper.dev API (first 2500x free)
 
 ---
 
-### [NFT Guru](https://lobechat.com/discover/plugin/nftguru)
-
-<sup>By **[@swap](https://app.swap.net)** on **2024-04-03**</sup>
-
-Discover current prices of NFTs across major platforms and keep track of the rapidly changing marketplace with real-time
-
-`crypto` `nft`
-
----
-
 ### [Calendar Assistant](https://lobechat.com/discover/plugin/calendar-assistant)
 
 <sup>By **[@cc](https://www.ccalendar.space)** on **2024-03-13**</sup>

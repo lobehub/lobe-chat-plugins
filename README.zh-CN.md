@@ -186,16 +186,6 @@
 
 ---
 
-### [NFT Guru](https://lobechat.com/discover/plugin/nftguru)
-
-<sup>By **[@swap](https://app.swap.net)** on **2024-04-03**</sup>
-
-发现主要平台上 NFT 的当前价格，并通过实时跟踪快速变化的市场了解情况
-
-`加密货币` `NFT`
-
----
-
 ### [日历助手](https://lobechat.com/discover/plugin/calendar-assistant)
 
 <sup>By **[@cc](https://www.ccalendar.space)** on **2024-03-13**</sup>
