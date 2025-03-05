@@ -1,0 +1,15 @@
+{
+  "author": "liangrui",
+  "createdAt": "2025-03-01",
+  "homepage": "https://github.com/lr-online",
+  "identifier": "recruitment_assistant",
+  "manifest": "https://test-1321707147.cos.ap-beijing.myqcloud.com/liangrui/lobe_plugins_manifast/recruitment_assistant.json",
+  "meta": {
+    "avatar": "📑",
+    "tags": ["recruitment", "hr", "resume-matching", "job-analysis"],
+    "title": "Recruitment Assistant",
+    "description": "分析候选人简历与岗位要求的匹配度，提供招聘建议，优化招聘流程。",
+    "category": "business"
+  },
+  "schemaVersion": 1
+}

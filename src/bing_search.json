@@ -1,0 +1,15 @@
+{
+  "author": "Wang Yuan",
+  "createdAt": "2025-02-21",
+  "homepage": "https://os.syngents.cn",
+  "identifier": "bing_search",
+  "manifest": "https://os.syngents.cn/databoard/plugins/bing_search/manifest.json",
+  "meta": {
+    "avatar": "🔍",
+    "tags": ["web", "search"],
+    "title": "Web Search",
+    "description": "Query bing search engine to get information",
+    "category": "web-search"
+  },
+  "schemaVersion": 1
+}
