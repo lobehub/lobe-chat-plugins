@@ -1,0 +1,13 @@
+{
+  "author": "wjw",
+  "homepage": "https://github.com/GodweiLL",
+  "identifier": "legal_assistant",
+  "locale": "zh-CN # you can set locale if you use other i18n language, default is en-US",
+  "manifest": "https://test-1321707147.cos.ap-beijing.myqcloud.com/jiawei/law_fail.json",
+  "meta": {
+    "avatar": "⚖️",
+    "tags": ["law", "knowledge","AI"],
+    "title": "legal_assistant",
+    "description": "Answer users' legal questions"
+  }
+}
