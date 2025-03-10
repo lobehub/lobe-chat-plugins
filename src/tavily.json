@@ -2,12 +2,12 @@
   "author": "dielect",
   "homepage": "https://github.com/dielect/lobechat-tavily-plugin",
   "identifier": "tavily-web-search",
-  "locale": "zh-CN # you can set locale if you use other i18n language, default is en-US",
+  "locale": "zh-CN",
   "manifest": "https://lobe-plugin.composere.com//manifest.json",
   "meta": {
     "avatar": "https://raw.githubusercontent.com/dielect/lobe-tavily-search-plugin/refs/heads/main/public/logo.png",
     "tags": [ "web-search","search-engine"],
     "title": "Tavily Search",
-    "description": "通过 tavily 免费 API 进行 Google 搜索引擎"
+    "description": "Use Tavily for Google search."
   }
 }
