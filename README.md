@@ -126,16 +126,6 @@ Searches Google through their official CSE API.
 
 ---
 
-### [Speak](https://lobechat.com/discover/plugin/speak)
-
-<sup>By **[@speak](https://speak.com)** on **2024-12-02**</sup>
-
-Learn how to say anything in another language with Speak, your AI-powered language tutor.
-
-`education` `language`
-
----
-
 ### [Tongyi wanxiang Image Generator](https://lobechat.com/discover/plugin/alps-tongyi-image)
 
 <sup>By **[@YoungTx](https://github.com/YoungTx/alps-tongyi-image)** on **2024-08-09**</sup>

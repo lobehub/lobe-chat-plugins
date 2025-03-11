@@ -126,16 +126,6 @@
 
 ---
 
-### [Speak](https://lobechat.com/discover/plugin/speak)
-
-<sup>By **[@speak](https://speak.com)** on **2024-12-02**</sup>
-
-使用 Speak，您的 AI 语言导师，学习如何用另一种语言说任何事情。
-
-`教育` `语言`
-
----
-
 ### [通义万象图像生成器](https://lobechat.com/discover/plugin/alps-tongyi-image)
 
 <sup>By **[@YoungTx](https://github.com/YoungTx/alps-tongyi-image)** on **2024-08-09**</sup>
