@@ -76,6 +76,76 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
+### [Contract Review](https://lobechat.com/discover/plugin/contract_review)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-03-01**</sup>
+
+分析合同内容，识别法律风险，检查合规性，确保条款合理。
+
+`legal-review` `contract-analysis` `compliance-check` `risk-assessment`
+
+---
+
+### [Resume Optimization](https://lobechat.com/discover/plugin/resume_optimization)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-03-01**</sup>
+
+优化简历内容，使其更清晰、突出个人优势，并提升岗位适配度。
+
+`resume-enhancement` `career-development` `job-application` `hr`
+
+---
+
+### [Recruitment Assistant](https://lobechat.com/discover/plugin/recruitment_assistant)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-03-01**</sup>
+
+分析候选人简历与岗位要求的匹配度，提供招聘建议，优化招聘流程。
+
+`recruitment` `hr` `resume-matching` `job-analysis`
+
+---
+
+### [Product Analysis](https://lobechat.com/discover/plugin/product_analysis)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-03-01**</sup>
+
+提供产品定位、市场分析、竞品对比和战略洞察，帮助用户制定商业决策。
+
+`market-research` `business-analysis` `competitive-intelligence`
+
+---
+
+### [AI-powered Lunch Recommendation](https://lobechat.com/discover/plugin/recommend_lunch)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-02-28**</sup>
+
+An AI plugin that recommends lunch options based on your preferences, mood, and dietary restrictions. Find the perfect meal for today!
+
+`lunch`
+
+---
+
+### [fortune telling](https://lobechat.com/discover/plugin/divination)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-02-27**</sup>
+
+fortune telling based on mystical trigrams
+
+`divination` `occult`
+
+---
+
+### [Web Search](https://lobechat.com/discover/plugin/bing_search)
+
+<sup>By **[@Wang Yuan](https://os.syngents.cn)** on **2025-02-21**</sup>
+
+Query bing search engine to get information
+
+`web` `search`
+
+---
+
 ### [Web](https://lobechat.com/discover/plugin/web)
 
 <sup>By **[@Proghit](https://github.com/proghit/lobechat-web-plugin)** on **2025-01-24**</sup>
@@ -123,6 +193,16 @@ Search for information from the internet base BingApi
 Searches Google through their official CSE API.
 
 `web` `search`
+
+---
+
+### [Speak](https://lobechat.com/discover/plugin/speak)
+
+<sup>By **[@speak](https://speak.com)** on **2024-12-02**</sup>
+
+Learn how to say anything in another language with Speak, your AI-powered language tutor.
+
+`education` `language`
 
 ---
 

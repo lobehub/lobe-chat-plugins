@@ -76,13 +76,83 @@
 
 <!-- AWESOME PLUGINS -->
 
-### [网页](https://lobechat.com/discover/plugin/web)
+### [合同审查](https://lobechat.com/discover/plugin/contract_review)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-03-01**</sup>
+
+分析合同内容，识别法律风险，检查合规性，确保条款合理。
+
+`法律审查` `合同分析` `合规检查` `风险评估`
+
+---
+
+### [简历优化](https://lobechat.com/discover/plugin/resume_optimization)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-03-01**</sup>
+
+优化简历内容，使其更清晰、突出个人优势，并提升岗位适配度。
+
+`简历提升` `职业发展` `求职申请` `人力资源`
+
+---
+
+### [招聘助手](https://lobechat.com/discover/plugin/recruitment_assistant)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-03-01**</sup>
+
+分析候选人简历与岗位要求的匹配度，提供招聘建议，优化招聘流程。
+
+`招聘` `人力资源` `简历匹配` `岗位分析`
+
+---
+
+### [产品分析](https://lobechat.com/discover/plugin/product_analysis)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-03-01**</sup>
+
+提供产品定位、市场分析、竞品对比和战略洞察，帮助用户制定商业决策。
+
+`市场研究` `商业分析` `竞争情报`
+
+---
+
+### [人工智能推荐午餐](https://lobechat.com/discover/plugin/recommend_lunch)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-02-28**</sup>
+
+一个基于您的偏好、心情和饮食限制推荐午餐选项的人工智能插件。找到今天完美的餐点！
+
+`午餐`
+
+---
+
+### [算命](https://lobechat.com/discover/plugin/divination)
+
+<sup>By **[@liangrui](https://github.com/lr-online)** on **2025-02-27**</sup>
+
+基于神秘卦象的算命
+
+`占卜` `神秘学`
+
+---
+
+### [网络搜索](https://lobechat.com/discover/plugin/bing_search)
+
+<sup>By **[@Wang Yuan](https://os.syngents.cn)** on **2025-02-21**</sup>
+
+使用必应搜索引擎查询网络信息
+
+`网络` `搜索`
+
+---
+
+### [网络](https://lobechat.com/discover/plugin/web)
 
 <sup>By **[@Proghit](https://github.com/proghit/lobechat-web-plugin)** on **2025-01-24**</sup>
 
-智能网页搜索，读取和分析页面，以提供来自 Google 结果的全面答案。
+智能网络搜索，读取和分析页面，以从谷歌结果中提供全面的答案。
 
-`网页` `搜索`
+`网络` `搜索`
 
 ---
 
@@ -123,6 +193,16 @@
 通过他们的官方自定义搜索引擎 API 搜索谷歌。
 
 `网络` `搜索`
+
+---
+
+### [Speak](https://lobechat.com/discover/plugin/speak)
+
+<sup>By **[@speak](https://speak.com)** on **2024-12-02**</sup>
+
+使用 Speak，您的 AI 语言导师，学习如何用另一种语言说任何事情。
+
+`教育` `语言`
 
 ---
 
