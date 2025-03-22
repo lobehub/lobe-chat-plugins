@@ -96,16 +96,6 @@
 
 ---
 
-### [PortfolioMeta](https://lobechat.com/discover/plugin/StockData)
-
-<sup>By **[@portfoliometa](https://portfoliometa.com)** on **2024-12-22**</sup>
-
-分析股票并获取全面的实时投资数据和分析。
-
-`股票`
-
----
-
 ### [必应网页搜索](https://lobechat.com/discover/plugin/Bingsearch-identifier)
 
 <sup>By **[@FineHow](https://github.com/FineHow/Bingsearch-Plugin)** on **2024-12-22**</sup>

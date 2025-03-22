@@ -96,16 +96,6 @@ Find any NFT data on the NEAR Protocol.
 
 ---
 
-### [PortfolioMeta](https://lobechat.com/discover/plugin/StockData)
-
-<sup>By **[@portfoliometa](https://portfoliometa.com)** on **2024-12-22**</sup>
-
-Analyze stocks and get comprehensive real-time investment data and analytics.
-
-`stock`
-
----
-
 ### [Bing_websearch](https://lobechat.com/discover/plugin/Bingsearch-identifier)
 
 <sup>By **[@FineHow](https://github.com/FineHow/Bingsearch-Plugin)** on **2024-12-22**</sup>
