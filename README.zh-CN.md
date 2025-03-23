@@ -76,6 +76,16 @@
 
 <!-- AWESOME PLUGINS -->
 
+### [PortfolioMeta](https://lobechat.com/discover/plugin/StockData)
+
+<sup>By **[@portfoliometa](https://portfoliometa.com)** on **2025-03-23**</sup>
+
+分析股票并获取全面的实时投资数据和分析。
+
+`股票`
+
+---
+
 ### [网页](https://lobechat.com/discover/plugin/web)
 
 <sup>By **[@Proghit](https://github.com/proghit/lobechat-web-plugin)** on **2025-01-24**</sup>
