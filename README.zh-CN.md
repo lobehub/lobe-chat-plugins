@@ -266,16 +266,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [Uberchord](https://lobechat.com/discover/plugin/uberchord)
-
-<sup>By **[@pluginboost](https://guitarchords.pluginboost.com)** on **2024-01-25**</sup>
-
-通过指定和弦名称查找吉他和弦图。
-
-`音乐` `吉他` `搜索`
-
----
-
 ### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
 
 <sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>

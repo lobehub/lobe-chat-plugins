@@ -266,16 +266,6 @@ Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
 
 ---
 
-### [Uberchord](https://lobechat.com/discover/plugin/uberchord)
-
-<sup>By **[@pluginboost](https://guitarchords.pluginboost.com)** on **2024-01-25**</sup>
-
-Find guitar chord diagrams by specifying the chord name.
-
-`music` `guitar` `search`
-
----
-
 ### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
 
 <sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
