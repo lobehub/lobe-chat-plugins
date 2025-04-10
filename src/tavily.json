@@ -1,0 +1,13 @@
+{
+  "author": "dielect",
+  "homepage": "https://github.com/dielect/lobechat-tavily-plugin",
+  "identifier": "tavily-web-search",
+  "locale": "zh-CN",
+  "manifest": "https://lobe-plugin.composere.com//manifest.json",
+  "meta": {
+    "avatar": "https://raw.githubusercontent.com/dielect/lobe-tavily-search-plugin/refs/heads/main/public/logo.png",
+    "tags": [ "web-search","search-engine"],
+    "title": "Tavily Search",
+    "description": "Use Tavily for Google search."
+  }
+}
