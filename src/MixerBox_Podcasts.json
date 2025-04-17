@@ -9,7 +9,7 @@
     "description": "Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!",
     "tags": ["podcast", "search"],
     "title": "MixerBox Podcasts",
-    "category": "media-generate"
+    "category": "web-search"
   },
   "schemaVersion": 1
 }
