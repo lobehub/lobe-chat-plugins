@@ -186,16 +186,6 @@ A plugin to manage your calendar events # will auto generate i18n in workflow
 
 ---
 
-### [Steam](https://lobechat.com/discover/plugin/steam)
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
-
-Obtain game information and user reviews from Steam.
-
-`steam` `game`
-
----
-
 ### [Bilibili](https://lobechat.com/discover/plugin/bilibili)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
@@ -206,6 +196,16 @@ Dive into Bilibili's vast content with features like keyword video search, repla
 
 ---
 
+### [Steam](https://lobechat.com/discover/plugin/steam)
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
+
+Obtain game information and user reviews from Steam.
+
+`steam` `game`
+
+---
+
 ### [Current Time Assistant](https://lobechat.com/discover/plugin/current-datetime-assistant)
 
 <sup>By **[@cc](https://github.com/ccdanpian/current-datetime)** on **2024-01-26**</sup>
@@ -213,6 +213,56 @@ Dive into Bilibili's vast content with features like keyword video search, repla
 A plugin to provide current time information
 
 `time`
+
+---
+
+### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
+
+<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
+
+Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
+
+`research-paper` `search`
+
+---
+
+### [Check Website Down](https://lobechat.com/discover/plugin/uptime)
+
+<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
+
+Insert your website URL to check the availability. Pulsetic tests the uptime, availability & performance of a website.
+
+`website` `performance` `test`
+
+---
+
+### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
+
+<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
+
+Get real-time worldwide weather updates & forecasts, instantly!
+
+`weather`
+
+---
+
+### [MixerBox Translate](https://lobechat.com/discover/plugin/MixerBox_Translate_AI_language_tutor)
+
+<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
+
+Translate any language right away! Learn foreign languages easily by conversing with AI tutors!
+
+`translate`
+
+---
+
+### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
+
+<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
+
+Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!
+
+`podcast` `search`
 
 ---
 
@@ -236,36 +286,6 @@ The SEO Assistant can generate search engine keyword information in order to aid
 
 ---
 
-### [MixerBox Translate](https://lobechat.com/discover/plugin/MixerBox_Translate_AI_language_tutor)
-
-<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
-
-Translate any language right away! Learn foreign languages easily by conversing with AI tutors!
-
-`translate`
-
----
-
-### [Access Google Sheet](https://lobechat.com/discover/plugin/access_google_sheets)
-
-<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
-
-Ask your Google Sheets questions & chat with excel. Enter Google Drive link to start!
-
-`google` `sheets` `excel`
-
----
-
-### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
-
-<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
-
-Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
-
-`research-paper` `search`
-
----
-
 ### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
 
 <sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
@@ -276,73 +296,13 @@ A research assistant that returns a set of URI's to examples of fine art request
 
 ---
 
-### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
+### [Access Google Sheet](https://lobechat.com/discover/plugin/access_google_sheets)
 
-<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
+<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
 
-Get real-time worldwide weather updates & forecasts, instantly!
+Ask your Google Sheets questions & chat with excel. Enter Google Drive link to start!
 
-`weather`
-
----
-
-### [Check Website Down](https://lobechat.com/discover/plugin/uptime)
-
-<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
-
-Insert your website URL to check the availability. Pulsetic tests the uptime, availability & performance of a website.
-
-`website` `performance` `test`
-
----
-
-### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
-
-<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
-
-Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!
-
-`podcast` `search`
-
----
-
-### [GuruWalk](https://lobechat.com/discover/plugin/todo)
-
-<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
-
-The best free tour guides in the world are here.
-
-`travel` `guides`
-
----
-
-### [Video Summary](https://lobechat.com/discover/plugin/Video_summary)
-
-<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
-
-Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
-
-`video-to-text` `youtube`
-
----
-
-### [SEO](https://lobechat.com/discover/plugin/SEO)
-
-<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
-
-Enter any URL and keyword and get an On-Page SEO analysis & insights!
-
-`seo`
-
----
-
-### [Video Captions](https://lobechat.com/discover/plugin/VideoCaptions)
-
-<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
-
-Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.
-
-`video-to-text` `youtube`
+`google` `sheets` `excel`
 
 ---
 
@@ -366,6 +326,16 @@ Get help exploring the scientific literature. Find relevant papers and generate 
 
 ---
 
+### [Video Summary](https://lobechat.com/discover/plugin/Video_summary)
+
+<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
+
+Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
+
+`video-to-text` `youtube`
+
+---
+
 ### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
 
 <sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
@@ -373,6 +343,26 @@ Get help exploring the scientific literature. Find relevant papers and generate 
 Unleash personalized hotel search with Travelmyth, offering 60 unique categories for the perfect match.
 
 `travel` `hotel` `search`
+
+---
+
+### [SEO](https://lobechat.com/discover/plugin/SEO)
+
+<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
+
+Enter any URL and keyword and get an On-Page SEO analysis & insights!
+
+`seo`
+
+---
+
+### [Video Captions](https://lobechat.com/discover/plugin/VideoCaptions)
+
+<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
+
+Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.
+
+`video-to-text` `youtube`
 
 ---
 
@@ -386,13 +376,13 @@ Discover games, game-related content, get recommendations, and compare games bas
 
 ---
 
-### [Change](https://lobechat.com/discover/plugin/nonprofits)
+### [GuruWalk](https://lobechat.com/discover/plugin/todo)
 
-<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
+<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
 
-Discover impactful nonprofits to support in your community and beyond.
+The best free tour guides in the world are here.
 
-`charity`
+`travel` `guides`
 
 ---
 
@@ -403,6 +393,16 @@ Discover impactful nonprofits to support in your community and beyond.
 Retrieve data on DeFi protocols and blockchains.
 
 `crypto` `de-fi`
+
+---
+
+### [Change](https://lobechat.com/discover/plugin/nonprofits)
+
+<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
+
+Discover impactful nonprofits to support in your community and beyond.
+
+`charity`
 
 ---
 

@@ -186,16 +186,6 @@
 
 ---
 
-### [Steam](https://lobechat.com/discover/plugin/steam)
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
-
-从 Steam 获取游戏信息和用户评论。
-
-`steam` `game`
-
----
-
 ### [哔哩哔哩](https://lobechat.com/discover/plugin/bilibili)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
@@ -206,6 +196,16 @@
 
 ---
 
+### [Steam](https://lobechat.com/discover/plugin/steam)
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
+
+从 Steam 获取游戏信息和用户评论。
+
+`steam` `game`
+
+---
+
 ### [当前时间助手](https://lobechat.com/discover/plugin/current-datetime-assistant)
 
 <sup>By **[@cc](https://github.com/ccdanpian/current-datetime)** on **2024-01-26**</sup>
@@ -213,6 +213,56 @@
 提供当前时间信息的插件
 
 `时间`
+
+---
+
+### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
+
+<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
+
+搜索 Michael Levin 博士实验室的研究论文和讲话文本。
+
+`研究论文` `搜索`
+
+---
+
+### [检查网站是否宕机](https://lobechat.com/discover/plugin/uptime)
+
+<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
+
+插入您的网站 URL 以检查可用性。Pulsetic 测试网站的正常运行时间、可用性和性能。
+
+`网站` `性能` `测试`
+
+---
+
+### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
+
+<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
+
+立即获取实时全球天气更新和预报！
+
+`weather`
+
+---
+
+### [MixerBox 翻译](https://lobechat.com/discover/plugin/MixerBox_Translate_AI_language_tutor)
+
+<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
+
+立即翻译任何语言！通过与 AI 导师对话轻松学习外语！
+
+`翻译`
+
+---
+
+### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
+
+<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
+
+轻松搜索播客！探索涵盖社会、体育、商业、新闻、音乐等内容的播客！
+
+`播客` `搜索`
 
 ---
 
@@ -236,36 +286,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [MixerBox 翻译](https://lobechat.com/discover/plugin/MixerBox_Translate_AI_language_tutor)
-
-<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
-
-立即翻译任何语言！通过与 AI 导师对话轻松学习外语！
-
-`翻译`
-
----
-
-### [访问 Google 表格](https://lobechat.com/discover/plugin/access_google_sheets)
-
-<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
-
-提出您的 Google 表格问题并与 Excel 进行交流。输入 Google 云端硬盘链接开始！
-
-`google` `sheets` `excel`
-
----
-
-### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
-
-<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
-
-搜索 Michael Levin 博士实验室的研究论文和讲话文本。
-
-`研究论文` `搜索`
-
----
-
 ### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
 
 <sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
@@ -276,73 +296,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
+### [访问 Google 表格](https://lobechat.com/discover/plugin/access_google_sheets)
 
-<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
+<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
 
-立即获取实时全球天气更新和预报！
+提出您的 Google 表格问题并与 Excel 进行交流。输入 Google 云端硬盘链接开始！
 
-`weather`
-
----
-
-### [检查网站是否宕机](https://lobechat.com/discover/plugin/uptime)
-
-<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
-
-插入您的网站 URL 以检查可用性。Pulsetic 测试网站的正常运行时间、可用性和性能。
-
-`网站` `性能` `测试`
-
----
-
-### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
-
-<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
-
-轻松搜索播客！探索涵盖社会、体育、商业、新闻、音乐等内容的播客！
-
-`播客` `搜索`
-
----
-
-### [GuruWalk](https://lobechat.com/discover/plugin/todo)
-
-<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
-
-世界上最好的免费导游就在这里。
-
-`旅行` `导游`
-
----
-
-### [视频摘要](https://lobechat.com/discover/plugin/Video_summary)
-
-<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
-
-总结 YouTube 视频亮点。从 YouTube 视频链接生成摘要。
-
-`视频转文字` `YouTube`
-
----
-
-### [SEO](https://lobechat.com/discover/plugin/SEO)
-
-<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
-
-输入任何 URL 和关键词，获取页面 SEO 分析和见解！
-
-`seo`
-
----
-
-### [视频字幕](https://lobechat.com/discover/plugin/VideoCaptions)
-
-<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
-
-将 Youtube 链接转换为转录文本，使其能够提问，创建章节，并总结其内容。
-
-`视频转文字` `YouTube`
+`google` `sheets` `excel`
 
 ---
 
@@ -366,6 +326,16 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
+### [视频摘要](https://lobechat.com/discover/plugin/Video_summary)
+
+<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
+
+总结 YouTube 视频亮点。从 YouTube 视频链接生成摘要。
+
+`视频转文字` `YouTube`
+
+---
+
 ### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
 
 <sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
@@ -373,6 +343,26 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 通过 Travelmyth 释放个性化酒店搜索，提供 60 个独特类别，找到完美匹配。
 
 `旅行` `酒店` `搜索`
+
+---
+
+### [SEO](https://lobechat.com/discover/plugin/SEO)
+
+<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
+
+输入任何 URL 和关键词，获取页面 SEO 分析和见解！
+
+`seo`
+
+---
+
+### [视频字幕](https://lobechat.com/discover/plugin/VideoCaptions)
+
+<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
+
+将 Youtube 链接转换为转录文本，使其能够提问，创建章节，并总结其内容。
+
+`视频转文字` `YouTube`
 
 ---
 
@@ -386,13 +376,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [Change](https://lobechat.com/discover/plugin/nonprofits)
+### [GuruWalk](https://lobechat.com/discover/plugin/todo)
 
-<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
+<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
 
-发现在您的社区和更广泛范围内支持的有影响力的非营利组织。
+世界上最好的免费导游就在这里。
 
-`慈善`
+`旅行` `导游`
 
 ---
 
@@ -403,6 +393,16 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 检索 DeFi 协议和区块链的数据。
 
 `加密货币` `去中心化金融`
+
+---
+
+### [Change](https://lobechat.com/discover/plugin/nonprofits)
+
+<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
+
+发现在您的社区和更广泛范围内支持的有影响力的非营利组织。
+
+`慈善`
 
 ---
 
