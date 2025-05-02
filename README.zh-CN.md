@@ -96,16 +96,6 @@
 
 ---
 
-### [MintbaseSearch](https://lobechat.com/discover/plugin/mintbasesearch)
-
-<sup>By **[@mintbase](https://search-ai.mintbase.xyz)** on **2024-12-31**</sup>
-
-在 NEAR 协议上查找任何 NFT 数据。
-
-`加密货币` `NFT`
-
----
-
 ### [必应网页搜索](https://lobechat.com/discover/plugin/Bingsearch-identifier)
 
 <sup>By **[@FineHow](https://github.com/FineHow/Bingsearch-Plugin)** on **2024-12-22**</sup>

@@ -96,16 +96,6 @@ Smart web search that reads and analyzes pages to deliver comprehensive answers 
 
 ---
 
-### [MintbaseSearch](https://lobechat.com/discover/plugin/mintbasesearch)
-
-<sup>By **[@mintbase](https://search-ai.mintbase.xyz)** on **2024-12-31**</sup>
-
-Find any NFT data on the NEAR Protocol.
-
-`crypto` `nft`
-
----
-
 ### [Bing_websearch](https://lobechat.com/discover/plugin/Bingsearch-identifier)
 
 <sup>By **[@FineHow](https://github.com/FineHow/Bingsearch-Plugin)** on **2024-12-22**</sup>
