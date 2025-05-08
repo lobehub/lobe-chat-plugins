@@ -206,43 +206,13 @@
 
 ---
 
-### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
+### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
 
-<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
+<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
 
-搜索 Michael Levin 博士实验室的研究论文和讲话文本。
+一个研究助理，返回用户请求的一组艺术品示例的 URI 集合。
 
-`研究论文` `搜索`
-
----
-
-### [检查网站是否宕机](https://lobechat.com/discover/plugin/uptime)
-
-<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
-
-插入您的网站 URL 以检查可用性。Pulsetic 测试网站的正常运行时间、可用性和性能。
-
-`网站` `性能` `测试`
-
----
-
-### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
-
-<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
-
-立即获取实时全球天气更新和预报！
-
-`weather`
-
----
-
-### [MixerBox 翻译](https://lobechat.com/discover/plugin/MixerBox_Translate_AI_language_tutor)
-
-<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
-
-立即翻译任何语言！通过与 AI 导师对话轻松学习外语！
-
-`翻译`
+`艺术` `美术` `搜索`
 
 ---
 
@@ -266,6 +236,26 @@
 
 ---
 
+### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
+
+<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
+
+搜索 Michael Levin 博士实验室的研究论文和讲话文本。
+
+`研究论文` `搜索`
+
+---
+
+### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
+
+<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
+
+立即获取实时全球天气更新和预报！
+
+`weather`
+
+---
+
 ### [SEO 助手](https://lobechat.com/discover/plugin/seo_assistant)
 
 <sup>By **[@webfx](https://webfx.ai)** on **2024-01-25**</sup>
@@ -276,13 +266,23 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
+### [MixerBox 翻译](https://lobechat.com/discover/plugin/MixerBox_Translate_AI_language_tutor)
 
-<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
+<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
 
-一个研究助理，返回用户请求的一组艺术品示例的 URI 集合。
+立即翻译任何语言！通过与 AI 导师对话轻松学习外语！
 
-`艺术` `美术` `搜索`
+`翻译`
+
+---
+
+### [检查网站是否宕机](https://lobechat.com/discover/plugin/uptime)
+
+<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
+
+插入您的网站 URL 以检查可用性。Pulsetic 测试网站的正常运行时间、可用性和性能。
+
+`网站` `性能` `测试`
 
 ---
 
@@ -296,43 +296,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
+### [GameSight](https://lobechat.com/discover/plugin/GameSight)
 
-<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
+<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
 
-创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
+发现游戏、与游戏相关的内容、获取推荐，并根据玩家评价比较游戏。
 
-`表单` `清单` `生产力`
-
----
-
-### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
-
-<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
-
-获取帮助，探索科学文献。找到相关论文并生成文献思维导图。
-
-`科学文献` `搜索`
-
----
-
-### [视频摘要](https://lobechat.com/discover/plugin/Video_summary)
-
-<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
-
-总结 YouTube 视频亮点。从 YouTube 视频链接生成摘要。
-
-`视频转文字` `YouTube`
-
----
-
-### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
-
-<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
-
-通过 Travelmyth 释放个性化酒店搜索，提供 60 个独特类别，找到完美匹配。
-
-`旅行` `酒店` `搜索`
+`游戏` `搜索`
 
 ---
 
@@ -356,13 +326,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [GameSight](https://lobechat.com/discover/plugin/GameSight)
+### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
 
-<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
+<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
 
-发现游戏、与游戏相关的内容、获取推荐，并根据玩家评价比较游戏。
+获取帮助，探索科学文献。找到相关论文并生成文献思维导图。
 
-`游戏` `搜索`
+`科学文献` `搜索`
 
 ---
 
@@ -373,6 +343,36 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 世界上最好的免费导游就在这里。
 
 `旅行` `导游`
+
+---
+
+### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
+
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
+
+创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
+
+`表单` `清单` `生产力`
+
+---
+
+### [视频摘要](https://lobechat.com/discover/plugin/Video_summary)
+
+<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
+
+总结 YouTube 视频亮点。从 YouTube 视频链接生成摘要。
+
+`视频转文字` `YouTube`
+
+---
+
+### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
+
+<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
+
+通过 Travelmyth 释放个性化酒店搜索，提供 60 个独特类别，找到完美匹配。
+
+`旅行` `酒店` `搜索`
 
 ---
 
@@ -406,16 +406,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [Boolio Invest](https://lobechat.com/discover/plugin/boolio)
-
-<sup>By **[@boolio](https://chatgpt.boolio.co.kr)** on **2024-01-17**</sup>
-
-使用 Boolio 的先进引擎分析来自任何国家的股票投资。
-
-`股票` `分析`
-
----
-
 ### [Asset Ovi](https://lobechat.com/discover/plugin/assetOvi)
 
 <sup>By **[@assetovi](https://assetovi.com)** on **2024-01-17**</sup>
@@ -423,6 +413,16 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 搜索和预览数百万款用于游戏、AIGC、AR/VR 等领域的 3D 资产。
 
 `3-d` `资产` `搜索`
+
+---
+
+### [Boolio Invest](https://lobechat.com/discover/plugin/boolio)
+
+<sup>By **[@boolio](https://chatgpt.boolio.co.kr)** on **2024-01-17**</sup>
+
+使用 Boolio 的先进引擎分析来自任何国家的股票投资。
+
+`股票` `分析`
 
 ---
 
