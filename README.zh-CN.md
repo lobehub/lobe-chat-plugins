@@ -336,16 +336,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [GuruWalk](https://lobechat.com/discover/plugin/todo)
-
-<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
-
-世界上最好的免费导游就在这里。
-
-`旅行` `导游`
-
----
-
 ### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
 
 <sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>

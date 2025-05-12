@@ -336,16 +336,6 @@ Get help exploring the scientific literature. Find relevant papers and generate 
 
 ---
 
-### [GuruWalk](https://lobechat.com/discover/plugin/todo)
-
-<sup>By **[@guruwalk](https://www.guruwalk.com)** on **2024-01-23**</sup>
-
-The best free tour guides in the world are here.
-
-`travel` `guides`
-
----
-
 ### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
 
 <sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
