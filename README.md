@@ -176,16 +176,6 @@ A plugin to manage your calendar events # will auto generate i18n in workflow
 
 ---
 
-### [Bilibili](https://lobechat.com/discover/plugin/bilibili)
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
-
-Dive into Bilibili's vast content with features like keyword video search, replay access, interactive danmaku, trending video recommendations, and hot-search insights, all at your fingertips.
-
-`video` `bilibili` `search`
-
----
-
 ### [Steam](https://lobechat.com/discover/plugin/steam)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
@@ -193,6 +183,16 @@ Dive into Bilibili's vast content with features like keyword video search, repla
 Obtain game information and user reviews from Steam.
 
 `steam` `game`
+
+---
+
+### [Bilibili](https://lobechat.com/discover/plugin/bilibili)
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
+
+Dive into Bilibili's vast content with features like keyword video search, replay access, interactive danmaku, trending video recommendations, and hot-search insights, all at your fingertips.
+
+`video` `bilibili` `search`
 
 ---
 
@@ -206,6 +206,26 @@ A plugin to provide current time information
 
 ---
 
+### [SEO Assistant](https://lobechat.com/discover/plugin/seo_assistant)
+
+<sup>By **[@webfx](https://webfx.ai)** on **2024-01-25**</sup>
+
+The SEO Assistant can generate search engine keyword information in order to aid the creation of content.
+
+`seo` `keyword`
+
+---
+
+### [Check Website Down](https://lobechat.com/discover/plugin/uptime)
+
+<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
+
+Insert your website URL to check the availability. Pulsetic tests the uptime, availability & performance of a website.
+
+`website` `performance` `test`
+
+---
+
 ### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
 
 <sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
@@ -213,16 +233,6 @@ A plugin to provide current time information
 A research assistant that returns a set of URI's to examples of fine art requested by user.
 
 `art` `fineart` `search`
-
----
-
-### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
-
-<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
-
-Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!
-
-`podcast` `search`
 
 ---
 
@@ -256,16 +266,6 @@ Get real-time worldwide weather updates & forecasts, instantly!
 
 ---
 
-### [SEO Assistant](https://lobechat.com/discover/plugin/seo_assistant)
-
-<sup>By **[@webfx](https://webfx.ai)** on **2024-01-25**</sup>
-
-The SEO Assistant can generate search engine keyword information in order to aid the creation of content.
-
-`seo` `keyword`
-
----
-
 ### [MixerBox Translate](https://lobechat.com/discover/plugin/MixerBox_Translate_AI_language_tutor)
 
 <sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
@@ -276,13 +276,13 @@ Translate any language right away! Learn foreign languages easily by conversing 
 
 ---
 
-### [Check Website Down](https://lobechat.com/discover/plugin/uptime)
+### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
 
-<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
+<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
 
-Insert your website URL to check the availability. Pulsetic tests the uptime, availability & performance of a website.
+Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!
 
-`website` `performance` `test`
+`podcast` `search`
 
 ---
 
@@ -296,23 +296,13 @@ Ask your Google Sheets questions & chat with excel. Enter Google Drive link to s
 
 ---
 
-### [GameSight](https://lobechat.com/discover/plugin/GameSight)
+### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
 
-<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
+<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
 
-Discover games, game-related content, get recommendations, and compare games based on player reviews.
+Unleash personalized hotel search with Travelmyth, offering 60 unique categories for the perfect match.
 
-`game` `search`
-
----
-
-### [SEO](https://lobechat.com/discover/plugin/SEO)
-
-<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
-
-Enter any URL and keyword and get an On-Page SEO analysis & insights!
-
-`seo`
+`travel` `hotel` `search`
 
 ---
 
@@ -336,13 +326,13 @@ Get help exploring the scientific literature. Find relevant papers and generate 
 
 ---
 
-### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
+### [GameSight](https://lobechat.com/discover/plugin/GameSight)
 
-<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
+<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
 
-Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
+Discover games, game-related content, get recommendations, and compare games based on player reviews.
 
-`forms` `checklists` `productivity`
+`game` `search`
 
 ---
 
@@ -356,23 +346,23 @@ Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
 
 ---
 
-### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
+### [SEO](https://lobechat.com/discover/plugin/SEO)
 
-<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
+<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
 
-Unleash personalized hotel search with Travelmyth, offering 60 unique categories for the perfect match.
+Enter any URL and keyword and get an On-Page SEO analysis & insights!
 
-`travel` `hotel` `search`
+`seo`
 
 ---
 
-### [Defillama](https://lobechat.com/discover/plugin/defillama)
+### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
 
-<sup>By **[@onrender](https://llamawrapper-prod.onrender.com)** on **2024-01-22**</sup>
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
 
-Retrieve data on DeFi protocols and blockchains.
+Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
 
-`crypto` `de-fi`
+`forms` `checklists` `productivity`
 
 ---
 
@@ -383,6 +373,16 @@ Retrieve data on DeFi protocols and blockchains.
 Discover impactful nonprofits to support in your community and beyond.
 
 `charity`
+
+---
+
+### [Defillama](https://lobechat.com/discover/plugin/defillama)
+
+<sup>By **[@onrender](https://llamawrapper-prod.onrender.com)** on **2024-01-22**</sup>
+
+Retrieve data on DeFi protocols and blockchains.
+
+`crypto` `de-fi`
 
 ---
 

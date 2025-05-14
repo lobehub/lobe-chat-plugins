@@ -176,16 +176,6 @@
 
 ---
 
-### [哔哩哔哩](https://lobechat.com/discover/plugin/bilibili)
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
-
-通过关键词视频搜索、回放访问、互动弹幕、热门视频推荐和热搜洞察等功能，深入体验哔哩哔哩丰富的内容，尽在您的指尖。
-
-`视频` `哔哩哔哩` `搜索`
-
----
-
 ### [Steam](https://lobechat.com/discover/plugin/steam)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
@@ -193,6 +183,16 @@
 从 Steam 获取游戏信息和用户评论。
 
 `steam` `game`
+
+---
+
+### [哔哩哔哩](https://lobechat.com/discover/plugin/bilibili)
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
+
+通过关键词视频搜索、回放访问、互动弹幕、热门视频推荐和热搜洞察等功能，深入体验哔哩哔哩丰富的内容，尽在您的指尖。
+
+`视频` `哔哩哔哩` `搜索`
 
 ---
 
@@ -206,6 +206,26 @@
 
 ---
 
+### [SEO 助手](https://lobechat.com/discover/plugin/seo_assistant)
+
+<sup>By **[@webfx](https://webfx.ai)** on **2024-01-25**</sup>
+
+SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
+
+`seo` `关键词`
+
+---
+
+### [检查网站是否宕机](https://lobechat.com/discover/plugin/uptime)
+
+<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
+
+插入您的网站 URL 以检查可用性。Pulsetic 测试网站的正常运行时间、可用性和性能。
+
+`网站` `性能` `测试`
+
+---
+
 ### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
 
 <sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
@@ -213,16 +233,6 @@
 一个研究助理，返回用户请求的一组艺术品示例的 URI 集合。
 
 `艺术` `美术` `搜索`
-
----
-
-### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
-
-<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
-
-轻松搜索播客！探索涵盖社会、体育、商业、新闻、音乐等内容的播客！
-
-`播客` `搜索`
 
 ---
 
@@ -256,16 +266,6 @@
 
 ---
 
-### [SEO 助手](https://lobechat.com/discover/plugin/seo_assistant)
-
-<sup>By **[@webfx](https://webfx.ai)** on **2024-01-25**</sup>
-
-SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
-
-`seo` `关键词`
-
----
-
 ### [MixerBox 翻译](https://lobechat.com/discover/plugin/MixerBox_Translate_AI_language_tutor)
 
 <sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
@@ -276,13 +276,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [检查网站是否宕机](https://lobechat.com/discover/plugin/uptime)
+### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
 
-<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
+<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
 
-插入您的网站 URL 以检查可用性。Pulsetic 测试网站的正常运行时间、可用性和性能。
+轻松搜索播客！探索涵盖社会、体育、商业、新闻、音乐等内容的播客！
 
-`网站` `性能` `测试`
+`播客` `搜索`
 
 ---
 
@@ -296,23 +296,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [GameSight](https://lobechat.com/discover/plugin/GameSight)
+### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
 
-<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
+<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
 
-发现游戏、与游戏相关的内容、获取推荐，并根据玩家评价比较游戏。
+通过 Travelmyth 释放个性化酒店搜索，提供 60 个独特类别，找到完美匹配。
 
-`游戏` `搜索`
-
----
-
-### [SEO](https://lobechat.com/discover/plugin/SEO)
-
-<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
-
-输入任何 URL 和关键词，获取页面 SEO 分析和见解！
-
-`seo`
+`旅行` `酒店` `搜索`
 
 ---
 
@@ -336,13 +326,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
+### [GameSight](https://lobechat.com/discover/plugin/GameSight)
 
-<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
+<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
 
-创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
+发现游戏、与游戏相关的内容、获取推荐，并根据玩家评价比较游戏。
 
-`表单` `清单` `生产力`
+`游戏` `搜索`
 
 ---
 
@@ -356,23 +346,23 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
+### [SEO](https://lobechat.com/discover/plugin/SEO)
 
-<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
+<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
 
-通过 Travelmyth 释放个性化酒店搜索，提供 60 个独特类别，找到完美匹配。
+输入任何 URL 和关键词，获取页面 SEO 分析和见解！
 
-`旅行` `酒店` `搜索`
+`seo`
 
 ---
 
-### [Defillama](https://lobechat.com/discover/plugin/defillama)
+### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
 
-<sup>By **[@onrender](https://llamawrapper-prod.onrender.com)** on **2024-01-22**</sup>
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
 
-检索 DeFi 协议和区块链的数据。
+创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
 
-`加密货币` `去中心化金融`
+`表单` `清单` `生产力`
 
 ---
 
@@ -383,6 +373,16 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 发现在您的社区和更广泛范围内支持的有影响力的非营利组织。
 
 `慈善`
+
+---
+
+### [Defillama](https://lobechat.com/discover/plugin/defillama)
+
+<sup>By **[@onrender](https://llamawrapper-prod.onrender.com)** on **2024-01-22**</sup>
+
+检索 DeFi 协议和区块链的数据。
+
+`加密货币` `去中心化金融`
 
 ---
 
