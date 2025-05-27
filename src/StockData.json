@@ -1,0 +1,15 @@
+{
+  "author": "portfoliometa",
+  "createdAt": "2025-05-27",
+  "homepage": "https://portfoliometa.com",
+  "identifier": "StockData",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/stock-data/manifest.json",
+  "meta": {
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/stock-data/logo.webp",
+    "description": "Analyze stocks and get comprehensive real-time investment data and analytics.",
+    "tags": ["stock"],
+    "title": "PortfolioMeta",
+    "category": "stocks-finance"
+  },
+  "schemaVersion": 1
+}
