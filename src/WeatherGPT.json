@@ -9,7 +9,7 @@
     "description": "Get current weather information for a specific location.",
     "tags": ["weather"],
     "title": "WeatherGPT",
-    "category": "tools"
+    "category": "media-generate"
   },
   "schemaVersion": 1
 }
