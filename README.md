@@ -206,16 +206,6 @@ A plugin to provide current time information
 
 ---
 
-### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
-
-<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
-
-Get real-time worldwide weather updates & forecasts, instantly!
-
-`weather`
-
----
-
 ### [Access Google Sheet](https://lobechat.com/discover/plugin/access_google_sheets)
 
 <sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
@@ -223,36 +213,6 @@ Get real-time worldwide weather updates & forecasts, instantly!
 Ask your Google Sheets questions & chat with excel. Enter Google Drive link to start!
 
 `google` `sheets` `excel`
-
----
-
-### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
-
-<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
-
-A research assistant that returns a set of URI's to examples of fine art requested by user.
-
-`art` `fineart` `search`
-
----
-
-### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
-
-<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
-
-Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!
-
-`podcast` `search`
-
----
-
-### [MixerBox Translate](https://lobechat.com/discover/plugin/MixerBox_Translate_AI_language_tutor)
-
-<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
-
-Translate any language right away! Learn foreign languages easily by conversing with AI tutors!
-
-`translate`
 
 ---
 
@@ -266,23 +226,13 @@ Search for books on Aladin.
 
 ---
 
-### [SEO Assistant](https://lobechat.com/discover/plugin/seo_assistant)
+### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
 
-<sup>By **[@webfx](https://webfx.ai)** on **2024-01-25**</sup>
+<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
 
-The SEO Assistant can generate search engine keyword information in order to aid the creation of content.
+A research assistant that returns a set of URI's to examples of fine art requested by user.
 
-`seo` `keyword`
-
----
-
-### [Check Website Down](https://lobechat.com/discover/plugin/uptime)
-
-<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
-
-Insert your website URL to check the availability. Pulsetic tests the uptime, availability & performance of a website.
-
-`website` `performance` `test`
+`art` `fineart` `search`
 
 ---
 
@@ -296,43 +246,53 @@ Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
 
 ---
 
-### [SEO](https://lobechat.com/discover/plugin/SEO)
+### [Check Website Down](https://lobechat.com/discover/plugin/uptime)
 
-<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
+<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
 
-Enter any URL and keyword and get an On-Page SEO analysis & insights!
+Insert your website URL to check the availability. Pulsetic tests the uptime, availability & performance of a website.
 
-`seo`
-
----
-
-### [Video Captions](https://lobechat.com/discover/plugin/VideoCaptions)
-
-<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
-
-Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.
-
-`video-to-text` `youtube`
+`website` `performance` `test`
 
 ---
 
-### [Video Summary](https://lobechat.com/discover/plugin/Video_summary)
+### [SEO Assistant](https://lobechat.com/discover/plugin/seo_assistant)
 
-<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
+<sup>By **[@webfx](https://webfx.ai)** on **2024-01-25**</sup>
 
-Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
+The SEO Assistant can generate search engine keyword information in order to aid the creation of content.
 
-`video-to-text` `youtube`
+`seo` `keyword`
 
 ---
 
-### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
+### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
 
-<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
+<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
 
-Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
+Get real-time worldwide weather updates & forecasts, instantly!
 
-`forms` `checklists` `productivity`
+`weather`
+
+---
+
+### [MixerBox Translate](https://lobechat.com/discover/plugin/MixerBox_Translate_AI_language_tutor)
+
+<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
+
+Translate any language right away! Learn foreign languages easily by conversing with AI tutors!
+
+`translate`
+
+---
+
+### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
+
+<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
+
+Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!
+
+`podcast` `search`
 
 ---
 
@@ -346,6 +306,16 @@ Get help exploring the scientific literature. Find relevant papers and generate 
 
 ---
 
+### [Video Captions](https://lobechat.com/discover/plugin/VideoCaptions)
+
+<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
+
+Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.
+
+`video-to-text` `youtube`
+
+---
+
 ### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
 
 <sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
@@ -353,6 +323,36 @@ Get help exploring the scientific literature. Find relevant papers and generate 
 Unleash personalized hotel search with Travelmyth, offering 60 unique categories for the perfect match.
 
 `travel` `hotel` `search`
+
+---
+
+### [SEO](https://lobechat.com/discover/plugin/SEO)
+
+<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
+
+Enter any URL and keyword and get an On-Page SEO analysis & insights!
+
+`seo`
+
+---
+
+### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
+
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
+
+Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
+
+`forms` `checklists` `productivity`
+
+---
+
+### [Video Summary](https://lobechat.com/discover/plugin/Video_summary)
+
+<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
+
+Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
+
+`video-to-text` `youtube`
 
 ---
 
@@ -366,16 +366,6 @@ Discover games, game-related content, get recommendations, and compare games bas
 
 ---
 
-### [Change](https://lobechat.com/discover/plugin/nonprofits)
-
-<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
-
-Discover impactful nonprofits to support in your community and beyond.
-
-`charity`
-
----
-
 ### [Defillama](https://lobechat.com/discover/plugin/defillama)
 
 <sup>By **[@onrender](https://llamawrapper-prod.onrender.com)** on **2024-01-22**</sup>
@@ -383,6 +373,16 @@ Discover impactful nonprofits to support in your community and beyond.
 Retrieve data on DeFi protocols and blockchains.
 
 `crypto` `de-fi`
+
+---
+
+### [Change](https://lobechat.com/discover/plugin/nonprofits)
+
+<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
+
+Discover impactful nonprofits to support in your community and beyond.
+
+`charity`
 
 ---
 
@@ -396,26 +396,6 @@ Unleash creativity with Midjourney, effortlessly generating unique AI-driven ima
 
 ---
 
-### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
-
-<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
-
-Dynamically generate and analyze stats and history for OSS repos and developers.
-
-`github` `oss`
-
----
-
-### [Asset Ovi](https://lobechat.com/discover/plugin/assetOvi)
-
-<sup>By **[@assetovi](https://assetovi.com)** on **2024-01-17**</sup>
-
-Search and preview millions of 3D assets for games, AIGC, AR/VR and others.
-
-`3-d` `assets` `search`
-
----
-
 ### [Boolio Invest](https://lobechat.com/discover/plugin/boolio)
 
 <sup>By **[@boolio](https://chatgpt.boolio.co.kr)** on **2024-01-17**</sup>
@@ -423,6 +403,16 @@ Search and preview millions of 3D assets for games, AIGC, AR/VR and others.
 Analyze stock investments from any country, with Boolio's state-of-the-art engine.
 
 `stock` `analyze`
+
+---
+
+### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
+
+<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
+
+Dynamically generate and analyze stats and history for OSS repos and developers.
+
+`github` `oss`
 
 ---
 
