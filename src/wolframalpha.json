@@ -1,0 +1,13 @@
+{
+  "author": "oneshinyboi",
+  "homepage": "https://github.com/oneshinyboi/wolframalpha-lobechat",
+  "identifier": "wolframalpha-lobechat",
+  "locale": "en-US",
+  "manifest": "https://wolfr amalpha-lobechat.veryshiny.net/manifest.json",
+  "meta": {
+    "avatar": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.wolframalpha.com/&size=256",
+    "tags": ["wolfram", "math", "knowledge", "computation"],
+    "title": "Wolfram Alpha",
+    "description": "Query the Wolfram Alpha computational knowledge engine to solve mathematical problems, get scientific data, or answer factual questions."
+  }
+}
