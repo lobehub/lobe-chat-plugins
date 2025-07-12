@@ -206,6 +206,16 @@ A plugin to provide current time information
 
 ---
 
+### [Check Website Down](https://lobechat.com/discover/plugin/uptime)
+
+<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
+
+Insert your website URL to check the availability. Pulsetic tests the uptime, availability & performance of a website.
+
+`website` `performance` `test`
+
+---
+
 ### [Access Google Sheet](https://lobechat.com/discover/plugin/access_google_sheets)
 
 <sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
@@ -216,43 +226,13 @@ Ask your Google Sheets questions & chat with excel. Enter Google Drive link to s
 
 ---
 
-### [AladinBooks](https://lobechat.com/discover/plugin/AladinSearchBooks)
+### [MixerBox Translate](https://lobechat.com/discover/plugin/MixerBox_Translate_AI_language_tutor)
 
-<sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
+<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
 
-Search for books on Aladin.
+Translate any language right away! Learn foreign languages easily by conversing with AI tutors!
 
-`book` `search`
-
----
-
-### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
-
-<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
-
-A research assistant that returns a set of URI's to examples of fine art requested by user.
-
-`art` `fineart` `search`
-
----
-
-### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
-
-<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
-
-Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
-
-`research-paper` `search`
-
----
-
-### [Check Website Down](https://lobechat.com/discover/plugin/uptime)
-
-<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
-
-Insert your website URL to check the availability. Pulsetic tests the uptime, availability & performance of a website.
-
-`website` `performance` `test`
+`translate`
 
 ---
 
@@ -276,16 +256,6 @@ Get real-time worldwide weather updates & forecasts, instantly!
 
 ---
 
-### [MixerBox Translate](https://lobechat.com/discover/plugin/MixerBox_Translate_AI_language_tutor)
-
-<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
-
-Translate any language right away! Learn foreign languages easily by conversing with AI tutors!
-
-`translate`
-
----
-
 ### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
 
 <sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
@@ -296,23 +266,33 @@ Search podcasts easily! Explore podcasts covering society, sports, business, new
 
 ---
 
-### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
+### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
 
-<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
+<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
 
-Get help exploring the scientific literature. Find relevant papers and generate mindmaps of the literature.
+Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
 
-`scientific-literature` `search`
+`research-paper` `search`
 
 ---
 
-### [Video Captions](https://lobechat.com/discover/plugin/VideoCaptions)
+### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
 
-<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
+<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
 
-Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.
+A research assistant that returns a set of URI's to examples of fine art requested by user.
 
-`video-to-text` `youtube`
+`art` `fineart` `search`
+
+---
+
+### [AladinBooks](https://lobechat.com/discover/plugin/AladinSearchBooks)
+
+<sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
+
+Search for books on Aladin.
+
+`book` `search`
 
 ---
 
@@ -336,6 +316,36 @@ Enter any URL and keyword and get an On-Page SEO analysis & insights!
 
 ---
 
+### [GameSight](https://lobechat.com/discover/plugin/GameSight)
+
+<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
+
+Discover games, game-related content, get recommendations, and compare games based on player reviews.
+
+`game` `search`
+
+---
+
+### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
+
+<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
+
+Get help exploring the scientific literature. Find relevant papers and generate mindmaps of the literature.
+
+`scientific-literature` `search`
+
+---
+
+### [Video Captions](https://lobechat.com/discover/plugin/VideoCaptions)
+
+<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
+
+Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.
+
+`video-to-text` `youtube`
+
+---
+
 ### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
 
 <sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
@@ -353,16 +363,6 @@ Create forms, checklists and workflows (we call 'em Quests!) that you can assign
 Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
 
 `video-to-text` `youtube`
-
----
-
-### [GameSight](https://lobechat.com/discover/plugin/GameSight)
-
-<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
-
-Discover games, game-related content, get recommendations, and compare games based on player reviews.
-
-`game` `search`
 
 ---
 
@@ -396,16 +396,6 @@ Unleash creativity with Midjourney, effortlessly generating unique AI-driven ima
 
 ---
 
-### [Boolio Invest](https://lobechat.com/discover/plugin/boolio)
-
-<sup>By **[@boolio](https://chatgpt.boolio.co.kr)** on **2024-01-17**</sup>
-
-Analyze stock investments from any country, with Boolio's state-of-the-art engine.
-
-`stock` `analyze`
-
----
-
 ### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
 
 <sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
@@ -413,6 +403,16 @@ Analyze stock investments from any country, with Boolio's state-of-the-art engin
 Dynamically generate and analyze stats and history for OSS repos and developers.
 
 `github` `oss`
+
+---
+
+### [Boolio Invest](https://lobechat.com/discover/plugin/boolio)
+
+<sup>By **[@boolio](https://chatgpt.boolio.co.kr)** on **2024-01-17**</sup>
+
+Analyze stock investments from any country, with Boolio's state-of-the-art engine.
+
+`stock` `analyze`
 
 ---
 
