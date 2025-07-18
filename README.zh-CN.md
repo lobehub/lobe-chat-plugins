@@ -76,6 +76,16 @@
 
 <!-- AWESOME PLUGINS -->
 
+### [Speak](https://lobechat.com/discover/plugin/speak)
+
+<sup>By **[@speak](https://speak.com)** on **2025-07-18**</sup>
+
+使用 Speak，您的 AI 语言导师，学习如何用另一种语言说任何事情。
+
+`教育` `语言`
+
+---
+
 ### [PortfolioMeta](https://lobechat.com/discover/plugin/StockData)
 
 <sup>By **[@portfoliometa](https://portfoliometa.com)** on **2025-05-27**</sup>

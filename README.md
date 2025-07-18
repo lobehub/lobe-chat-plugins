@@ -76,6 +76,16 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
+### [Speak](https://lobechat.com/discover/plugin/speak)
+
+<sup>By **[@speak](https://speak.com)** on **2025-07-18**</sup>
+
+Learn how to say anything in another language with Speak, your AI-powered language tutor.
+
+`education` `language`
+
+---
+
 ### [PortfolioMeta](https://lobechat.com/discover/plugin/StockData)
 
 <sup>By **[@portfoliometa](https://portfoliometa.com)** on **2025-05-27**</sup>
