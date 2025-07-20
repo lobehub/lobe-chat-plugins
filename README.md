@@ -86,16 +86,6 @@ Learn how to say anything in another language with Speak, your AI-powered langua
 
 ---
 
-### [PortfolioMeta](https://lobechat.com/discover/plugin/StockData)
-
-<sup>By **[@portfoliometa](https://portfoliometa.com)** on **2025-05-27**</sup>
-
-Analyze stocks and get comprehensive real-time investment data and analytics.
-
-`stock`
-
----
-
 ### [Web](https://lobechat.com/discover/plugin/web)
 
 <sup>By **[@Proghit](https://github.com/proghit/lobechat-web-plugin)** on **2025-01-24**</sup>
