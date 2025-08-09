@@ -186,16 +186,6 @@
 
 ---
 
-### [哔哩哔哩](https://lobechat.com/discover/plugin/bilibili)
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
-
-通过关键词视频搜索、回放访问、互动弹幕、热门视频推荐和热搜洞察等功能，深入体验哔哩哔哩丰富的内容，尽在您的指尖。
-
-`视频` `哔哩哔哩` `搜索`
-
----
-
 ### [Steam](https://lobechat.com/discover/plugin/steam)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
@@ -203,6 +193,16 @@
 从 Steam 获取游戏信息和用户评论。
 
 `steam` `game`
+
+---
+
+### [哔哩哔哩](https://lobechat.com/discover/plugin/bilibili)
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
+
+通过关键词视频搜索、回放访问、互动弹幕、热门视频推荐和热搜洞察等功能，深入体验哔哩哔哩丰富的内容，尽在您的指尖。
+
+`视频` `哔哩哔哩` `搜索`
 
 ---
 
@@ -216,23 +216,13 @@
 
 ---
 
-### [检查网站是否宕机](https://lobechat.com/discover/plugin/uptime)
+### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
 
-<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
+<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
 
-插入您的网站 URL 以检查可用性。Pulsetic 测试网站的正常运行时间、可用性和性能。
+轻松搜索播客！探索涵盖社会、体育、商业、新闻、音乐等内容的播客！
 
-`网站` `性能` `测试`
-
----
-
-### [访问 Google 表格](https://lobechat.com/discover/plugin/access_google_sheets)
-
-<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
-
-提出您的 Google 表格问题并与 Excel 进行交流。输入 Google 云端硬盘链接开始！
-
-`google` `sheets` `excel`
+`播客` `搜索`
 
 ---
 
@@ -246,33 +236,23 @@
 
 ---
 
-### [SEO 助手](https://lobechat.com/discover/plugin/seo_assistant)
+### [AladinBooks](https://lobechat.com/discover/plugin/AladinSearchBooks)
 
-<sup>By **[@webfx](https://webfx.ai)** on **2024-01-25**</sup>
+<sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
 
-SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
+在阿拉丁上搜索书籍。
 
-`seo` `关键词`
-
----
-
-### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
-
-<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
-
-立即获取实时全球天气更新和预报！
-
-`weather`
+`书籍` `搜索`
 
 ---
 
-### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
+### [检查网站是否宕机](https://lobechat.com/discover/plugin/uptime)
 
-<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
+<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
 
-轻松搜索播客！探索涵盖社会、体育、商业、新闻、音乐等内容的播客！
+插入您的网站 URL 以检查可用性。Pulsetic 测试网站的正常运行时间、可用性和性能。
 
-`播客` `搜索`
+`网站` `性能` `测试`
 
 ---
 
@@ -286,6 +266,26 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
+### [SEO 助手](https://lobechat.com/discover/plugin/seo_assistant)
+
+<sup>By **[@webfx](https://webfx.ai)** on **2024-01-25**</sup>
+
+SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
+
+`seo` `关键词`
+
+---
+
+### [访问 Google 表格](https://lobechat.com/discover/plugin/access_google_sheets)
+
+<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
+
+提出您的 Google 表格问题并与 Excel 进行交流。输入 Google 云端硬盘链接开始！
+
+`google` `sheets` `excel`
+
+---
+
 ### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
 
 <sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
@@ -296,13 +296,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [AladinBooks](https://lobechat.com/discover/plugin/AladinSearchBooks)
+### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
 
-<sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
+<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
 
-在阿拉丁上搜索书籍。
+立即获取实时全球天气更新和预报！
 
-`书籍` `搜索`
+`weather`
 
 ---
 
@@ -313,6 +313,26 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 通过 Travelmyth 释放个性化酒店搜索，提供 60 个独特类别，找到完美匹配。
 
 `旅行` `酒店` `搜索`
+
+---
+
+### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
+
+<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
+
+获取帮助，探索科学文献。找到相关论文并生成文献思维导图。
+
+`科学文献` `搜索`
+
+---
+
+### [视频摘要](https://lobechat.com/discover/plugin/Video_summary)
+
+<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
+
+总结 YouTube 视频亮点。从 YouTube 视频链接生成摘要。
+
+`视频转文字` `YouTube`
 
 ---
 
@@ -336,13 +356,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
+### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
 
-<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
 
-获取帮助，探索科学文献。找到相关论文并生成文献思维导图。
+创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
 
-`科学文献` `搜索`
+`表单` `清单` `生产力`
 
 ---
 
@@ -356,23 +376,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
+### [Change](https://lobechat.com/discover/plugin/nonprofits)
 
-<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
+<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
 
-创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
+发现在您的社区和更广泛范围内支持的有影响力的非营利组织。
 
-`表单` `清单` `生产力`
-
----
-
-### [视频摘要](https://lobechat.com/discover/plugin/Video_summary)
-
-<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
-
-总结 YouTube 视频亮点。从 YouTube 视频链接生成摘要。
-
-`视频转文字` `YouTube`
+`慈善`
 
 ---
 
@@ -383,16 +393,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 检索 DeFi 协议和区块链的数据。
 
 `加密货币` `去中心化金融`
-
----
-
-### [Change](https://lobechat.com/discover/plugin/nonprofits)
-
-<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
-
-发现在您的社区和更广泛范围内支持的有影响力的非营利组织。
-
-`慈善`
 
 ---
 

@@ -186,16 +186,6 @@ A plugin to manage your calendar events # will auto generate i18n in workflow
 
 ---
 
-### [Bilibili](https://lobechat.com/discover/plugin/bilibili)
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
-
-Dive into Bilibili's vast content with features like keyword video search, replay access, interactive danmaku, trending video recommendations, and hot-search insights, all at your fingertips.
-
-`video` `bilibili` `search`
-
----
-
 ### [Steam](https://lobechat.com/discover/plugin/steam)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
@@ -203,6 +193,16 @@ Dive into Bilibili's vast content with features like keyword video search, repla
 Obtain game information and user reviews from Steam.
 
 `steam` `game`
+
+---
+
+### [Bilibili](https://lobechat.com/discover/plugin/bilibili)
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
+
+Dive into Bilibili's vast content with features like keyword video search, replay access, interactive danmaku, trending video recommendations, and hot-search insights, all at your fingertips.
+
+`video` `bilibili` `search`
 
 ---
 
@@ -216,23 +216,13 @@ A plugin to provide current time information
 
 ---
 
-### [Check Website Down](https://lobechat.com/discover/plugin/uptime)
+### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
 
-<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
+<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
 
-Insert your website URL to check the availability. Pulsetic tests the uptime, availability & performance of a website.
+Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!
 
-`website` `performance` `test`
-
----
-
-### [Access Google Sheet](https://lobechat.com/discover/plugin/access_google_sheets)
-
-<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
-
-Ask your Google Sheets questions & chat with excel. Enter Google Drive link to start!
-
-`google` `sheets` `excel`
+`podcast` `search`
 
 ---
 
@@ -246,33 +236,23 @@ Translate any language right away! Learn foreign languages easily by conversing 
 
 ---
 
-### [SEO Assistant](https://lobechat.com/discover/plugin/seo_assistant)
+### [AladinBooks](https://lobechat.com/discover/plugin/AladinSearchBooks)
 
-<sup>By **[@webfx](https://webfx.ai)** on **2024-01-25**</sup>
+<sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
 
-The SEO Assistant can generate search engine keyword information in order to aid the creation of content.
+Search for books on Aladin.
 
-`seo` `keyword`
-
----
-
-### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
-
-<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
-
-Get real-time worldwide weather updates & forecasts, instantly!
-
-`weather`
+`book` `search`
 
 ---
 
-### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
+### [Check Website Down](https://lobechat.com/discover/plugin/uptime)
 
-<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
+<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
 
-Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!
+Insert your website URL to check the availability. Pulsetic tests the uptime, availability & performance of a website.
 
-`podcast` `search`
+`website` `performance` `test`
 
 ---
 
@@ -286,6 +266,26 @@ Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
 
 ---
 
+### [SEO Assistant](https://lobechat.com/discover/plugin/seo_assistant)
+
+<sup>By **[@webfx](https://webfx.ai)** on **2024-01-25**</sup>
+
+The SEO Assistant can generate search engine keyword information in order to aid the creation of content.
+
+`seo` `keyword`
+
+---
+
+### [Access Google Sheet](https://lobechat.com/discover/plugin/access_google_sheets)
+
+<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
+
+Ask your Google Sheets questions & chat with excel. Enter Google Drive link to start!
+
+`google` `sheets` `excel`
+
+---
+
 ### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
 
 <sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
@@ -296,13 +296,13 @@ A research assistant that returns a set of URI's to examples of fine art request
 
 ---
 
-### [AladinBooks](https://lobechat.com/discover/plugin/AladinSearchBooks)
+### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
 
-<sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
+<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
 
-Search for books on Aladin.
+Get real-time worldwide weather updates & forecasts, instantly!
 
-`book` `search`
+`weather`
 
 ---
 
@@ -313,6 +313,26 @@ Search for books on Aladin.
 Unleash personalized hotel search with Travelmyth, offering 60 unique categories for the perfect match.
 
 `travel` `hotel` `search`
+
+---
+
+### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
+
+<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
+
+Get help exploring the scientific literature. Find relevant papers and generate mindmaps of the literature.
+
+`scientific-literature` `search`
+
+---
+
+### [Video Summary](https://lobechat.com/discover/plugin/Video_summary)
+
+<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
+
+Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
+
+`video-to-text` `youtube`
 
 ---
 
@@ -336,13 +356,13 @@ Discover games, game-related content, get recommendations, and compare games bas
 
 ---
 
-### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
+### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
 
-<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
 
-Get help exploring the scientific literature. Find relevant papers and generate mindmaps of the literature.
+Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
 
-`scientific-literature` `search`
+`forms` `checklists` `productivity`
 
 ---
 
@@ -356,23 +376,13 @@ Convert Youtube links into transcribed text, enable asking questions, create cha
 
 ---
 
-### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
+### [Change](https://lobechat.com/discover/plugin/nonprofits)
 
-<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
+<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
 
-Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
+Discover impactful nonprofits to support in your community and beyond.
 
-`forms` `checklists` `productivity`
-
----
-
-### [Video Summary](https://lobechat.com/discover/plugin/Video_summary)
-
-<sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
-
-Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
-
-`video-to-text` `youtube`
+`charity`
 
 ---
 
@@ -383,16 +393,6 @@ Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
 Retrieve data on DeFi protocols and blockchains.
 
 `crypto` `de-fi`
-
----
-
-### [Change](https://lobechat.com/discover/plugin/nonprofits)
-
-<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
-
-Discover impactful nonprofits to support in your community and beyond.
-
-`charity`
 
 ---
 
