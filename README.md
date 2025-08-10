@@ -86,16 +86,6 @@ Analyze stocks and get comprehensive real-time investment data and analytics.
 
 ---
 
-### [Speak](https://lobechat.com/discover/plugin/speak)
-
-<sup>By **[@speak](https://speak.com)** on **2025-07-18**</sup>
-
-Learn how to say anything in another language with Speak, your AI-powered language tutor.
-
-`education` `language`
-
----
-
 ### [Web](https://lobechat.com/discover/plugin/web)
 
 <sup>By **[@Proghit](https://github.com/proghit/lobechat-web-plugin)** on **2025-01-24**</sup>
