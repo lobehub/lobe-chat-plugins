@@ -176,16 +176,6 @@
 
 ---
 
-### [Steam](https://lobechat.com/discover/plugin/steam)
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
-
-从 Steam 获取游戏信息和用户评论。
-
-`steam` `game`
-
----
-
 ### [哔哩哔哩](https://lobechat.com/discover/plugin/bilibili)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
@@ -193,6 +183,16 @@
 通过关键词视频搜索、回放访问、互动弹幕、热门视频推荐和热搜洞察等功能，深入体验哔哩哔哩丰富的内容，尽在您的指尖。
 
 `视频` `哔哩哔哩` `搜索`
+
+---
+
+### [Steam](https://lobechat.com/discover/plugin/steam)
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
+
+从 Steam 获取游戏信息和用户评论。
+
+`steam` `game`
 
 ---
 
@@ -206,26 +206,6 @@
 
 ---
 
-### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
-
-<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
-
-轻松搜索播客！探索涵盖社会、体育、商业、新闻、音乐等内容的播客！
-
-`播客` `搜索`
-
----
-
-### [MixerBox 翻译](https://lobechat.com/discover/plugin/MixerBox_Translate_AI_language_tutor)
-
-<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
-
-立即翻译任何语言！通过与 AI 导师对话轻松学习外语！
-
-`翻译`
-
----
-
 ### [AladinBooks](https://lobechat.com/discover/plugin/AladinSearchBooks)
 
 <sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
@@ -236,43 +216,13 @@
 
 ---
 
-### [检查网站是否宕机](https://lobechat.com/discover/plugin/uptime)
+### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
 
-<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
+<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
 
-插入您的网站 URL 以检查可用性。Pulsetic 测试网站的正常运行时间、可用性和性能。
+轻松搜索播客！探索涵盖社会、体育、商业、新闻、音乐等内容的播客！
 
-`网站` `性能` `测试`
-
----
-
-### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
-
-<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
-
-搜索 Michael Levin 博士实验室的研究论文和讲话文本。
-
-`研究论文` `搜索`
-
----
-
-### [SEO 助手](https://lobechat.com/discover/plugin/seo_assistant)
-
-<sup>By **[@webfx](https://webfx.ai)** on **2024-01-25**</sup>
-
-SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
-
-`seo` `关键词`
-
----
-
-### [访问 Google 表格](https://lobechat.com/discover/plugin/access_google_sheets)
-
-<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
-
-提出您的 Google 表格问题并与 Excel 进行交流。输入 Google 云端硬盘链接开始！
-
-`google` `sheets` `excel`
+`播客` `搜索`
 
 ---
 
@@ -296,6 +246,56 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
+### [MixerBox 翻译](https://lobechat.com/discover/plugin/MixerBox_Translate_AI_language_tutor)
+
+<sup>By **[@mixerbox](https://translate.mixerbox.com)** on **2024-01-25**</sup>
+
+立即翻译任何语言！通过与 AI 导师对话轻松学习外语！
+
+`翻译`
+
+---
+
+### [访问 Google 表格](https://lobechat.com/discover/plugin/access_google_sheets)
+
+<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
+
+提出您的 Google 表格问题并与 Excel 进行交流。输入 Google 云端硬盘链接开始！
+
+`google` `sheets` `excel`
+
+---
+
+### [SEO 助手](https://lobechat.com/discover/plugin/seo_assistant)
+
+<sup>By **[@webfx](https://webfx.ai)** on **2024-01-25**</sup>
+
+SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
+
+`seo` `关键词`
+
+---
+
+### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
+
+<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
+
+搜索 Michael Levin 博士实验室的研究论文和讲话文本。
+
+`研究论文` `搜索`
+
+---
+
+### [检查网站是否宕机](https://lobechat.com/discover/plugin/uptime)
+
+<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
+
+插入您的网站 URL 以检查可用性。Pulsetic 测试网站的正常运行时间、可用性和性能。
+
+`网站` `性能` `测试`
+
+---
+
 ### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
 
 <sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
@@ -306,13 +306,23 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
+### [SEO](https://lobechat.com/discover/plugin/SEO)
 
-<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
+<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
 
-获取帮助，探索科学文献。找到相关论文并生成文献思维导图。
+输入任何 URL 和关键词，获取页面 SEO 分析和见解！
 
-`科学文献` `搜索`
+`seo`
+
+---
+
+### [视频字幕](https://lobechat.com/discover/plugin/VideoCaptions)
+
+<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
+
+将 Youtube 链接转换为转录文本，使其能够提问，创建章节，并总结其内容。
+
+`视频转文字` `YouTube`
 
 ---
 
@@ -323,16 +333,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 总结 YouTube 视频亮点。从 YouTube 视频链接生成摘要。
 
 `视频转文字` `YouTube`
-
----
-
-### [SEO](https://lobechat.com/discover/plugin/SEO)
-
-<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
-
-输入任何 URL 和关键词，获取页面 SEO 分析和见解！
-
-`seo`
 
 ---
 
@@ -356,23 +356,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [视频字幕](https://lobechat.com/discover/plugin/VideoCaptions)
+### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
 
-<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
+<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
 
-将 Youtube 链接转换为转录文本，使其能够提问，创建章节，并总结其内容。
+获取帮助，探索科学文献。找到相关论文并生成文献思维导图。
 
-`视频转文字` `YouTube`
-
----
-
-### [Change](https://lobechat.com/discover/plugin/nonprofits)
-
-<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
-
-发现在您的社区和更广泛范围内支持的有影响力的非营利组织。
-
-`慈善`
+`科学文献` `搜索`
 
 ---
 
@@ -386,6 +376,16 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
+### [Change](https://lobechat.com/discover/plugin/nonprofits)
+
+<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
+
+发现在您的社区和更广泛范围内支持的有影响力的非营利组织。
+
+`慈善`
+
+---
+
 ### [Midjourney](https://lobechat.com/discover/plugin/midjourney)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-midjourney)** on **2024-01-18**</sup>
@@ -396,16 +396,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
-
-<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
-
-动态生成和分析开源软件仓库和开发者的统计数据和历史记录。
-
-`github` `oss`
-
----
-
 ### [Boolio Invest](https://lobechat.com/discover/plugin/boolio)
 
 <sup>By **[@boolio](https://chatgpt.boolio.co.kr)** on **2024-01-17**</sup>
@@ -413,6 +403,16 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 使用 Boolio 的先进引擎分析来自任何国家的股票投资。
 
 `股票` `分析`
+
+---
+
+### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
+
+<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
+
+动态生成和分析开源软件仓库和开发者的统计数据和历史记录。
+
+`github` `oss`
 
 ---
 
