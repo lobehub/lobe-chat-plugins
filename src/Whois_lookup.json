@@ -1,0 +1,13 @@
+{
+  "author": "Luca Wang",
+  "homepage": "https://github.com/lucayunxiao/Whois-lobechat",
+  "identifier": "Whois_lookup",
+  "locale": "en-US",
+  "manifest": "https://lobechat-whois.vercel.app/manifest.json",
+  "meta": {
+    "avatar": "🕵️‍♀️",
+    "tags": ["Whois", "IP", "Domain"],
+    "title": "Whois_lookup",
+    "description": "A plugin to help you look up whois info based on IP or Domain"
+  }
+}
