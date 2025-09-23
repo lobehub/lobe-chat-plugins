@@ -9,7 +9,7 @@
     "description": "The SEO Assistant can generate search engine keyword information in order to aid the creation of content.",
     "tags": ["seo", "keyword"],
     "title": "SEO Assistant",
-    "category": "web-search"
+    "category": "media-generate"
   },
   "schemaVersion": 1
 }
