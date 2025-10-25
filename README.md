@@ -126,16 +126,6 @@ This plugin uses Alibaba's Tongyi Wanxiang model to generate images based on tex
 
 ---
 
-### [Shopping tools](https://lobechat.com/discover/plugin/ShoppingTools)
-
-<sup>By **[@shoppingtools](https://shoppingtools.biz)** on **2024-07-19**</sup>
-
-Search for products on eBay & AliExpress, find eBay events & coupons. Get prompt examples.
-
-`shopping` `e-bay` `ali-express` `coupons`
-
----
-
 ### [Savvy Trader AI](https://lobechat.com/discover/plugin/savvy_trader_ai)
 
 <sup>By **[@savvytrader](https://savvytrader.com)** on **2024-06-27**</sup>

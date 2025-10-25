@@ -126,16 +126,6 @@
 
 ---
 
-### [购物工具](https://lobechat.com/discover/plugin/ShoppingTools)
-
-<sup>By **[@shoppingtools](https://shoppingtools.biz)** on **2024-07-19**</sup>
-
-在 eBay 和 AliExpress 上搜索产品，查找 eBay 活动和优惠券。获取快速示例。
-
-`购物` `eBay` `AliExpress` `优惠券`
-
----
-
 ### [Savvy Trader AI](https://lobechat.com/discover/plugin/savvy_trader_ai)
 
 <sup>By **[@savvytrader](https://savvytrader.com)** on **2024-06-27**</sup>
