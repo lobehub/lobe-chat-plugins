@@ -76,6 +76,16 @@
 
 <!-- AWESOME PLUGINS -->
 
+### [购物工具](https://lobechat.com/discover/plugin/ShoppingTools)
+
+<sup>By **[@shoppingtools](https://shoppingtools.biz)** on **2025-10-27**</sup>
+
+在 eBay 和 AliExpress 上搜索产品，查找 eBay 活动和优惠券。获取快速示例。
+
+`购物` `eBay` `AliExpress` `优惠券`
+
+---
+
 ### [PortfolioMeta](https://lobechat.com/discover/plugin/StockData)
 
 <sup>By **[@portfoliometa](https://portfoliometa.com)** on **2025-09-27**</sup>

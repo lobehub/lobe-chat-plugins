@@ -76,6 +76,16 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
+### [Shopping tools](https://lobechat.com/discover/plugin/ShoppingTools)
+
+<sup>By **[@shoppingtools](https://shoppingtools.biz)** on **2025-10-27**</sup>
+
+Search for products on eBay & AliExpress, find eBay events & coupons. Get prompt examples.
+
+`shopping` `e-bay` `ali-express` `coupons`
+
+---
+
 ### [PortfolioMeta](https://lobechat.com/discover/plugin/StockData)
 
 <sup>By **[@portfoliometa](https://portfoliometa.com)** on **2025-09-27**</sup>
