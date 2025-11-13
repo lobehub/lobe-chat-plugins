@@ -336,16 +336,6 @@ Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
 
 ---
 
-### [SEO](https://lobechat.com/discover/plugin/SEO)
-
-<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
-
-Enter any URL and keyword and get an On-Page SEO analysis & insights!
-
-`seo`
-
----
-
 ### [GameSight](https://lobechat.com/discover/plugin/GameSight)
 
 <sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>

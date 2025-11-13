@@ -336,16 +336,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [SEO](https://lobechat.com/discover/plugin/SEO)
-
-<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2024-01-23**</sup>
-
-输入任何 URL 和关键词，获取页面 SEO 分析和见解！
-
-`seo`
-
----
-
 ### [GameSight](https://lobechat.com/discover/plugin/GameSight)
 
 <sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
