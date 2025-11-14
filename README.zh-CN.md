@@ -76,6 +76,16 @@
 
 <!-- AWESOME PLUGINS -->
 
+### [SEO](https://lobechat.com/discover/plugin/SEO)
+
+<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2025-11-14**</sup>
+
+输入任何 URL 和关键词，获取页面 SEO 分析和见解！
+
+`seo`
+
+---
+
 ### [购物工具](https://lobechat.com/discover/plugin/ShoppingTools)
 
 <sup>By **[@shoppingtools](https://shoppingtools.biz)** on **2025-10-27**</sup>

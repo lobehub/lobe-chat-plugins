@@ -76,6 +76,16 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
+### [SEO](https://lobechat.com/discover/plugin/SEO)
+
+<sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2025-11-14**</sup>
+
+Enter any URL and keyword and get an On-Page SEO analysis & insights!
+
+`seo`
+
+---
+
 ### [Shopping tools](https://lobechat.com/discover/plugin/ShoppingTools)
 
 <sup>By **[@shoppingtools](https://shoppingtools.biz)** on **2025-10-27**</sup>
