@@ -76,6 +76,16 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
+### [PortfolioMeta](https://lobechat.com/discover/plugin/StockData)
+
+<sup>By **[@portfoliometa](https://portfoliometa.com)** on **2025-11-28**</sup>
+
+Analyze stocks and get comprehensive real-time investment data and analytics.
+
+`stock`
+
+---
+
 ### [SEO](https://lobechat.com/discover/plugin/SEO)
 
 <sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2025-11-14**</sup>
@@ -393,16 +403,6 @@ Unleash creativity with Midjourney, effortlessly generating unique AI-driven ima
 Dynamically generate and analyze stats and history for OSS repos and developers.
 
 `github` `oss`
-
----
-
-### [Boolio Invest](https://lobechat.com/discover/plugin/boolio)
-
-<sup>By **[@boolio](https://chatgpt.boolio.co.kr)** on **2024-01-17**</sup>
-
-Analyze stock investments from any country, with Boolio's state-of-the-art engine.
-
-`stock` `analyze`
 
 ---
 

@@ -76,6 +76,16 @@
 
 <!-- AWESOME PLUGINS -->
 
+### [PortfolioMeta](https://lobechat.com/discover/plugin/StockData)
+
+<sup>By **[@portfoliometa](https://portfoliometa.com)** on **2025-11-28**</sup>
+
+分析股票并获取全面的实时投资数据和分析。
+
+`股票`
+
+---
+
 ### [SEO](https://lobechat.com/discover/plugin/SEO)
 
 <sup>By **[@orrenprunckun](https://seo-plugin.orrenprunckun.com)** on **2025-11-14**</sup>
@@ -393,16 +403,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 动态生成和分析开源软件仓库和开发者的统计数据和历史记录。
 
 `github` `oss`
-
----
-
-### [Boolio Invest](https://lobechat.com/discover/plugin/boolio)
-
-<sup>By **[@boolio](https://chatgpt.boolio.co.kr)** on **2024-01-17**</sup>
-
-使用 Boolio 的先进引擎分析来自任何国家的股票投资。
-
-`股票` `分析`
 
 ---
 
