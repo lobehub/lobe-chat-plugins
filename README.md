@@ -286,16 +286,6 @@ A research assistant that returns a set of URI's to examples of fine art request
 
 ---
 
-### [AladinBooks](https://lobechat.com/discover/plugin/AladinSearchBooks)
-
-<sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
-
-Search for books on Aladin.
-
-`book` `search`
-
----
-
 ### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
 
 <sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>

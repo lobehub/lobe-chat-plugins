@@ -286,16 +286,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [AladinBooks](https://lobechat.com/discover/plugin/AladinSearchBooks)
-
-<sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2024-01-25**</sup>
-
-在阿拉丁上搜索书籍。
-
-`书籍` `搜索`
-
----
-
 ### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
 
 <sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
