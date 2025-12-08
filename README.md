@@ -76,6 +76,16 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
+### [AladinBooks](https://lobechat.com/discover/plugin/AladinSearchBooks)
+
+<sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2025-12-08**</sup>
+
+Search for books on Aladin.
+
+`book` `search`
+
+---
+
 ### [PortfolioMeta](https://lobechat.com/discover/plugin/StockData)
 
 <sup>By **[@portfoliometa](https://portfoliometa.com)** on **2025-11-28**</sup>

@@ -1,0 +1,15 @@
+{
+  "author": "azurewebsites",
+  "createdAt": "2025-12-08",
+  "homepage": "https://aladin-search-book.azurewebsites.net",
+  "identifier": "AladinSearchBooks",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/aladin-search-book/manifest.json",
+  "meta": {
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/aladin-search-book/logo.webp",
+    "description": "Search for books on Aladin.",
+    "tags": ["book", "search"],
+    "title": "AladinBooks",
+    "category": "web-search"
+  },
+  "schemaVersion": 1
+}
