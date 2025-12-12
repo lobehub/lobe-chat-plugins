@@ -316,26 +316,6 @@ Get help exploring the scientific literature. Find relevant papers and generate 
 
 ---
 
-### [Video Captions](https://lobechat.com/discover/plugin/VideoCaptions)
-
-<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
-
-Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.
-
-`video-to-text` `youtube`
-
----
-
-### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
-
-<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
-
-Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
-
-`forms` `checklists` `productivity`
-
----
-
 ### [Video Summary](https://lobechat.com/discover/plugin/Video_summary)
 
 <sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
@@ -396,16 +376,6 @@ Unleash creativity with Midjourney, effortlessly generating unique AI-driven ima
 
 ---
 
-### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
-
-<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
-
-Dynamically generate and analyze stats and history for OSS repos and developers.
-
-`github` `oss`
-
----
-
 ### [TikZJax](https://lobechat.com/discover/plugin/TikZJax)
 
 <sup>By **[@Arvin Xu](https://github.com/arvinxx/lobe-plugin-tikzjax)** on **2024-01-14**</sup>
@@ -423,16 +393,6 @@ Convert LaTeX TikZ code into SVG images for crisp, scalable mathematical diagram
 A mindmap generation assistant
 
 `mindmap`
-
----
-
-### [WeatherGPT](https://lobechat.com/discover/plugin/WeatherGPT)
-
-<sup>By **[@steven-tey](https://github.com/steven-tey/weathergpt)** on **2023-12-16**</sup>
-
-Get current weather information for a specific location.
-
-`weather`
 
 ---
 

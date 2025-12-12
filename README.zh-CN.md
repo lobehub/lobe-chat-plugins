@@ -316,26 +316,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [视频字幕](https://lobechat.com/discover/plugin/VideoCaptions)
-
-<sup>By **[@maila](https://vcaption.maila.ai)** on **2024-01-23**</sup>
-
-将 Youtube 链接转换为转录文本，使其能够提问，创建章节，并总结其内容。
-
-`视频转文字` `YouTube`
-
----
-
-### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
-
-<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2024-01-23**</sup>
-
-创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
-
-`表单` `清单` `生产力`
-
----
-
 ### [视频摘要](https://lobechat.com/discover/plugin/Video_summary)
 
 <sup>By **[@glarity](https://glarity.app)** on **2024-01-23**</sup>
@@ -396,16 +376,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
-
-<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2024-01-17**</sup>
-
-动态生成和分析开源软件仓库和开发者的统计数据和历史记录。
-
-`github` `oss`
-
----
-
 ### [TikZJax](https://lobechat.com/discover/plugin/TikZJax)
 
 <sup>By **[@Arvin Xu](https://github.com/arvinxx/lobe-plugin-tikzjax)** on **2024-01-14**</sup>
@@ -423,16 +393,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 思维导图生成助手
 
 `思维导图` `脑图`
-
----
-
-### [天气 GPT](https://lobechat.com/discover/plugin/WeatherGPT)
-
-<sup>By **[@steven-tey](https://github.com/steven-tey/weathergpt)** on **2023-12-16**</sup>
-
-获取特定位置的当前天气信息。
-
-`天气`
 
 ---
 
