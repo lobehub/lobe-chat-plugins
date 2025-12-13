@@ -76,6 +76,46 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
+### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
+
+<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2025-12-13**</sup>
+
+Dynamically generate and analyze stats and history for OSS repos and developers.
+
+`github` `oss`
+
+---
+
+### [Video Captions](https://lobechat.com/discover/plugin/VideoCaptions)
+
+<sup>By **[@maila](https://vcaption.maila.ai)** on **2025-12-13**</sup>
+
+Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.
+
+`video-to-text` `youtube`
+
+---
+
+### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
+
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2025-12-13**</sup>
+
+Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
+
+`forms` `checklists` `productivity`
+
+---
+
+### [WeatherGPT](https://lobechat.com/discover/plugin/WeatherGPT)
+
+<sup>By **[@steven-tey](https://github.com/steven-tey/weathergpt)** on **2025-12-13**</sup>
+
+Get current weather information for a specific location.
+
+`weather`
+
+---
+
 ### [AladinBooks](https://lobechat.com/discover/plugin/AladinSearchBooks)
 
 <sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2025-12-08**</sup>

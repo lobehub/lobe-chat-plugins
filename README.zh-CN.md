@@ -76,6 +76,46 @@
 
 <!-- AWESOME PLUGINS -->
 
+### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
+
+<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2025-12-13**</sup>
+
+动态生成和分析开源软件仓库和开发者的统计数据和历史记录。
+
+`github` `oss`
+
+---
+
+### [视频字幕](https://lobechat.com/discover/plugin/VideoCaptions)
+
+<sup>By **[@maila](https://vcaption.maila.ai)** on **2025-12-13**</sup>
+
+将 Youtube 链接转换为转录文本，使其能够提问，创建章节，并总结其内容。
+
+`视频转文字` `YouTube`
+
+---
+
+### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
+
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2025-12-13**</sup>
+
+创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
+
+`表单` `清单` `生产力`
+
+---
+
+### [天气 GPT](https://lobechat.com/discover/plugin/WeatherGPT)
+
+<sup>By **[@steven-tey](https://github.com/steven-tey/weathergpt)** on **2025-12-13**</sup>
+
+获取特定位置的当前天气信息。
+
+`天气`
+
+---
+
 ### [AladinBooks](https://lobechat.com/discover/plugin/AladinSearchBooks)
 
 <sup>By **[@azurewebsites](https://aladin-search-book.azurewebsites.net)** on **2025-12-08**</sup>

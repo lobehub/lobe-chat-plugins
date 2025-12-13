@@ -1,0 +1,15 @@
+{
+  "author": "steven-tey",
+  "createdAt": "2025-12-13",
+  "homepage": "https://github.com/steven-tey/weathergpt",
+  "identifier": "WeatherGPT",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/weather-gpt/manifest.json",
+  "meta": {
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/weather-gpt/logo.webp",
+    "description": "Get current weather information for a specific location.",
+    "tags": ["weather"],
+    "title": "WeatherGPT",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
