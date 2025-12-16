@@ -146,16 +146,6 @@ Enter any URL and keyword and get an On-Page SEO analysis & insights!
 
 ---
 
-### [Shopping tools](https://lobechat.com/discover/plugin/ShoppingTools)
-
-<sup>By **[@shoppingtools](https://shoppingtools.biz)** on **2025-10-27**</sup>
-
-Search for products on eBay & AliExpress, find eBay events & coupons. Get prompt examples.
-
-`shopping` `e-bay` `ali-express` `coupons`
-
----
-
 ### [Web](https://lobechat.com/discover/plugin/web)
 
 <sup>By **[@Proghit](https://github.com/proghit/lobechat-web-plugin)** on **2025-01-24**</sup>
@@ -313,16 +303,6 @@ Translate any language right away! Learn foreign languages easily by conversing 
 Ask your Google Sheets questions & chat with excel. Enter Google Drive link to start!
 
 `google` `sheets` `excel`
-
----
-
-### [SEO Assistant](https://lobechat.com/discover/plugin/seo_assistant)
-
-<sup>By **[@webfx](https://webfx.ai)** on **2024-01-25**</sup>
-
-The SEO Assistant can generate search engine keyword information in order to aid the creation of content.
-
-`seo` `keyword`
 
 ---
 

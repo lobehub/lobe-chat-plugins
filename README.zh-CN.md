@@ -146,16 +146,6 @@
 
 ---
 
-### [购物工具](https://lobechat.com/discover/plugin/ShoppingTools)
-
-<sup>By **[@shoppingtools](https://shoppingtools.biz)** on **2025-10-27**</sup>
-
-在 eBay 和 AliExpress 上搜索产品，查找 eBay 活动和优惠券。获取快速示例。
-
-`购物` `eBay` `AliExpress` `优惠券`
-
----
-
 ### [网页](https://lobechat.com/discover/plugin/web)
 
 <sup>By **[@Proghit](https://github.com/proghit/lobechat-web-plugin)** on **2025-01-24**</sup>
@@ -313,16 +303,6 @@
 提出您的 Google 表格问题并与 Excel 进行交流。输入 Google 云端硬盘链接开始！
 
 `google` `sheets` `excel`
-
----
-
-### [SEO 助手](https://lobechat.com/discover/plugin/seo_assistant)
-
-<sup>By **[@webfx](https://webfx.ai)** on **2024-01-25**</sup>
-
-SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
-
-`seo` `关键词`
 
 ---
 
