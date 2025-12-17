@@ -76,6 +76,26 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
+### [SEO Assistant](https://lobechat.com/discover/plugin/seo_assistant)
+
+<sup>By **[@webfx](https://webfx.ai)** on **2025-12-17**</sup>
+
+The SEO Assistant can generate search engine keyword information in order to aid the creation of content.
+
+`seo` `keyword`
+
+---
+
+### [Shopping tools](https://lobechat.com/discover/plugin/ShoppingTools)
+
+<sup>By **[@shoppingtools](https://shoppingtools.biz)** on **2025-12-17**</sup>
+
+Search for products on eBay & AliExpress, find eBay events & coupons. Get prompt examples.
+
+`shopping` `e-bay` `ali-express` `coupons`
+
+---
+
 ### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
 
 <sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2025-12-13**</sup>

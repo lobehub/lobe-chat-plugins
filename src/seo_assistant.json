@@ -1,0 +1,15 @@
+{
+  "author": "webfx",
+  "createdAt": "2025-12-17",
+  "homepage": "https://webfx.ai",
+  "identifier": "seo_assistant",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/seo-assistant/manifest.json",
+  "meta": {
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/seo-assistant/logo.webp",
+    "description": "The SEO Assistant can generate search engine keyword information in order to aid the creation of content.",
+    "tags": ["seo", "keyword"],
+    "title": "SEO Assistant",
+    "category": "media-generate"
+  },
+  "schemaVersion": 1
+}
