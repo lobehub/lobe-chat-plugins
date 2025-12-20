@@ -326,16 +326,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
-
-<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
-
-一个研究助理，返回用户请求的一组艺术品示例的 URI 集合。
-
-`艺术` `美术` `搜索`
-
----
-
 ### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
 
 <sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>

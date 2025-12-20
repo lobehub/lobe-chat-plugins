@@ -326,16 +326,6 @@ Ask your Google Sheets questions & chat with excel. Enter Google Drive link to s
 
 ---
 
-### [SuperStock Fine Art](https://lobechat.com/discover/plugin/ssfineart)
-
-<sup>By **[@azurewebsites](https://gptfineart.azurewebsites.net)** on **2024-01-25**</sup>
-
-A research assistant that returns a set of URI's to examples of fine art requested by user.
-
-`art` `fineart` `search`
-
----
-
 ### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
 
 <sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
