@@ -76,26 +76,6 @@
 
 <!-- AWESOME PLUGINS -->
 
-### [SEO 助手](https://lobechat.com/discover/plugin/seo_assistant)
-
-<sup>By **[@webfx](https://webfx.ai)** on **2025-12-17**</sup>
-
-SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
-
-`seo` `关键词`
-
----
-
-### [购物工具](https://lobechat.com/discover/plugin/ShoppingTools)
-
-<sup>By **[@shoppingtools](https://shoppingtools.biz)** on **2025-12-17**</sup>
-
-在 eBay 和 AliExpress 上搜索产品，查找 eBay 活动和优惠券。获取快速示例。
-
-`购物` `eBay` `AliExpress` `优惠券`
-
----
-
 ### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
 
 <sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2025-12-13**</sup>
