@@ -1,0 +1,15 @@
+{
+  "author": "Chung1912",
+  "createdAt": "2024-09-15",
+  "homepage": "https://github.com/chung1912/lobechat-plugin-fastgpt",
+  "identifier": "fastgpt-dateset-search",
+  "manifest": "https://openai-collections.chat-plugin.lobehub.com/fastgpt/manifest.json",
+  "meta": {
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/fastgpt/logo.webp",
+    "description": "该插件使用FastGPT的知识库",
+    "tags": ["fastgpt", "dataset", "search"],
+    "title": "FastGPT知识库搜索引擎",
+    "category": "web-search"
+  },
+  "schemaVersion": 1
+}
