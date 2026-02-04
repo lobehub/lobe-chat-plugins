@@ -1,0 +1,15 @@
+{
+  "author": "VAP Agent Media",
+  "createdAt": "2026-02-04",
+  "homepage": "https://vapagent.com",
+  "identifier": "vap",
+  "manifest": "https://vapagent.com/mcp/manifest.json",
+  "meta": {
+    "avatar": "🎬",
+    "tags": ["video", "music", "image", "generation", "ai"],
+    "title": "VAP Media Generation",
+    "description": "Generate videos with Veo 3.1, music with Suno V5, and images with Flux 2 Pro. Execution control layer with cost pre-commit and budget guarantees.",
+    "category": "creative"
+  },
+  "schemaVersion": 1
+}
