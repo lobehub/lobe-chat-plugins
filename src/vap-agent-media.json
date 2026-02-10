@@ -1,13 +1,15 @@
 {
   "author": "vapagentmedia",
+  "createdAt": "2026-02-10",
   "homepage": "https://github.com/vapagentmedia/VAP",
   "identifier": "vap-agent-media",
-  "locale": "en-US",
   "manifest": "https://api.vapagent.com/mcp/manifest.json",
   "meta": {
     "avatar": "🎨",
-    "tags": ["image-generation", "video-generation", "music-generation", "ai-media", "stable-diffusion", "replicate", "openai"],
     "title": "VAP Media Generation",
-    "description": "Generate AI images, videos, and music with VAP Media Platform. Powered by Replicate, OpenAI, and more."
-  }
+    "description": "Generate AI images, videos, and music with VAP Media Platform. Powered by Replicate, OpenAI, and more.",
+    "tags": ["image-generation", "video-generation", "music-generation", "ai-media", "stable-diffusion", "replicate", "openai"],
+    "category": "media-generate"
+  },
+  "schemaVersion": 1
 }
