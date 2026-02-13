@@ -1,0 +1,13 @@
+{
+  "author": "VAP Team",
+  "homepage": "https://github.com/vapagentmedia/VAP",
+  "identifier": "vap-execution-control",
+  "locale": "en-US",
+  "manifest": "https://registry.modelcontextprotocol.io/v0.1/servers/vap-e",
+  "meta": {
+    "avatar": "🎯",
+    "tags": ["mcp", "ai", "agent", "cost-control", "execution"],
+    "title": "VAP Execution Control",
+    "description": "Execution Control Layer for AI Agents. Cost limits, retries, ownership for paid APIs."
+  }
+}
