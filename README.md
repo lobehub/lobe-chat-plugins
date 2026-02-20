@@ -106,13 +106,13 @@ Dynamically generate and analyze stats and history for OSS repos and developers.
 
 ---
 
-### [WeatherGPT](https://lobechat.com/discover/plugin/WeatherGPT)
+### [Video Captions](https://lobechat.com/discover/plugin/VideoCaptions)
 
-<sup>By **[@steven-tey](https://github.com/steven-tey/weathergpt)** on **2025-12-13**</sup>
+<sup>By **[@maila](https://vcaption.maila.ai)** on **2025-12-13**</sup>
 
-Get current weather information for a specific location.
+Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.
 
-`weather`
+`video-to-text` `youtube`
 
 ---
 
@@ -126,13 +126,13 @@ Create forms, checklists and workflows (we call 'em Quests!) that you can assign
 
 ---
 
-### [Video Captions](https://lobechat.com/discover/plugin/VideoCaptions)
+### [WeatherGPT](https://lobechat.com/discover/plugin/WeatherGPT)
 
-<sup>By **[@maila](https://vcaption.maila.ai)** on **2025-12-13**</sup>
+<sup>By **[@steven-tey](https://github.com/steven-tey/weathergpt)** on **2025-12-13**</sup>
 
-Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.
+Get current weather information for a specific location.
 
-`video-to-text` `youtube`
+`weather`
 
 ---
 
@@ -246,16 +246,6 @@ A plugin to manage your calendar events # will auto generate i18n in workflow
 
 ---
 
-### [Bilibili](https://lobechat.com/discover/plugin/bilibili)
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
-
-Dive into Bilibili's vast content with features like keyword video search, replay access, interactive danmaku, trending video recommendations, and hot-search insights, all at your fingertips.
-
-`video` `bilibili` `search`
-
----
-
 ### [Steam](https://lobechat.com/discover/plugin/steam)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
@@ -266,6 +256,16 @@ Obtain game information and user reviews from Steam.
 
 ---
 
+### [Bilibili](https://lobechat.com/discover/plugin/bilibili)
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
+
+Dive into Bilibili's vast content with features like keyword video search, replay access, interactive danmaku, trending video recommendations, and hot-search insights, all at your fingertips.
+
+`video` `bilibili` `search`
+
+---
+
 ### [Current Time Assistant](https://lobechat.com/discover/plugin/current-datetime-assistant)
 
 <sup>By **[@cc](https://github.com/ccdanpian/current-datetime)** on **2024-01-26**</sup>
@@ -273,6 +273,26 @@ Obtain game information and user reviews from Steam.
 A plugin to provide current time information
 
 `time`
+
+---
+
+### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
+
+<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
+
+Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
+
+`research-paper` `search`
+
+---
+
+### [Check Website Down](https://lobechat.com/discover/plugin/uptime)
+
+<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
+
+Insert your website URL to check the availability. Pulsetic tests the uptime, availability & performance of a website.
+
+`website` `performance` `test`
 
 ---
 
@@ -296,13 +316,13 @@ Translate any language right away! Learn foreign languages easily by conversing 
 
 ---
 
-### [Check Website Down](https://lobechat.com/discover/plugin/uptime)
+### [Access Google Sheet](https://lobechat.com/discover/plugin/access_google_sheets)
 
-<sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
+<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
 
-Insert your website URL to check the availability. Pulsetic tests the uptime, availability & performance of a website.
+Ask your Google Sheets questions & chat with excel. Enter Google Drive link to start!
 
-`website` `performance` `test`
+`google` `sheets` `excel`
 
 ---
 
@@ -316,23 +336,13 @@ Get real-time worldwide weather updates & forecasts, instantly!
 
 ---
 
-### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
+### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
 
-<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
+<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
 
-Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
+Get help exploring the scientific literature. Find relevant papers and generate mindmaps of the literature.
 
-`research-paper` `search`
-
----
-
-### [Access Google Sheet](https://lobechat.com/discover/plugin/access_google_sheets)
-
-<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
-
-Ask your Google Sheets questions & chat with excel. Enter Google Drive link to start!
-
-`google` `sheets` `excel`
+`scientific-literature` `search`
 
 ---
 
@@ -343,16 +353,6 @@ Ask your Google Sheets questions & chat with excel. Enter Google Drive link to s
 Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
 
 `video-to-text` `youtube`
-
----
-
-### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
-
-<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
-
-Get help exploring the scientific literature. Find relevant papers and generate mindmaps of the literature.
-
-`scientific-literature` `search`
 
 ---
 
@@ -376,16 +376,6 @@ Unleash personalized hotel search with Travelmyth, offering 60 unique categories
 
 ---
 
-### [Change](https://lobechat.com/discover/plugin/nonprofits)
-
-<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
-
-Discover impactful nonprofits to support in your community and beyond.
-
-`charity`
-
----
-
 ### [Defillama](https://lobechat.com/discover/plugin/defillama)
 
 <sup>By **[@onrender](https://llamawrapper-prod.onrender.com)** on **2024-01-22**</sup>
@@ -393,6 +383,16 @@ Discover impactful nonprofits to support in your community and beyond.
 Retrieve data on DeFi protocols and blockchains.
 
 `crypto` `de-fi`
+
+---
+
+### [Change](https://lobechat.com/discover/plugin/nonprofits)
+
+<sup>By **[@getchange](https://api.getchange.io)** on **2024-01-22**</sup>
+
+Discover impactful nonprofits to support in your community and beyond.
+
+`charity`
 
 ---
 
