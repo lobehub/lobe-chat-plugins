@@ -9,7 +9,7 @@
     "description": "Search for products on eBay & AliExpress, find eBay events & coupons. Get prompt examples.",
     "tags": ["shopping", "e-bay", "ali-express", "coupons"],
     "title": "Shopping tools",
-    "category": "tools"
+    "category": "web-search"
   },
   "schemaVersion": 1
 }
