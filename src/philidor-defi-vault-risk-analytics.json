@@ -1,0 +1,14 @@
+{
+  "author": "Philidor Labs",
+  "createdAt": "2026-02-26",
+  "homepage": "https://philidor.io",
+  "identifier": "philidor-defi-vault-risk-analytics",
+  "meta": {
+    "avatar": "https://philidor.io/icon.png",
+    "description": "Search and analyze 700+ DeFi vaults across Morpho, Aave, Spark, Yearn, Beefy, Compound, and Uniswap. Multi-vector risk scoring with Prime/Core/Edge tier classification. No API key needed.",
+    "tags": ["defi", "risk", "vaults", "ethereum", "crypto", "yield"],
+    "title": "Philidor DeFi Vault Risk Analytics",
+    "category": "stocks-finance"
+  },
+  "schemaVersion": 1
+}
