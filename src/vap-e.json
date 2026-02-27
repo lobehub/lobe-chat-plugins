@@ -1,0 +1,15 @@
+{
+  "author": "VAP Agent Media",
+  "createdAt": "2026-02-11",
+  "homepage": "https://github.com/vapagentmedia/VAP",
+  "identifier": "vap-e",
+  "manifest": "https://api.vapagent.com/mcp/manifest.json",
+  "meta": {
+    "avatar": "🎨",
+    "description": "AI image, video & music generation. FLUX, Veo 3.1, Suno V5. Reserve-burn-refund billing with cost limits.",
+    "tags": ["ai", "image-generation", "video-generation", "music-generation", "flux", "veo", "suno"],
+    "title": "VAP Media Generation",
+    "category": "productivity-creativity"
+  },
+  "schemaVersion": 1
+}
