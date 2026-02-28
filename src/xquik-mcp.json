@@ -1,0 +1,14 @@
+{
+  "author": "Xquik",
+  "createdAt": "2026-02-28",
+  "homepage": "https://xquik.com/mcp",
+  "identifier": "xquik-mcp",
+  "meta": {
+    "avatar": "https://raw.githubusercontent.com/Xquik-dev/x-twitter-scraper/master/logo.png",
+    "description": "Real-time X (Twitter) data platform with 22 MCP tools. Monitor accounts, run giveaway draws, extract followers, replies, quotes, and more.",
+    "tags": ["twitter", "x", "social-media", "monitoring", "data-extraction", "mcp"],
+    "title": "Xquik",
+    "category": "social"
+  },
+  "schemaVersion": 1
+}
