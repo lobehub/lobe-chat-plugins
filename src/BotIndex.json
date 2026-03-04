@@ -1,0 +1,14 @@
+{
+  "author": "Cyberweasel777",
+  "homepage": "https://github.com/Cyberweasel777/King-Backend",
+  "identifier": "BotIndex",
+  "manifest": "https://king-backend.fly.dev/.well-known/ai-plugin.json",
+  "meta": {
+    "avatar": "🤖",
+    "tags": ["crypto", "sports-betting", "trading", "x402", "mcp", "ai-agent", "defi"],
+    "title": "BotIndex",
+    "description": "AI-native signal intelligence API — sports odds, crypto correlations, token graduations, DFS optimization, and arbitrage detection. 50 free requests per wallet, then pay-per-request with USDC via x402. No API keys.",
+    "category": "stocks-finance"
+  },
+  "schemaVersion": 1
+}
