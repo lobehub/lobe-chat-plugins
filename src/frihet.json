@@ -1,0 +1,14 @@
+{
+  "author": "BRTHLS",
+  "homepage": "https://github.com/berthelius/frihet-mcp",
+  "identifier": "frihet",
+  "manifest": "https://frihet.io/.well-known/ai-plugin.json",
+  "meta": {
+    "avatar": "⚫",
+    "tags": ["erp", "invoicing", "business", "mcp", "ai", "expenses", "finance"],
+    "title": "Frihet",
+    "description": "AI-native business management — create invoices, track expenses, manage clients, products, and quotes. 31 MCP tools, bilingual EN/ES, 71 countries, 40 currencies. Works with Claude, Cursor, Windsurf, Cline.",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
