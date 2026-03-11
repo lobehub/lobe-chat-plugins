@@ -1,0 +1,12 @@
+{
+  "author": "Previly",
+  "homepage": "https://www.previly.com",
+  "identifier": "previly-finance",
+  "manifest": "https://app.previly.com/mcp",
+  "meta": {
+    "avatar": "💰",
+    "tags": ["finance", "accounting", "tax", "budget", "personal-finance", "mcp"],
+    "title": "Previly - Personal Finance Assistant",
+    "description": "Access personal finance data via MCP: transactions, budgets, patrimoine, recurring payments, cash forecasting, double-entry accounting, and French tax declarations with auto-prefill. 33 tools, OAuth 2.1 auth."
+  }
+}
