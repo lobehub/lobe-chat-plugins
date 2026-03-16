@@ -1,0 +1,14 @@
+{
+  "author": "LetsFG",
+  "homepage": "https://github.com/LetsFG/LetsFG",
+  "identifier": "letsfg",
+  "manifest": "https://api.letsfg.co/.well-known/ai-plugin.json",
+  "meta": {
+    "avatar": "https://api.letsfg.co/static/logo.png",
+    "tags": ["travel", "flights", "hotels", "booking"],
+    "title": "LetsFG",
+    "description": "Search and book flights at real airline prices. 400+ airlines via GDS/NDC, no price bias, no tracking. Direct airline connections.",
+    "category": "lifestyle"
+  },
+  "schemaVersion": 1
+}
