@@ -1,0 +1,16 @@
+{
+  "author": "Chadd Harrison",
+  "createdAt": "2026-03-09",
+  "homepage": "https://github.com/sly-the-fox/sigil",
+  "identifier": "sigil-notary",
+  "locale": "en-US",
+  "manifest": "https://sigil-notary.dev/manifest.json",
+  "meta": {
+    "avatar": "🔏",
+    "tags": ["security", "audit", "trust", "mcp", "agent", "cryptography"],
+    "title": "Sigil Notary",
+    "description": "Tamper-evident, hash-chained audit trails for AI agents with Ed25519 signatures",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
