@@ -1,0 +1,15 @@
+{
+  "author": "Pattyboi101",
+  "createdAt": "2026-02-23",
+  "homepage": "https://github.com/Pattyboi101/indiestack",
+  "identifier": "indiestack",
+  "manifest": "https://indiestack.fly.dev/manifest.json",
+  "meta": {
+    "avatar": "🧱",
+    "tags": ["search", "developer-tools", "indie", "saas", "mcp"],
+    "title": "IndieStack",
+    "description": "Search 130+ indie SaaS tools from your AI coding assistant before it writes code.",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
