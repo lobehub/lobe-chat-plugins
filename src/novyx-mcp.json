@@ -1,0 +1,14 @@
+{
+  "author": "Novyx Labs",
+  "createdAt": "2026-03-19",
+  "homepage": "https://novyxlabs.com",
+  "identifier": "novyx-mcp",
+  "meta": {
+    "avatar": "https://raw.githubusercontent.com/novyxlabs/novyx-mcp/main/icon.png",
+    "description": "Persistent memory for AI agents. 64 MCP tools for remember, recall, rollback, audit, knowledge graph, context spaces, eval, cortex, replay, governed actions, and more. Works locally (SQLite, zero config) or with Novyx Cloud for teams.",
+    "tags": ["memory", "agents", "rollback", "audit", "knowledge-graph", "mcp", "ai-agents", "context-spaces"],
+    "title": "Novyx MCP",
+    "category": "programming"
+  },
+  "schemaVersion": 1
+}
