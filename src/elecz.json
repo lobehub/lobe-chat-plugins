@@ -1,0 +1,14 @@
+{
+  "author": "Sakari Korkia-Aho",
+  "name": "Elecz",
+  "description": "Real-time energy decision signals and spot prices for Finland (FI, SE, NO, DK). Optimized for AI agents and automated logistics.",
+  "identifier": "elecz-energy-signal",
+  "tags": ["energy", "home-automation", "finance", "logistics"],
+  "type": "mcp",
+  "mcpConfig": {
+    "name": "Elecz",
+    "url": "https://elecz-api.onrender.com"
+  },
+  "homepage": "https://elecz.com",
+  "avatar": "⚡"
+}
