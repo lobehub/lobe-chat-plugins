@@ -1,0 +1,19 @@
+{
+  "author": "berthelius",
+  "createdAt": "2026-03-25",
+  "homepage": "https://frihet.io",
+  "identifier": "frihet-erp",
+  "type": "mcp",
+  "mcpConfig": {
+    "name": "Frihet ERP",
+    "url": "https://mcp.frihet.io"
+  },
+  "meta": {
+    "avatar": "💼",
+    "tags": ["erp", "invoicing", "accounting", "tax-compliance", "business-management", "open-banking", "e-invoicing"],
+    "title": "Frihet ERP",
+    "description": "AI-native ERP with 52 tools — invoicing, expenses, clients, products, quotes, accounting, tax compliance (VeriFactu, EN16931 e-invoicing), open banking (6,000+ banks). Remote server with OAuth 2.0. Works with Claude, Cursor, Windsurf, Cline.",
+    "category": "productivity"
+  },
+  "schemaVersion": 1
+}
