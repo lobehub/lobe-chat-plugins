@@ -106,13 +106,13 @@ Dynamically generate and analyze stats and history for OSS repos and developers.
 
 ---
 
-### [WeatherGPT](https://lobechat.com/discover/plugin/WeatherGPT)
+### [Video Captions](https://lobechat.com/discover/plugin/VideoCaptions)
 
-<sup>By **[@steven-tey](https://github.com/steven-tey/weathergpt)** on **2025-12-13**</sup>
+<sup>By **[@maila](https://vcaption.maila.ai)** on **2025-12-13**</sup>
 
-Get current weather information for a specific location.
+Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.
 
-`weather`
+`video-to-text` `youtube`
 
 ---
 
@@ -126,13 +126,13 @@ Create forms, checklists and workflows (we call 'em Quests!) that you can assign
 
 ---
 
-### [Video Captions](https://lobechat.com/discover/plugin/VideoCaptions)
+### [WeatherGPT](https://lobechat.com/discover/plugin/WeatherGPT)
 
-<sup>By **[@maila](https://vcaption.maila.ai)** on **2025-12-13**</sup>
+<sup>By **[@steven-tey](https://github.com/steven-tey/weathergpt)** on **2025-12-13**</sup>
 
-Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.
+Get current weather information for a specific location.
 
-`video-to-text` `youtube`
+`weather`
 
 ---
 
@@ -276,6 +276,36 @@ A plugin to provide current time information
 
 ---
 
+### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
+
+<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
+
+Get real-time worldwide weather updates & forecasts, instantly!
+
+`weather`
+
+---
+
+### [Access Google Sheet](https://lobechat.com/discover/plugin/access_google_sheets)
+
+<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
+
+Ask your Google Sheets questions & chat with excel. Enter Google Drive link to start!
+
+`google` `sheets` `excel`
+
+---
+
+### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
+
+<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
+
+Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
+
+`research-paper` `search`
+
+---
+
 ### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
 
 <sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
@@ -306,33 +336,13 @@ Insert your website URL to check the availability. Pulsetic tests the uptime, av
 
 ---
 
-### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
+### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
 
-<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
+<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
 
-Get real-time worldwide weather updates & forecasts, instantly!
+Get help exploring the scientific literature. Find relevant papers and generate mindmaps of the literature.
 
-`weather`
-
----
-
-### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
-
-<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
-
-Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
-
-`research-paper` `search`
-
----
-
-### [Access Google Sheet](https://lobechat.com/discover/plugin/access_google_sheets)
-
-<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
-
-Ask your Google Sheets questions & chat with excel. Enter Google Drive link to start!
-
-`google` `sheets` `excel`
+`scientific-literature` `search`
 
 ---
 
@@ -346,13 +356,13 @@ Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
 
 ---
 
-### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
+### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
 
-<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
+<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
 
-Get help exploring the scientific literature. Find relevant papers and generate mindmaps of the literature.
+Unleash personalized hotel search with Travelmyth, offering 60 unique categories for the perfect match.
 
-`scientific-literature` `search`
+`travel` `hotel` `search`
 
 ---
 
@@ -363,16 +373,6 @@ Get help exploring the scientific literature. Find relevant papers and generate 
 Discover games, game-related content, get recommendations, and compare games based on player reviews.
 
 `game` `search`
-
----
-
-### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
-
-<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
-
-Unleash personalized hotel search with Travelmyth, offering 60 unique categories for the perfect match.
-
-`travel` `hotel` `search`
 
 ---
 

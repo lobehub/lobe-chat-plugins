@@ -106,13 +106,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [天气 GPT](https://lobechat.com/discover/plugin/WeatherGPT)
+### [视频字幕](https://lobechat.com/discover/plugin/VideoCaptions)
 
-<sup>By **[@steven-tey](https://github.com/steven-tey/weathergpt)** on **2025-12-13**</sup>
+<sup>By **[@maila](https://vcaption.maila.ai)** on **2025-12-13**</sup>
 
-获取特定位置的当前天气信息。
+将 Youtube 链接转换为转录文本，使其能够提问，创建章节，并总结其内容。
 
-`天气`
+`视频转文字` `YouTube`
 
 ---
 
@@ -126,13 +126,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [视频字幕](https://lobechat.com/discover/plugin/VideoCaptions)
+### [天气 GPT](https://lobechat.com/discover/plugin/WeatherGPT)
 
-<sup>By **[@maila](https://vcaption.maila.ai)** on **2025-12-13**</sup>
+<sup>By **[@steven-tey](https://github.com/steven-tey/weathergpt)** on **2025-12-13**</sup>
 
-将 Youtube 链接转换为转录文本，使其能够提问，创建章节，并总结其内容。
+获取特定位置的当前天气信息。
 
-`视频转文字` `YouTube`
+`天气`
 
 ---
 
@@ -276,6 +276,36 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
+### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
+
+<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
+
+立即获取实时全球天气更新和预报！
+
+`weather`
+
+---
+
+### [访问 Google 表格](https://lobechat.com/discover/plugin/access_google_sheets)
+
+<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
+
+提出您的 Google 表格问题并与 Excel 进行交流。输入 Google 云端硬盘链接开始！
+
+`google` `sheets` `excel`
+
+---
+
+### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
+
+<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
+
+搜索 Michael Levin 博士实验室的研究论文和讲话文本。
+
+`研究论文` `搜索`
+
+---
+
 ### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
 
 <sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
@@ -306,33 +336,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
+### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
 
-<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
+<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
 
-立即获取实时全球天气更新和预报！
+获取帮助，探索科学文献。找到相关论文并生成文献思维导图。
 
-`weather`
-
----
-
-### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
-
-<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
-
-搜索 Michael Levin 博士实验室的研究论文和讲话文本。
-
-`研究论文` `搜索`
-
----
-
-### [访问 Google 表格](https://lobechat.com/discover/plugin/access_google_sheets)
-
-<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
-
-提出您的 Google 表格问题并与 Excel 进行交流。输入 Google 云端硬盘链接开始！
-
-`google` `sheets` `excel`
+`科学文献` `搜索`
 
 ---
 
@@ -346,13 +356,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [Litmaps](https://lobechat.com/discover/plugin/litmaps)
+### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
 
-<sup>By **[@litmaps](https://api.litmaps.com)** on **2024-01-23**</sup>
+<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
 
-获取帮助，探索科学文献。找到相关论文并生成文献思维导图。
+通过 Travelmyth 释放个性化酒店搜索，提供 60 个独特类别，找到完美匹配。
 
-`科学文献` `搜索`
+`旅行` `酒店` `搜索`
 
 ---
 
@@ -363,16 +373,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 发现游戏、与游戏相关的内容、获取推荐，并根据玩家评价比较游戏。
 
 `游戏` `搜索`
-
----
-
-### [Travelmyth](https://lobechat.com/discover/plugin/travelmyth)
-
-<sup>By **[@travelmyth](https://www.travelmyth.com)** on **2024-01-23**</sup>
-
-通过 Travelmyth 释放个性化酒店搜索，提供 60 个独特类别，找到完美匹配。
-
-`旅行` `酒店` `搜索`
 
 ---
 
