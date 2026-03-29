@@ -1,0 +1,14 @@
+{
+  "author": "Apollo Intelligence Network",
+  "identifier": "apollo-proxy",
+  "homepage": "https://apolloai.team",
+  "manifest": "https://apolloai.team/.well-known/mcp",
+  "meta": {
+    "title": "Apollo Proxy",
+    "description": "Fetch any URL through residential proxies (190+ countries). Pay-per-use via x402 micropayments.",
+    "avatar": "🌐",
+    "tags": ["proxy", "web-scraping", "x402", "micropayments"],
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
