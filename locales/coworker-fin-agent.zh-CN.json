@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "description": "基于 CoWorker Protocol 的 A 股分析工具。获取任意 A 股的技术分析（60均线、量价关系、月线黄金眼）、LLM 深度研究报告和市场状态摘要。分析逻辑通过 Skill-as-API 保持私有。",
+    "tags": ["股票", "A股", "中国", "金融", "分析", "P2P", "隐私"],
+    "title": "CoWorker 金融研究 Agent — A 股分析"
+  }
+}
