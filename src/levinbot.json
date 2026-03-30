@@ -9,7 +9,7 @@
     "description": "Search research papers and transcripts of talks from Dr. Michael Levin's Lab.",
     "tags": ["research-paper", "search"],
     "title": "LevinBot",
-    "category": "web-search"
+    "category": "science-education"
   },
   "schemaVersion": 1
 }
