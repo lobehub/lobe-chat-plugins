@@ -1,0 +1,15 @@
+{
+  "author": "Humanleap",
+  "createdAt": "2026-03-31",
+  "homepage": "https://toolrouter.com",
+  "identifier": "toolrouter",
+  "manifest": "https://api.toolrouter.com/mcp",
+  "meta": {
+    "avatar": "🔀",
+    "tags": ["mcp", "tools", "seo", "screenshots", "search", "aggregator"],
+    "title": "ToolRouter",
+    "description": "One gateway to 150+ tools for AI agents — SEO, screenshots, web search, image generation, video, security scanning, and more. One API key replaces managing dozens of provider accounts.",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
