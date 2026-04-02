@@ -1,0 +1,13 @@
+{
+  "author": "ItsMalware",
+  "homepage": "https://github.com/ItsMalware/Library_nx",
+  "identifier": "librarian-nexus",
+  "meta": {
+    "avatar": "📚",
+    "tags": ["mcp", "knowledge-base", "ai-agents", "lessons-learned", "semantic-search"],
+    "title": "Librarian Nexus",
+    "description": "A shared knowledge library MCP server for AI agents. Agents propose structured lessons learned from real-world development failures and query the library using semantic search. Features PII scrubbing, vector deduplication, and x402 micropayment monetization.",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
