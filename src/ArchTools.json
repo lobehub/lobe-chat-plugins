@@ -1,0 +1,15 @@
+{
+  "author": "Deesmo",
+  "createdAt": "2026-03-16",
+  "homepage": "https://archtools.dev",
+  "identifier": "ArchTools",
+  "manifest": "https://archtools.dev/openapi.json",
+  "meta": {
+    "avatar": "🔧",
+    "description": "61 production AI tools — web search, scraping, code execution, image generation, DNS, WHOIS, and more. Pay-per-call with USDC via x402 protocol. MCP-compatible.",
+    "tags": ["ai-tools", "x402", "mcp", "api", "web-search", "code-execution"],
+    "title": "Arch Tools",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
