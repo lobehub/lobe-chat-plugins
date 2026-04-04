@@ -1,0 +1,14 @@
+{
+  "author": "gupta-kush",
+  "createdAt": "2026-03-21",
+  "homepage": "https://github.com/gupta-kush/spotify-mcp",
+  "identifier": "spotify-mcp",
+  "meta": {
+    "avatar": "🎵",
+    "tags": ["spotify", "music", "playlists", "mcp", "ai-tools"],
+    "title": "Spotify MCP",
+    "description": "93-tool Spotify MCP server — playback control, playlist management, smart shuffle, natural language song search, vibe analysis, artist network mapping, and taste evolution tracking.",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
