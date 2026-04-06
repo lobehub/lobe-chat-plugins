@@ -1,0 +1,15 @@
+{
+  "author": "Global Chat",
+  "homepage": "https://github.com/pumanitro/global-chat",
+  "identifier": "global-chat",
+  "locale": "en-US",
+  "manifest": "https://global-chat.io/lobechat-manifest.json",
+  "meta": {
+    "avatar": "https://global-chat.io/icon-192.png",
+    "tags": ["ai-agents", "mcp", "agent-discovery", "agents-txt"],
+    "title": "Global Chat",
+    "description": "Search 104,000+ AI agents across 15+ registries. Validate agents.txt files. Compare MCP, A2A, and other agent protocols.",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
