@@ -96,16 +96,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
-
-<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2025-12-13**</sup>
-
-动态生成和分析开源软件仓库和开发者的统计数据和历史记录。
-
-`github` `oss`
-
----
-
 ### [视频字幕](https://lobechat.com/discover/plugin/VideoCaptions)
 
 <sup>By **[@maila](https://vcaption.maila.ai)** on **2025-12-13**</sup>
@@ -116,13 +106,13 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
+### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
 
-<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2025-12-13**</sup>
+<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2025-12-13**</sup>
 
-创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
+动态生成和分析开源软件仓库和开发者的统计数据和历史记录。
 
-`表单` `清单` `生产力`
+`github` `oss`
 
 ---
 
@@ -133,6 +123,16 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 获取特定位置的当前天气信息。
 
 `天气`
+
+---
+
+### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
+
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2025-12-13**</sup>
+
+创建表单、清单和工作流程（我们称之为任务！），您可以分配、安排或公开。
+
+`表单` `清单` `生产力`
 
 ---
 
@@ -246,16 +246,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
-### [哔哩哔哩](https://lobechat.com/discover/plugin/bilibili)
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
-
-通过关键词视频搜索、回放访问、互动弹幕、热门视频推荐和热搜洞察等功能，深入体验哔哩哔哩丰富的内容，尽在您的指尖。
-
-`视频` `哔哩哔哩` `搜索`
-
----
-
 ### [Steam](https://lobechat.com/discover/plugin/steam)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
@@ -266,6 +256,16 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ---
 
+### [哔哩哔哩](https://lobechat.com/discover/plugin/bilibili)
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
+
+通过关键词视频搜索、回放访问、互动弹幕、热门视频推荐和热搜洞察等功能，深入体验哔哩哔哩丰富的内容，尽在您的指尖。
+
+`视频` `哔哩哔哩` `搜索`
+
+---
+
 ### [当前时间助手](https://lobechat.com/discover/plugin/current-datetime-assistant)
 
 <sup>By **[@cc](https://github.com/ccdanpian/current-datetime)** on **2024-01-26**</sup>
@@ -273,46 +273,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 提供当前时间信息的插件
 
 `时间`
-
----
-
-### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
-
-<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
-
-立即获取实时全球天气更新和预报！
-
-`weather`
-
----
-
-### [访问 Google 表格](https://lobechat.com/discover/plugin/access_google_sheets)
-
-<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
-
-提出您的 Google 表格问题并与 Excel 进行交流。输入 Google 云端硬盘链接开始！
-
-`google` `sheets` `excel`
-
----
-
-### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
-
-<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
-
-搜索 Michael Levin 博士实验室的研究论文和讲话文本。
-
-`研究论文` `搜索`
-
----
-
-### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
-
-<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
-
-轻松搜索播客！探索涵盖社会、体育、商业、新闻、音乐等内容的播客！
-
-`播客` `搜索`
 
 ---
 
@@ -333,6 +293,56 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 插入您的网站 URL 以检查可用性。Pulsetic 测试网站的正常运行时间、可用性和性能。
 
 `网站` `性能` `测试`
+
+---
+
+### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
+
+<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
+
+搜索 Michael Levin 博士实验室的研究论文和讲话文本。
+
+`研究论文` `搜索`
+
+---
+
+### [访问 Google 表格](https://lobechat.com/discover/plugin/access_google_sheets)
+
+<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
+
+提出您的 Google 表格问题并与 Excel 进行交流。输入 Google 云端硬盘链接开始！
+
+`google` `sheets` `excel`
+
+---
+
+### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
+
+<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
+
+轻松搜索播客！探索涵盖社会、体育、商业、新闻、音乐等内容的播客！
+
+`播客` `搜索`
+
+---
+
+### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
+
+<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
+
+立即获取实时全球天气更新和预报！
+
+`weather`
+
+---
+
+### [GameSight](https://lobechat.com/discover/plugin/GameSight)
+
+<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
+
+发现游戏、与游戏相关的内容、获取推荐，并根据玩家评价比较游戏。
+
+`游戏` `搜索`
 
 ---
 
@@ -363,16 +373,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 通过 Travelmyth 释放个性化酒店搜索，提供 60 个独特类别，找到完美匹配。
 
 `旅行` `酒店` `搜索`
-
----
-
-### [GameSight](https://lobechat.com/discover/plugin/GameSight)
-
-<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
-
-发现游戏、与游戏相关的内容、获取推荐，并根据玩家评价比较游戏。
-
-`游戏` `搜索`
 
 ---
 

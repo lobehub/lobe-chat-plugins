@@ -96,16 +96,6 @@ Search for products on eBay & AliExpress, find eBay events & coupons. Get prompt
 
 ---
 
-### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
-
-<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2025-12-13**</sup>
-
-Dynamically generate and analyze stats and history for OSS repos and developers.
-
-`github` `oss`
-
----
-
 ### [Video Captions](https://lobechat.com/discover/plugin/VideoCaptions)
 
 <sup>By **[@maila](https://vcaption.maila.ai)** on **2025-12-13**</sup>
@@ -116,13 +106,13 @@ Convert Youtube links into transcribed text, enable asking questions, create cha
 
 ---
 
-### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
+### [Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)
 
-<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2025-12-13**</sup>
+<sup>By **[@yunwei37](https://github.com/yunwei37/ChatGPT-github-stat-plugin)** on **2025-12-13**</sup>
 
-Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
+Dynamically generate and analyze stats and history for OSS repos and developers.
 
-`forms` `checklists` `productivity`
+`github` `oss`
 
 ---
 
@@ -133,6 +123,16 @@ Create forms, checklists and workflows (we call 'em Quests!) that you can assign
 Get current weather information for a specific location.
 
 `weather`
+
+---
+
+### [Questmate Forms](https://lobechat.com/discover/plugin/questmate)
+
+<sup>By **[@questmate](https://chatgpt-plugin.questmate.com)** on **2025-12-13**</sup>
+
+Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.
+
+`forms` `checklists` `productivity`
 
 ---
 
@@ -246,16 +246,6 @@ A plugin to manage your calendar events # will auto generate i18n in workflow
 
 ---
 
-### [Bilibili](https://lobechat.com/discover/plugin/bilibili)
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
-
-Dive into Bilibili's vast content with features like keyword video search, replay access, interactive danmaku, trending video recommendations, and hot-search insights, all at your fingertips.
-
-`video` `bilibili` `search`
-
----
-
 ### [Steam](https://lobechat.com/discover/plugin/steam)
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
@@ -266,6 +256,16 @@ Obtain game information and user reviews from Steam.
 
 ---
 
+### [Bilibili](https://lobechat.com/discover/plugin/bilibili)
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
+
+Dive into Bilibili's vast content with features like keyword video search, replay access, interactive danmaku, trending video recommendations, and hot-search insights, all at your fingertips.
+
+`video` `bilibili` `search`
+
+---
+
 ### [Current Time Assistant](https://lobechat.com/discover/plugin/current-datetime-assistant)
 
 <sup>By **[@cc](https://github.com/ccdanpian/current-datetime)** on **2024-01-26**</sup>
@@ -273,46 +273,6 @@ Obtain game information and user reviews from Steam.
 A plugin to provide current time information
 
 `time`
-
----
-
-### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
-
-<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
-
-Get real-time worldwide weather updates & forecasts, instantly!
-
-`weather`
-
----
-
-### [Access Google Sheet](https://lobechat.com/discover/plugin/access_google_sheets)
-
-<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
-
-Ask your Google Sheets questions & chat with excel. Enter Google Drive link to start!
-
-`google` `sheets` `excel`
-
----
-
-### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
-
-<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
-
-Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
-
-`research-paper` `search`
-
----
-
-### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
-
-<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
-
-Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!
-
-`podcast` `search`
 
 ---
 
@@ -333,6 +293,56 @@ Translate any language right away! Learn foreign languages easily by conversing 
 Insert your website URL to check the availability. Pulsetic tests the uptime, availability & performance of a website.
 
 `website` `performance` `test`
+
+---
+
+### [LevinBot](https://lobechat.com/discover/plugin/levinbot)
+
+<sup>By **[@customplugin](https://levinbot.customplugin.ai)** on **2024-01-25**</sup>
+
+Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
+
+`research-paper` `search`
+
+---
+
+### [Access Google Sheet](https://lobechat.com/discover/plugin/access_google_sheets)
+
+<sup>By **[@accessplugins](https://sheets.accessplugins.com)** on **2024-01-25**</sup>
+
+Ask your Google Sheets questions & chat with excel. Enter Google Drive link to start!
+
+`google` `sheets` `excel`
+
+---
+
+### [MixerBox Podcasts](https://lobechat.com/discover/plugin/MixerBox_Podcasts)
+
+<sup>By **[@mixerbox](https://podcasts.mixerbox.com)** on **2024-01-25**</sup>
+
+Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!
+
+`podcast` `search`
+
+---
+
+### [MixerBox Weather](https://lobechat.com/discover/plugin/MixerBox_Weather)
+
+<sup>By **[@mixerbox](https://weather.mixerbox.com)** on **2024-01-25**</sup>
+
+Get real-time worldwide weather updates & forecasts, instantly!
+
+`weather`
+
+---
+
+### [GameSight](https://lobechat.com/discover/plugin/GameSight)
+
+<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
+
+Discover games, game-related content, get recommendations, and compare games based on player reviews.
+
+`game` `search`
 
 ---
 
@@ -363,16 +373,6 @@ Summarize YouTube video highlights. Generate summaries from YouTube video URLs.
 Unleash personalized hotel search with Travelmyth, offering 60 unique categories for the perfect match.
 
 `travel` `hotel` `search`
-
----
-
-### [GameSight](https://lobechat.com/discover/plugin/GameSight)
-
-<sup>By **[@tapapis](https://openai.tapapis.com)** on **2024-01-23**</sup>
-
-Discover games, game-related content, get recommendations, and compare games based on player reviews.
-
-`game` `search`
 
 ---
 
