@@ -1,0 +1,15 @@
+{
+  "author": "HideText",
+  "createdAt": "2026-04-17",
+  "homepage": "https://www.hidetext.cloud",
+  "identifier": "hidetext-generator",
+  "manifest": "https://www.hidetext.cloud/lobe-plugin/manifest.json",
+  "meta": {
+    "avatar": "🎨",
+    "tags": ["image", "hide-text", "social-media", "anti-detection"],
+    "title": "HideText 隐藏图生成",
+    "description": "将联系方式/关键词隐藏到 AI 艺术图中，人眼可识别但 OCR/AI 难以检测，适用于小红书、抖音、闲鱼等平台引流。免费使用，每天 30 次。",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
