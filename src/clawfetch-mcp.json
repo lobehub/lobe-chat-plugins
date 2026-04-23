@@ -1,0 +1,17 @@
+{
+  "author": "clawfetch",
+  "identifier": "clawfetch-mcp",
+  "homepage": "https://clawfetch.ai",
+  "manifest": "https://mcp.clawfetch.ai/mcp",
+  "meta": {
+    "avatar": "\ud83e\udd9e",
+    "title": "ClawFetch MCP Server",
+    "description": "Fetch pages, render JS SPAs, perform deep multi-source research, and extract structured data from 17+ site types (GitHub, npm, PyPI, Twitter, YouTube, etc).",
+    "tags": [
+      "web-search",
+      "scraping",
+      "research",
+      "data-extraction"
+    ]
+  }
+}
