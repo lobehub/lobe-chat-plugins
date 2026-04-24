@@ -1,0 +1,16 @@
+{
+  "author": "The Polaris Report",
+  "createdAt": "2026-03-14",
+  "homepage": "https://thepolarisreport.com",
+  "identifier": "polaris-news",
+  "locale": "en-US",
+  "manifest": "https://api.thepolarisreport.com/api/v1/mcp",
+  "meta": {
+    "avatar": "🌐",
+    "tags": ["news", "search", "intelligence", "mcp", "research", "briefs"],
+    "title": "Polaris News Intelligence",
+    "description": "Verified, bias-scored intelligence briefs from a global news network. 8 MCP tools for search, feed, extraction, entity tracking, trend analysis, source comparison, and deep research.",
+    "category": "web-search"
+  },
+  "schemaVersion": 1
+}
