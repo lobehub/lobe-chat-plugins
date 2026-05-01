@@ -1,0 +1,14 @@
+{
+  "author": "ZiwayZhao",
+  "createdAt": "2026-03-30",
+  "homepage": "https://github.com/ZiwayZhao/agent-coworker",
+  "identifier": "coworker-fin-agent",
+  "meta": {
+    "avatar": "📊",
+    "description": "A-share stock analysis powered by CoWorker Protocol. Get technical analysis (MA60, volume-price patterns, golden eye), LLM-powered deep research reports, and market state summaries for any Chinese stock. Analysis logic stays private via Skill-as-API.",
+    "tags": ["stock", "a-share", "china", "finance", "analysis", "p2p", "privacy"],
+    "title": "CoWorker Fin-Agent — A-Share Analysis",
+    "category": "stocks-finance"
+  },
+  "schemaVersion": 1
+}
