@@ -1,0 +1,15 @@
+{
+  "author": "AlgoVault Labs",
+  "createdAt": "2025-06-01",
+  "homepage": "https://github.com/AlgoVaultLabs/crypto-quant-signal-mcp",
+  "identifier": "crypto-quant-signal-mcp",
+  "manifest": "https://raw.githubusercontent.com/AlgoVaultLabs/crypto-quant-signal-mcp/main/lobehub-manifest.json",
+  "meta": {
+    "avatar": "📊",
+    "description": "AI trading brain for crypto perps — composite BUY/SELL/HOLD signals, cross-venue funding rate arb scanning, and market regime detection for Hyperliquid perpetuals via MCP.",
+    "tags": ["trading", "crypto", "signals", "defi", "hyperliquid", "quant", "mcp"],
+    "title": "Crypto Quant Signal MCP",
+    "category": "stocks-finance"
+  },
+  "schemaVersion": 1
+}
