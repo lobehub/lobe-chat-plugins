@@ -1,0 +1,15 @@
+{
+  "author": "abhibavishi",
+  "createdAt": "2026-05-16",
+  "homepage": "https://rankparse.com/docs/mcp",
+  "identifier": "rankparse-mcp",
+  "manifest": "https://mcp.rankparse.com/mcp",
+  "meta": {
+    "avatar": "https://rankparse.com/favicon.png",
+    "title": "RankParse SEO API",
+    "description": "SEO data MCP server — backlinks, domain authority, tech stack, referring domains, and 18+ tools powered by Common Crawl.",
+    "tags": ["seo", "backlinks", "domain-authority", "tech-stack", "mcp"],
+    "category": "web-search"
+  },
+  "schemaVersion": 1
+}
