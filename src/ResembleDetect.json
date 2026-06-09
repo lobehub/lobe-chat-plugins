@@ -1,0 +1,12 @@
+{
+  "author": "devshahofficial",
+  "homepage": "https://github.com/devshahofficial/resemble-detect-assets",
+  "identifier": "resemble-detect",
+  "manifest": "https://raw.githubusercontent.com/devshahofficial/resemble-detect-assets/main/manifest.json",
+  "meta": {
+    "avatar": "🛡️",
+    "tags": ["deepfake", "detection", "media-safety", "security"],
+    "title": "Resemble Detect",
+    "description": "Deepfake detection, media intelligence, audio source tracing, and watermark checks for audio, image, and video via Resemble AI."
+  }
+}
