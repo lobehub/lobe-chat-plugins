@@ -8,7 +8,7 @@
     "avatar": "⚡",
     "tags": ["api", "micropayments", "ai", "crypto", "image-generation", "code-execution"],
     "title": "x402engine",
-    "description": "74 pay-per-call APIs for AI agents via HTTP 402 micropayments. 44 LLMs, image/video generation, crypto data, wallet analytics, web search, code execution, TTS, IPFS, and travel.",
+    "description": "Connect agents to 108 x402 pay-per-call APIs: 72 LLMs plus image/video, web, code, crypto, audio, travel, and IPFS. Supports Base, Solana, and MegaETH.",
     "category": "tools"
   },
   "schemaVersion": 1
