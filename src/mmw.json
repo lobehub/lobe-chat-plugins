@@ -1,0 +1,15 @@
+{
+  "author": "msingatullin",
+  "createdAt": "2026-09-23",
+  "homepage": "https://github.com/msingatullin/mmw-mcp",
+  "identifier": "mmw",
+  "manifest": "https://mcp.mmwhub.tech/mcp",
+  "meta": {
+    "avatar": "🧠",
+    "tags": ["memory", "persistent-memory", "mcp", "ai-agents", "search"],
+    "title": "MMW Memory Platform",
+    "description": "Ultra-fast persistent cross-model memory with tenant isolation and semantic search for AI agents",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
