@@ -1,0 +1,22 @@
+{
+  "author": "YantraOS",
+  "createdAt": "2026-10-18",
+  "homepage": "https://github.com/AIYantra/extra",
+  "identifier": "extra-desktop",
+  "meta": {
+    "avatar": "https://raw.githubusercontent.com/AIYantra/extra/main/assets/logo.png",
+    "description": "Sovereign desktop automation and native computer-use engine for AI agents across Linux (Wayland & X11), Windows, and macOS with sub-3ms vision and Model Context Protocol (MCP) support.",
+    "tags": [
+      "computer-use",
+      "mcp",
+      "automation",
+      "desktop",
+      "os",
+      "vision",
+      "tools"
+    ],
+    "title": "Extra Desktop Automation",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
