@@ -1,0 +1,22 @@
+{
+  "author": "Lium",
+  "createdAt": "2026-10-21",
+  "homepage": "https://lium.io",
+  "identifier": "lium-gpu-cloud",
+  "manifest": "https://docs.lium.io/mcp",
+  "meta": {
+    "avatar": "https://lium.io/apple-touch-icon.png",
+    "description": "Remote MCP server for Lium GPU Cloud: search docs, compare live GPU prices, rent and remove GPU pods, list pods and templates, and check balance. 10 tools: search, read_page, search_gpus, get_gpu_prices, rent_pod, list_pods, get_pod, remove_pod, get_balance, list_templates.",
+    "tags": [
+      "mcp",
+      "gpu",
+      "cloud",
+      "compute",
+      "pricing",
+      "devops"
+    ],
+    "title": "Lium GPU Cloud",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
