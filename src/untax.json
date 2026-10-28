@@ -1,0 +1,22 @@
+{
+  "author": "mooshee",
+  "createdAt": "2026-10-26",
+  "homepage": "https://untax.io",
+  "identifier": "untax",
+  "manifest": "https://untax.io/mcp",
+  "meta": {
+    "avatar": "https://untax.io/assets/stickers/sticker_sledgehammer.png",
+    "category": "tools",
+    "description": "Search retained county property assessments, recheck tax-reduction routes, look up official VA facilities and forms, and generate free private Veteran REVIEW/DRAFT PDFs. 20 tools: suggest_addresses, get_property_assessment, recheck_property_opportunities, get_owner_workspace, get_owner_review_details, find_va_facilities, get_va_facility, find_va_forms, get_va_form, start_va_connection, get_va_connection, disconnect_va_connection, review_veteran_requirements, generate_veteran_packet, get_microtransactions_catalog, audit_microtransaction, get_appeal_lifecycle, start_tax_sandbox, get_tax_sandbox_order, complete_tax_sandbox_order. By Moosh Works (mooshworks.com).",
+    "tags": [
+      "mcp",
+      "real-estate",
+      "property-tax",
+      "veterans",
+      "assessments",
+      "research"
+    ],
+    "title": "Untax"
+  },
+  "schemaVersion": 1
+}
