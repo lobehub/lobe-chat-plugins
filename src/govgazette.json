@@ -1,0 +1,22 @@
+{
+  "author": "mooshee",
+  "createdAt": "2026-10-26",
+  "homepage": "https://govgazette.com",
+  "identifier": "govgazette",
+  "manifest": "https://govgazette.com/mcp",
+  "meta": {
+    "avatar": "https://raw.githubusercontent.com/mooshee/govgazette-mcp/main/plugin/assets/mark-512.png",
+    "description": "Research U.S. federal contract opportunities, awards, vendors, and exclusions with dated official-source links. 17 tools: check_exclusions, create_saved_search, delete_saved_search, delete_saved_search_workspace, detail, document, exclusion_changes, exclusion_context, explain_match, freshness, get_saved_search_events, list_saved_searches, research_opportunity, rotate_saved_search_feed, search, search_exclusions, search_opportunities. By Moosh Works (mooshworks.com).",
+    "tags": [
+      "mcp",
+      "government",
+      "procurement",
+      "contracts",
+      "exclusions",
+      "research"
+    ],
+    "title": "GovGazette",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
