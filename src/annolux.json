@@ -1,0 +1,15 @@
+{
+  "author": "Annolux",
+  "createdAt": "2026-08-25",
+  "homepage": "https://annolux.com",
+  "identifier": "annolux",
+  "manifest": "https://annolux.com/.well-known/lobechat/manifest.json",
+  "meta": {
+    "avatar": "https://annolux.com/favicon-96x96.png",
+    "category": "web-search",
+    "description": "Curated English and Chinese technical search API with explicit fetched_at snapshot timestamps for AI agents.",
+    "tags": ["search", "web-search", "rag", "bilingual"],
+    "title": "Annolux Search"
+  },
+  "schemaVersion": 1
+}
