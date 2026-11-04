@@ -1,13 +1,13 @@
 {
-  "author": "your name or org name",
-  "homepage": "https://github.com/OWNER/REPO",
-  "identifier": "plugin-template # same as your filename",
-  "locale": "zh-CN # you can set locale if you use other i18n language, default is en-US",
-  "manifest": "https://url.to/manifest.json",
+  "author": "ez-hq",
+  "homepage": "https://github.com/ez-hq/uni-course-scheduler",
+  "identifier": "uni-course-scheduler",
+  "locale": "en-US",
+  "manifest": "https://raw.githubusercontent.com/ez-hq/uni-course-scheduler/main/manifest.json",
   "meta": {
-    "avatar": "☂️ emoji or logo url",
-    "tags": ["tag1", "tag2", "# will auto generate i18n in workflow"],
-    "title": "plugin en-US title # will auto generate i18n in workflow",
-    "description": "plugin en-US description # will auto generate i18n in workflow"
+    "avatar": "🎓",
+    "tags": ["schedule", "university", "course"],
+    "title": "Uni Course Scheduler",
+    "description": "A course management tool that helps university students plan clash-free schedules, optimize backup options, and navigate high-demand course registration with ease."
   }
 }

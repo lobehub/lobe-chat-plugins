@@ -1,0 +1,20 @@
+{
+  "author": "ez-hq",
+  "homepage": "https://github.com/ez-hq/uni-course-scheduler",
+  "identifier": "uni-course-scheduler",
+  "manifest": "https://raw.githubusercontent.com/ez-hq/uni-course-scheduler/main/manifest.json",
+  "meta": {
+    "avatar": "\ud83c\udf93",
+    "tags": [
+      "university",
+      "course-planner",
+      "timetable",
+      "education",
+      "excel"
+    ],
+    "title": "Uni Course Scheduler",
+    "description": "AI university course planning: analyze catalogs, recommend courses, build conflict-free timetables, export Excel + ICS. Supports US/AU/UK/ECTS/CN credit systems.",
+    "category": "education"
+  },
+  "schemaVersion": 1
+}
