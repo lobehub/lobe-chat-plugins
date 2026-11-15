@@ -1,0 +1,14 @@
+{
+  "author": "ffroliva",
+  "homepage": "https://github.com/ffroliva/gflow-cli",
+  "identifier": "gflow-cli",
+  "manifest": "https://raw.githubusercontent.com/ffroliva/gflow-cli/main/lhm.plugin.json",
+  "meta": {
+    "avatar": "🎬",
+    "tags": ["google-flow", "veo", "imagen", "video-generation", "mcp"],
+    "title": "gflow-cli",
+    "description": "Drive Google Flow from Claude, Cursor, or CLI: generate Google Veo video and Imagen 3 images using your Google Flow subscription credits.",
+    "category": "media-generate"
+  },
+  "schemaVersion": 1
+}
