@@ -1,0 +1,16 @@
+{
+  "author": "electroluxcode",
+  "homepage": "https://github.com/electroluxcode/lobechat-plugin-17track",
+  "identifier": "17track",
+  "manifest": "https://raw.githubusercontent.com/electroluxcode/lobechat-plugin-17track/main/public/manifest.json",
+  "meta": {
+    "avatar": "📦",
+    "tags": [
+      "e-commerce",
+      "logistics",
+      "tracking"
+    ],
+    "title": "17TRACK Order Tracking",
+    "description": "Track cross-border e-commerce parcels across 2900+ carriers via the 17TRACK API"
+  }
+}
