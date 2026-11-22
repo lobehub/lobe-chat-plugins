@@ -1,0 +1,15 @@
+{
+  "author": "AgentDeals",
+  "createdAt": "2026-03-20",
+  "homepage": "https://github.com/robhunter/agentdeals",
+  "identifier": "agentdeals",
+  "manifest": "https://agentdeals-production.up.railway.app/mcp",
+  "meta": {
+    "avatar": "💰",
+    "tags": ["deals", "developer-tools", "infrastructure", "pricing", "free-tier"],
+    "title": "AgentDeals",
+    "description": "Search 1,500+ developer infrastructure deals, compare vendor pricing, plan free-tier stacks, and track pricing changes across 54 categories.",
+    "category": "programming"
+  },
+  "schemaVersion": 1
+}
