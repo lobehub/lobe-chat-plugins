@@ -1,0 +1,14 @@
+{
+  "author": "bubilife1202",
+  "createdAt": "2026-02-20",
+  "homepage": "https://crossfin.dev",
+  "identifier": "crossfin-mcp",
+  "meta": {
+    "avatar": "https://crossfin.dev/favicon.ico",
+    "description": "AI agent access to Asian crypto markets. Korean exchange routing, kimchi premium monitoring, and x402 paid APIs across 9 exchanges.",
+    "tags": ["crypto", "finance", "korea", "mcp", "x402"],
+    "title": "CrossFin",
+    "category": "stocks-finance"
+  },
+  "schemaVersion": 1
+}
