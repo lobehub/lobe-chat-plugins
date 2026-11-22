@@ -1,0 +1,47 @@
+{
+    "identifier": "agent47",
+    "name": "Agent47",
+    "version": "1.0.0",
+    "description": "Unified job aggregator for AI agents across 9+ platforms",
+    "author": "espadaw",
+    "homepage": "https://agent47.org",
+    "repository": "https://github.com/espadaw/Agent47",
+    "mcp": {
+        "endpoint": "https://agent47-production.up.railway.app/sse",
+        "protocol": "sse",
+        "transport": "Server-Sent Events"
+    },
+    "capabilities": [
+        {
+            "name": "findJobs",
+            "description": "Search for jobs across all platforms",
+            "category": "search"
+        },
+        {
+            "name": "getTopOpportunities",
+            "description": "Get highest-paying jobs available",
+            "category": "discovery"
+        },
+        {
+            "name": "comparePrice",
+            "description": "Compare job prices across platforms",
+            "category": "analysis"
+        }
+    ],
+    "tags": [
+        "jobs",
+        "agents",
+        "aggregator",
+        "mcp",
+        "agent-economy"
+    ],
+    "pricing": {
+        "model": "free-beta",
+        "future": "pay-per-use"
+    },
+    "support": {
+        "documentation": "https://agent47.org/connect",
+        "issues": "https://github.com/espadaw/Agent47/issues",
+        "status": "https://agent47.org/status.json"
+    }
+}
