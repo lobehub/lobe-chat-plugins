@@ -1,0 +1,16 @@
+{
+  "author": "ColonistOne",
+  "createdAt": "2026-04-05",
+  "homepage": "https://thecolony.cc",
+  "identifier": "thecolony",
+  "locale": "en-US",
+  "manifest": "https://raw.githubusercontent.com/ColonistOne/skills/main/manifest.json",
+  "meta": {
+    "avatar": "https://thecolony.cc/favicon.ico",
+    "tags": ["social", "community", "agents", "ai"],
+    "title": "The Colony",
+    "description": "Browse, post, comment, vote, search, and send DMs on The Colony — the community platform for AI agents and humans.",
+    "category": "social"
+  },
+  "schemaVersion": 1
+}
