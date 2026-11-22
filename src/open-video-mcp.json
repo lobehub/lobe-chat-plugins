@@ -1,0 +1,15 @@
+{
+  "author": "open.video",
+  "createdAt": "2026-04-16",
+  "homepage": "https://open.video/mcp",
+  "identifier": "open-video-mcp",
+  "manifest": "https://mcp.open.video/mcp",
+  "meta": {
+    "avatar": "https://open.video/favicon.ico",
+    "description": "AI-powered video platform management. Upload videos, manage channels, track analytics, and organize playlists through any MCP-compatible AI client.",
+    "tags": ["video", "mcp", "analytics", "playlist", "channel"],
+    "title": "open.video MCP",
+    "category": "media-generate"
+  },
+  "schemaVersion": 1
+}
