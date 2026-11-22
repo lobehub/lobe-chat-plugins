@@ -1,0 +1,14 @@
+{
+  "author": "operantlabs",
+  "createdAt": "2026-03-25",
+  "homepage": "https://github.com/operantlabs/operant-mcp",
+  "identifier": "operant-mcp",
+  "meta": {
+    "avatar": "🔐",
+    "tags": ["security", "penetration-testing", "network-forensics", "vulnerability-assessment", "mcp"],
+    "title": "operant-mcp",
+    "description": "Security testing MCP server with 51 tools for penetration testing, network forensics, memory analysis, and vulnerability assessment. Includes SQL injection, XSS, SSRF, CSRF, path traversal, PCAP analysis, and more. Install via npx operant-mcp.",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
