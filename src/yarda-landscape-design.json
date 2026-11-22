@@ -1,0 +1,22 @@
+{
+  "author": "yarda-ai",
+  "createdAt": "2026-03-21",
+  "homepage": "https://yarda.ai",
+  "identifier": "yarda-landscape-design",
+  "manifest": "https://raw.githubusercontent.com/thetangstr/Yarda_v5/main/.well-known/lobehub-manifest.json",
+  "meta": {
+    "avatar": "https://yarda.ai/favicon.ico",
+    "description": "Generate professional 2D site plans and photorealistic 3D renderings for any US property address in ~30 seconds. Ideal for homeowners planning yard renovations and landscaping contractors building client proposals.",
+    "tags": [
+      "landscape",
+      "design",
+      "home-improvement",
+      "3d-rendering",
+      "real-estate",
+      "outdoor-living"
+    ],
+    "title": "Yarda — AI Landscape Design",
+    "category": "design"
+  },
+  "schemaVersion": 1
+}
