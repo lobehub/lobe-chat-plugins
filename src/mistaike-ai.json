@@ -1,0 +1,14 @@
+{
+  "author": "mistaike-ai",
+  "createdAt": "2026-03-16",
+  "homepage": "https://mistaike.ai",
+  "identifier": "mistaike-ai",
+  "meta": {
+    "avatar": "https://mistaike.ai/logo.png",
+    "description": "MCP security gateway with DLP scanning, prompt injection protection, Memory Vault, and 295k+ bug-fix patterns. Two endpoints: free read-only (no auth) and authenticated hub with full features.",
+    "tags": ["security", "dlp", "mcp", "bug-patterns", "memory", "prompt-injection"],
+    "title": "mistaike.ai",
+    "category": "programming"
+  },
+  "schemaVersion": 1
+}
