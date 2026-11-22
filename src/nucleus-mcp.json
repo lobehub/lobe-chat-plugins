@@ -1,0 +1,14 @@
+{
+  "author": "eidetic-works",
+  "createdAt": "2026-04-04",
+  "homepage": "https://github.com/eidetic-works/nucleus-mcp",
+  "identifier": "nucleus-mcp",
+  "meta": {
+    "avatar": "🧠",
+    "tags": ["memory", "orchestration", "governance", "ai-agents", "compliance"],
+    "title": "Nucleus MCP",
+    "description": "AI reliability that compounds — 114 MCP tools for persistent memory, task orchestration, governance, compliance, and training pipelines. Install: uvx nucleus-mcp or npx -y nucleus-mcp.",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
