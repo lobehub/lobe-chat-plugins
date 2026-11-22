@@ -1,0 +1,13 @@
+{
+  "author": "VoltAgent",
+  "homepage": "https://github.com/vapagentmedia/VAP",
+  "identifier": "vap",
+  "locale": "en-US",
+  "manifest": "https://api.vapagent.com/openapi.json",
+  "meta": {
+    "avatar": "⚡",
+    "tags": ["image", "video", "music", "generation", "media", "ai"],
+    "title": "VAP - AI Media Generation",
+    "description": "Generate images, videos, and music with AI. Cost-controlled execution layer for media generation with Reserve → Burn → Refund model."
+  }
+}
