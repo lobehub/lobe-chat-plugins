@@ -1,0 +1,20 @@
+{
+  "author": "DeFiRe-business",
+  "homepage": "https://github.com/DeFiRe-business/swapwizard-mcp",
+  "identifier": "swapwizard-mcp",
+  "manifest": "https://mcp.swapwizard.xyz/mcp",
+  "meta": {
+    "avatar": "https://swapwizard.xyz/swap.png",
+    "title": "SwapWizard",
+    "description": "First-party MCP for atomic DeFi execution on 5 EVM chains (Ethereum, BSC, Polygon, Base, Arbitrum). Self-exclusion quoting (clean quote), atomic swap+zap into/out of LP positions, surplus returned in full. Non-custodial.",
+    "tags": [
+      "defi",
+      "swap",
+      "liquidity",
+      "dex-aggregator",
+      "evm"
+    ],
+    "category": "stocks-finance"
+  },
+  "schemaVersion": 1
+}
