@@ -1,0 +1,15 @@
+{
+  "author": "AgentPay",
+  "createdAt": "2026-03-13",
+  "homepage": "https://github.com/lfp22092002-ops/agentpay",
+  "identifier": "agentpay",
+  "manifest": "https://leofundmybot.dev/.well-known/ai-plugin.json",
+  "meta": {
+    "avatar": "💰",
+    "description": "Give your AI agent a wallet. Fund via Telegram Stars or USDC, spend via API, manage multi-chain wallets (Base, Polygon, BNB, Solana), set spending limits, and access x402-gated resources.",
+    "tags": ["payments", "ai-agents", "crypto", "usdc", "x402", "wallet"],
+    "title": "AgentPay",
+    "category": "stocks-finance"
+  },
+  "schemaVersion": 1
+}
