@@ -1,0 +1,15 @@
+{
+  "author": "agentc22",
+  "createdAt": "2026-03-21",
+  "homepage": "https://x402engine.app",
+  "identifier": "x402engine-mcp",
+  "manifest": "https://raw.githubusercontent.com/agentc22/x402engine-mcp/main/lobechat-manifest.json",
+  "meta": {
+    "avatar": "⚡",
+    "tags": ["api", "micropayments", "ai", "crypto", "image-generation", "code-execution"],
+    "title": "x402engine",
+    "description": "Connect agents to 108 x402 pay-per-call APIs: 72 LLMs plus image/video, web, code, crypto, audio, travel, and IPFS. Supports Base, Solana, and MegaETH.",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
