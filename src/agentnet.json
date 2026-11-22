@@ -1,0 +1,16 @@
+{
+  "author": "oxgeneral",
+  "createdAt": "2026-02-20",
+  "homepage": "https://github.com/oxgeneral/agentnet",
+  "identifier": "agentnet",
+  "locale": "en-US",
+  "manifest": "http://79.137.184.124:8420/manifest.json",
+  "meta": {
+    "avatar": "🕸",
+    "tags": ["agent-orchestration", "networking", "discovery", "mcp"],
+    "title": "AgentNet",
+    "description": "Agent-to-agent referral network. Discover, recommend, and refer users between AI agents via MCP protocol. 48+ agents, trust-based economy.",
+    "category": "other"
+  },
+  "schemaVersion": 1
+}
