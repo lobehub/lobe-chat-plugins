@@ -1,0 +1,15 @@
+{
+  "author": "Get Engram",
+  "createdAt": "2026-07-05",
+  "homepage": "https://github.com/get-engram/engram",
+  "identifier": "engram",
+  "manifest": "https://mcp.getengram.app/mcp",
+  "meta": {
+    "avatar": "🧠",
+    "tags": ["memory", "mcp", "search", "conversations"],
+    "title": "Engram",
+    "description": "Persistent memory for AI agents — stores verbatim conversations with semantic search across sessions",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
