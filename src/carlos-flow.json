@@ -1,0 +1,13 @@
+
+{
+  "author": "skyer-now",
+  "homepage": "https://github.com/skyer-now/carlos-flow",
+  "identifier": "carlos-flow",
+  "manifest": "https://raw.githubusercontent.com/skyer-now/carlos-flow/main/.mcp.json",
+  "meta": {
+    "avatar": "https://raw.githubusercontent.com/skyer-now/carlos-flow/main/assets/icon.png",
+    "tags": ["workflow", "guardrails", "testing", "ai-safety", "mcp"],
+    "title": "Carlos Flow",
+    "description": "AI coding guardian and mechanical workflow gate for AI assistants. Provides fail-closed scope enforcement, real verification, and 4KB output protection."
+  }
+}
