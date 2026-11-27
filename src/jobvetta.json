@@ -1,0 +1,15 @@
+{
+  "author": "jobvetta",
+  "createdAt": "2026-11-27",
+  "homepage": "https://www.jobvetta.com/mcp",
+  "identifier": "jobvetta",
+  "manifest": "https://api.jobvetta.com/mcp",
+  "meta": {
+    "avatar": "https://www.jobvetta.com/icon-192.png",
+    "category": "tools",
+    "description": "Search 6.5M+ live verified employer career-site job postings across 242 countries, inspect company hiring velocity signals, and compute P25/median/P75 market salary benchmarks.",
+    "tags": ["mcp", "jobs", "hiring-signals", "salary", "recruiting", "search"],
+    "title": "Jobvetta Jobs & Hiring Signals"
+  },
+  "schemaVersion": 1
+}
