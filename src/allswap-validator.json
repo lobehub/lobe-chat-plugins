@@ -1,0 +1,20 @@
+{
+  "author": "mh185",
+  "homepage": "https://allswap.io/tools/address-validator",
+  "identifier": "allswap-validator",
+  "manifest": "https://raw.githubusercontent.com/mh185/multichain-memo-address-validator/main/manifest.json",
+  "meta": {
+    "avatar": "🔗",
+    "category": "tools",
+    "description": "Validate wallet address syntax, cryptographic checksums (EIP-55, Base58Check, Bech32/Bech32m, CRC16), and mandatory destination Memo/Tag rules across 46+ blockchains (https://allswap.io/tools/address-validator | https://github.com/mh185/multichain-memo-address-validator | https://x.com/allswapio).",
+    "tags": [
+      "crypto",
+      "blockchain",
+      "web3",
+      "defi",
+      "validator"
+    ],
+    "title": "AllSwap 46-Chain Address & Memo Validator"
+  },
+  "schemaVersion": 1
+}
